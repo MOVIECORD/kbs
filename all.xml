@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929081322_234a23e9a6383e2cf6f1285e24e23f7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아파트에 고립된 주민들의 생존기 '해피니스' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163464</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163464</guid>
+            <pubDate>Fri, 01 Oct 2021 08:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163464">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001164001_e3d54a432f72845e33c8c3a3b745423f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163464">아파트에 고립된 주민들의 생존기 '해피니스'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001164001_e3d54a432f72845e33c8c3a3b745423f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['구경이' 이영애 "너 왜 나 아는 척 안 하니?" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163377</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=163377</guid>
@@ -671,21 +688,56 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923091853_36a79597bb11f5892b64842e5fe8c567.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161828</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161828</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">	<span class="img-box hh">
+            <title><![CDATA[홍자-에일리가 재탄생시키는 전율의 무대 '불후의 명곡' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163482</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163482</guid>
+            <pubDate>Fri, 01 Oct 2021 08:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163482">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001165033_344a589e523a8d57e3ecedbdf831d3cf.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163482">홍자-에일리가 재탄생시키는 전율의 무대 '불후의 명곡'</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001165033_344a589e523a8d57e3ecedbdf831d3cf.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['1박 2일' 멤버들의 개성 넘치는 이색 도시락! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163459</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163459</guid>
+            <pubDate>Fri, 01 Oct 2021 08:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163459">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001163607_e0f60136d6d8a4c4efa5057f88b7d048.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163459">'1박 2일' 멤버들의 개성 넘치는 이색 도시락!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001163607_e0f60136d6d8a4c4efa5057f88b7d048.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제작발표회] 국민 아버지와 국민 아들의 만남 '갓파더' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163453</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163453</guid>
+            <pubDate>Fri, 01 Oct 2021 08:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163453">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001163319_9a147e2d1d517ce0bcafb8e064f0b49b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163453">[제작발표회] 국민 아버지와 국민 아들의 만남 '갓파더' </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001163319_9a147e2d1d517ce0bcafb8e064f0b49b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['편스토랑' 이민영의 첫 메뉴 평가 공개! (KBS연예 ─ KBS)]]></title>
@@ -989,60 +1041,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930094322_7eb27741ad9c3e4834420667af8a98d3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박은빈-로운, '연모' 세레나데 커플 포스터 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163190</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163190</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163190">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092605_d5062ec0b44074360c0b042ad1c20e09.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163190">박은빈-로운, '연모' 세레나데 커플 포스터 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092605_d5062ec0b44074360c0b042ad1c20e09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[달리와 감자탕] 김민재, 채권자들의 협박을 받는 위기의 박규영을 구해주는 짜릿한 엔딩 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163195</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163195">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092930_b042a86534c83238c0a7794017b2fbe6_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163195">[달리와 감자탕] 김민재, 채권자들의 협박을 받는 위기의 박규영을 구해주는 짜릿한 엔딩</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092930_b042a86534c83238c0a7794017b2fbe6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[달리와 감자탕] 김민재, 박규영에 대한 걱정이 사라지지 않자 수호천사 자처! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163180</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163180</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163180">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930091818_542bfbd0b108b1417c50d91a58736d94_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163180">[달리와 감자탕] 김민재, 박규영에 대한 걱정이 사라지지 않자 수호천사 자처!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930091818_542bfbd0b108b1417c50d91a58736d94_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
