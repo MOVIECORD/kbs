@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 00:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무쇠팔' 최동원 다큐 '1984 최동원' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164051</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164051</guid>
+            <pubDate>Tue, 05 Oct 2021 00:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164051">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005082059_92397076a975770fd234c0c7539b976c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164051">'무쇠팔' 최동원 다큐 '1984 최동원'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005082059_92397076a975770fd234c0c7539b976c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 정호연, 넷플릭스 프린세스 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163840</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930082611_45cc9d36d1550e8533337d867878b1f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 김선 감독 “사회악, 장르물을 계속 찍을 것이다. 물론, 쌍둥이 형과 함께!” (영화 보이스) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163078</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163078</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163078">	<span class="img-box hh">
+            <title><![CDATA[정해인-지수 , JTBC드라마 '설강화' 12월 방송 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164057</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164057</guid>
+            <pubDate>Tue, 05 Oct 2021 00:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164057">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929165619_93d9f0c6a26ec0b3fc1f45281c9122a3.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005082714_6ee25adad9821bbe429a65e321df59e5.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163078">[인터뷰] 김선 감독 “사회악, 장르물을 계속 찍을 것이다. 물론, 쌍둥이 형과 함께!” (영화 보이스)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164057">정해인-지수 , JTBC드라마 '설강화' 12월 방송</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929165619_93d9f0c6a26ec0b3fc1f45281c9122a3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005082714_6ee25adad9821bbe429a65e321df59e5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["붐이에요"  '끝내주는 연애' 출사표 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164027</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164027</guid>
+            <pubDate>Tue, 05 Oct 2021 00:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164027">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005080527_ed9deb6ada09b475176599033b9b86a5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164027">"붐이에요"  '끝내주는 연애' 출사표 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005080527_ed9deb6ada09b475176599033b9b86a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안효섭 對 공명, ‘마왕 깨어난 밤 무슨 일 있었나?’ (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924130005_e5e55631efc8f933ca46aec6bb199dde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폭탄머리 이영애, 꼬질꼬질  ‘구경이’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162149</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162149</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162149">	<span class="img-box hh">
+            <title><![CDATA[전소민-김윤슬,  SF공포 '희수' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164063</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164063</guid>
+            <pubDate>Tue, 05 Oct 2021 00:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164063">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924104936_a679af44d69b75b256f8e84e531ad216.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005083630_e0030bcefba988dea22e48f39b80d842.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162149">폭탄머리 이영애, 꼬질꼬질  ‘구경이’ </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164063">전소민-김윤슬,  SF공포 '희수'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924104936_a679af44d69b75b256f8e84e531ad216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준호-이세영, 세기의 궁중로맨스 ‘옷소매 붉은 끝동’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162100</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162100</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162100">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924083858_57d3bf3755b5bfa0ede12279aa85adaf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162100">이준호-이세영, 세기의 궁중로맨스 ‘옷소매 붉은 끝동’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924083858_57d3bf3755b5bfa0ede12279aa85adaf.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005083630_e0030bcefba988dea22e48f39b80d842.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['연모' 정재성, '조선 딸 바보' 병조판서 (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004090931_cceefeb2dfc143008b6288e95dd8b5cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차태현-진영-정수정, 열정의 연기 현장 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163594</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163594</guid>
-            <pubDate>Mon, 04 Oct 2021 00:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163594">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002183849_e49799b134774443f704f30042c5c01a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163594">차태현-진영-정수정, 열정의 연기 현장</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B2%BD%EC%B0%B0%EC%88%98%EC%97%85">월화드라마 경찰수업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002183849_e49799b134774443f704f30042c5c01a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
