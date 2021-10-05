@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 07:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 08:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 와이드앵글 상영 단편영화, 네이버 시리즈온 & 유튜브에서 본다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164176</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164176</guid>
+            <pubDate>Tue, 05 Oct 2021 08:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164176">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162217_14f46ddf8b8d995b9f3311fe2bd90137_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164176">[BIFF] 와이드앵글 상영 단편영화, 네이버 시리즈온 &amp; 유튜브에서 본다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162217_14f46ddf8b8d995b9f3311fe2bd90137_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF]  '올해의 아시아영화인상' 임권택 감독 선정 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164167</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164167</guid>
+            <pubDate>Tue, 05 Oct 2021 08:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164167">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005160329_6ea51d3db0a118571c5aea7e6ee63b8a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164167">[BIFF]  '올해의 아시아영화인상' 임권택 감독 선정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005160329_6ea51d3db0a118571c5aea7e6ee63b8a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] F20 "불안은 영혼을 잠식한다“ (홍은미 감독,2021) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164075</link>
@@ -313,40 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163215">[인터뷰] 박해수 “넷플릭스는 박해수에게 보너스 줘야한다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930103927_f9f5638a138f44b91012b12dba8c36df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] KBS독립영화상 심사위원 선정 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163185</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163185</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163185">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092117_efe31f1d55ab8f080c8e9572b990f9dd.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163185">[BIFF] KBS독립영화상 심사위원 선정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930092117_efe31f1d55ab8f080c8e9572b990f9dd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 크레이 라스트 미션, '007 노 타임 투 다이' 개봉 첫날 10만 관객 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163146</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163146</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163146">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930083623_0a054f3aaf5fc2ff3191e58011e23c29.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163146">다니엘 크레이 라스트 미션, '007 노 타임 투 다이' 개봉 첫날 10만 관객</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930083623_0a054f3aaf5fc2ff3191e58011e23c29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크랙실버, '슈퍼밴드2' 최종 1위  "응원과 사랑에 보답하는 뮤지션 될 것" (KBS연예 ─ TVs)]]></title>
@@ -689,6 +689,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926083748_824bedf3da3c427e63b13cccbcd7ab03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한다감이 간다 ‘국가대표 와이프’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164181</guid>
+            <pubDate>Tue, 05 Oct 2021 08:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">한다감이 간다 ‘국가대표 와이프’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%20%EC%99%80%EC%9D%B4%ED%94%84">일일연속극 국가대표 와이프</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진영-정수정 재회?  '경찰수업' 오늘 밤 최종회 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164162</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164162</guid>
@@ -1029,24 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%20%EC%99%80%EC%9D%B4%ED%94%84">일일연속극 국가대표 와이프</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004095709_9c929237eff173bf90d24276e5c56fe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['침울한 장례식장' 혼란에 빠진 경찰대학교 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163818</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163818</guid>
-            <pubDate>Mon, 04 Oct 2021 00:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163818">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004091139_b4f17ac79744eb0a2c31c4b2181c8f4d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163818">'침울한 장례식장' 혼란에 빠진 경찰대학교</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B2%BD%EC%B0%B0%EC%88%98%EC%97%85">월화드라마 경찰수업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004091139_b4f17ac79744eb0a2c31c4b2181c8f4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
