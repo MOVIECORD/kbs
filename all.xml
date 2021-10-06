@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 22:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 23:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 노 타임 투 다이 ‘킬러의 연인, 킬러의 딸, 그리고 킬러’ (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164433</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164433</guid>
+            <pubDate>Wed, 06 Oct 2021 23:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164433">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006174006_d98b9a8cbfbde36e61e99061ddd05ff7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164433">[리뷰] 노 타임 투 다이 ‘킬러의 연인, 킬러의 딸, 그리고 킬러’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006174006_d98b9a8cbfbde36e61e99061ddd05ff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF현장] 개막 앞둔 부산국제영화제, 그 현장 속으로! (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164441</link>
@@ -332,21 +349,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002114516_528af2c36b67d34e1c10b24535e155ee_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정진운, 영화 '브라더' 위장 잠입 형사로 변신 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163431</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163431</guid>
-            <pubDate>Fri, 01 Oct 2021 07:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163431">	<span class="img-box hh">
+            <title><![CDATA['구경이' 김혜준,  해맑은 학생 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164399</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164399</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164399">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001151822_3e462dbea1a761d5a537a02e548516d6.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006132330_90a4062d836305a55f8d526f93b13d8d.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163431">정진운, 영화 '브라더' 위장 잠입 형사로 변신</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164399">'구경이' 김혜준,  해맑은 학생</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001151822_3e462dbea1a761d5a537a02e548516d6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006132330_90a4062d836305a55f8d526f93b13d8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["송혜교, 돌아오는 중입니다"  SBS드라마 ‘지금, 헤어지는 중입니다’ (KBS연예 ─ TVs)]]></title>
@@ -672,21 +689,94 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927092051_7bc4ea8e1ba1f2ca959e7491fde3b211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김유정의 위기, 공명이 나선다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162460</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162460</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162460">	<span class="img-box hh">
+            <title><![CDATA['연모' 비밀스러운 궁중로맨스 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164466</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164466</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164466">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926204239_70289a0f43117536cd2af779d5626bf0.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007075448_4302e048daab2a7191831836df9482d1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162460">김유정의 위기, 공명이 나선다</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164466">'연모' 비밀스러운 궁중로맨스</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926204239_70289a0f43117536cd2af779d5626bf0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007075448_4302e048daab2a7191831836df9482d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 김민희, 숨겨둔 가창력을 뽐내며 사선녀를 위한 공연 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164462</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164462</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164462">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007075347_ea10006207f1f51bd3dd88bbea1b017b_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164462">[박원숙의 같이 삽시다 시즌3] 김민희, 숨겨둔 가창력을 뽐내며 사선녀를 위한 공연</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007075347_ea10006207f1f51bd3dd88bbea1b017b_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 김민희, 박원숙에 “연기 과외 한번 시켜주세요” 부탁 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164455</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164455</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164455">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007074550_3956e02896cdd19f71c468ad32f8b1ac_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164455">[박원숙의 같이 삽시다 시즌3] 김민희, 박원숙에 “연기 과외 한번 시켜주세요” 부탁</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007074550_3956e02896cdd19f71c468ad32f8b1ac_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 아역 시절 김민희, 촬영 중 호흡곤란이? 평생 트라우마! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164451</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164451</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164451">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007073531_d82881aeb60b937cacba8f374abc3085.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164451">[박원숙의 같이 삽시다 시즌3] 아역 시절 김민희, 촬영 중 호흡곤란이? 평생 트라우마!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007073531_d82881aeb60b937cacba8f374abc3085.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] ‘똑순이’ 김민희, 국민 아역의 잔혹한 과거 고백! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164447</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164447</guid>
+            <pubDate>Wed, 06 Oct 2021 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164447">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007072559_d09288e9342c385010f4d49704675cd5_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164447">[박원숙의 같이 삽시다 시즌3] ‘똑순이’ 김민희, 국민 아역의 잔혹한 과거 고백! </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007072559_d09288e9342c385010f4d49704675cd5_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김민재-박규영, 팽팽한 대치 (KBS연예 ─ KBS)]]></title>
@@ -957,96 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005213611_a86d746d630d06ce532fdc9c89a3869c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노래가 좋아] 나한테서 이런 아들이?! 음치 아빠 대신 가수 꿈 등반 중인 실력자 아들 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164223</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164223</guid>
-            <pubDate>Tue, 05 Oct 2021 13:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164223">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005213336_44d7eb958fddbd527cad224735923225_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164223">[노래가 좋아] 나한테서 이런 아들이?! 음치 아빠 대신 가수 꿈 등반 중인 실력자 아들</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005213336_44d7eb958fddbd527cad224735923225_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한다감이 간다 ‘국가대표 와이프’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164181</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164181</guid>
-            <pubDate>Tue, 05 Oct 2021 08:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">한다감이 간다 ‘국가대표 와이프’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%20%EC%99%80%EC%9D%B4%ED%94%84">일일연속극 국가대표 와이프</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진영-정수정 재회?  '경찰수업' 오늘 밤 최종회 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164162</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164162</guid>
-            <pubDate>Tue, 05 Oct 2021 07:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164162">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005152325_4fc2784829013cac476c8c31bb80ef48.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164162">진영-정수정 재회?  '경찰수업' 오늘 밤 최종회</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B2%BD%EC%B0%B0%EC%88%98%EC%97%85">월화드라마 경찰수업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005152325_4fc2784829013cac476c8c31bb80ef48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소민-김윤슬,  SF공포 '희수' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164063</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164063</guid>
-            <pubDate>Tue, 05 Oct 2021 00:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164063">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005083630_e0030bcefba988dea22e48f39b80d842.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164063">전소민-김윤슬,  SF공포 '희수'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005083630_e0030bcefba988dea22e48f39b80d842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연모' 정재성, '조선 딸 바보' 병조판서 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164019</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164019</guid>
-            <pubDate>Mon, 04 Oct 2021 23:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164019">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005080050_19afb72ea1202ffdc125f65431650881.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164019">'연모' 정재성, '조선 딸 바보' 병조판서</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005080050_19afb72ea1202ffdc125f65431650881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
