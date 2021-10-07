@@ -4,9 +4,44 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 23:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 00:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['썰바이벌' 조충현♥김민정 아나운서]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164472</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164472</guid>
+            <pubDate>Thu, 07 Oct 2021 00:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164472">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007080503_868416b9fdb43c909a9c3076b713e9e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164472">'썰바이벌' 조충현♥김민정 아나운서</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007080503_868416b9fdb43c909a9c3076b713e9e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[달리와 감자탕] 김민재, 박규영을 향한 커져가는 마음에 ‘굿나잇’ 전화!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164482</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164482</guid>
+            <pubDate>Thu, 07 Oct 2021 00:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164482">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007081905_0e32f8e98eaff0bac8c7b072bd617b35.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164482">[달리와 감자탕] 김민재, 박규영을 향한 커져가는 마음에 ‘굿나잇’ 전화! </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007081905_0e32f8e98eaff0bac8c7b072bd617b35.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['연모' 비밀스러운 궁중로맨스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164466</link>
@@ -330,42 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005222232_6f375b1b43a4163e7a8f34098f8b0431_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노래가 좋아] 똑같이 생긴 일란성 쌍둥이 자매의 당돌한 말빨 디스전]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164233</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164233</guid>
-            <pubDate>Tue, 05 Oct 2021 13:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164233">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005220817_ec2d76c22021d61e985958156098af8b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164233">[노래가 좋아] 똑같이 생긴 일란성 쌍둥이 자매의 당돌한 말빨 디스전</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005220817_ec2d76c22021d61e985958156098af8b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노래가 좋아] 장윤정 동공지진~ 단 한 소절로 음치 능력(?) 인정받은 아버지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164228</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164228</guid>
-            <pubDate>Tue, 05 Oct 2021 13:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164228">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005213611_a86d746d630d06ce532fdc9c89a3869c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164228">[노래가 좋아] 장윤정 동공지진~ 단 한 소절로 음치 능력(?) 인정받은 아버지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005213611_a86d746d630d06ce532fdc9c89a3869c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
