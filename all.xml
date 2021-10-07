@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 01:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 송중기-박소담이 연 부산국제영화제, 화려한 개막! (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164558</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164558</guid>
+            <pubDate>Thu, 07 Oct 2021 01:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164558">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007100234_2a7608f52603b6fa299e9a112ad39090.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164558">[BIFF] 송중기-박소담이 연 부산국제영화제, 화려한 개막!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007100234_2a7608f52603b6fa299e9a112ad39090.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 강길우-우지현, 부산국제영화제 레드카펫 장식한 독립영화의 얼굴 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164510</link>
@@ -332,21 +349,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004110532_1d770e131d2634c15aba29ba814c58c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 '스위트홈' '무브 투 헤븐'  AACA 노미네이트 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163823</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163823</guid>
-            <pubDate>Mon, 04 Oct 2021 01:55:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163823">	<span class="img-box hh">
+            <title><![CDATA[노희경X김규태 ‘우리들의 블루스’  역대급 캐스팅, 이병헌 신민아 차승원 이정은 한지민 김우빈 엄정화 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164570</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164570</guid>
+            <pubDate>Thu, 07 Oct 2021 01:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164570">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004092026_7fb698326fa85f1b62781817982db712.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007100946_790cc3d27652a064f70ff4c79fcb09d0.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163823">넷플릭스 '스위트홈' '무브 투 헤븐'  AACA 노미네이트</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164570">노희경X김규태 ‘우리들의 블루스’  역대급 캐스팅, 이병헌 신민아 차승원 이정은 한지민 김우빈 엄정화 </a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004092026_7fb698326fa85f1b62781817982db712.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007100946_790cc3d27652a064f70ff4c79fcb09d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구경이' 김혜준,  해맑은 학생 (KBS연예 ─ TVs)]]></title>
@@ -672,23 +689,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927131854_d2c3bc27c4c095bc05da212865d58d44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['인간실격' 류준열, 마음의 위로 전하는 호연 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162542</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162542</guid>
-            <pubDate>Fri, 01 Oct 2021 01:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162542">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927092051_7bc4ea8e1ba1f2ca959e7491fde3b211.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162542">'인간실격' 류준열, 마음의 위로 전하는 호연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927092051_7bc4ea8e1ba1f2ca959e7491fde3b211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['썰바이벌' 조충현♥김민정 아나운서 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164472</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164472</guid>
@@ -908,7 +908,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164273</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164273</guid>
             <pubDate>Tue, 05 Oct 2021 16:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164273">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164273">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006003334_d0a243525f033f289b44a4c48142c801_1.png" alt="대체 텍스트">
@@ -944,7 +944,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164263</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164263</guid>
             <pubDate>Tue, 05 Oct 2021 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164263">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164263">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006001133_523878f00b89c1962258c98568b23d70_1.png" alt="대체 텍스트">
@@ -962,7 +962,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164258</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164258</guid>
             <pubDate>Tue, 05 Oct 2021 14:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164258">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164258">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005231327_0640e625ea6f0076efaecac1f112fbe9_1.png" alt="대체 텍스트">
@@ -980,7 +980,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164253</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164253</guid>
             <pubDate>Tue, 05 Oct 2021 14:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164253">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164253">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005230940_c1847cc878d99f90888e13ea7246a7e7_1.png" alt="대체 텍스트">
@@ -998,7 +998,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164248</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164248</guid>
             <pubDate>Tue, 05 Oct 2021 14:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164248">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164248">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005225948_0f2d0d581db4ef40519e4d72c21e1e91_1.png" alt="대체 텍스트">
@@ -1016,7 +1016,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164243</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164243</guid>
             <pubDate>Tue, 05 Oct 2021 14:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164243">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164243">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005225552_800ade09992641a61b1bc2a8eb03b217_1.png" alt="대체 텍스트">
@@ -1034,7 +1034,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164238</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=164238</guid>
             <pubDate>Tue, 05 Oct 2021 14:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164238">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164238">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005222232_6f375b1b43a4163e7a8f34098f8b0431_1.png" alt="대체 텍스트">
