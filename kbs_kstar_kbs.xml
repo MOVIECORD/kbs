@@ -4,7 +4,7 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 03:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 04:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=165077</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=165077</guid>
             <pubDate>Sat, 09 Oct 2021 13:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165077">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165077">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009220111_fb4ffa88bf9760f350e347df52533356.png" alt="대체 텍스트">
@@ -354,7 +354,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=165057</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=165057</guid>
             <pubDate>Sat, 09 Oct 2021 12:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165057">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165057">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009205637_c9f36106cc0a9a40a29546d0a96f67aa_1.png" alt="대체 텍스트">
