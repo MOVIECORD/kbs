@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 12:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 13:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박2일] 댄스 구멍에서 춤선 甲으로 거듭난 김선호에 딘딘 “많이 늘었더라”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=165229</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165229</guid>
+            <pubDate>Sun, 10 Oct 2021 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165229">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010220140_1ff10219ba453c94cfeff8c14d402825_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165229">[1박2일] 댄스 구멍에서 춤선 甲으로 거듭난 김선호에 딘딘 “많이 늘었더라” </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010220140_1ff10219ba453c94cfeff8c14d402825_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] 트위스트 빌런 딘딘 덕에(?) 연속 실패! 물폭탄 벌칙 ‘짜라빠빠’ 댄스 도전기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=165225</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165225</guid>
+            <pubDate>Sun, 10 Oct 2021 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165225">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010214535_b7f8a38611edc83edcabe8abf14cce08.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165225">[1박2일] 트위스트 빌런 딘딘 덕에(?) 연속 실패! 물폭탄 벌칙 ‘짜라빠빠’ 댄스 도전기</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010214535_b7f8a38611edc83edcabe8abf14cce08.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] 장기자랑 댄스로 여학생에게 러브콜 받던 김종민의 라떼썰]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=165221</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165221</guid>
+            <pubDate>Sun, 10 Oct 2021 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165221">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010213453_a3bd179ff2a74c6005eb2d93e75f3f50_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165221">[1박2일] 장기자랑 댄스로 여학생에게 러브콜 받던 김종민의 라떼썰</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010213453_a3bd179ff2a74c6005eb2d93e75f3f50_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1박2일] ‘홍반장’ 김선호가 포항에서 공수해온 대게로 파티~ 대게라면 필수]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=165217</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009223937_031c4f493d48deeb6ee545532d0fa7b3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] 이세희 친모 이일화 등장... 공항에 마중 나온 이종원 보고 놀라]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165085</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165085</guid>
-            <pubDate>Sat, 09 Oct 2021 14:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165085">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009222232_e7dbcc47138dc30090b387c1c766d962_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165085">[신사와 아가씨] 이세희 친모 이일화 등장... 공항에 마중 나온 이종원 보고 놀라</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009222232_e7dbcc47138dc30090b387c1c766d962_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] 6년 전 박하나가 낳은 아들, 지현우 집에 입양됐다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165081</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165081</guid>
-            <pubDate>Sat, 09 Oct 2021 13:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165081">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009220544_5a2260b38febee51852b06277e889982_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165081">[신사와 아가씨] 6년 전 박하나가 낳은 아들, 지현우 집에 입양됐다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009220544_5a2260b38febee51852b06277e889982_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] “내 아이 낳은 거 맞냐고” 박하나 찾아온 의문의 남성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165077</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165077</guid>
-            <pubDate>Sat, 09 Oct 2021 13:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165077">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009220111_fb4ffa88bf9760f350e347df52533356.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165077">[신사와 아가씨] “내 아이 낳은 거 맞냐고” 박하나 찾아온 의문의 남성</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211009220111_fb4ffa88bf9760f350e347df52533356.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
