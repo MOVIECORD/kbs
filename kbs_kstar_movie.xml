@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 00:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 01:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 레오스 카락스 감독 “부산에 왔다. 아네트는 나쁜 아빠 이야기다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=165298</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165298</guid>
+            <pubDate>Mon, 11 Oct 2021 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165298">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211011091716_2dc065c4f3ce29fa9c7aa464f672c6b3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165298">[BIFF] 레오스 카락스 감독 “부산에 왔다. 아네트는 나쁜 아빠 이야기다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211011091716_2dc065c4f3ce29fa9c7aa464f672c6b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세경 리얼고백 다큐멘터리 '어나더 레코드']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=165197</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164838">[BIFF] 아시아콘텐츠필름마켓 '아시아콘텐츠어워즈' 수상자</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211008183429_b4c009d1ca108c207201b9022566c1f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 이레, "부산영화제 온 김에 부일영화상까지"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164823</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164823</guid>
-            <pubDate>Fri, 08 Oct 2021 10:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164823">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211008181159_25f2d48e6cac25ae97e53ca49603f5e3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164823">[BIFF] 이레, "부산영화제 온 김에 부일영화상까지"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211008181159_25f2d48e6cac25ae97e53ca49603f5e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
