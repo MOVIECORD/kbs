@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 12:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 13:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -689,6 +689,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002113902_6f252b02f0cb86d893f847584f0895b4.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[백종원 클라쓰] 순댓국집 조찬회동에서 급 결정된 K-순대 프로젝트! (곧)이탈리아로 간다~! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=165317</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165317</guid>
+            <pubDate>Mon, 11 Oct 2021 13:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165317">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211011214057_bbb62963c4bcd1ca5f6d7017e50dfca9.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165317">[백종원 클라쓰] 순댓국집 조찬회동에서 급 결정된 K-순대 프로젝트! (곧)이탈리아로 간다~!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211011214057_bbb62963c4bcd1ca5f6d7017e50dfca9.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["삶의 희노애락" 드라마 스페셜 2021 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=165309</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=165309</guid>
@@ -1029,24 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010200450_6110241ec1bae1965225fe529428eafd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지현우-박하나, '오늘은 설레는 눈 맞춤' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165186</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165186</guid>
-            <pubDate>Sun, 10 Oct 2021 02:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165186">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010105913_d280afc46775298185ca354fcf6c1d5e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165186">지현우-박하나, '오늘은 설레는 눈 맞춤'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010105913_d280afc46775298185ca354fcf6c1d5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
