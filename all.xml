@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 05:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 06:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018091403_fc0e6d414f26379aea9e070d45ceb87d_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전직경찰 이영애, 지금은 '구경이' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167112</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167112</guid>
+            <pubDate>Thu, 21 Oct 2021 06:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167112">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021142025_a3f75a77b785c0e5945b7af4eeefa19f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167112">전직경찰 이영애, 지금은 '구경이'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021142025_a3f75a77b785c0e5945b7af4eeefa19f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[환장의 어사 콤비, 옥택연X김혜윤, "어사와 조이" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=166931</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=166931</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166216">씨엔블루 신곡 '싹둑',  '전참시'에서 살짝 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211016100532_6b6f00392f38f0e2af230a3a486fda98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갯마을, 신민아- 김선호의 '차차차!' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166205</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166205</guid>
-            <pubDate>Sat, 16 Oct 2021 01:54:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166205">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211016095805_fa966d43993de63337f61b3b6f1069f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166205">갯마을, 신민아- 김선호의 '차차차!'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211016095805_fa966d43993de63337f61b3b6f1069f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경기세계도자비엔날레' 현장을 가다 (KBS연예 ─ KBS)]]></title>
