@@ -4,9 +4,61 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 00:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 01:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경기세계도자비엔날레' 현장을 가다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167056</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167056</guid>
+            <pubDate>Thu, 21 Oct 2021 01:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167056">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021104703_1f66a52a244fbd4df1b4e5ad808377f8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167056">'경기세계도자비엔날레' 현장을 가다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B5%BF%EB%AA%A8%EB%8B%9D%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">굿모닝 대한민국 라이브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021104703_1f66a52a244fbd4df1b4e5ad808377f8_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마스페셜 '희수', UHD어워드 드라마부문 최우수상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167038</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167038</guid>
+            <pubDate>Thu, 21 Oct 2021 01:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167038">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021092958_71fe76db6dcd196717abf5e55055e009.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167038">드라마스페셜 '희수', UHD어워드 드라마부문 최우수상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021092958_71fe76db6dcd196717abf5e55055e009.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강한나, ‘강한나의 볼륨을 높여요’ DJ 하차]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167024</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167024</guid>
+            <pubDate>Thu, 21 Oct 2021 01:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167024">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021091608_c2e9d58971df83889c83c1095ae50df5_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167024">강한나, ‘강한나의 볼륨을 높여요’ DJ 하차</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021091608_c2e9d58971df83889c83c1095ae50df5_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우주에 대한 색다른 이야기"  KBS대기획 ‘키스 더 유니버스’ 간담회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167003</link>
@@ -312,60 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020000202_21ee388c345efff682430f0fcca408c8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[연모] 박은빈의 의심에 현답하는 호위무사 최병찬 “저는 이제부터 세자의 사람입니다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166821</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166821</guid>
-            <pubDate>Tue, 19 Oct 2021 15:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166821">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231529_247d06978221d08adf39966d5d839425.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166821">[연모] 박은빈의 의심에 현답하는 호위무사 최병찬 “저는 이제부터 세자의 사람입니다” </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231529_247d06978221d08adf39966d5d839425.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[연모] “제 목숨을 걸겠습니다!” 수업 거절하는 박은빈과 목숨 건 내기하는 로운]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166816</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166816</guid>
-            <pubDate>Tue, 19 Oct 2021 15:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166816">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231325_56e238b404ae98e8979f2932d52a3067_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166816">[연모] “제 목숨을 걸겠습니다!” 수업 거절하는 박은빈과 목숨 건 내기하는 로운</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231325_56e238b404ae98e8979f2932d52a3067_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[연모] 동빙고 철벽 세자 박은빈, 로운 괴롭히기 시작 “서연관 하나쯤이야 식은죽 먹기”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166811</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166811</guid>
-            <pubDate>Tue, 19 Oct 2021 15:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166811">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231054_5ea9be8aa4188f833ae5676d2577a409_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166811">[연모] 동빙고 철벽 세자 박은빈, 로운 괴롭히기 시작 “서연관 하나쯤이야 식은죽 먹기”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019231054_5ea9be8aa4188f833ae5676d2577a409_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
