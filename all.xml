@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 13:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 14:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -689,6 +689,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211017080822_1845591485429e711f4a0b324a08171c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] 그룹 엔하이픈, ‘Tamed-Dashed’ 1위 소감 “엔진, 방시혁 PD 감사해” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167339</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167339</guid>
+            <pubDate>Fri, 22 Oct 2021 14:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167339">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211022225758_fbd4d342530304298aded93eb51bce6e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167339">[뮤직뱅크] 그룹 엔하이픈, ‘Tamed-Dashed’ 1위 소감 “엔진, 방시혁 PD 감사해”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211022225758_fbd4d342530304298aded93eb51bce6e_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴 화려한 귀환, 뮤뱅 ‘Rock with you’ 최초 공개 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167335</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=167335</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211022001521_ef5a4df0916eb16b98dd94c51d9e6fbd_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전소민, VR를 통해 만난 딸 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167128</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167128</guid>
-            <pubDate>Thu, 21 Oct 2021 07:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167128">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021152448_3d7665956aa21179781c978ec4e0628c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167128">전소민, VR를 통해 만난 딸 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021152448_3d7665956aa21179781c978ec4e0628c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
