@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 04:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020111553_75910ebd326cc5b64510cf817dcc8f37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류승룡 내레이션 “지리산은 이승과 저승 사이.. 그 경계에 있는 땅입니다” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167571</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167571</guid>
+            <pubDate>Sun, 24 Oct 2021 05:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167571">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024135543_10290a6a0782715e36f1e41b21508846.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167571">류승룡 내레이션 “지리산은 이승과 저승 사이.. 그 경계에 있는 땅입니다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024135543_10290a6a0782715e36f1e41b21508846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옥택연, 극한직업 어사 출두! (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167218</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=167218</guid>
@@ -672,21 +689,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018164755_74f053bb9c7bc24ad42d005a8b5a45b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이상이 '갯마을 차차차' 종방 소감  “따뜻한 공진에서 따뜻한 사람들과 함께여서 감사한 시간” (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166513</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166513</guid>
-            <pubDate>Mon, 18 Oct 2021 08:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166513">	<span class="img-box hh">
+            <title><![CDATA[박하나-차화연, '마주 잡은 두 손' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167560</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167560</guid>
+            <pubDate>Sun, 24 Oct 2021 05:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167560">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018162346_828820b01f3138d7661653897c67d36d.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024134919_a0d889ade2d81b25be0b7b756908f2c7.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166513">이상이 '갯마을 차차차' 종방 소감  “따뜻한 공진에서 따뜻한 사람들과 함께여서 감사한 시간”</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167560">박하나-차화연, '마주 잡은 두 손'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018162346_828820b01f3138d7661653897c67d36d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024134919_a0d889ade2d81b25be0b7b756908f2c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['불후의 명곡' 스테파니, 설하윤과 함께 '미쳤어' (KBS연예 ─ KBS)]]></title>
@@ -1029,24 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211023212553_1c1622a9f01ae724b3a8459b82cc5c52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡]  퍼포먼스 여신들의 만남...스테파니&설하윤 - 미쳤어 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167455</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167455</guid>
-            <pubDate>Sat, 23 Oct 2021 13:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167455">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211023211616_97567b71261abdc4407c950d0aa5590e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167455">[불후의 명곡]  퍼포먼스 여신들의 만남...스테파니&amp;설하윤 - 미쳤어 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211023211616_97567b71261abdc4407c950d0aa5590e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
