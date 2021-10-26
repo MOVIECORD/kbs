@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 13:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 14:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노래가 좋아] 깜짝 출연으로 시선집중! 박현빈과 귀염뽀짝 건나블리 무대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168005</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168005</guid>
+            <pubDate>Tue, 26 Oct 2021 14:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168005">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026223834_7ec32cddc6638fb001b2f90af4e4b701_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168005">[노래가 좋아] 깜짝 출연으로 시선집중! 박현빈과 귀염뽀짝 건나블리 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026223834_7ec32cddc6638fb001b2f90af4e4b701_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[노래가 좋아] “기가 왕성해 평생 질병은 안 걸릴 듯” 이호섭 신박한 심사평에 웃음 찾은 아내]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=168000</link>
@@ -345,24 +363,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167812">이찬원-김종민, 국내 최초 K-트롯 예능 버라이어티!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211025171525_24470ea5ba42acf56710c5229dd68f77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사제지간' 박은빈-로운, "우당탕탕 시강원"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167774</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167774</guid>
-            <pubDate>Mon, 25 Oct 2021 07:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167774">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211025152744_e140344b52be0f1630845dbfe10d31b0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167774">'사제지간' 박은빈-로운, "우당탕탕 시강원"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211025152744_e140344b52be0f1630845dbfe10d31b0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
