@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 08:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 09:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103155447_5404b6c1f63f88e8ea907b8d427dec6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스우파 아이키-노제의 '놀토' "노래 받아쓰기" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170545</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170545</guid>
+            <pubDate>Sat, 06 Nov 2021 09:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170545">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106135143_d8d8b5484d0aabe72f9cbb6c66bd94cf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170545">스우파 아이키-노제의 '놀토' "노래 받아쓰기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106135143_d8d8b5484d0aabe72f9cbb6c66bd94cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김혜준 '살인마 케이' (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170070</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=170070</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102163115_de9ae5baca574483ecc96e19b6042eb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["최강 비주얼" 옥택연-김혜윤 '어사와 조이' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169531</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169531</guid>
-            <pubDate>Tue, 02 Nov 2021 08:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169531">	<span class="img-box hh">
+            <title><![CDATA['살림남' 윤다훈, 4년 차 기러기 아빠 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170551</guid>
+            <pubDate>Sat, 06 Nov 2021 09:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170551">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102160432_43acf635d9b76d102cbee3e0ad430eee.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106180414_687e153931b7ad0f1bc51cb79de0ea37.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169531">"최강 비주얼" 옥택연-김혜윤 '어사와 조이'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170551">'살림남' 윤다훈, 4년 차 기러기 아빠 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102160432_43acf635d9b76d102cbee3e0ad430eee.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106180414_687e153931b7ad0f1bc51cb79de0ea37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박솔미 “출연 걱정했던 남편 한재석, 지금은 제일 즐거워해” (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105224542_9347fba5b8a7371890547b804d6a04e4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 2am, 7년 만의 완전체 컴백 ♪ 가까이 있어서 몰랐어+잘 가라니 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=170455</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170455</guid>
-            <pubDate>Fri, 05 Nov 2021 15:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170455">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105223455_77fdd983f74601012ef83c59ffa416d1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170455">[뮤직뱅크] 2am, 7년 만의 완전체 컴백 ♪ 가까이 있어서 몰랐어+잘 가라니</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105223455_77fdd983f74601012ef83c59ffa416d1_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
