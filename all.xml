@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211115081810_0a117b12357ca683b639d1484ed95a3d_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] '쇼윈도:여왕의 집' 한보경, 박혜영 작가 "세련된 카타르시스를 선사할 예정" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=173006</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173006</guid>
+            <pubDate>Tue, 16 Nov 2021 06:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173006">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116142526_b7debd5eb6d127ad9fb96d4a21605dd4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173006">[인터뷰] '쇼윈도:여왕의 집' 한보경, 박혜영 작가 "세련된 카타르시스를 선사할 예정"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116142526_b7debd5eb6d127ad9fb96d4a21605dd4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한효주-박형식-조우진의 숨겨진 모습, '해피니스' 비하인드 컷! (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=172863</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=172863</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211111095006_53596b2290471229cbf38eb91239368f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[의사와 맞붙은 박형식, 그에게 무슨 일이? (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=171777</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=171777</guid>
-            <pubDate>Thu, 11 Nov 2021 04:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=171777">	<span class="img-box hh">
+            <title><![CDATA['부부의 세계' 최강 빌런 이학주 "이상형은 박보영 씨!" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=173022</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173022</guid>
+            <pubDate>Tue, 16 Nov 2021 06:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173022">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211111092329_baae9d62f508750f923ea3f08e8e809a.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116143715_7371cbe79f05d248000e07ef6ce72401.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171777">의사와 맞붙은 박형식, 그에게 무슨 일이?</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173022">'부부의 세계' 최강 빌런 이학주 "이상형은 박보영 씨!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211111092329_baae9d62f508750f923ea3f08e8e809a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116143715_7371cbe79f05d248000e07ef6ce72401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[체리블렛 해윤-브로맨스 참여한 '연모' OST 발매 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211114214046_42f316e67af218134095834806e3f641_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] “제가 기다릴게요!” 공개연애 하기 힘든 지현우에 힘을 주는 이세희 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172547</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172547</guid>
-            <pubDate>Sun, 14 Nov 2021 15:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172547">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211114213141_3faef87d8a89429e0865f62f951083f7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172547">[신사와 아가씨] “제가 기다릴게요!” 공개연애 하기 힘든 지현우에 힘을 주는 이세희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211114213141_3faef87d8a89429e0865f62f951083f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
