@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 00:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124101750_cbb3af87414a4b46a10aef56887608bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[녹원삼 입은 이세영, 첫사랑 심쿵 이준호 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175381</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175381</guid>
+            <pubDate>Fri, 26 Nov 2021 00:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175381">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126080901_c9042156e1899fbdc6dd0e7aad0838e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175381">녹원삼 입은 이세영, 첫사랑 심쿵 이준호</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126080901_c9042156e1899fbdc6dd0e7aad0838e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송혜교-장기용 전환점,  “장기용 비밀 드러난다” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175361</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175361</guid>
+            <pubDate>Fri, 26 Nov 2021 00:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175361">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126072728_14452cea7f7a19bdf3da84b5b018362f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175361">송혜교-장기용 전환점,  “장기용 비밀 드러난다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126072728_14452cea7f7a19bdf3da84b5b018362f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차학연 ‘배드 앤 크레이지’ 인간 비타민 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174912</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174912</guid>
+            <pubDate>Fri, 26 Nov 2021 00:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174912">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124102233_12fff27db26a23cc8aa9ecf7215098b2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174912">차학연 ‘배드 앤 크레이지’ 인간 비타민</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124102233_12fff27db26a23cc8aa9ecf7215098b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“빌보드가 목표”  MBC 글로벌 걸그룹 프로젝트 ‘방과후 설렘’ 제작발표회 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=175303</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=175303</guid>
@@ -637,55 +688,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211120083513_fc5be5ff7267c1efd3213d8643e7ce38.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[송혜교-장기용, 거부할 수 없는 사랑 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=174097</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174097</guid>
-            <pubDate>Sat, 20 Nov 2021 02:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174097">	<span class="img-box ww">
+            <title><![CDATA[유승호-이혜리  '아술아술' 추적극 <꽃 피면 달 생각하고> (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175376</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175376</guid>
+            <pubDate>Fri, 26 Nov 2021 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175376">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211120072613_cb94f252e02933c743e3ddbb2719a7ce.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126075118_4e2eac2df4868941b0626d37900f0c39.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174097">송혜교-장기용, 거부할 수 없는 사랑</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175376">유승호-이혜리  '아술아술' 추적극 &lt;꽃 피면 달 생각하고&gt;</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211120072613_cb94f252e02933c743e3ddbb2719a7ce.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126075118_4e2eac2df4868941b0626d37900f0c39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이준호, 왕세손 정체  발각 위기! (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=174044</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174044</guid>
-            <pubDate>Fri, 19 Nov 2021 10:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174044">	<span class="img-box hh">
+            <title><![CDATA['비트윈'  성유빈 1인2역의 미성숙한 치정멜로극 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175355</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175355</guid>
+            <pubDate>Fri, 26 Nov 2021 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175355">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119183417_29d9f612a99d2e9e399e225f0336a086_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126070810_69c505e44632ee33cfd9622b3c514be4.JPG" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174044">이준호, 왕세손 정체  발각 위기!</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175355">'비트윈'  성유빈 1인2역의 미성숙한 치정멜로극</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119183417_29d9f612a99d2e9e399e225f0336a086_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교-장기용, 닿을 듯 말 듯 멜로 텐션 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=174037</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174037</guid>
-            <pubDate>Fri, 19 Nov 2021 10:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174037">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119182719_3bfdbcca7cb990dd9deea3ca5da82181.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174037">송혜교-장기용, 닿을 듯 말 듯 멜로 텐션</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119182719_3bfdbcca7cb990dd9deea3ca5da82181.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126070810_69c505e44632ee33cfd9622b3c514be4.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[성유빈-홍수주, 쌍둥이 형제의 갈등 '비트윈' (KBS연예 ─ KBS)]]></title>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125014153_02ffd85745cf1ac1cd5fa8af662f73e2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 특명! 아버지를 속여라, 주현의 건강검진을 신청해놓은 문세윤 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175126</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175126</guid>
-            <pubDate>Wed, 24 Nov 2021 18:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175126">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125013018_4c9f2f2782e632885c9b63729e4a5adc.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175126">[갓파더] 특명! 아버지를 속여라, 주현의 건강검진을 신청해놓은 문세윤</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125013018_4c9f2f2782e632885c9b63729e4a5adc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[학교 2021] 소꿉친구 조이현에게 훅 다가간 김요한, 풋풋한 청춘 로맨스 시작! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175122</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175122</guid>
-            <pubDate>Wed, 24 Nov 2021 16:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175122">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125005512_2672d8c5e986b147aa35df27de86fc15_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175122">[학교 2021] 소꿉친구 조이현에게 훅 다가간 김요한, 풋풋한 청춘 로맨스 시작! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%95%99%EA%B5%90%202021">수목드라마 학교 2021</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125005512_2672d8c5e986b147aa35df27de86fc15_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
