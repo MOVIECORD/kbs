@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 08:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 09:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211130082711_0425ee945ea4d396f1a5de158dd25f9a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['멜랑꼴리아' 임수정을 향한 이도현의 직진 본능 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176974</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176974</guid>
+            <pubDate>Thu, 02 Dec 2021 09:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176974">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202165832_c24268c6d783533378e5ada106ace70e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176974">'멜랑꼴리아' 임수정을 향한 이도현의 직진 본능</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202165832_c24268c6d783533378e5ada106ace70e_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['맘마미안' 이혜성 "집에서 혼자 야무지게 잘 해 먹는다" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176944</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176944</guid>
+            <pubDate>Thu, 02 Dec 2021 09:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176944">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202141700_f0daf49bf571b32fc3ea5c07d01ea089.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176944">'맘마미안' 이혜성 "집에서 혼자 야무지게 잘 해 먹는다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202141700_f0daf49bf571b32fc3ea5c07d01ea089.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동욱-위하준의 미친 케미스트리 '배드 앤 크레이지' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176939</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176939</guid>
+            <pubDate>Thu, 02 Dec 2021 09:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176939">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202141312_4f1792dad149b0952c893219ab0a5ed2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176939">이동욱-위하준의 미친 케미스트리 '배드 앤 크레이지'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202141312_4f1792dad149b0952c893219ab0a5ed2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이영애-김혜준-김해숙, 세 여자의 긴장감 넘치는 기싸움 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=176927</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=176927</guid>
@@ -637,55 +688,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129090549_8882cd1587f80f5f761c3817539db1c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송윤아X이성재X전소민, '쇼윈도:여왕의 집' 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175898</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175898</guid>
-            <pubDate>Mon, 29 Nov 2021 06:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175898">	<span class="img-box hh">
+            <title><![CDATA[김성주 문세윤 한선화, 2021 KBS연예대상 MC (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176982</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176982</guid>
+            <pubDate>Thu, 02 Dec 2021 09:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176982">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129085216_ea70ccbbbcdd930af4f35d41acb4bed3.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202172652_082cac7b92b79f121c88a208faa286b0.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175898">송윤아X이성재X전소민, '쇼윈도:여왕의 집' 오늘 첫 방송</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176982">김성주 문세윤 한선화, 2021 KBS연예대상 MC</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129085216_ea70ccbbbcdd930af4f35d41acb4bed3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성철의 애틋함, 설레는 드라마 '그 해 우리는' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175877</guid>
-            <pubDate>Mon, 29 Nov 2021 06:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175877">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129081344_17a754ce01c32c5549997257be0a20eb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175877">김성철의 애틋함, 설레는 드라마 '그 해 우리는'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129081344_17a754ce01c32c5549997257be0a20eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다시 나를 부르다" JTBC ‘싱어게인 시즌 2-무명가수전’  12월 6일 스타트 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175002</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175002</guid>
-            <pubDate>Mon, 29 Nov 2021 06:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175002">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124141616_9589cfea55615909425cf95f00366995.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175002">"다시 나를 부르다" JTBC ‘싱어게인 시즌 2-무명가수전’  12월 6일 스타트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124141616_9589cfea55615909425cf95f00366995.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202172652_082cac7b92b79f121c88a208faa286b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어남선생 류수영의 연어초밥 레시피 공개! (KBS연예 ─ KBS)]]></title>
@@ -1027,23 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202010443_0ce2b0c48e0c7ea1b394ab5a4e298d65_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[제작발표회] 진성-손헌수-미키광수, 국민들의 일꾼 되다! '일꾼의 탄생' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=176731</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176731</guid>
-            <pubDate>Wed, 01 Dec 2021 08:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176731">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201164730_98531798b1c26870a038e2664e450129.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176731">[제작발표회] 진성-손헌수-미키광수, 국민들의 일꾼 되다! '일꾼의 탄생'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201164730_98531798b1c26870a038e2664e450129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
