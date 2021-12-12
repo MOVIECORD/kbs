@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 15:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211209093937_020ba1db3d9d5b31099fc730d77117fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] ‘사유리네’ 12개월 똑똑이 젠이 안내방송에 대처하는 법 (feat. 외계어 옹알이) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=179306</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179306</guid>
+            <pubDate>Sun, 12 Dec 2021 17:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179306">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213000934_61d927ac6d14c2e02db0dbece0e4fe07_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179306">[슈퍼맨이 돌아왔다] ‘사유리네’ 12개월 똑똑이 젠이 안내방송에 대처하는 법 (feat. 외계어 옹알이)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213000934_61d927ac6d14c2e02db0dbece0e4fe07_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 선녀가 된 트롯퀸 양지은...남편 소원은 “셋째”에 당황 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=179302</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=179302</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212190654_2ab60c47c13e15070822c5c1a45d14ba_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['슈돌' 신현준X민준X예준, 소원  연날리기 체험 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=178915</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=178915</guid>
-            <pubDate>Sat, 11 Dec 2021 23:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=178915">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211210180301_f5e1566adad3324421b4b157be8b8703.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=178915">'슈돌' 신현준X민준X예준, 소원  연날리기 체험</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211210180301_f5e1566adad3324421b4b157be8b8703.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
