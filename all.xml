@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 01:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 02:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214172119_fe0a45d8269b13e3a04510693673ae7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아역배우 한서진, '불가살' 권나라 아역 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180511</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180511</guid>
+            <pubDate>Sat, 18 Dec 2021 02:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180511">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217175054_d0ab1c8862fa48d9edb22efa7a6fbd4c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180511">아역배우 한서진, '불가살' 권나라 아역  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217175054_d0ab1c8862fa48d9edb22efa7a6fbd4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021년을 빛낸 SBS 예능 프로그램은? (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=180661</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=180661</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211215152847_6f72a0cd59638a9ac92f3f9b1ad5b92c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서른아홉 살 된 손예진-전미도-김지현의 따뜻한 미소! (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180021</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180021</guid>
-            <pubDate>Wed, 15 Dec 2021 07:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180021">	<span class="img-box hh">
+            <title><![CDATA[주상욱-김영철-김명수, "왕좌의 게임" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180313</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180313</guid>
+            <pubDate>Sat, 18 Dec 2021 02:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180313">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211215140400_051b17f9acacdcb37f468175e38e9e84.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217092959_0e646fc9c53957b2f13b573772a98afd.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180021">서른아홉 살 된 손예진-전미도-김지현의 따뜻한 미소!</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180313">주상욱-김영철-김명수, "왕좌의 게임"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211215140400_051b17f9acacdcb37f468175e38e9e84.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217092959_0e646fc9c53957b2f13b573772a98afd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불후의 명곡 2021 왕중왕전 "신들의 전쟁!" (KBS연예 ─ KBS)]]></title>
@@ -1024,24 +1042,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0%20%EB%AC%B4%ED%95%B4%ED%95%98%EA%B2%8C">오늘부터 무해하게</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217072300_f3468d1fedc3065e5c7746c17c8d353a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[학교 2021] 조이현, 김요한에 “나 너 좋아하는 거 같아” 짝사랑 고백! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180241</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180241</guid>
-            <pubDate>Thu, 16 Dec 2021 23:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180241">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217071343_b9b6e3e1bf1096324979f8d99568782a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180241">[학교 2021] 조이현, 김요한에 “나 너 좋아하는 거 같아” 짝사랑 고백!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%95%99%EA%B5%90%202021">수목드라마 학교 2021</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217071343_b9b6e3e1bf1096324979f8d99568782a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
