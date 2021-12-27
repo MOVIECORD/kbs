@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 06:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 07:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '어사와 조이' 이상희 종영 소감 "이 여정에 함께해 주셔서 감사"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=182660</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=182660</guid>
+            <pubDate>Mon, 27 Dec 2021 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=182660">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211227155818_817d46170298c72d6a7ec6801f8b1ab3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=182660">[인터뷰] '어사와 조이' 이상희 종영 소감 "이 여정에 함께해 주셔서 감사"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211227155818_817d46170298c72d6a7ec6801f8b1ab3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬원과 명인들 배꼽 빠지게 만든 이영자-김태균 절친 듀오!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=182610</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181987">배우 남보라와 함께하는 '안산 백반기행'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211224105444_019ab60cbbdf72af39d64effa7598260.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“1998년 청춘의 방황" 김태리-남주혁 드라마 ''스물다섯 스물하나']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=181956</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181956</guid>
-            <pubDate>Fri, 24 Dec 2021 01:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181956">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211224094636_5886049eb10bf65a44fd2b29440defc4.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181956">“1998년 청춘의 방황" 김태리-남주혁 드라마 ''스물다섯 스물하나'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211224094636_5886049eb10bf65a44fd2b29440defc4.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
