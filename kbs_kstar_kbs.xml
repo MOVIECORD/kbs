@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 16:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개는 훌륭하다] “활동량 많은 도찌에 맞춰 놀아줄 것” 강형욱 터그 놀이 후 확 좋아진 문제 행동]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=182731</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=182731</guid>
+            <pubDate>Mon, 27 Dec 2021 17:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=182731">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211228011347_d84cd1eef08803daadcc907aa1f82054_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=182731">[개는 훌륭하다] “활동량 많은 도찌에 맞춰 놀아줄 것” 강형욱 터그 놀이 후 확 좋아진 문제 행동</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211228011347_d84cd1eef08803daadcc907aa1f82054_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 16개월 도베르만 행동 분석한 강형욱, “곧 위협적으로 사나워질 것”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=182726</link>
@@ -346,24 +364,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=182453">KBS미디어, ‘근무혁신 우수기업’ 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211227080328_e20a874a6da28d081646d9f8e5165fc8_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원 레피시 "감자껍질 버리지 마세유!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=182295</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=182295</guid>
-            <pubDate>Mon, 27 Dec 2021 05:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=182295">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211226184627_3b8253e574a175b4abec29a8ee3691f6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=182295">백종원 레피시 "감자껍질 버리지 마세유!" </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211226184627_3b8253e574a175b4abec29a8ee3691f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
