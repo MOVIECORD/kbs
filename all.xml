@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 14:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231102235_3f69f24b7b649746bdfd5da0eb3977bc_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[백종원 클라쓰] 맛집 비법 전수 받아 이태리 현지에서 손 칼국수 만든 파브리, 그 반응은? (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184224</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184224</guid>
+            <pubDate>Mon, 03 Jan 2022 14:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184224">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103223741_fe2ee228cc610ce7edd6bb9202d83cb7.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184224">[백종원 클라쓰] 맛집 비법 전수 받아 이태리 현지에서 손 칼국수 만든 파브리, 그 반응은?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103223741_fe2ee228cc610ce7edd6bb9202d83cb7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[백종원 클라쓰] “칼국수 맛있게 먹으려 어제 술 억지로 마셨다” 먹방에 누구보다 진심인 성시경 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184219</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184219</guid>
+            <pubDate>Mon, 03 Jan 2022 14:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184219">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103223542_9220376ec1b269d4e6c5b66f0215842a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184219">[백종원 클라쓰] “칼국수 맛있게 먹으려 어제 술 억지로 마셨다” 먹방에 누구보다 진심인 성시경</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103223542_9220376ec1b269d4e6c5b66f0215842a.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[백종원 클라쓰] 대전 별미 두부 두루치기에 칼국수 사리 추가는 못참지~! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184214</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=184214</guid>
@@ -1007,42 +1043,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102222742_631c377265151871d2f95a3f8ffc7f81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] “왜 별장에 갔어? 불륜녀” 박하나, 이세희 뺨 때렸다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183923</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183923</guid>
-            <pubDate>Sun, 02 Jan 2022 15:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183923">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102222143_936699200438ee058c8382386b987fc6_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183923">[신사와 아가씨] “왜 별장에 갔어? 불륜녀” 박하나, 이세희 뺨 때렸다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102222143_936699200438ee058c8382386b987fc6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신사와 아가씨] “이렇게 정리하는 걸로 해요” 이별을 고하는 지현우에 오열하는 이세희 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183919</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183919</guid>
-            <pubDate>Sun, 02 Jan 2022 15:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183919">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102221740_d8e41cf81660cda880f00b736048f69c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183919">[신사와 아가씨] “이렇게 정리하는 걸로 해요” 이별을 고하는 지현우에 오열하는 이세희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102221740_d8e41cf81660cda880f00b736048f69c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
