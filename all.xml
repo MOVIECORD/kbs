@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 00:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 01:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV에서 ‘밀라노 두오모 콘서트’를 본다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184012</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184012</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184012">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103094158_006fdd7014a649089b7fe13a88e3e0fb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184012">CGV에서 ‘밀라노 두오모 콘서트’를 본다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103094158_006fdd7014a649089b7fe13a88e3e0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 600만 관객 돌파! 멈추지 않는 흥행 열기 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184002</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184002</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184002">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103093120_d7b9e3d40859470a85bfe2bce4e45fbf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184002">'스파이더맨: 노 웨이 홈' 600만 관객 돌파! 멈추지 않는 흥행 열기</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103093120_d7b9e3d40859470a85bfe2bce4e45fbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ '북 오브 보바 펫' 한국에선 2월 스트리밍 시작 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=183966</link>
@@ -314,38 +348,89 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230132957_df5d4a21afe29fed699739203e82f120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['솔로지옥' 판도 바꿀 뉴 페이스 등장! (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183283</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183283</guid>
-            <pubDate>Thu, 30 Dec 2021 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183283">	<span class="img-box hh">
+            <title><![CDATA[송윤아, 불륜 알게 된 딸 향한 애틋한 감정 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184074</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184074</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184074">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230132711_488af1073e0ef0d839e00810e056ffa8_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103104312_a25781668e63574db54c915537626578.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183283">'솔로지옥' 판도 바꿀 뉴 페이스 등장! </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184074">송윤아, 불륜 알게 된 딸 향한 애틋한 감정</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230132711_488af1073e0ef0d839e00810e056ffa8_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103104312_a25781668e63574db54c915537626578.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['하늘의 별' 유재하 임윤택, AI로 다시 듣는다 티빙 '얼라이브' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183273</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183273</guid>
-            <pubDate>Thu, 30 Dec 2021 01:52:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183273">	<span class="img-box hh">
+            <title><![CDATA[최우식과 김다미의 집 데이트! “나, 자고 가도 돼?” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184031</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184031</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184031">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230104112_849638c4dd04c2aa7668cb14c90aad50_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103095818_3ec7d6e30624994f7d13157565000e33.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183273">'하늘의 별' 유재하 임윤택, AI로 다시 듣는다 티빙 '얼라이브'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184031">최우식과 김다미의 집 데이트! “나, 자고 가도 돼?”</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230104112_849638c4dd04c2aa7668cb14c90aad50_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103095818_3ec7d6e30624994f7d13157565000e33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이준호, 온전히 정조가 되었다" 드라마 '옷소매 붉은 끝동' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=183992</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183992</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183992">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103092012_c67395800d2ffe2978e80994088ac43b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183992">"이준호, 온전히 정조가 되었다" 드라마 '옷소매 붉은 끝동' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103092012_c67395800d2ffe2978e80994088ac43b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[설강화 7회] 유인나는 모란봉 1호 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=183977</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183977</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183977">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103090416_f5c8f731306568f33bd7c385c0e07259.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183977">[설강화 7회] 유인나는 모란봉 1호</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103090416_f5c8f731306568f33bd7c385c0e07259.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBC '호적메이트'  이경규X김정은X딘딘 '케미 폭발' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=183437</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183437</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183437">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231090133_313303e7a7ff2f73a2068fa71a105a2c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183437">MBC '호적메이트'  이경규X김정은X딘딘 '케미 폭발'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231090133_313303e7a7ff2f73a2068fa71a105a2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[설강화 6회] 지수, "나 안기부장 딸이야" (KBS연예 ─ TVs)]]></title>
@@ -603,89 +688,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231094801_90a985203b97b41d1e617ed74c1a0379.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['검은태양' 멱살 잡고 하드캐리 한 남궁민, 'MBC 연기대상' 대상 수상! (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183448</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183448</guid>
-            <pubDate>Fri, 31 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183448">	<span class="img-box hh">
+            <title><![CDATA[김영철의 '촌스럽게' 활약... 석모도에서의 특별한 시간! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184055</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184055</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184055">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231092830_0e0184a7690426f18ec98d98f6dc269c.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103102657_1f921acce03f4f4de08a398beaff6ef5.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183448">'검은태양' 멱살 잡고 하드캐리 한 남궁민, 'MBC 연기대상' 대상 수상!</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184055">김영철의 '촌스럽게' 활약... 석모도에서의 특별한 시간!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%B4%8C%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%3A%20%EC%9D%B8%20%EC%8B%9C%ED%81%AC%EB%A6%BF%20%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C">촌스럽게 : 인 시크릿 아일랜드</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231092830_0e0184a7690426f18ec98d98f6dc269c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103102657_1f921acce03f4f4de08a398beaff6ef5.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김환희 ‘목표가 생겼다’ MBC연기대상 우수연기상 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183443</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183443</guid>
-            <pubDate>Fri, 31 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183443">	<span class="img-box hh">
+            <title><![CDATA['개승자' 김민경 팀과 신인 팀의 훈훈한 케미스트리 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184024</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184024</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184024">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231092130_cc4c64fd9de6244aba47948cb0f0fe60.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103095333_08eb82d40d3e7d25b1b5e4c493600f63.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183443">김환희 ‘목표가 생겼다’ MBC연기대상 우수연기상 </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184024">'개승자' 김민경 팀과 신인 팀의 훈훈한 케미스트리</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231092130_cc4c64fd9de6244aba47948cb0f0fe60.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103095333_08eb82d40d3e7d25b1b5e4c493600f63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['멜랑꼴리아' 임수정 이도현 로맨틱 키스 피날레 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183425</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183425</guid>
-            <pubDate>Fri, 31 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183425">	<span class="img-box ww">
+            <title><![CDATA[새해 연 박지훈의 감미로운 보이스, 팬들과의 특별한 소통 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=183987</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183987</guid>
+            <pubDate>Mon, 03 Jan 2022 01:54:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183987">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231084933_342589cf6161a3ff917573dcf6241364.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103091912_aee0ef7a7c7900f2c04f0b6fbbb2eec9.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183425">'멜랑꼴리아' 임수정 이도현 로맨틱 키스 피날레</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183987">새해 연 박지훈의 감미로운 보이스, 팬들과의 특별한 소통</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=STATION-Z%20%28%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%A0%9C%ED%8A%B8%29">STATION-Z (스테이션 제트)</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231084933_342589cf6161a3ff917573dcf6241364.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준호, '옷소매 붉은 끝동' MBC 연기대상 최우수상 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183408</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183408</guid>
-            <pubDate>Fri, 31 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183408">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231082846_84f5c4aafd93ba8a4453343ce2faa75f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183408">이준호, '옷소매 붉은 끝동' MBC 연기대상 최우수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211231082846_84f5c4aafd93ba8a4453343ce2faa75f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수애, 악연 있는 동방우의 계략에 걸려들다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183368</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183368</guid>
-            <pubDate>Thu, 30 Dec 2021 09:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183368">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230171230_6487401e7dfdd2de13912b72bd7eb551.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183368">수애, 악연 있는 동방우의 계략에 걸려들다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211230171230_6487401e7dfdd2de13912b72bd7eb551.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103091912_aee0ef7a7c7900f2c04f0b6fbbb2eec9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KBS뉴스9, 대선후보 신년 연쇄 인터뷰 ‘대한민국의 내일을 묻다’ (KBS연예 ─ KBS)]]></title>
@@ -990,60 +1043,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102205529_1b76ab441c5d33f2dfa0cab6aea0dad7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] KBS 연예대상 당일 비하인드 공개...’스카이다이빙’ 등 공약 난무 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183898</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183898</guid>
-            <pubDate>Sun, 02 Jan 2022 12:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183898">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102204836_fb62f2efbfd0e277d926df8ae3823eec_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183898">[1박2일] KBS 연예대상 당일 비하인드 공개...’스카이다이빙’ 등 공약 난무</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102204836_fb62f2efbfd0e277d926df8ae3823eec_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새 주말드라마 '현재는 아름다워' 임인년(壬寅年) 결혼 프로젝트 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183893</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183893</guid>
-            <pubDate>Sun, 02 Jan 2022 02:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183893">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102092837_c9e4145e2335da6c9077dcb8ec31e6e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183893">새 주말드라마 '현재는 아름다워' 임인년(壬寅年) 결혼 프로젝트 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102092837_c9e4145e2335da6c9077dcb8ec31e6e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘개승자’ 3라운드, "초박빙 대혼전" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183872</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183872</guid>
-            <pubDate>Sun, 02 Jan 2022 00:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183872">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102085717_1418878fd23743629d47fa3942d3ac59.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183872">‘개승자’ 3라운드, "초박빙 대혼전"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102085717_1418878fd23743629d47fa3942d3ac59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
