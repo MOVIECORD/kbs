@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 13:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 14:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101083127_db5473bc06602f35fd85eed57670bfd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[노래가 좋아] 3급 장애 오빠와 자폐아 조카에 남동생 생계까지 책임지는 ‘여자의 일생’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184519</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184519</guid>
+            <pubDate>Tue, 04 Jan 2022 14:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184519">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104224156_ef6816f712fb91fb59a0b6c1da3b1577.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184519">[노래가 좋아] 3급 장애 오빠와 자폐아 조카에 남동생 생계까지 책임지는 ‘여자의 일생’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104224156_ef6816f712fb91fb59a0b6c1da3b1577.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[노래가 좋아] “아버지 진또배기를 세상에 알리고자 가수가 됐다” 故 이성우 노래 열창하는 아들 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184514</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184514</guid>
+            <pubDate>Tue, 04 Jan 2022 14:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184514">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104214133_b9dec3c02c45980e995baead4e1ac5fc_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184514">[노래가 좋아] “아버지 진또배기를 세상에 알리고자 가수가 됐다” 故 이성우 노래 열창하는 아들</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104214133_b9dec3c02c45980e995baead4e1ac5fc_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[노래가 좋아] 故 이성우에서 아들 이찬원으로 이어지는 2대째의 ‘진또배기’ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184509</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=184509</guid>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103223542_9220376ec1b269d4e6c5b66f0215842a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원 클라쓰] 대전 별미 두부 두루치기에 칼국수 사리 추가는 못참지~! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184214</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184214</guid>
-            <pubDate>Mon, 03 Jan 2022 13:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184214">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103220514_a14c0438b9f17a9d597dd987e53115e2.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184214">[백종원 클라쓰] 대전 별미 두부 두루치기에 칼국수 사리 추가는 못참지~!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103220514_a14c0438b9f17a9d597dd987e53115e2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원 클라쓰] “칼국수를 배우고 싶어요” 셰프 파브리 위해 칼국수 성지 대전 찾은 백종원 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184209</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184209</guid>
-            <pubDate>Mon, 03 Jan 2022 13:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184209">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103213948_5f31e0af9a31dd0c132ae8c7a544db53_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184209">[백종원 클라쓰] “칼국수를 배우고 싶어요” 셰프 파브리 위해 칼국수 성지 대전 찾은 백종원</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103213948_5f31e0af9a31dd0c132ae8c7a544db53_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
