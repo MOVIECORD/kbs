@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] 박세리-김성주가 중계하는 스포츠 스타 가족들의 일상 '우리끼리 작전타임']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184964</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184964</guid>
+            <pubDate>Thu, 06 Jan 2022 07:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184964">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106152325_85e8f9021fbc41d687734b68f3bd194c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184964">[제작발표회] 박세리-김성주가 중계하는 스포츠 스타 가족들의 일상 '우리끼리 작전타임'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9A%B0%EB%A6%AC%EB%81%BC%EB%A6%AC%20%EC%9E%91%EC%A0%84%ED%83%80%EC%9E%84">우리끼리 작전타임</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106152325_85e8f9021fbc41d687734b68f3bd194c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어남선생 류수영, 프라이팬 하나로 뚝딱! '토마토버터파스타']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184956</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105141702_90bbebd0c89e691ad12a1e5da862e256.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울부짖는 이혜리, 유승호 지키기 위한 애절한 마음]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184629</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184629</guid>
-            <pubDate>Wed, 05 Jan 2022 01:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184629">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105092704_608eef984fd744a57390ed5cf33df8db.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184629">울부짖는 이혜리, 유승호 지키기 위한 애절한 마음</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105092704_608eef984fd744a57390ed5cf33df8db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
