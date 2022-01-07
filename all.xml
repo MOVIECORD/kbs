@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 04:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101213646_336a5f44747c9bd36fcf0620f2d2a4f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[독립영화관] 파이터 “탈북소녀, 복서되다” (윤재호 감독,2020) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=185106</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185106</guid>
+            <pubDate>Fri, 07 Jan 2022 05:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185106">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107110822_601fc41a37ceeaa31feb83308a906894.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185106">[독립영화관] 파이터 “탈북소녀, 복서되다” (윤재호 감독,2020)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107110822_601fc41a37ceeaa31feb83308a906894.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['개승자' 3라운드 선공개, 김민경-신인 팀의 활약! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=185085</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=185085</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106093859_8c112556e7a9cd0da58083c77c17e53e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경스페셜 "새들이 내게 말하기를" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184859</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184859</guid>
-            <pubDate>Thu, 06 Jan 2022 00:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184859">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106091147_525439dec2f34a0bfe84a58283323f44.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184859">환경스페셜 "새들이 내게 말하기를"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=UHD%20%ED%99%98%EA%B2%BD%EC%8A%A4%ED%8E%98%EC%85%9C">UHD 환경스페셜</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106091147_525439dec2f34a0bfe84a58283323f44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
