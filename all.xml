@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 23:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 00:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101213646_336a5f44747c9bd36fcf0620f2d2a4f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블리처스 '끄덕끄덕끄덕', 뮤뱅 컴백 무대 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=185055</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185055</guid>
+            <pubDate>Fri, 07 Jan 2022 00:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185055">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107084614_a3dc13a37cac64e01bb84a96edaa040f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185055">블리처스 '끄덕끄덕끄덕', 뮤뱅 컴백 무대</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107084614_a3dc13a37cac64e01bb84a96edaa040f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[한 번쯤 멈출 수밖에] 별빛광채 이선희-이금희-최백호가 전하는 삶의 낭만 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=185032</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=185032</guid>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106012541_0544aadab321d064bfaef9c6aae25b66_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 오토바이 사고로 폐 절단 대수술을 한 최민수의 상태는? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184829</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184829</guid>
-            <pubDate>Wed, 05 Jan 2022 17:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184829">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106011643_a95d4f4a1601369a78710d12d004fa5f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184829">[갓파더] 오토바이 사고로 폐 절단 대수술을 한 최민수의 상태는?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106011643_a95d4f4a1601369a78710d12d004fa5f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
