@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 09:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 10:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105093323_25665f16473dec00603c3416d19ed7fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['그 해 우리는' 최우식김다미 "오늘부터 다시 1일" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=185832</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185832</guid>
+            <pubDate>Tue, 11 Jan 2022 10:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185832">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220111161302_025e67a328b06269f29a73eb10c7b295.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185832">'그 해 우리는' 최우식김다미 "오늘부터 다시 1일"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220111161302_025e67a328b06269f29a73eb10c7b295.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옥상 난간, 위태로운 전소민의 모습! (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=185799</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=185799</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184436">‘벌거벗은 세계사’  아프가니스탄과 탈레반을 파헤친다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104141538_2ad680e2b90b0aeaec5434925964acfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범 카리스마, ‘고스트' 정지훈 영접 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184431</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184431</guid>
-            <pubDate>Tue, 04 Jan 2022 07:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184431">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104140932_263cf37ac2f246795b3fdae7c0f77c26.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184431">김범 카리스마, ‘고스트' 정지훈 영접</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104140932_263cf37ac2f246795b3fdae7c0f77c26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KBS아카이브, 5·18 영상 시민 공유 프로젝트를 위한 업무협약식 (KBS연예 ─ KBS)]]></title>
