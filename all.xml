@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔혹심리 드라마, 매즈 미켈슨 '한니발' 왓챠 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186659</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186659</guid>
+            <pubDate>Fri, 14 Jan 2022 07:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186659">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114153910_19670bc245bab01e9dba288c839a5cb3_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186659">잔혹심리 드라마, 매즈 미켈슨 '한니발' 왓챠 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114153910_19670bc245bab01e9dba288c839a5cb3_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권율-박하선 부부에게 닥친 위기! (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=186636</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186171">예능 신동 이동휘, SNL 코리아 출격한다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112160820_5dd43f910c90ebd38c5ac0caba5f2c83_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 요시자와 료부터 야마다 유키까지... 대세 스타들의 대격돌 '도쿄 리벤저스' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186145</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186145</guid>
-            <pubDate>Wed, 12 Jan 2022 07:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186145">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112141755_68f7b3f673f39e1dd1817eaf27651a30.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186145">[리뷰] 요시자와 료부터 야마다 유키까지... 대세 스타들의 대격돌 '도쿄 리벤저스' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112141755_68f7b3f673f39e1dd1817eaf27651a30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['설강화' 김혜윤, "미워할 수 없는, 미워할 수밖에 없는" (KBS연예 ─ TVs)]]></title>
