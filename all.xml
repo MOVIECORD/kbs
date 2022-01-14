@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 01:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '웅남이' 크랭크업, 백지혜 "매번 놀라운 순간" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186589</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186589</guid>
+            <pubDate>Fri, 14 Jan 2022 02:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186589">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114112628_6d93a45601ff5f27d166b850adc2f1cb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186589">영화 '웅남이' 크랭크업, 백지혜 "매번 놀라운 순간"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114112628_6d93a45601ff5f27d166b850adc2f1cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라미란 역대급 코미디 연기 담긴 '내과 박원장' (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=186548</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112092922_69e9c114ceeba30e58aa9230207f038b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강다니엘의 경찰수업,  디즈니+ <너와 나의 경찰수업> (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186066</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186066</guid>
-            <pubDate>Wed, 12 Jan 2022 01:56:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186066">	<span class="img-box hh">
+            <title><![CDATA['설강화' 김혜윤, "미워할 수 없는, 미워할 수밖에 없는" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186520</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186520</guid>
+            <pubDate>Fri, 14 Jan 2022 02:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186520">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112091732_9861c30aa89982c237800a3fa50c0343.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114082101_4f0702db3996cc67ee3fc3f2d35b8ca6.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186066">강다니엘의 경찰수업,  디즈니+ &lt;너와 나의 경찰수업&gt;</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186520">'설강화' 김혜윤, "미워할 수 없는, 미워할 수밖에 없는"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112091732_9861c30aa89982c237800a3fa50c0343.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114082101_4f0702db3996cc67ee3fc3f2d35b8ca6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동욱, 본격적으로 다크웹 배후 추격한다! (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186560</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186560</guid>
+            <pubDate>Fri, 14 Jan 2022 02:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186560">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114094046_f57df3f01629aefd1f9674e2e9c0d096.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186560">이동욱, 본격적으로 다크웹 배후 추격한다!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114094046_f57df3f01629aefd1f9674e2e9c0d096.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손예진 "찬란한 서른아홉" JTBC드라마 '서른, 아홉' (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220110103421_755152f77e4eda6eefb79bfab93d883c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['고스트 닥터' 집중하는 정지훈, 주위 살피는 김범 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=185418</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185418</guid>
-            <pubDate>Mon, 10 Jan 2022 00:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185418">	<span class="img-box hh">
+            <title><![CDATA[송가인 따르는 깃발부대, 압도적인 포스! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186594</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186594</guid>
+            <pubDate>Fri, 14 Jan 2022 02:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186594">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220110073349_80b429465cb4a8bb4318506dabef279d.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114113225_0d4ae27ab2ce5296b912055d32242fb8.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185418">'고스트 닥터' 집중하는 정지훈, 주위 살피는 김범</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186594">송가인 따르는 깃발부대, 압도적인 포스!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220110073349_80b429465cb4a8bb4318506dabef279d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바달집3' 힐링 막둥이 배우 공명 "시청자 분들께 감사" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=185168</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185168</guid>
-            <pubDate>Fri, 07 Jan 2022 06:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185168">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107144952_93e0f36b0808360771d24db95193277f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185168">'바달집3' 힐링 막둥이 배우 공명 "시청자 분들께 감사"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107144952_93e0f36b0808360771d24db95193277f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114113225_0d4ae27ab2ce5296b912055d32242fb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 김누림 '학교 2021' 종영 소감 "첫 작품이어서 더 의미가 깊었다" (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113090011_5cb9829187666bcc4fbe6dbd5dc2014a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갓파더' 최환희(지플랫), 희로애락 담은 가족 이야기 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186268</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186268</guid>
-            <pubDate>Thu, 13 Jan 2022 00:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186268">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113085405_9beaae636d014e52be1b5860bd96acd0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186268">'갓파더' 최환희(지플랫), 희로애락 담은 가족 이야기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113085405_9beaae636d014e52be1b5860bd96acd0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
