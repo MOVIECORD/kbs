@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합 영화 '라임크라임' 1만 관객수 돌파! (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186683</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186683</guid>
+            <pubDate>Fri, 14 Jan 2022 08:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186683">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114162759_8a2ccbe2b64a223716f52b10bec270a6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186683">한국 힙합 영화 '라임크라임' 1만 관객수 돌파!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114162759_8a2ccbe2b64a223716f52b10bec270a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잔혹심리 드라마, 매즈 미켈슨 '한니발' 왓챠 공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=186659</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186176">박찬욱 감독의 극찬, 영화 '미싱타는 여자들'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112161145_1c9a5cbc416dc4d1c468a1381da2d2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예능 신동 이동휘, SNL 코리아 출격한다 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186171</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186171</guid>
-            <pubDate>Wed, 12 Jan 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186171">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112160820_5dd43f910c90ebd38c5ac0caba5f2c83_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186171">예능 신동 이동휘, SNL 코리아 출격한다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112160820_5dd43f910c90ebd38c5ac0caba5f2c83_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['설강화' 김혜윤, "미워할 수 없는, 미워할 수밖에 없는" (KBS연예 ─ TVs)]]></title>
