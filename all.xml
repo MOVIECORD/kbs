@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 22:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 23:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동휘, 올라운드 플레이어 'SNL코리아' 출격 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188082</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188082</guid>
+            <pubDate>Fri, 21 Jan 2022 23:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188082">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121171025_e8616f88649cb178cb57e926d2517075.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188082">이동휘, 올라운드 플레이어 'SNL코리아' 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121171025_e8616f88649cb178cb57e926d2517075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 한효주 “용왕의 딸, 해적의 리더십” (해적:도깨비 깃발) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=188043</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118154941_51b862b9b274e7fe6ab3f4c9a0c88514.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["둥~" 듄, IMAX 재개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187446</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187446</guid>
-            <pubDate>Tue, 18 Jan 2022 07:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187446">	<span class="img-box hh">
+            <title><![CDATA['불가살' 탱화 앞에 선 이진욱 권나라 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188123</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188123</guid>
+            <pubDate>Fri, 21 Jan 2022 23:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188123">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118152236_2c1070928520d8a50a11965a7b7e0b0b.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121180230_64c93b8dd8635b5b4cf3510efe4679b1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187446">"둥~" 듄, IMAX 재개봉 </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188123">'불가살' 탱화 앞에 선 이진욱 권나라 </a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118152236_2c1070928520d8a50a11965a7b7e0b0b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121180230_64c93b8dd8635b5b4cf3510efe4679b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출장 십오야,  '해적' 팀 출격 (KBS연예 ─ TVs)]]></title>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187060">다시 사랑하는 최우식-김다미, 미묘한 분위기 변화</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117094824_9c3df73ab844227f19bddda419b6a0c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서른, 아홉' 손예진 아역, 배우 신소현 발탁! (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187040</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187040</guid>
-            <pubDate>Mon, 17 Jan 2022 01:58:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187040">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117093834_379e71f0e102a54d3d9064f9107512ef.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187040">'서른, 아홉' 손예진 아역, 배우 신소현 발탁!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117093834_379e71f0e102a54d3d9064f9107512ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뮤직뱅크] DRIPPIN(드리핀), 글로벌 팬심을 저격할 강렬한 ♪Villain으로 컴백! (KBS연예 ─ KBS)]]></title>
