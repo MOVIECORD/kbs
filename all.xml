@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119075051_6a76c433a576fc064773d60612969dd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이번엔 농구다" JTBC 새 예능 '언니들이 뛴다-마녀체력 농구부' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188562</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188562</guid>
+            <pubDate>Mon, 24 Jan 2022 06:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188562">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124145329_366cc92ee1cedc0b2670478fdc3321d8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188562">"이번엔 농구다" JTBC 새 예능 '언니들이 뛴다-마녀체력 농구부'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124145329_366cc92ee1cedc0b2670478fdc3321d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨도, 마음도 맞춘다! '기상청 사람들: 사내연애 잔혹사 편' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188551</guid>
+            <pubDate>Mon, 24 Jan 2022 06:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188551">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124141228_bf81856609a4c7d2b96c351bf2a2a1d3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188551">날씨도, 마음도 맞춘다! '기상청 사람들: 사내연애 잔혹사 편'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124141228_bf81856609a4c7d2b96c351bf2a2a1d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연쇄살인범 잡는 진선규의 활약 '악의 마음을 읽는 자들' (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=188492</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=188492</guid>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187889">'악의 마음을...' 김남길, 프로파일러 첫 발 내딛는다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120092623_4c2a4c4505292bc267e9e04bb408cd80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN "넷플릭스, 게 섰거라! 2022년 K드라마로 꽉 채웠습니다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187915</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187915</guid>
-            <pubDate>Thu, 20 Jan 2022 06:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187915">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120142048_f2735c7a8402b8474ccbc3281c6c532b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187915">tvN "넷플릭스, 게 섰거라! 2022년 K드라마로 꽉 채웠습니다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120142048_f2735c7a8402b8474ccbc3281c6c532b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소진, ‘악의 마음을 읽는 자들’  기동수사대 에이스 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187902</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187902</guid>
-            <pubDate>Thu, 20 Jan 2022 06:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187902">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120134824_9bf0e9f41369bd6bdde55bf5c914dfeb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187902">김소진, ‘악의 마음을 읽는 자들’  기동수사대 에이스</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120134824_9bf0e9f41369bd6bdde55bf5c914dfeb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서은광, ‘꽃 피면..'OST ‘1분에 한 번’ (KBS연예 ─ KBS)]]></title>
