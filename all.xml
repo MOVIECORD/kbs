@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 23:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 00:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119081301_e11d6b49b87c1b35fbb1a4951f1412e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한재석, 윤진이에게 숨겨둔 딸 들통 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188437</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188437</guid>
+            <pubDate>Mon, 24 Jan 2022 00:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188437">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124084536_8de7645945e4a72975352aaa572645ba.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188437">한재석, 윤진이에게 숨겨둔 딸 들통</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124084536_8de7645945e4a72975352aaa572645ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 양익준 감독 신작에 캐스팅된 사유리와 젠? 오디션 결과는 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=188415</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=188415</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121180658_f3f85d973d9082c4d4560b90fe53c082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물에 진심인, '국립세종수목원 72시간' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188241</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188241</guid>
-            <pubDate>Sun, 23 Jan 2022 00:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188241">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220122193100_d4a2af6cc1292aa43e0a193f5bd0352c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188241">식물에 진심인, '국립세종수목원 72시간'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%203%EC%9D%BC">다큐멘터리 3일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220122193100_d4a2af6cc1292aa43e0a193f5bd0352c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
