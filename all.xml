@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['메이의 새빨간 비밀' 디즈니+로 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189376</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189376</guid>
+            <pubDate>Thu, 27 Jan 2022 05:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189376">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127132009_493f22529e5e0862ce6161ac531f47da.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189376">'메이의 새빨간 비밀' 디즈니+로 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127132009_493f22529e5e0862ce6161ac531f47da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강다니엘-채수빈, "경찰학교 입학합니다" ‘너와 나의 경찰수업' 제작발표회 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189344</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188699">서현의 특별한 로맨스, 발렌타인 데이에 만나는 '모럴센스'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125084013_1e11fb3eb730ebddfe6ef02147ed901f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '그리드', 미스터리한 '유령'과 그를 쫓는 사람들 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188677</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188677</guid>
-            <pubDate>Tue, 25 Jan 2022 00:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188677">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125081031_bd7e5fcade6b571a3bd55403671392bc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188677">디즈니+ '그리드', 미스터리한 '유령'과 그를 쫓는 사람들 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125081031_bd7e5fcade6b571a3bd55403671392bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민가수 다 모였다~ '내일은 국민가수 올스타전' (KBS연예 ─ TVs)]]></title>
