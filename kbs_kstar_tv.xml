@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] '너목보' 시즌9, 더욱 미스터리한 싱어들의 등장!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189578</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189578</guid>
+            <pubDate>Fri, 28 Jan 2022 05:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189578">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128125242_aecbdf6a6932837e0702954cc7d591fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189578">[제작발표회] '너목보' 시즌9, 더욱 미스터리한 싱어들의 등장!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128125242_aecbdf6a6932837e0702954cc7d591fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유재석의 은혜 갚기 프로젝트 '놀면 뭐하니?']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189536</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188746">위너 김진우, 후회의 눈물 "가족에게 많이 소홀"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125113312_ba5c1ca4da0f5c4ad9fb027fae87ee24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범과 손나은의 의미심장한 대화]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188740</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188740</guid>
-            <pubDate>Tue, 25 Jan 2022 08:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188740">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125113038_6260b48d840c2b170a26cd430a6ee5b0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188740">김범과 손나은의 의미심장한 대화</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125113038_6260b48d840c2b170a26cd430a6ee5b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
