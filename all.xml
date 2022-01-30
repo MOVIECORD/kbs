@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 21:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 22:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["당신이 판사라면?' 넷플릭스 '소년범죄' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189633</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189633</guid>
+            <pubDate>Sun, 30 Jan 2022 22:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189633">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128143947_bb6134e09a488f8afa33e97b84a77f20.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189633"> "당신이 판사라면?' 넷플릭스 '소년범죄'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128143947_bb6134e09a488f8afa33e97b84a77f20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백현주, 넷플릭스 '모럴센스' '서현 母 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189594</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189318">백종원도 입 벌어지게 만든 초특급 대방어 해체쇼!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127101354_b22a9450c4aa9a5af183cee601c34dab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박해준, '부부의 세계' 쓰레기 남편에서 '아직 최선을 다하지 않았을 뿐' 백수가 되기까지 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189313</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189313</guid>
-            <pubDate>Thu, 27 Jan 2022 03:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189313">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127100518_f04bd837d6af944cf37066c70cacb2e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189313">박해준, '부부의 세계' 쓰레기 남편에서 '아직 최선을 다하지 않았을 뿐' 백수가 되기까지</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127100518_f04bd837d6af944cf37066c70cacb2e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권일용 반장+ 장항준 감독 "범죄 속으로" (tvN '알쓸범잡2') (KBS연예 ─ TVs)]]></title>
