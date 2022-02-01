@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 02:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 03:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127105046_211eeff1ed556d5ae7f65f9b1ea2c383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JTBC 신년특집 '전설체전' 야구부 VS 농구부 꼴찌 경쟁전 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190079</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190079</guid>
+            <pubDate>Tue, 01 Feb 2022 03:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190079">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220201090439_d27745861072a282395503f1d3e6ebb3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190079">JTBC 신년특집 '전설체전' 야구부 VS 농구부 꼴찌 경쟁전</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220201090439_d27745861072a282395503f1d3e6ebb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['부캐전성시대' 버추얼 아바타 TV속으로 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189956</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=189956</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189020">'너의 밤이 되어줄게' 종영, 유종의 미</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126094758_0841d573f01981204d98710127e218d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진구-하도권-이원근, OCN 연쇄살인마 추적극 '우월한 하루' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188957</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188957</guid>
-            <pubDate>Tue, 25 Jan 2022 23:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188957">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126074045_24514c9ed3c5ff4c5a282b157dbf9f2d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188957">진구-하도권-이원근, OCN 연쇄살인마 추적극 '우월한 하루'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126074045_24514c9ed3c5ff4c5a282b157dbf9f2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘자본주의학교’  웃음+정보+공감 다 잡은 경제예능 (KBS연예 ─ KBS)]]></title>
