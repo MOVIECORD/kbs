@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 극장 영화 -  ‘듄’, ‘덩케르크’, 그리고 ‘언차티드’ (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190321</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190321</guid>
+            <pubDate>Thu, 03 Feb 2022 06:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190321">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203145738_43b13b18cf21bb267e93222a4e7897f6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190321">특별한 극장 영화 -  ‘듄’, ‘덩케르크’, 그리고 ‘언차티드’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203145738_43b13b18cf21bb267e93222a4e7897f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[왓챠 2월의 신작] '스테이션 일레븐', '아르센 벵거: 무패의 전설', '미스터리라 하지 말지어다' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190293</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190293</guid>
+            <pubDate>Thu, 03 Feb 2022 06:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190293">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203094809_43e5aeaaa7a33377db2761df90b3a3fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190293">[왓챠 2월의 신작] '스테이션 일레븐', '아르센 벵거: 무패의 전설', '미스터리라 하지 말지어다' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203094809_43e5aeaaa7a33377db2761df90b3a3fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박유나의 의지, "나는 경찰이 되어야 해!" (너와 나의 경찰수업) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190286</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189589">[리뷰] 편견 딛고 일어난 5인 5색 요원들 '355' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128125846_d6600c90f821e3add078e4c53000e653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰 ‘머니게임’, 류준열 아이유 박정민 OTT영화로 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189569</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189569</guid>
-            <pubDate>Fri, 28 Jan 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189569">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128103540_2dba5cd5d83a8aa6635511471923c055.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189569">웹툰 ‘머니게임’, 류준열 아이유 박정민 OTT영화로</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128103540_2dba5cd5d83a8aa6635511471923c055.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박하선, 임신에  대한 걱정이 불러낸 눈물바다 현장 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189560</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189560</guid>
-            <pubDate>Fri, 28 Jan 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189560">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100521_9935a14d00c480f18af7a86cb98b047b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189560">박하선, 임신에  대한 걱정이 불러낸 눈물바다 현장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100521_9935a14d00c480f18af7a86cb98b047b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차태현 조인성의 행복한 영업일지 '어쩌다 사장2' (KBS연예 ─ TVs)]]></title>
