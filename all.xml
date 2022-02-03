@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박유나의 의지, "나는 경찰이 되어야 해!" (너와 나의 경찰수업) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190286</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190286</guid>
+            <pubDate>Thu, 03 Feb 2022 05:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190286">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203094209_c78de26ef3f9508d2c772610a2f19641.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190286">박유나의 의지, "나는 경찰이 되어야 해!" (너와 나의 경찰수업)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203094209_c78de26ef3f9508d2c772610a2f19641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[극장가소식] 메가박스의 미래 "MEET, PLAY, SHARE" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190264</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189560">박하선, 임신에  대한 걱정이 불러낸 눈물바다 현장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100521_9935a14d00c480f18af7a86cb98b047b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박성준, '경찰수업’ 웃음유발자 유대일 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189544</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189544</guid>
-            <pubDate>Fri, 28 Jan 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189544">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100334_8e447a828194d4c2eb7a098cf0b89fd0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189544">박성준, '경찰수업’ 웃음유발자 유대일</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100334_8e447a828194d4c2eb7a098cf0b89fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차태현 조인성의 행복한 영업일지 '어쩌다 사장2' (KBS연예 ─ TVs)]]></title>
