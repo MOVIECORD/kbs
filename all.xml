@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 09:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 10:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127164644_73e24c924a5079a110c4deedd25d5add.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] ‘글로벌 슈퍼루키’ 알렉사 ♪TATTOO 굿바이 무대 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190570</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190570</guid>
+            <pubDate>Fri, 04 Feb 2022 10:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190570">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204184232_189893bcba0d07f7d27a804929399849_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190570">[뮤직뱅크] ‘글로벌 슈퍼루키’ 알렉사 ♪TATTOO 굿바이 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204184232_189893bcba0d07f7d27a804929399849_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[류수영 '박하선의 매력', 강남 '이상화의 취향' (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190537</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=190537</guid>
@@ -1026,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203023800_6a2d4be80ef08f6a26f15f45bd304a89_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 순탄치 않은 장민호-김갑수 부자의 설빔 장만, 과연 성공할 수 있을까? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190228</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190228</guid>
-            <pubDate>Wed, 02 Feb 2022 18:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190228">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203022834_0d4129f1cd472a964707f581dd951c4a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190228">[갓파더] 순탄치 않은 장민호-김갑수 부자의 설빔 장만, 과연 성공할 수 있을까?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203022834_0d4129f1cd472a964707f581dd951c4a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
