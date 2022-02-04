@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 22:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 23:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국인의 노래-최불암 편’  최백호 깜짝 등장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190524</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190524</guid>
+            <pubDate>Fri, 04 Feb 2022 23:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190524">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204172002_d213324c6b196f3bdd7134fe8f64bdd0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190524">‘한국인의 노래-최불암 편’  최백호 깜짝 등장  </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204172002_d213324c6b196f3bdd7134fe8f64bdd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연중 라이브] 닮은꼴로 시작된 인연 ‘강동원-주원’ 도플갱어 스타★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190614</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204082932_02ad40063c0746df11023a70f4095a8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한 번쯤 멈출 수밖에] 좋은 여행의 행운과도 같은 곽도원과의 만남!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190353</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190353</guid>
-            <pubDate>Thu, 03 Feb 2022 17:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190353">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204012624_d92b5d168c23562791f49977aadf0f8f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190353">[한 번쯤 멈출 수밖에] 좋은 여행의 행운과도 같은 곽도원과의 만남!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204012624_d92b5d168c23562791f49977aadf0f8f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
