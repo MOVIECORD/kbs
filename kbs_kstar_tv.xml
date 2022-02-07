@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 21:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 22:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안효섭-김세정-김민규-설인아, ‘사내맞선’ 컬러풀 커플 스토리]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190937</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190937</guid>
+            <pubDate>Mon, 07 Feb 2022 22:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190937">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208053718_54cf9fc5b55d4d6689e6cfdf5b9f40b4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190937">안효섭-김세정-김민규-설인아, ‘사내맞선’ 컬러풀 커플 스토리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208053718_54cf9fc5b55d4d6689e6cfdf5b9f40b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정지훈-김범, 일생일대의 위기 마주하다!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190903</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189934">지수, '호수여대' 새드 엔딩 히로인</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220131124421_f6218264dcc8458d06dc508122c2f5d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“새해 복 많이 받으시고, ‘사내맞선’  보세요"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189927</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189927</guid>
-            <pubDate>Mon, 31 Jan 2022 05:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189927">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220131123947_39f5cd0dfa0a41b2f4a12152b7ebe7ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189927">“새해 복 많이 받으시고, ‘사내맞선’  보세요"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220131123947_39f5cd0dfa0a41b2f4a12152b7ebe7ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
