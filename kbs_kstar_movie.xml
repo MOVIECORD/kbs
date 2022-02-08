@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 08:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 09:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배트맨이 돌아온다... 3월 1일 로버트 패틴슨으로 세대 교체!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191103</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191103</guid>
+            <pubDate>Tue, 08 Feb 2022 09:01:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191103">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208171256_45b81123b30b00489e19a516fe3ab059.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191103">배트맨이 돌아온다... 3월 1일 로버트 패틴슨으로 세대 교체!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208171256_45b81123b30b00489e19a516fe3ab059.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '지금 우리 학교는' 박지후의 동료애 "살수차, 강풍기 맞으면서도 즐거웠다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191097</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191097</guid>
+            <pubDate>Tue, 08 Feb 2022 09:01:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191097">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208153532_bf84c1c25c9d21930b7cab6c1bbf9eb6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191097">[인터뷰] '지금 우리 학교는' 박지후의 동료애 "살수차, 강풍기 맞으면서도 즐거웠다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208153532_bf84c1c25c9d21930b7cab6c1bbf9eb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김의성 주진우 ‘광장의 함성, 촛불의 뜨거움’ (영화 ‘나의 촛불’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191078</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190433">라미란, 이서진만을 위한 내조의 여왕!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204095210_895b78bc90fa3ee0b28919f50e3501df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기예르모 델 토로의 마스터피스 '나이트메어 앨리' 2월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190385</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190385</guid>
-            <pubDate>Fri, 04 Feb 2022 00:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190385">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204084615_cd59a7baaa0c63fbb681ef52f1bc9db9_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190385">기예르모 델 토로의 마스터피스 '나이트메어 앨리' 2월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204084615_cd59a7baaa0c63fbb681ef52f1bc9db9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석-이선균-유재명, '행복의 나라' 촬영 끝!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190379</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190379</guid>
-            <pubDate>Fri, 04 Feb 2022 00:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190379">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204083850_5accff44e7eaa43cb6cb6a69e7bdeabb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190379">조정석-이선균-유재명, '행복의 나라' 촬영 끝!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204083850_5accff44e7eaa43cb6cb6a69e7bdeabb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
