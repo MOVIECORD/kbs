@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 06:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 07:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃 피면' 유승호 '애틋한 로맨스, 짜릿한 액션']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191278</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191278</guid>
+            <pubDate>Wed, 09 Feb 2022 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191278">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209140356_b1e44d1e0b738a4a66ff8ac4cf4f0be3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191278">'꽃 피면' 유승호 '애틋한 로맨스, 짜릿한 액션'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209140356_b1e44d1e0b738a4a66ff8ac4cf4f0be3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[꽃 피면 달 생각하고] 진실에 다가서는 이혜리, 해결의 실마리 품은 박아인에 도움 요청]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191143</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206233658_4c16d9f46eed65396a610f7ddd78be1d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 김태균X강민호 야구 레전드들의 자존심을 건 팔씨름! (feat. 패자 가족 울음바다)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190778</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190778</guid>
-            <pubDate>Sun, 06 Feb 2022 15:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190778">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206232252_ce17218ecfd49e6c81e77003cf04dd1d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190778">[슈퍼맨이 돌아왔다] 김태균X강민호 야구 레전드들의 자존심을 건 팔씨름! (feat. 패자 가족 울음바다)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206232252_ce17218ecfd49e6c81e77003cf04dd1d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
