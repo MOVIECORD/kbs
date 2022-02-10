@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095306_289fa94b95bfc1ea606f168db34e9b1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서현의 넷플릭스 드라마 '모럴센스']]></title>
+            <title><![CDATA[서현의 넷플릭스 영화 '모럴센스']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191392</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=191392</guid>
             <pubDate>Thu, 10 Feb 2022 01:50:50 GMT</pubDate>
@@ -88,7 +88,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191392">서현의 넷플릭스 드라마 '모럴센스'  </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191392">서현의 넷플릭스 영화 '모럴센스'  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210093322_40ff5543cdf3de897829bfabbff13d99_1.jpg" length="0" type="image/jpg"/>
         </item>
