@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크, 스페셜 무비 ‘HORN’ CGV 단독상영 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191616</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191616</guid>
+            <pubDate>Fri, 11 Feb 2022 03:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191616">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211110045_9e267da502cae31daeb5bca344b5eecd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191616">에이핑크, 스페셜 무비 ‘HORN’ CGV 단독상영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211110045_9e267da502cae31daeb5bca344b5eecd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓차 캠퍼스 로맨스, '시맨틱 에러' 박서함X박재찬 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191598</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191248">덱스터 스튜디오-메가박스가 만드는 한국형 히어로물 '머털도사'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209094524_4b9b8ab0a544d203b327b13b74a4b940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백수가 된 박해준, 챙겨주는 건 이승준뿐? (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191232</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191232</guid>
-            <pubDate>Wed, 09 Feb 2022 10:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191232">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209093002_89400242dd0cbb05243edbe5cb3db1f7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191232">백수가 된 박해준, 챙겨주는 건 이승준뿐?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209093002_89400242dd0cbb05243edbe5cb3db1f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1998년의 청춘, 드라마 ‘스물다섯 스물하나’ (KBS연예 ─ TVs)]]></title>
