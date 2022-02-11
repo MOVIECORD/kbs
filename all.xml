@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 윤찬영의 액션 자신감 "로몬 형보다 달리기 빠르다" '지금 우리 학교는' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191663</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191663</guid>
+            <pubDate>Fri, 11 Feb 2022 06:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191663">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142724_f3bce97c57b165a679af92caf37a87e4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191663">[인터뷰] 윤찬영의 액션 자신감 "로몬 형보다 달리기 빠르다" '지금 우리 학교는'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142724_f3bce97c57b165a679af92caf37a87e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 조이현 “최남라 반장은 좀비狂” (넷플릭스 지금 우리 학교는) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191626</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191626</guid>
+            <pubDate>Fri, 11 Feb 2022 06:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191626">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211135944_eaa77e531ac046330876499fb0dcf596.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191626">[인터뷰] 조이현 “최남라 반장은 좀비狂” (넷플릭스 지금 우리 학교는)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211135944_eaa77e531ac046330876499fb0dcf596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제작발표회] 아버지 김갑수, '갓파더' 장민호 이어 백수 박해준 아들 삼는다 '아직 최선을 다하지 않았을 뿐' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191648</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191648</guid>
+            <pubDate>Fri, 11 Feb 2022 06:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191648">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211141627_8d4425c34f4375987fa563d9962dcf81.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191648">[제작발표회] 아버지 김갑수, '갓파더' 장민호 이어 백수 박해준 아들 삼는다 '아직 최선을 다하지 않았을 뿐'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211141627_8d4425c34f4375987fa563d9962dcf81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이핑크, 스페셜 무비 ‘HORN’ CGV 단독상영 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191616</link>
@@ -295,57 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191268">[리뷰] '피그' 모든 것을 잃은 니콜라스 케이지... 돼지 찾아 삼만리</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209120235_035da7e100230e7bd0765da900c7aa21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신] 아카데미 시상식 후보 발표...'듄'부터 '파워 오브 도그'까지 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191259</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191259</guid>
-            <pubDate>Wed, 09 Feb 2022 10:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191259">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209111751_a340e12aec92f91adc64ef21629ca57a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191259">[외신] 아카데미 시상식 후보 발표...'듄'부터 '파워 오브 도그'까지</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209111751_a340e12aec92f91adc64ef21629ca57a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소년심판' 박보경 "부모로서 소년 범죄에 대해 다각적인 시선 갖게 됐다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191253</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191253</guid>
-            <pubDate>Wed, 09 Feb 2022 10:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191253">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209094945_5a050b32bd2a7ba7699ecdf8fc35cdb5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191253">'소년심판' 박보경 "부모로서 소년 범죄에 대해 다각적인 시선 갖게 됐다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209094945_5a050b32bd2a7ba7699ecdf8fc35cdb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덱스터 스튜디오-메가박스가 만드는 한국형 히어로물 '머털도사' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191248</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191248</guid>
-            <pubDate>Wed, 09 Feb 2022 10:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191248">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209094524_4b9b8ab0a544d203b327b13b74a4b940.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191248">덱스터 스튜디오-메가박스가 만드는 한국형 히어로물 '머털도사'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209094524_4b9b8ab0a544d203b327b13b74a4b940.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진선규 주연 '악의 마음을 읽는 자들'...범죄행동분석팀 리더로 변신한 그의 카리스마! (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206112338_b247fdd1f8a9410d4ed57e4deecce63b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[베이징] 비인기 종목의 피, 땀, 눈물 KBS에 담다 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191655</guid>
+            <pubDate>Fri, 11 Feb 2022 06:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142137_a5a5e267152bacbc55003842995ad4a9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191655">[베이징] 비인기 종목의 피, 땀, 눈물 KBS에 담다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142137_a5a5e267152bacbc55003842995ad4a9_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘유스케’ 특급라인업 "박정현 빅마마 소연 나비" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191606</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=191606</guid>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208013702_d1f38c2e7d594aaf25e98862095ba503_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 동거 적응 못하는 각자의 반려견 사이에서 갈등 겪는 신혼부부 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190914</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190914</guid>
-            <pubDate>Mon, 07 Feb 2022 17:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190914">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208012447_9892f3d82d673f774c71b31962d320e4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190914">[개는 훌륭하다] 동거 적응 못하는 각자의 반려견 사이에서 갈등 겪는 신혼부부</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208012447_9892f3d82d673f774c71b31962d320e4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
