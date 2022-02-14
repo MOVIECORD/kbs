@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 11:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 12:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산 남자 정우가 돌아온다...밑바닥 건달들의 '뜨거운 피' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192036</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192036</guid>
+            <pubDate>Mon, 14 Feb 2022 12:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192036">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214173518_5424f425b8dcb273bdd872067ca986c4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192036">부산 남자 정우가 돌아온다...밑바닥 건달들의 '뜨거운 피'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214173518_5424f425b8dcb273bdd872067ca986c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마블 '문나이트' 슈퍼볼 예고편 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192005</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192005</guid>
+            <pubDate>Mon, 14 Feb 2022 12:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192005">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214161149_b44f48d390858f087b8fa43c5e4625da.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192005">마블 '문나이트' 슈퍼볼 예고편 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214161149_b44f48d390858f087b8fa43c5e4625da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정수빈, '너와 나의 경찰수업' 경찰대학 조교 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191994</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191456">송승헌 빌런 된다, 넷플릭스 '택배기사'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210140735_61bfa6e15dc52fcd70093b14bb12ded9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 김지석 감독 ‘그들이 태백으로 간 까닭은’ (온 세상이 하얗다) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191441</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191441</guid>
-            <pubDate>Thu, 10 Feb 2022 07:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191441">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210135830_921869b040ba142eae0151d1f9fb3788.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191441">[인터뷰] 김지석 감독 ‘그들이 태백으로 간 까닭은’ (온 세상이 하얗다)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210135830_921869b040ba142eae0151d1f9fb3788.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박희순, 디즈니 플러스 '무빙' 출연 확정...임무 완수 위해 모든 것 건다 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191422</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191422</guid>
-            <pubDate>Thu, 10 Feb 2022 01:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191422">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095306_289fa94b95bfc1ea606f168db34e9b1f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191422">박희순, 디즈니 플러스 '무빙' 출연 확정...임무 완수 위해 모든 것 건다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095306_289fa94b95bfc1ea606f168db34e9b1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외로운 이동휘 "'놀면 뭐하니' 전 1년 반 정도 일을 쉬었다" (KBS연예 ─ TVs)]]></title>
