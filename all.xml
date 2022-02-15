@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211080818_4b740ef8fdf670ebfe09dbc0ee1462b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올 탁구나!  "탁구판, 내가 평정한다" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192110</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192110</guid>
+            <pubDate>Tue, 15 Feb 2022 03:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192110">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215104123_eb93c03d39fb0b4e38fbea7230fc0867.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192110">올 탁구나!  "탁구판, 내가 평정한다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215104123_eb93c03d39fb0b4e38fbea7230fc0867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이성욱, 까칠한 '기상청' 선임예보관 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192100</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192100</guid>
+            <pubDate>Tue, 15 Feb 2022 03:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192100">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215093751_7cd1b9581e833fcc71e2d7ed46a8f57e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192100">이성욱, 까칠한 '기상청' 선임예보관</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215093751_7cd1b9581e833fcc71e2d7ed46a8f57e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외로운 이동휘 "'놀면 뭐하니' 전 1년 반 정도 일을 쉬었다" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192025</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=192025</guid>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191569">퇴폐미의 정석 이수혁...냉혈한 엘리트 저승사자로 변신</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211095144_801761a40e31d0a00717165002f8cf85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1998년의 청춘, 드라마 ‘스물다섯 스물하나’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191527</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191527</guid>
-            <pubDate>Fri, 11 Feb 2022 00:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191527">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211081658_bfab47fa7c97a2bd8373d720479e51a1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191527">1998년의 청춘, 드라마 ‘스물다섯 스물하나’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211081658_bfab47fa7c97a2bd8373d720479e51a1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 전이수 '한 사람만' 종영 소감 "첫 작품을 오랫동안 간직하고 기억하겠다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191434</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191434</guid>
-            <pubDate>Thu, 10 Feb 2022 01:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191434">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095906_c8a446ce4e26e0436cf862fa562f0bd4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191434">배우 전이수 '한 사람만' 종영 소감 "첫 작품을 오랫동안 간직하고 기억하겠다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095906_c8a446ce4e26e0436cf862fa562f0bd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿고 보는 욕설 연기, 에이핑크 은지 "감독님이 칭찬해주시더라" (KBS연예 ─ KBS)]]></title>
