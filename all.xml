@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 21:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 22:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220213105133_4ea6d246877c5c6696dd3d3d6a572f14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[갓파더] ‘MSG워너비’ M.O.M 신곡 뮤비에 최환희가 카메오 출연!! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192449</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192449</guid>
+            <pubDate>Wed, 16 Feb 2022 22:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192449">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217060304_dd13fefc2067c7420acd5448b954ab06_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192449">[갓파더] ‘MSG워너비’ M.O.M 신곡 뮤비에 최환희가 카메오 출연!!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217060304_dd13fefc2067c7420acd5448b954ab06_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[갓파더] 설레는 마음을 안고 눈썰매장으로 겨울 나들이를 떠난 사슴부자! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192445</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=192445</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220213184841_75b85e32273ca549629c1bde64fdde78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 엄청난 막내가 들어왔다~ ‘인우자이저’ 나인우가 외칩니다~ “1박 2일!” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191856</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191856</guid>
-            <pubDate>Sun, 13 Feb 2022 12:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191856">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220213204953_fe5e9eb0b4eb3f4173edc9926698c560_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191856">[1박2일] 엄청난 막내가 들어왔다~ ‘인우자이저’ 나인우가 외칩니다~ “1박 2일!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220213204953_fe5e9eb0b4eb3f4173edc9926698c560_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
