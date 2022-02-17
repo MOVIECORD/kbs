@@ -4,11 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[리뷰] '시라노' 와이라노... 뮤지컬 로맨스의 파국 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[민병훈 감독, 미디어 아트 '영원과 하루' 전시회 연다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192657</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192657</guid>
+            <pubDate>Thu, 17 Feb 2022 10:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192657">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217164603_6e42aed1ea7d1ae09d9c5a149a6a317d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192657">민병훈 감독, 미디어 아트 '영원과 하루' 전시회 연다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217164603_6e42aed1ea7d1ae09d9c5a149a6a317d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 하승리 “나만의 하리, 양궁부 장하리” (넷플릭스 지금 우리 학교는) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192628</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192628</guid>
+            <pubDate>Thu, 17 Feb 2022 10:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192628">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217150754_acb400a93c36fad33136cddcfa7e83d2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192628">[인터뷰] 하승리 “나만의 하리, 양궁부 장하리” (넷플릭스 지금 우리 학교는)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217150754_acb400a93c36fad33136cddcfa7e83d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] '시라노' 와이라노... 뮤지컬 로맨스의 안타까운 비극 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192645</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=192645</guid>
             <pubDate>Thu, 17 Feb 2022 07:02:03 GMT</pubDate>
@@ -20,7 +54,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192645">[리뷰] '시라노' 와이라노... 뮤지컬 로맨스의 파국</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192645">[리뷰] '시라노' 와이라노... 뮤지컬 로맨스의 안타까운 비극</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217154739_0a447cd7829a9aacc079ef69c09af962.jpg" length="0" type="image/jpg"/>
         </item>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192274">[리뷰] '나이트메어 앨리' 기승전결 완벽한 기예르모 델 토로 감독의 서커스 스릴러</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216092648_0b15eb1037719ed2e04e1fbe86c3b5a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최종병기' 김태훈, 이병헌 연출 '최종병기 앨리스' 출연! (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192259</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192259</guid>
-            <pubDate>Wed, 16 Feb 2022 00:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192259">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216090755_bb1347ba11092e0fff870033d8a1a530.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192259">'최종병기' 김태훈, 이병헌 연출 '최종병기 앨리스' 출연!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216090755_bb1347ba11092e0fff870033d8a1a530.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 2022라인업 "오리지널 영화, 오리지널 드라마, TV방송사 콘텐츠,HBO 피콕 작품까지" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192242</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192242</guid>
-            <pubDate>Wed, 16 Feb 2022 00:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192242">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216090056_6aa48361aedecf96fc15546c4fa4ab25.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192242">웨이브 2022라인업 "오리지널 영화, 오리지널 드라마, TV방송사 콘텐츠,HBO 피콕 작품까지"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216090056_6aa48361aedecf96fc15546c4fa4ab25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘눈이 부시게’감독 + ‘나의 아저씨’ 작가, JTBC '나의 해방일지' (KBS연예 ─ TVs)]]></title>
