@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 00:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214082258_6fb6635ec002059c9d2f55472d0093aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[한 번쯤 멈출 수밖에] 이토록 달콤할 수가 – 부여 with 이선희, 이금희, 잔나비 최정훈 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192670</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192670</guid>
+            <pubDate>Fri, 18 Feb 2022 01:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192670">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218105451_1510563917c251a47d742309117d40c2.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192670">[한 번쯤 멈출 수밖에] 이토록 달콤할 수가 – 부여 with 이선희, 이금희, 잔나비 최정훈</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218105451_1510563917c251a47d742309117d40c2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[한 번쯤 멈출 수밖에] 겨울 밤의 낭만을 부여잡을 ‘부여 여행’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192666</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192666</guid>
+            <pubDate>Fri, 18 Feb 2022 01:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192666">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218105148_cb99b8d08559f317c4c0f26e43e587b4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192666">[한 번쯤 멈출 수밖에] 겨울 밤의 낭만을 부여잡을 ‘부여 여행’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218105148_cb99b8d08559f317c4c0f26e43e587b4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한해 "혜리, 태연보다 송은이가 이상형" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192552</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=192552</guid>
@@ -1007,42 +1043,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214143255_03c4ca02c93ee14e0e5694a99ee9c2d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수근 "남사친, 여사친은 세상에서 제일 치사한 거짓말" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191967</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191967</guid>
-            <pubDate>Mon, 14 Feb 2022 05:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191967">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214135238_582b085ffff21616747bfc44ecc506bd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191967">이수근 "남사친, 여사친은 세상에서 제일 치사한 거짓말"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214135238_582b085ffff21616747bfc44ecc506bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아들 장민호, 아버지 김갑수와 찾은 눈썰매장에서 위기 봉착! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191930</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191930</guid>
-            <pubDate>Mon, 14 Feb 2022 01:46:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191930">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214101226_9001b2c38dea6e253fc5dca1bdc98fcb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191930">아들 장민호, 아버지 김갑수와 찾은 눈썰매장에서 위기 봉착!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214101226_9001b2c38dea6e253fc5dca1bdc98fcb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
