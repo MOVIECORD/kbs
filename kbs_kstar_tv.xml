@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 08:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 09:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["노래듣고 받아쓰기가 200회!" ‘놀라운 토요일’ ‘썸띵 뉴’ 특집]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193036</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193036</guid>
+            <pubDate>Sat, 19 Feb 2022 09:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193036">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219120742_3a096de6a9eb0fb2586721e70cec315a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193036">"노래듣고 받아쓰기가 200회!" ‘놀라운 토요일’ ‘썸띵 뉴’ 특집</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219120742_3a096de6a9eb0fb2586721e70cec315a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전참시' 서현, "조용한 모범생 이미지?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192998</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192247">다리 위에 선 김희선과 로운, 그들에게 무슨 일이?</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216090414_921c877a56ba5c3389221f6f4c6c5978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC '서른, 아홉' 손예진-전미도-김지현, 세 친구의 행복한 주말]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192225</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192225</guid>
-            <pubDate>Wed, 16 Feb 2022 00:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192225">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216084504_7d10849235146e18fea03c55441f7de6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192225">JTBC '서른, 아홉' 손예진-전미도-김지현, 세 친구의 행복한 주말 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216084504_7d10849235146e18fea03c55441f7de6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
