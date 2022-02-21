@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱글 대디 만난 이수근 "어머니가 너무 힘들겠다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193292</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193292</guid>
+            <pubDate>Mon, 21 Feb 2022 06:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193292">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221143216_51169a0fbe5c51225641a652493059ea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193292">싱글 대디 만난 이수근 "어머니가 너무 힘들겠다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221143216_51169a0fbe5c51225641a652493059ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 2022 베이징올림픽 "개막식부터 폐막식까지 시청률 1위!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193245</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220195727_63c516278e34c619808b608e75159dd4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘모던허재’, 우리가 몰랐던 농구대통령 허재의 재발견]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193089</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193089</guid>
-            <pubDate>Sun, 20 Feb 2022 01:58:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193089">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085012_c7869fcca634c3b2bd024cb74e09526a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193089">‘모던허재’, 우리가 몰랐던 농구대통령 허재의 재발견</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AA%A8%EB%8D%98%20%ED%97%88%EC%9E%AC">모던 허재</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085012_c7869fcca634c3b2bd024cb74e09526a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
