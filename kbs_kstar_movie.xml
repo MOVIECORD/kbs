@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV '2022 아카데미 기획전' "돈 룩 업,  듄!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193321</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193321</guid>
+            <pubDate>Mon, 21 Feb 2022 09:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193321">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221164003_7e520e6ef8447af1ce649fb56b7388d2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193321">CGV '2022 아카데미 기획전' "돈 룩 업,  듄!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221164003_7e520e6ef8447af1ce649fb56b7388d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['트레이서' 시즌2, 웨이브에서 쾌속 항진]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193314</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193314</guid>
+            <pubDate>Mon, 21 Feb 2022 09:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193314">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221162305_0410c1d49b1c802ec40bc05953064d39.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193314">'트레이서' 시즌2, 웨이브에서 쾌속 항진</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221162305_0410c1d49b1c802ec40bc05953064d39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 이재규 감독 “아이는 부모의 거울, 학교는 우리 사회의 거울” (넷플릭스 지금 우리 학교는)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193276</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192700">[기자간담회] 박정민 "박찬욱 감독 연락받고 띠용~ 했다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218114739_91f718c4ba5c66170e57cf5a672e8f62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민병훈 감독, 미디어 아트 '영원과 하루' 전시회 연다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192657</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192657</guid>
-            <pubDate>Thu, 17 Feb 2022 10:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192657">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217164603_6e42aed1ea7d1ae09d9c5a149a6a317d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192657">민병훈 감독, 미디어 아트 '영원과 하루' 전시회 연다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217164603_6e42aed1ea7d1ae09d9c5a149a6a317d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 하승리 “나만의 하리, 양궁부 장하리” (넷플릭스 지금 우리 학교는)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192628</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192628</guid>
-            <pubDate>Thu, 17 Feb 2022 10:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192628">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217150754_acb400a93c36fad33136cddcfa7e83d2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192628">[인터뷰] 하승리 “나만의 하리, 양궁부 장하리” (넷플릭스 지금 우리 학교는)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217150754_acb400a93c36fad33136cddcfa7e83d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
