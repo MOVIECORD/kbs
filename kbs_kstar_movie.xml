@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 04:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] '소년심판' 내리는 판사 김혜수...망치에 담긴 책임감의 무게]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193547</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193547</guid>
+            <pubDate>Tue, 22 Feb 2022 05:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193547">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222133326_3b955f3355985c061a05c3d3e31cf77a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193547">[제작발표회] '소년심판' 내리는 판사 김혜수...망치에 담긴 책임감의 무게</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222133326_3b955f3355985c061a05c3d3e31cf77a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왓챠 2.0  "영화도, 음악도 웹툰도.  다 계획이 되어 있음”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193524</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193524</guid>
+            <pubDate>Tue, 22 Feb 2022 05:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193524">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222112807_7f0ee722a9bb398b6f788d25c5ad1104_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193524">왓챠 2.0  "영화도, 음악도 웹툰도.  다 계획이 되어 있음” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222112807_7f0ee722a9bb398b6f788d25c5ad1104_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['...경찰수업',  강다니엘과 채수빈의 프로파일링 수업]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193418</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192822">'언차티드' 타티 가브리엘, “한국 관객 분들 감사합니다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218161650_c9d0f8b76c870b3d2be73db6934c7370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자간담회] '스우파' 모니까 찐팬 박정민 "모니카 선생님과 단원분들, 큰 기운 받았다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192737</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192737</guid>
-            <pubDate>Fri, 18 Feb 2022 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192737">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218120039_ab66fef714d8c02483d85a044188046d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192737">[기자간담회] '스우파' 모니까 찐팬 박정민 "모니카 선생님과 단원분들, 큰 기운 받았다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218120039_ab66fef714d8c02483d85a044188046d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자간담회] 아이폰으로 영화 찍은 박찬욱 감독 "짧지만 알차게 만들었다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192732</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192732</guid>
-            <pubDate>Fri, 18 Feb 2022 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192732">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218115422_f5ff152ef51daf716cd8f31b37d45e68.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192732">[기자간담회] 아이폰으로 영화 찍은 박찬욱 감독 "짧지만 알차게 만들었다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218115422_f5ff152ef51daf716cd8f31b37d45e68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
