@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 10:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 11:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 동영상 하나로 인생이 망가진다면? 실화 바탕 '존 덴버 죽이기' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193570</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193570</guid>
+            <pubDate>Tue, 22 Feb 2022 11:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193570">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222154634_00990340ce40f2570b7431b9a86c3d09.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193570">SNS 동영상 하나로 인생이 망가진다면? 실화 바탕 '존 덴버 죽이기'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222154634_00990340ce40f2570b7431b9a86c3d09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작발표회] '소년심판' 내리는 판사 김혜수...망치에 담긴 책임감의 무게 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193547</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192838">'투둠' 넷플릭스 통해 찾아오는 송강 팬미팅!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218162421_2ff55f0097ff07f80f66d011d235653c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['언차티드' 타티 가브리엘, “한국 관객 분들 감사합니다” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192822</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192822</guid>
-            <pubDate>Fri, 18 Feb 2022 19:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192822">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218161650_c9d0f8b76c870b3d2be73db6934c7370.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192822">'언차티드' 타티 가브리엘, “한국 관객 분들 감사합니다”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218161650_c9d0f8b76c870b3d2be73db6934c7370.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 이은지 "달달하면서도 매콤한 사랑 이야기를 소개" (KBS연예 ─ TVs)]]></title>
