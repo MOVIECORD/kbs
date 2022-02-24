@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 박희권 감독 ‘축복의 집’ “이 영화를 극장에서 본다면 축복받을지도...”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193907</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193907</guid>
+            <pubDate>Thu, 24 Feb 2022 01:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193907">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224103501_4420f02a13d4bcc89ff8b40afdc9a9cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193907">[인터뷰] 박희권 감독 ‘축복의 집’ “이 영화를 극장에서 본다면 축복받을지도...” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224103501_4420f02a13d4bcc89ff8b40afdc9a9cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[..경찰수업 #9,10] "게임기 사기범을 잡아라"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193880</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193397">넷플릭스 '소년심판'  '네 명의 판사, 네 개의 신념'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222081259_688859f3a8237acdeac2a3a32d2cff04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CGV '2022 아카데미 기획전' "돈 룩 업,  듄!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193321</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193321</guid>
-            <pubDate>Mon, 21 Feb 2022 09:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193321">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221164003_7e520e6ef8447af1ce649fb56b7388d2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193321">CGV '2022 아카데미 기획전' "돈 룩 업,  듄!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221164003_7e520e6ef8447af1ce649fb56b7388d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
