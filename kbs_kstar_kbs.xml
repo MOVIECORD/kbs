@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 06:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 07:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정은지의 2년 8개월, KBS라디오 '정은지의 가요광장' DJ 하차]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194690</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194690</guid>
+            <pubDate>Mon, 28 Feb 2022 07:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194690">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228154615_615712fcbb22fa8cd205ce2d0c495aca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194690">정은지의 2년 8개월, KBS라디오 '정은지의 가요광장' DJ 하차</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228154615_615712fcbb22fa8cd205ce2d0c495aca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박세리, 잔소리꾼 유남규 감독에게 한마디! "잘못된 교육"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194674</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227202323_8f7c2bd5a0aba4e8a80ff0fd02f5fc80_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] 김용건 집 방문한 MC들... 막내 MC 허재 부려먹는 김숙]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194481</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194481</guid>
-            <pubDate>Sun, 27 Feb 2022 12:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194481">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227201511_f7d3a4668620e126a46e165df7cace8f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194481">[사장님 귀는 당나귀 귀] 김용건 집 방문한 MC들... 막내 MC 허재 부려먹는 김숙</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227201511_f7d3a4668620e126a46e165df7cace8f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
