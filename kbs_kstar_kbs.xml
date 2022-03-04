@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 00:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변기수, '야인시대' 박준규와 '개승자' 무대 꾸린다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=195280</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195280</guid>
+            <pubDate>Fri, 04 Mar 2022 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195280">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304092706_4052483ebdaae9be86524a042ffcc3cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195280">변기수, '야인시대' 박준규와 '개승자' 무대 꾸린다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304092706_4052483ebdaae9be86524a042ffcc3cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이경규와 닭사모, 허재-정근우-손연재 '닭사랑']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=195231</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220303020434_092741c26454fca42e015deaff911ae0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리끼리 작전타임] 환장의 짝꿍 박진용X조정명, 용이명이의 올림픽 도전기!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195101</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195101</guid>
-            <pubDate>Wed, 02 Mar 2022 17:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195101">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220303015522_5c597df76d8d2488630cde37128de450_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195101">[우리끼리 작전타임] 환장의 짝꿍 박진용X조정명, 용이명이의 올림픽 도전기!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9A%B0%EB%A6%AC%EB%81%BC%EB%A6%AC%20%EC%9E%91%EC%A0%84%ED%83%80%EC%9E%84">우리끼리 작전타임</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220303015522_5c597df76d8d2488630cde37128de450_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
