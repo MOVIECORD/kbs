@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷+리뷰] ‘누가 총통을 쏘았나’ 대만 대통령선거 총격사건의 재구성 (티빙) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196331</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196331</guid>
+            <pubDate>Thu, 10 Mar 2022 08:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196331">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310153947_d33fab3f635dcf7ec45d84efd3cf1185.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196331">[넷+리뷰] ‘누가 총통을 쏘았나’ 대만 대통령선거 총격사건의 재구성 (티빙)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310153947_d33fab3f635dcf7ec45d84efd3cf1185.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이다 며느리, '며느라기'에는 어쩔 수 없었나...사직서 제출 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196278</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195492">"소년심판'을 심판하다"  전문가 라이브 토크</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220305202239_49468b0fb798021ac93517f5e87086f5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195381</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195381</guid>
-            <pubDate>Sat, 05 Mar 2022 00:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채식주의자 줄리안, 한국식 친환경 식사법 체험 (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304081325_9e9c9cbdbaf563c7f0d0f7107b736309.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[KBS 웹예능 '매점 터는 아이돌' 스테이씨 퀴즈대결 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196337</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196337</guid>
+            <pubDate>Thu, 10 Mar 2022 08:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196337">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310162842_52a85f92ceec7856774ccde613ce3895_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196337">KBS 웹예능 '매점 터는 아이돌' 스테이씨 퀴즈대결 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310162842_52a85f92ceec7856774ccde613ce3895_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[젠틀 대디 심지호, 일일극 황태자의 아내 사랑 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196318</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=196318</guid>
@@ -1027,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310003645_aa557220b828ef326d174d9fd0328755_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['갓파더' 우혜림, 강주은과 산부인과 방문 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196142</guid>
-            <pubDate>Wed, 09 Mar 2022 00:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220309085851_0b055a56ecf77e6a31b8dba7d769c324.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196142">'갓파더' 우혜림, 강주은과 산부인과 방문</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220309085851_0b055a56ecf77e6a31b8dba7d769c324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
