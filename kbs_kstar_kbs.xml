@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 00:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 02:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰&인터뷰] 독립영화관 '구조원들' (심현석 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196524</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196524</guid>
+            <pubDate>Fri, 11 Mar 2022 02:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196524">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311103601_a801d4f4f21eb72f32c72c236606f84d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196524">[리뷰&amp;인터뷰] 독립영화관 '구조원들' (심현석 감독)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311103601_a801d4f4f21eb72f32c72c236606f84d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["오늘의 스케치북" 장기하 X 이승윤 X 포레스텔라 X 너드커넥션]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196476</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310022325_c90eff9c4fa669f52df7f60d0cfff0f9_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 강주은X우혜림, 아쉬워하는 엄마를 위해 즉석에서 연결된 영상통화!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196207</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196207</guid>
-            <pubDate>Wed, 09 Mar 2022 19:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196207">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310021435_5d1c447e378c98a91b9add8db0ef9257.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196207">[갓파더] 강주은X우혜림, 아쉬워하는 엄마를 위해 즉석에서 연결된 영상통화! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310021435_5d1c447e378c98a91b9add8db0ef9257.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
