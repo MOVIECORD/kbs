@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 08:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308080709_a56725e314b07b753b2cd48f39bbb183.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘악의 마음을 읽는 자들’ 정만식 재등장 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196592</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196592</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196592">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311174928_522f5c70809de8b3a44472cab240c1fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196592">‘악의 마음을 읽는 자들’ 정만식 재등장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311174928_522f5c70809de8b3a44472cab240c1fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울예대 복도남 이무진, 현실감 넘치는 찐 대학생 생활 공개! (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196573</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196573</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196573">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311153225_36c8ad92371e79b4520146f262bb4b20.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196573">서울예대 복도남 이무진, 현실감 넘치는 찐 대학생 생활 공개!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311153225_36c8ad92371e79b4520146f262bb4b20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제작발표회] 배우 진구 3년 만의 컴백, 연쇄살인마 이원근가 만나다 '우월한 하루' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196551</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196551">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152120_7244f50349beb9a20d3769c4bc32355d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196551">[제작발표회] 배우 진구 3년 만의 컴백, 연쇄살인마 이원근가 만나다 '우월한 하루'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152120_7244f50349beb9a20d3769c4bc32355d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MBTI I형 유재석 소신 발언..."E들은 에너지가 넘쳐서 너무 피곤해" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196517</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=196517</guid>
@@ -637,55 +688,75 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307161839_5ebf3e8dbe43e3114317162773ee67d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬또배기 이찬원, 코로나 확진으로 자리 비운 지석진 대신 일일 MC로 활약! (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195712</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195712</guid>
-            <pubDate>Mon, 07 Mar 2022 04:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195712">	<span class="img-box hh">
+            <title><![CDATA[[리뷰&인터뷰] 독립영화관 - 무협은 이제 관뒀어 (감독: 장형윤) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196586</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196586</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196586">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307112411_8123ca75b6d9d0c54e272f3231eef838.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311173030_44ad743d7374d0d2151c266a0f433e60.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195712">찬또배기 이찬원, 코로나 확진으로 자리 비운 지석진 대신 일일 MC로 활약!</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196586">[리뷰&amp;인터뷰] 독립영화관 - 무협은 이제 관뒀어 (감독: 장형윤)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307112411_8123ca75b6d9d0c54e272f3231eef838.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311173030_44ad743d7374d0d2151c266a0f433e60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노희경 옴니버스 드라마 ‘우리들의 블루스’, 4월 9일 첫 방송 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195681</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195681</guid>
-            <pubDate>Mon, 07 Mar 2022 04:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195681">	<span class="img-box hh">
+            <title><![CDATA[정상훈-정성호, 성대모사 장인들이 펼치는 김상중 성대모사 대결! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196567</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196567</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196567">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307100811_636e3d8feeae19339f16ba1a0dd986a7.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152952_19ae5478e39f3b7874b40c3060d26fbd.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195681">노희경 옴니버스 드라마 ‘우리들의 블루스’, 4월 9일 첫 방송</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196567">정상훈-정성호, 성대모사 장인들이 펼치는 김상중 성대모사 대결!</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307100811_636e3d8feeae19339f16ba1a0dd986a7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152952_19ae5478e39f3b7874b40c3060d26fbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['인절미의 반전' 김태리, “나 널 가져야겠어!” (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195676</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195676</guid>
-            <pubDate>Mon, 07 Mar 2022 04:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195676">	<span class="img-box hh">
+            <title><![CDATA[찜질방에서 '1박 2일'~ 지옥과 힐링 오가는 대결 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196561</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196561</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196561">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307100452_05de292c8699c31864bc317c529187d2.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152717_a77bd6328706216f315306ad705a9408.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195676">'인절미의 반전' 김태리, “나 널 가져야겠어!”</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196561">찜질방에서 '1박 2일'~ 지옥과 힐링 오가는 대결</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307100452_05de292c8699c31864bc317c529187d2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152717_a77bd6328706216f315306ad705a9408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 좋아하는 최연소 아미 싱어...한가인 싱어부터 국악 싱어까지! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196556</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196556</guid>
+            <pubDate>Fri, 11 Mar 2022 09:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196556">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152443_70b1cb88d23d153c75b71eabdf968811.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196556">방탄소년단 좋아하는 최연소 아미 싱어...한가인 싱어부터 국악 싱어까지!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B5%AD%EB%AF%BC%EB%8F%99%EC%9A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%84%EA%B8%B0%EC%8B%B1%EC%96%B4">국민동요 프로젝트 아기싱어</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152443_70b1cb88d23d153c75b71eabdf968811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰&인터뷰] 독립영화관 '구조원들' (심현석 감독) (KBS연예 ─ KBS)]]></title>
@@ -972,78 +1043,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310100326_8fb37c72dcf7aacc2fcbaa89189fea29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사, 선배 가수 이선희 애정 듬뿍 받아...집밥 쿠폰 증정! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196263</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196263</guid>
-            <pubDate>Thu, 10 Mar 2022 02:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196263">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310094743_253bb30cfde1a3bef71d2dfcd8bf052f_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196263">화사, 선배 가수 이선희 애정 듬뿍 받아...집밥 쿠폰 증정!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310094743_253bb30cfde1a3bef71d2dfcd8bf052f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차민지, 일일극 '으라차차 내 인생' 캐스팅 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196243</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196243</guid>
-            <pubDate>Thu, 10 Mar 2022 00:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196243">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310092042_40b730a9ad6315e655de3becfcde325c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196243">차민지, 일일극 '으라차차 내 인생' 캐스팅</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%82%B4%20%EC%9D%B8%EC%83%9D">일일연속극 으라차차 내 인생</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310092042_40b730a9ad6315e655de3becfcde325c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인의 '초록' 밥상, 해조류 밥상 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195946</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195946</guid>
-            <pubDate>Wed, 09 Mar 2022 23:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195946">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308095652_31be0a3e0f338f743cd756c12f9c039d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195946">한국인의 '초록' 밥상, 해조류 밥상</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%98%20%EB%B0%A5%EC%83%81">한국인의 밥상</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308095652_31be0a3e0f338f743cd756c12f9c039d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 영화 배우로 데뷔한 KCM의 떨리는 첫 시사회 현장 대공개! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196211</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196211</guid>
-            <pubDate>Wed, 09 Mar 2022 19:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196211">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310022325_c90eff9c4fa669f52df7f60d0cfff0f9_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196211">[갓파더] 영화 배우로 데뷔한 KCM의 떨리는 첫 시사회 현장 대공개! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310022325_c90eff9c4fa669f52df7f60d0cfff0f9_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
