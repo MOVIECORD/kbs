@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 03:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308081512_0dc5095fd38cc172d9cc5e7937d7dc17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KBS 새 예능 ‘아기싱어’, “어디서도 본 적 없는 음악 예능” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196700</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196700</guid>
+            <pubDate>Sat, 12 Mar 2022 03:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196700">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312091214_71e06b964fdea13ff7292addcdf21575.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196700">KBS 새 예능 ‘아기싱어’, “어디서도 본 적 없는 음악 예능”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B5%AD%EB%AF%BC%EB%8F%99%EC%9A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%84%EA%B8%B0%EC%8B%B1%EC%96%B4">국민동요 프로젝트 아기싱어</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312091214_71e06b964fdea13ff7292addcdf21575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주상욱, 날 선 대치 “내가 왕이 되고 싶어서다” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196667</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=196667</guid>
@@ -1028,23 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311173030_44ad743d7374d0d2151c266a0f433e60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정상훈-정성호, 성대모사 장인들이 펼치는 김상중 성대모사 대결! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196567</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196567</guid>
-            <pubDate>Fri, 11 Mar 2022 09:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196567">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152952_19ae5478e39f3b7874b40c3060d26fbd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196567">정상훈-정성호, 성대모사 장인들이 펼치는 김상중 성대모사 대결!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311152952_19ae5478e39f3b7874b40c3060d26fbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
