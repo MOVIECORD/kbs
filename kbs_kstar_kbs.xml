@@ -4,9 +4,45 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시사기획 창 "대통령은 말했다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197260</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197260</guid>
+            <pubDate>Tue, 15 Mar 2022 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197260">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315175018_58b9add62938065e97e2f34d51357854_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197260">시사기획 창 "대통령은 말했다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315175018_58b9add62938065e97e2f34d51357854_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["칼을 든 여인~" 정수정, 복수의 여신 거듭나다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197242</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197242</guid>
+            <pubDate>Tue, 15 Mar 2022 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197242">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315172430_34be393f0c10cd852a8cbdeddfd0ae88_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197242">"칼을 든 여인~" 정수정, 복수의 여신 거듭나다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315172430_34be393f0c10cd852a8cbdeddfd0ae88_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["역사를 잊은 민족에게 미래는 없다"는 잘못된 사실?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197206</link>
@@ -330,42 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313235446_09bde3c8a8f9c4113a7ccfc52ba2935e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 삼각관계 한방에 정리...하린의 돌직구 확인! 이서하가 좋아? VS 내가 좋아?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196887</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196887</guid>
-            <pubDate>Sun, 13 Mar 2022 15:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196887">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313234420_c1e8bd6f708437395236483002908bad_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196887">[슈퍼맨이 돌아왔다] 삼각관계 한방에 정리...하린의 돌직구 확인! 이서하가 좋아? VS 내가 좋아?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313234420_c1e8bd6f708437395236483002908bad_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 김태균 둘째딸 하린, 삼각관계에 서러움 폭발 “세현아! 너 나한테 맨날 꽃 줬잖아”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196883</guid>
-            <pubDate>Sun, 13 Mar 2022 15:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196883">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313233922_bbaacf807754090423703e5725eaef40_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196883">[슈퍼맨이 돌아왔다] 김태균 둘째딸 하린, 삼각관계에 서러움 폭발 “세현아! 너 나한테 맨날 꽃 줬잖아”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313233922_bbaacf807754090423703e5725eaef40_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
