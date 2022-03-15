@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 22:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 23:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,11 +688,29 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311094837_c91c2ff71af9fefdc4804e82ed635bb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강원도 삼척 점리마을 '연탄배달' 일꾼의 탄생 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197253</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197253</guid>
+            <pubDate>Tue, 15 Mar 2022 23:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197253">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315174308_55392fa157670daa5fa2dd0e0d8dd183.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197253">강원도 삼척 점리마을 '연탄배달' 일꾼의 탄생</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%AF%BC%20%EB%AF%BC%EC%9B%90%ED%95%B4%EA%B2%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EA%BE%BC%EC%9D%98%20%ED%83%84%EC%83%9D">전국민 민원해결 프로젝트 일꾼의 탄생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315174308_55392fa157670daa5fa2dd0e0d8dd183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤시윤 배다빈의 주말책임 '현재는 아름다워' (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197272</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197272</guid>
             <pubDate>Tue, 15 Mar 2022 21:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" alt="대체 텍스트">
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315002217_878501b33ecfd697f00e0cbbd01aba75.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 언제 터질지 모르는 입질 사태… 하루하루 긴장 속에 살아가는 모녀 보호자 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197078</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197078</guid>
-            <pubDate>Mon, 14 Mar 2022 16:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197078">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001856_48262443cbe72101532f54f83f02d4b1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197078">[개는 훌륭하다] 언제 터질지 모르는 입질 사태… 하루하루 긴장 속에 살아가는 모녀 보호자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001856_48262443cbe72101532f54f83f02d4b1_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
