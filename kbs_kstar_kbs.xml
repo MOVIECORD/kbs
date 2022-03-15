@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 21:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤시윤 배다빈의 주말책임 '현재는 아름다워']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197272</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197272</guid>
+            <pubDate>Tue, 15 Mar 2022 21:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">윤시윤 배다빈의 주말책임 '현재는 아름다워'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] “의자왕과 삼천 궁녀 이야기는 거짓” 심용환의 역사 속 진실 파헤치기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197338</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001856_48262443cbe72101532f54f83f02d4b1_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 웰시코기 남길이와 은우의 피를 부르는 공격성 “몸에 안 물린 곳이 없다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197073</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197073</guid>
-            <pubDate>Mon, 14 Mar 2022 16:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197073">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001702_c8484d2990167e974242a70d6851cf26_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197073">[개는 훌륭하다] 웰시코기 남길이와 은우의 피를 부르는 공격성 “몸에 안 물린 곳이 없다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001702_c8484d2990167e974242a70d6851cf26_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
