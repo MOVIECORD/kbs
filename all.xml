@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 16:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311094837_c91c2ff71af9fefdc4804e82ed635bb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[옥탑방의 문제아들] “의자왕과 삼천 궁녀 이야기는 거짓” 심용환의 역사 속 진실 파헤치기 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197338</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197338</guid>
+            <pubDate>Tue, 15 Mar 2022 17:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197338">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316015624_30608d192b78a7b34223d4f1907a836e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197338">[옥탑방의 문제아들] “의자왕과 삼천 궁녀 이야기는 거짓” 심용환의 역사 속 진실 파헤치기</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316015624_30608d192b78a7b34223d4f1907a836e_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[옥탑방의 문제아들] 흥미진진한 이야기들이 가득! 역사 읽어주는 남자들 곽재식&심용환 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197333</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197333</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315001702_c8484d2990167e974242a70d6851cf26_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[크레이지 러브] 뇌종양 증세 심해지는 정수정, 복수와 가족 사이에서 고민하는 그녀 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197068</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197068</guid>
-            <pubDate>Mon, 14 Mar 2022 15:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197068">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314231203_377e5cdfa42eccdb2467a2579e541d86_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197068">[크레이지 러브] 뇌종양 증세 심해지는 정수정, 복수와 가족 사이에서 고민하는 그녀</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314231203_377e5cdfa42eccdb2467a2579e541d86_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
