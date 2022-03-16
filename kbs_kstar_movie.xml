@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,7 +148,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197201</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197201</guid>
             <pubDate>Tue, 15 Mar 2022 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197201">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197201">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315105703_e2e003f3a3026bfd89e005562fa049b4_1.jpg" alt="대체 텍스트">
@@ -165,7 +165,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197171</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197171</guid>
             <pubDate>Tue, 15 Mar 2022 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197171">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197171">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315100345_4e7a3608e80723bb3af5cb25d5ed22c1.jpg" alt="대체 텍스트">
@@ -318,7 +318,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196936</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=196936</guid>
             <pubDate>Mon, 14 Mar 2022 02:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196936">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196936">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314085220_15b09176673c00d3f2d03028ef659551.jpg" alt="대체 텍스트">
