@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[배우 손소망 '너와 나의 경찰수업' 종영 소감 "진심으로 감사" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197621</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197621</guid>
-            <pubDate>Thu, 17 Mar 2022 05:02:01 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 06:03:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197621">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
@@ -348,40 +348,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315082214_b60a64f1f525ac7ea657181c085808f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이광수 코믹호러 드라마 ‘살인자의 쇼핑목록’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197564</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197564</guid>
-            <pubDate>Thu, 17 Mar 2022 05:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197564">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317075825_2e56b8f0a6d33857666dac7c0358c298_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197564">이광수 코믹호러 드라마 ‘살인자의 쇼핑목록’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317075825_2e56b8f0a6d33857666dac7c0358c298_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이병헌 트럭만물상 변신, 노희경 드라마 ‘우리들의 블루스' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197627</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197627</guid>
-            <pubDate>Thu, 17 Mar 2022 05:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197627">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317124813_a6680440f886a08be8b93f091adb038e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197627">이병헌 트럭만물상 변신, 노희경 드라마 ‘우리들의 블루스'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317124813_a6680440f886a08be8b93f091adb038e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["진짜와 가짜" 육감현혹 버라이어티 '식스센스3' (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197558</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197558</guid>
@@ -688,10 +654,44 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312205822_3e74d669c7e93bf1cbdabb0c993f9097_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진구와 하도권, "놀라운 토요일" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196718</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196718</guid>
+            <pubDate>Sat, 12 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196718">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312204525_6909a884fc80cbed09ff7f3127a2ea25.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196718">진구와 하도권, "놀라운 토요일"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312204525_6909a884fc80cbed09ff7f3127a2ea25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["우주 플리즈~" 려운 종영소감,  '악의 마음을 읽는 행복했던 시간' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196713</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196713</guid>
+            <pubDate>Sat, 12 Mar 2022 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196713">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312203900_43d59e7093cb55647aa3151a4bef93da.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196713"> "우주 플리즈~" 려운 종영소감,  '악의 마음을 읽는 행복했던 시간'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220312203900_43d59e7093cb55647aa3151a4bef93da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 박솔미, 누아르 영화 뺨치는 뼈 해체쇼 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197610</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197610</guid>
-            <pubDate>Thu, 17 Mar 2022 05:02:16 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 06:04:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197610">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
