@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 안소요, ‘아직 최선을 다하지 않았을 뿐’  캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197642</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197642</guid>
+            <pubDate>Thu, 17 Mar 2022 07:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197642">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317160020_b6c06e7048843100316e85057dfce46d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197642">신예 안소요, ‘아직 최선을 다하지 않았을 뿐’  캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317160020_b6c06e7048843100316e85057dfce46d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 손소망 '너와 나의 경찰수업' 종영 소감 "진심으로 감사"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197621</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197117">박형식 "짝사랑이 로맨스로, 사운드트랙 #1 재밌게 촬영했어요"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315091939_25c912901cfb089a319d0bcd186bb176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤여정, 애플TV+ '파친코' 열연 "내 이름은 선자"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197103</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197103</guid>
-            <pubDate>Tue, 15 Mar 2022 00:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197103">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315082214_b60a64f1f525ac7ea657181c085808f6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197103">윤여정, 애플TV+ '파친코' 열연 "내 이름은 선자"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315082214_b60a64f1f525ac7ea657181c085808f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
