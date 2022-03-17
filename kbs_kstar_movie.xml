@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 00:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ <너와 나의 경찰수업> "뜨거운 청춘들, 열정의 피날레"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197584</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197584</guid>
+            <pubDate>Thu, 17 Mar 2022 00:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197584">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317081713_a4a020a0636bc7193145693aac11b745.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197584">디즈니+ &lt;너와 나의 경찰수업&gt; "뜨거운 청춘들, 열정의 피날레"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317081713_a4a020a0636bc7193145693aac11b745.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '소년심판' 글로벌 신드롬은 계속된다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197546</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196954">[리뷰] 이상한 나라의 수학자 “오늘은 파이(π)데이”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314112410_444056eb3bf70debb1a7754bfc1af0a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김남길-서현-유재명, 넷플릭스 시리스 '도적: 칼의 소리' 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196947</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196947</guid>
-            <pubDate>Mon, 14 Mar 2022 02:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196947">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314093514_c6aea88099e96af40f4c858f5cd41f10.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196947">김남길-서현-유재명, 넷플릭스 시리스 '도적: 칼의 소리' 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314093514_c6aea88099e96af40f4c858f5cd41f10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
