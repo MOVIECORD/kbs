@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 04:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 05:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317073705_6e1ed30d3732c9158241868a5125a80d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김지연(보나)의 매력, 고유림의 매력 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198063</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198063</guid>
+            <pubDate>Sun, 20 Mar 2022 05:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198063">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320074356_c2bc36615a8e2f12fb7e03e3208e3897.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198063">김지연(보나)의 매력, 고유림의 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320074356_c2bc36615a8e2f12fb7e03e3208e3897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부살인업자 하도권의 ‘우월한 하루’ (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197915</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197915</guid>
+            <pubDate>Sun, 20 Mar 2022 05:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197915">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319083859_db03f64ad4eee9d33f2dc04937556e13.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197915">청부살인업자 하도권의 ‘우월한 하루’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319083859_db03f64ad4eee9d33f2dc04937556e13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보이그룹 데뷔 서바이벌 '디 오리진' 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197969</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197969</guid>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197266">tvN 벌거벗은 세계사, "미국은 왜 독립하게 되었나?"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315175526_ef3ac4985bd747b0bea3c5a50520c05f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴에 상처 난 안보현, 난투극 벌어진 사연은? (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197195</guid>
-            <pubDate>Tue, 15 Mar 2022 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197195">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315102216_1c4aa74eb972c4463e178be743d94d86.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197195">얼굴에 상처 난 안보현, 난투극 벌어진 사연은?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315102216_1c4aa74eb972c4463e178be743d94d86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가단이 탄생시킨 명품 OST, 스페셜한 음색의 향연 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197190</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197190</guid>
-            <pubDate>Tue, 15 Mar 2022 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197190">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315101715_403eebb6e5331b773b99989a089f13c9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197190">국가단이 탄생시킨 명품 OST, 스페셜한 음색의 향연 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315101715_403eebb6e5331b773b99989a089f13c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역사저널 그날, "소련의 탄생, 러시아-우크라이나 갈등의 싹" (KBS연예 ─ KBS)]]></title>
