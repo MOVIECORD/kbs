@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이글이글 한화이글스" 3,845시간의 뜨거운 기록 '한화이글스:클럽하우스' 제작발표회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198887</guid>
+            <pubDate>Wed, 23 Mar 2022 23:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198887">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324073709_40c43cad71f26c0b98f61bf9efebec16_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198887">"이글이글 한화이글스" 3,845시간의 뜨거운 기록 '한화이글스:클럽하우스' 제작발표회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324073709_40c43cad71f26c0b98f61bf9efebec16_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곽도원+윤두준, 휴먼 코믹드라마 '구필수는 없다']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198783</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198195">천우희-신하균, 미스터리 스릴러 '앵커' 4월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321084737_3a0aa09e0c87df91f505175de0263c9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["웰컴 서울"  이효리, 제주에서 서울로  <서울체크인>]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198190</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198190</guid>
-            <pubDate>Mon, 21 Mar 2022 04:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198190">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321083206_ad074ff8d7251c431f462302ec21457c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198190">"웰컴 서울"  이효리, 제주에서 서울로  &lt;서울체크인&gt;</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321083206_ad074ff8d7251c431f462302ec21457c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
