@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 13:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319094530_9d80ff4f3526e8ed568edf204be1bd4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 발연기로 고통 받은 이창훈, 욕 먹은 사연! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198836</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198836</guid>
+            <pubDate>Wed, 23 Mar 2022 14:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198836">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323225914_f2fd922ea6db1b8b089a66f67a72a56d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198836">[박원숙의 같이 삽시다 시즌3] 발연기로 고통 받은 이창훈, 욕 먹은 사연!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323225914_f2fd922ea6db1b8b089a66f67a72a56d.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['파란만장, 고군분투, 그럼에도'  희망찬 드라마 <으라차차 내 인생> 내달 11일 첫 방송 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198791</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=198791</guid>
@@ -1025,24 +1043,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198567"> 하이라이트, ‘가요광장’ 완전체 출격 "이것이 DAYDREAM"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322154308_004eeabb45776b3987c2cc8e1ca541fe.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['붉은 단심' 이준, 절대 군주를 꿈꾸는 왕 ‘이태’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198509</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198509</guid>
-            <pubDate>Tue, 22 Mar 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198509">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322085521_59844e40fc91aadd9d9db6de00d3d641.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198509">'붉은 단심' 이준, 절대 군주를 꿈꾸는 왕 ‘이태’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화 드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322085521_59844e40fc91aadd9d9db6de00d3d641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
