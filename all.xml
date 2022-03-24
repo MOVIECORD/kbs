@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321103537_99066296a479b1910d9c624153653607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임시완과 전미도의 포옹...배우 도전하는 전미도의 용기 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198965</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198965</guid>
+            <pubDate>Thu, 24 Mar 2022 08:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198965">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324170754_1db1236aeb5427df283e6a8bc03c3d29.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198965">임시완과 전미도의 포옹...배우 도전하는 전미도의 용기</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324170754_1db1236aeb5427df283e6a8bc03c3d29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["1인 가구 40%"  tvN 관찰예능 ‘조립식 가족’ 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198766</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=198766</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197959">'전참시' 박재범, '가나다라' MV 촬영현장 공개 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319124751_a58d7820d9abd87fd011aae57824730c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스물다섯 스물하나'  밀레니엄 앞둔 그들의 마지막 학창시절 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197949</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197949</guid>
-            <pubDate>Sat, 19 Mar 2022 04:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197949">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319094530_9d80ff4f3526e8ed568edf204be1bd4d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197949">'스물다섯 스물하나'  밀레니엄 앞둔 그들의 마지막 학창시절</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319094530_9d80ff4f3526e8ed568edf204be1bd4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문소리, 전주에서 '한 번쯤 멈출 수밖에' (KBS연예 ─ KBS)]]></title>
