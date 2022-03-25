@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 서정적인 감성 보컬로 전하는 '하이라이트' ♪DAYDREAM]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=199197</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199197</guid>
+            <pubDate>Fri, 25 Mar 2022 11:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199197">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220325195320_e7b08441d50ab7b445d8b0917450124e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199197">[뮤직뱅크] 서정적인 감성 보컬로 전하는 '하이라이트' ♪DAYDREAM</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220325195320_e7b08441d50ab7b445d8b0917450124e_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['뮤직뱅크' 접수한 템페스트의 시원한 퍼포먼스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=199193</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324093044_d7d3044fc40ed2f02d52c90d88590699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혁 사극 <붉은 단심>, 조선 최고 권력자 '박계원']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198894</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198894</guid>
-            <pubDate>Thu, 24 Mar 2022 00:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198894">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324085328_32d4a91cdca3012156cae25c3183de6c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198894">장혁 사극 &lt;붉은 단심&gt;, 조선 최고 권력자 '박계원'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220324085328_32d4a91cdca3012156cae25c3183de6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
