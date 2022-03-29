@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 00:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 02:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더보이즈 뉴, '사내맞선' 감성테마송 "봄바람처럼 날 찾아와"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=199701</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199701</guid>
+            <pubDate>Tue, 29 Mar 2022 02:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199701">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074525_d52ee88b885f0f23453ff7c362b22ccc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199701">더보이즈 뉴, '사내맞선' 감성테마송 "봄바람처럼 날 찾아와"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074525_d52ee88b885f0f23453ff7c362b22ccc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["김희선이랑 똑 닮았네~" 라마 작가 '내일' 포스터 공개!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=199767</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198760">‘우리들의 블루스’ 14인 14색 단체 포스터  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323112444_89e93dcad3c379ceee0b632c13801b43_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 해방일지' 손석구, '미스터리 외지인']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198711</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198711</guid>
-            <pubDate>Wed, 23 Mar 2022 03:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198711">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323093327_1620f80c6cebff7d1c2be30017903523_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198711">'나의 해방일지' 손석구, '미스터리 외지인'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323093327_1620f80c6cebff7d1c2be30017903523_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
