@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328144945_48b3fc6bf3a2c3091d4f97535cb932a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[제작발표회] 역주행 신화 브레이브걸스부터 경력직 신입 비비지까지... 최정상 걸그룹들의 치열한 전쟁 '퀸덤2' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200108</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200108</guid>
+            <pubDate>Wed, 30 Mar 2022 05:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200108">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330131330_740b827cf2e4d261e89646c79a729af5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200108">[제작발표회] 역주행 신화 브레이브걸스부터 경력직 신입 비비지까지... 최정상 걸그룹들의 치열한 전쟁 '퀸덤2'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330131330_740b827cf2e4d261e89646c79a729af5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['어게인 마이 라이프' 원작자 이해날 작가 "드라마화, 현실이 돼" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200024</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=200024</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220326125914_2cc7b17620a3f88bf6751cbcea3d406f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[제작발표회] 돈이냐, 사랑이냐 그것이 문제로다 '마이 보이프렌드 이즈 베러' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199165</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199165</guid>
-            <pubDate>Fri, 25 Mar 2022 12:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199165">	<span class="img-box hh">
+            <title><![CDATA[나훈아 등장...'주접이 풍년' 찾은 가황의 자태! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200122</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200122</guid>
+            <pubDate>Wed, 30 Mar 2022 05:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200122">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220325152703_697159226362fe18496413814a22c00a.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330132858_6481e378a4dcea8e2a1c53212537300f.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199165">[제작발표회] 돈이냐, 사랑이냐 그것이 문제로다 '마이 보이프렌드 이즈 베러'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200122">나훈아 등장...'주접이 풍년' 찾은 가황의 자태!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220325152703_697159226362fe18496413814a22c00a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330132858_6481e378a4dcea8e2a1c53212537300f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차예련, 일일드라마 ‘황금 가면’, 21세기 신데렐라 (KBS연예 ─ KBS)]]></title>
@@ -1026,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329005509_d97025f723232392d3d98505be49276e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] ‘내 개가 위험하다고?!’ 믿기 싫지만 전조 증상 보이는 장군이에 결국 눈물 보이는 아내 보호자 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199680</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199680</guid>
-            <pubDate>Mon, 28 Mar 2022 19:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199680">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329005218_a90baf725837ee16b42ddd79ce3f8362_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199680">[개는 훌륭하다] ‘내 개가 위험하다고?!’ 믿기 싫지만 전조 증상 보이는 장군이에 결국 눈물 보이는 아내 보호자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329005218_a90baf725837ee16b42ddd79ce3f8362_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
