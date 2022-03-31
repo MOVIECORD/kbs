@@ -4,9 +4,43 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리-김지연(보나), 펜싱여제의 눈물  “알아, 말 안 해도…”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200401</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200401</guid>
+            <pubDate>Thu, 31 Mar 2022 06:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200401">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331142523_3f811c8e4e9c18387882c6ba0862ee35.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200401">김태리-김지연(보나), 펜싱여제의 눈물  “알아, 말 안 해도…”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331142523_3f811c8e4e9c18387882c6ba0862ee35.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[장도연이 감탄한 이유...뷰캐넌 아내의 요리 솜씨]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200428</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200428</guid>
+            <pubDate>Thu, 31 Mar 2022 06:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200428">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331150402_0f0733bc49ee17178e11400a4e198a6a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200428">장도연이 감탄한 이유...뷰캐넌 아내의 요리 솜씨</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331150402_0f0733bc49ee17178e11400a4e198a6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["내일, 특별한 저승사자들이 온다" 김희선-로운의 저승 오피스물 '내일']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200337</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199713">[사내맞선 #9] 안효섭-김세정, 스릴만점 '사내' 비밀연애 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329080543_70eec9b35dd0f927c5f5eb1c4b7df658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제주 1년차 아기 해녀' 한지민 드라마 ‘우리들의 블루스’ 첫 스틸 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199534</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199534</guid>
-            <pubDate>Mon, 28 Mar 2022 06:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199534">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328143146_b6e5ff5504e2d2bbde283d53b3c98249.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199534">'제주 1년차 아기 해녀' 한지민 드라마 ‘우리들의 블루스’ 첫 스틸 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328143146_b6e5ff5504e2d2bbde283d53b3c98249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이이경, 김혜수와의 특별한 인연 "자기라고 하셨다...기분 좋았다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199493</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199493</guid>
-            <pubDate>Mon, 28 Mar 2022 06:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199493">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328112415_50e0870ba5efcab43bd81573f07869f3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199493">이이경, 김혜수와의 특별한 인연 "자기라고 하셨다...기분 좋았다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328112415_50e0870ba5efcab43bd81573f07869f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
