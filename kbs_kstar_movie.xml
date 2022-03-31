@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대만 드라마 '상견니', 넷플릭스 한국판 리메이크 '너의 시간 속으로']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200503</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200503</guid>
+            <pubDate>Thu, 31 Mar 2022 22:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200503">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401063955_05864ae23e74950c34c1dde9b5fce74c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200503">대만 드라마 '상견니', 넷플릭스 한국판 리메이크 '너의 시간 속으로'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401063955_05864ae23e74950c34c1dde9b5fce74c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["전주에서 만나는 한국영화의 힘"  JIFF2022 한국경쟁 선정작 9편 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200423</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199762">박형식-한소희, "첫 촬영부터 호흡 잘 맞았다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329091155_e5aff5a2759eae5b50e3bfea5df18ab0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '괴이', 구교환 신현빈 김지영 곽동연 남다름  '캐릭터 포스터' 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199732</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199732</guid>
-            <pubDate>Tue, 29 Mar 2022 02:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199732">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329083700_7956e4cf67ecc02e65bad5ea0d979e4f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199732">티빙 '괴이', 구교환 신현빈 김지영 곽동연 남다름  '캐릭터 포스터' 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329083700_7956e4cf67ecc02e65bad5ea0d979e4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
