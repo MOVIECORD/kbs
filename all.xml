@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330163944_d845e3dfbb6274171b6c9c065c4eb375.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현재는 아름다워] 결혼 생각 없는 자녀들에 애타는 김혜옥...세상 쿨한 아버지 박상원 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200833</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200833</guid>
+            <pubDate>Sat, 02 Apr 2022 15:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200833">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402234319_44fd663e71dbac7c952038a2361f171d_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200833">[현재는 아름다워] 결혼 생각 없는 자녀들에 애타는 김혜옥...세상 쿨한 아버지 박상원</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402234319_44fd663e71dbac7c952038a2361f171d_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현재는 아름다워] 자신의 잘못을 배다빈 탓으로 돌리는 이현진 “사랑하면 과거도 이해해야...” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200829</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200829</guid>
+            <pubDate>Sat, 02 Apr 2022 15:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200829">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402231838_3d59cfa8879dfd64a59127b18aafb12f_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200829">[현재는 아름다워] 자신의 잘못을 배다빈 탓으로 돌리는 이현진 “사랑하면 과거도 이해해야...”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402231838_3d59cfa8879dfd64a59127b18aafb12f_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현재는 아름다워] 변호사 윤시윤, 혼인 취소 소송 의뢰인 배다빈 만났다 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200825</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=200825</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402062738_36fb924244382e14ef6fe4539de3057e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 패셔니스타 차예련★ 드레스룸 공개(feat. 몸매 비결 운동법) (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200713</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200713</guid>
-            <pubDate>Fri, 01 Apr 2022 22:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200713">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402061619_d04a5071075e98886b52fbd17edf25a4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200713">[신상출시 편스토랑] 패셔니스타 차예련★ 드레스룸 공개(feat. 몸매 비결 운동법)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402061619_d04a5071075e98886b52fbd17edf25a4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 세상의 모든 맛을 카피하는 정상훈! 이번엔 고든 램지에 도전? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200709</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200709</guid>
-            <pubDate>Fri, 01 Apr 2022 16:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200709">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401233301_dda699d54458476bc25a994bc4b3a304_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200709">[신상출시 편스토랑] 세상의 모든 맛을 카피하는 정상훈! 이번엔 고든 램지에 도전? </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401233301_dda699d54458476bc25a994bc4b3a304_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
