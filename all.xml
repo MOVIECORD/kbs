@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331150402_0f0733bc49ee17178e11400a4e198a6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홧김에 헤어진 남자친구 못 잊는 여자친구의 사연 '무엇이든 물어보살' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201022</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201022</guid>
+            <pubDate>Mon, 04 Apr 2022 05:04:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201022">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404135506_9cca057d4caa8fe9c4ebe56838b3e7f0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201022">홧김에 헤어진 남자친구 못 잊는 여자친구의 사연 '무엇이든 물어보살'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404135506_9cca057d4caa8fe9c4ebe56838b3e7f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이준X강한나 '정인에서 정적으로' 핏빛 정치 로맨스 <붉은 단심> (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200967</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=200967</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403112337_ab5d7b68a41ebeb23ff99445b8992243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1박2일' 한가인 "제7의 멤버" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200886</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200886</guid>
-            <pubDate>Sun, 03 Apr 2022 02:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200886">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403111844_30e169146c2a2af6edee50fd35e33a82.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200886">'1박2일' 한가인 "제7의 멤버"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403111844_30e169146c2a2af6edee50fd35e33a82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
