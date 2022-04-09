@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 11:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405080956_b3fcceb715402b67e16d42baaf652da5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["제주 푸릉마을 사람 이야기"  tvN ‘우리들의 블루스’ 첫 방송 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201891</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201891</guid>
+            <pubDate>Sat, 09 Apr 2022 12:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201891">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409192035_1b53f0301e9cfe61011d8512d9141c2b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201891">"제주 푸릉마을 사람 이야기"  tvN ‘우리들의 블루스’ 첫 방송</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409192035_1b53f0301e9cfe61011d8512d9141c2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[제작발표회] 김지원-이민기-이엘이 그려나가는 '나의 해방일지' (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201810</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=201810</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402183931_4ddb56229929bcd679f655e99bcf9ace.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['스물다섯 스물하나' 나희도의 일기장, '마지막 페이지는?' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200789</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200789</guid>
-            <pubDate>Sat, 02 Apr 2022 10:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200789">	<span class="img-box hh">
+            <title><![CDATA[[불후의 명곡] 심형래 “어마어마했던 과거 임하룡 인기, BTS 저리 가라” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201895</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201895</guid>
+            <pubDate>Sat, 09 Apr 2022 12:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201895">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402183325_b36e5682e741d0c742134143ed69ea40_1.JPG" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409210256_752add183fed11099d49d3568469cef8_1.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200789">'스물다섯 스물하나' 나희도의 일기장, '마지막 페이지는?'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201895">[불후의 명곡] 심형래 “어마어마했던 과거 임하룡 인기, BTS 저리 가라”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402183325_b36e5682e741d0c742134143ed69ea40_1.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409210256_752add183fed11099d49d3568469cef8_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['태종 이방원' 주상욱  "이 일은 엄연한 불충이오" (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408003556_e2632dae6f2c5873d306753b970b2a37_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 스튜디오를 눈물바다로 만들어버린 셔누의 손편지! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201743</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201743</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201743">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408002410_d8e1569100d8bef8c68b08f54eb32f8e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201743">[주접이 풍년] 스튜디오를 눈물바다로 만들어버린 셔누의 손편지!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408002410_d8e1569100d8bef8c68b08f54eb32f8e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

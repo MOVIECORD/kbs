@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 11:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 심형래 “어마어마했던 과거 임하룡 인기, BTS 저리 가라”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201895</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201895</guid>
+            <pubDate>Sat, 09 Apr 2022 12:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201895">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409210256_752add183fed11099d49d3568469cef8_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201895">[불후의 명곡] 심형래 “어마어마했던 과거 임하룡 인기, BTS 저리 가라”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409210256_752add183fed11099d49d3568469cef8_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['태종 이방원' 주상욱  "이 일은 엄연한 불충이오"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201880</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408003556_e2632dae6f2c5873d306753b970b2a37_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 스튜디오를 눈물바다로 만들어버린 셔누의 손편지!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201743</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201743</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201743">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408002410_d8e1569100d8bef8c68b08f54eb32f8e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201743">[주접이 풍년] 스튜디오를 눈물바다로 만들어버린 셔누의 손편지!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408002410_d8e1569100d8bef8c68b08f54eb32f8e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
