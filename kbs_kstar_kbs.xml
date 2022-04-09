@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 10:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 11:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['태종 이방원' 주상욱  "이 일은 엄연한 불충이오"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201880</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201880</guid>
+            <pubDate>Sat, 09 Apr 2022 11:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201880">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409190624_64ab12d723aa8cb3ca31d85a33b2cf4f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201880">'태종 이방원' 주상욱  "이 일은 엄연한 불충이오"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409190624_64ab12d723aa8cb3ca31d85a33b2cf4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유희열의 스케치북] 라드 뮤지엄, 모두가 깜짝 놀란 가창력 ♬ Say Hello Inner Child]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201869</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408002410_d8e1569100d8bef8c68b08f54eb32f8e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 한계 없이 성장 중인 8년 차 짐승돌 ‘몬스타엑스’ 팬클럽!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201739</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201739</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201739">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408001718_b024ecda9ef1cb0f236c97739754409e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201739">[주접이 풍년] 한계 없이 성장 중인 8년 차 짐승돌 ‘몬스타엑스’ 팬클럽! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408001718_b024ecda9ef1cb0f236c97739754409e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
