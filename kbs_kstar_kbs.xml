@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 13:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] ‘전설의 오서방’ 오재미, 감미로운 무대...너에게로 또다시]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201907</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201907</guid>
+            <pubDate>Sat, 09 Apr 2022 13:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201907">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409214727_266e2c852220517aafc9487877b0f80e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201907">[불후의 명곡] ‘전설의 오서방’ 오재미, 감미로운 무대...너에게로 또다시</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409214727_266e2c852220517aafc9487877b0f80e_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[불후의 명곡] 39년째 인연을 이어오고 있는 이경애&임미숙...이경애가 싫어하는 선배 1위는?!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201903</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201903</guid>
+            <pubDate>Sat, 09 Apr 2022 13:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201903">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409212447_a8b48e049460d154c00332465a83da72.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201903">[불후의 명곡] 39년째 인연을 이어오고 있는 이경애&amp;임미숙...이경애가 싫어하는 선배 1위는?!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409212447_a8b48e049460d154c00332465a83da72.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[불후의 명곡] 영원한 젊은 오빠... 임하룡, 빨간 재킷 입고 ‘추억의 책가방’ 열창]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201899</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201899</guid>
+            <pubDate>Sat, 09 Apr 2022 13:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201899">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409211324_28c808c08e3063b41ca30f1470f9bfc4_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201899">[불후의 명곡] 영원한 젊은 오빠... 임하룡, 빨간 재킷 입고 ‘추억의 책가방’ 열창</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409211324_28c808c08e3063b41ca30f1470f9bfc4_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[불후의 명곡] 심형래 “어마어마했던 과거 임하룡 인기, BTS 저리 가라”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201895</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408170817_fd95c744a18bfeec43b83bde34ad8719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박주현과 채종협의 연애...너에게 가는 속도 493km]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201773</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201773</guid>
-            <pubDate>Fri, 08 Apr 2022 02:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201773">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408102629_261b79196cbaab4d8f32cad178759c43.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201773">박주현과 채종협의 연애...너에게 가는 속도 493km</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%84%88%EC%97%90%EA%B2%8C%20%EA%B0%80%EB%8A%94%20%EC%86%8D%EB%8F%84%20493km">수목드라마 너에게 가는 속도 493km</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408102629_261b79196cbaab4d8f32cad178759c43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 몬스타엑스 ‘아쉬울 시간에 더 깊이 사랑을 해’ Just love 中]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201751</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201751</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201751">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408004528_265d5ec53f1ec4cc118cb574776ab23a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201751">[주접이 풍년] 몬스타엑스 ‘아쉬울 시간에 더 깊이 사랑을 해’ Just love 中 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408004528_265d5ec53f1ec4cc118cb574776ab23a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 좋은 건 여러 각도에서 보기! 5인 5색의 애교♥]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201747</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201747</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201747">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408003556_e2632dae6f2c5873d306753b970b2a37_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201747">[주접이 풍년] 좋은 건 여러 각도에서 보기! 5인 5색의 애교♥ </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408003556_e2632dae6f2c5873d306753b970b2a37_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
