@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404082831_9553ea16f1a65fa72378a0c3be5262b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크레이지 러브] “좋아해요” 김재욱 직진 고백에 키스로 화답하는 정수정~♥ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202212</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202212</guid>
+            <pubDate>Mon, 11 Apr 2022 15:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202212">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411230831_9a6d1c84e48cc3e44e253e4d4547e4e1_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202212">[크레이지 러브] “좋아해요” 김재욱 직진 고백에 키스로 화답하는 정수정~♥</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411230831_9a6d1c84e48cc3e44e253e4d4547e4e1_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[크레이지 러브] 꽁냥꽁냥~ 밤샘 문자 메시지에 잠 못 이루는 정수정♥김재욱 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202207</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202207</guid>
+            <pubDate>Mon, 11 Apr 2022 15:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202207">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411230456_201220e9ec4793e91373a9b0b4cf4e85_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202207">[크레이지 러브] 꽁냥꽁냥~ 밤샘 문자 메시지에 잠 못 이루는 정수정♥김재욱</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411230456_201220e9ec4793e91373a9b0b4cf4e85_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[크레이지 러브] 개차반에서 하루 아침에 사랑꾼 된 김재욱 “나 자고 가도 돼요?” 당돌 제안에 정수정 당황 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202197</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=202197</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410223734_f690d8e73665617246999d2b3a7581af.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워] 커플 탄생(?) 최예빈, 서범준과 계약 커플 대가로 1억원 요구 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202043</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202043</guid>
-            <pubDate>Sun, 10 Apr 2022 14:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202043">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410223315_8a47caad8dc2153ffc8356f22c7a5f11.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202043">[현재는 아름다워] 커플 탄생(?) 최예빈, 서범준과 계약 커플 대가로 1억원 요구</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410223315_8a47caad8dc2153ffc8356f22c7a5f11.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워] 배다빈 신경쓰는 윤시윤...차엽 “피고인하고 왜 만나는거야? 좋아해?” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202039</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202039</guid>
-            <pubDate>Sun, 10 Apr 2022 14:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202039">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410222217_c96e2cb75edfbd3a6ad27f646b45e153.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202039">[현재는 아름다워] 배다빈 신경쓰는 윤시윤...차엽 “피고인하고 왜 만나는거야? 좋아해?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410222217_c96e2cb75edfbd3a6ad27f646b45e153.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
