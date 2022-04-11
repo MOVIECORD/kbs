@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202130</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202130</guid>
+            <pubDate>Mon, 11 Apr 2022 05:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411131622_96782e827bd6bb1c895696159710f1ea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411131622_96782e827bd6bb1c895696159710f1ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초자연 스릴러  '괴이'  아비규환의 드라마 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201988</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201265">[뉴스타뷰] 배우 윤도건, 뚜렛 증후군 극복한 연기의 힘과 단단한 의지</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405110652_480950288ec3372b882fa664019fbd01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코' 윤여정의 오열 '선자, 그곳으로 돌아오다' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201195</guid>
-            <pubDate>Tue, 05 Apr 2022 00:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201195">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405081608_fbcdc6c97aa243672bee6a64996bad25_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201195">'파친코' 윤여정의 오열 '선자, 그곳으로 돌아오다'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405081608_fbcdc6c97aa243672bee6a64996bad25_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이병헌- 신민아의 블루스'  노을 속 해변가 데이트 (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404082258_0bb5d7abefe100fb0a00fe74c82b4436.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202154</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202154</guid>
+            <pubDate>Mon, 11 Apr 2022 05:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 대세 라이징스타 채종협 "'너가속' 박태준, 진지하고 때로는 귀여운 구석도 많다" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202135</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=202135</guid>
@@ -1028,23 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410124818_bb9fd1883c4f0f3699077b6144c68bd2_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우리들의 블루스’ 제주 감성 품은 힐링 드라마 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201983</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201983</guid>
-            <pubDate>Sun, 10 Apr 2022 00:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201983">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410085318_4899139d51d681f007846e21d052afc5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201983"> ‘우리들의 블루스’ 제주 감성 품은 힐링 드라마  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410085318_4899139d51d681f007846e21d052afc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
