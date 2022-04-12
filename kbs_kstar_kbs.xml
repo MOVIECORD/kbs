@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 09:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥탑방의 김병옥, 충무로 '올드보이'의 상식퀴즈 도전]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202329</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202329</guid>
+            <pubDate>Tue, 12 Apr 2022 10:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202329">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412185557_d8023a356b8e48c8a68ebe91d62e1d6c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202329">옥탑방의 김병옥, 충무로 '올드보이'의 상식퀴즈 도전</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412185557_d8023a356b8e48c8a68ebe91d62e1d6c_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시사기획 창 '안전지대는 없다, 푸틴의 전쟁']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202324</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202324</guid>
+            <pubDate>Tue, 12 Apr 2022 10:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202324">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412185132_fabc249c48aa214ed9e046b2306164b9.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202324">시사기획 창 '안전지대는 없다, 푸틴의 전쟁'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412185132_fabc249c48aa214ed9e046b2306164b9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김재욱 특급 외조, 정수정 강사 꿈 이룰까]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202319</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202319</guid>
+            <pubDate>Tue, 12 Apr 2022 10:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202319">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412184504_040d4059332413c304103b9281b831c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202319">김재욱 특급 외조, 정수정 강사 꿈 이룰까</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412184504_040d4059332413c304103b9281b831c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['자본주의학교' 입학한 윤후 "백만 원을 천만 원으로"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202274</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411214012_e2da22dee04fb5920c38e657e2441e5c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202154</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202154</guid>
-            <pubDate>Mon, 11 Apr 2022 05:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 대세 라이징스타 채종협 "'너가속' 박태준, 진지하고 때로는 귀여운 구석도 많다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202135</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202135</guid>
-            <pubDate>Mon, 11 Apr 2022 02:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202135">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411103631_76b7cdfd6af83f0ae87802dc957081e9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202135">[인터뷰] 대세 라이징스타 채종협 "'너가속' 박태준, 진지하고 때로는 귀여운 구석도 많다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%84%88%EC%97%90%EA%B2%8C%20%EA%B0%80%EB%8A%94%20%EC%86%8D%EB%8F%84%20493km">수목드라마 너에게 가는 속도 493km</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411103631_76b7cdfd6af83f0ae87802dc957081e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민부부 연정훈-한가인, 연애 스토리 전격 공개 '1박 2일']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202115</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202115</guid>
-            <pubDate>Mon, 11 Apr 2022 02:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202115">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411083511_f08471e5ee09531d2e29f869163ebfdf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202115">국민부부 연정훈-한가인, 연애 스토리 전격 공개 '1박 2일'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411083511_f08471e5ee09531d2e29f869163ebfdf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
