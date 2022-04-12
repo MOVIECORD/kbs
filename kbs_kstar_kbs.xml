@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[너가속 493] '스물다섯  박주현'  "저, 취업됐어요!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202348</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202348</guid>
+            <pubDate>Tue, 12 Apr 2022 23:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202348">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412191544_cf1662ff08b4cec6ac30e296e2360242_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202348">[너가속 493] '스물다섯  박주현'  "저, 취업됐어요!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412191544_cf1662ff08b4cec6ac30e296e2360242_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] 미안해서 반찬 추가 못한다는 순둥이 김병옥 “아껴 먹으면 된다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202433</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412085303_2b4dcb8bc586b613a664af1dba5dd0e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준과 강하나, 조선판 로미오와 줄리엣으로 변신 '붉은 단심']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202242</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202242</guid>
-            <pubDate>Tue, 12 Apr 2022 00:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202242">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412084942_d5c1f89461eced1e20f5218c0713e2b1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202242">이준과 강하나, 조선판 로미오와 줄리엣으로 변신 '붉은 단심'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412084942_d5c1f89461eced1e20f5218c0713e2b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
