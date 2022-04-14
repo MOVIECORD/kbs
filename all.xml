@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충무로의 전설, 이태원의 위대한 유산 - 영상자료원 ‘태흥영화’ 기획전시회 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202741</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202741</guid>
+            <pubDate>Thu, 14 Apr 2022 06:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202741">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414143514_2031b5e866e50eca48d307c2d5d2b148.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202741">충무로의 전설, 이태원의 위대한 유산 - 영상자료원 ‘태흥영화’ 기획전시회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414143514_2031b5e866e50eca48d307c2d5d2b148.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김욱, 쿠팡플레이 오리지널 시트콤 '유니콘'으로 비상한다 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202707</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406164124_d0af2ab4fd0961aabbcec37187c0d0eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['그리드' 8회 예고  '서강준이 되돌린 2021년' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201522</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201522</guid>
-            <pubDate>Wed, 06 Apr 2022 07:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201522">	<span class="img-box hh">
+            <title><![CDATA[이민기-김지원-이엘..."아무것도 안 하고 싶다. 사랑하고는" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202686</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202686</guid>
+            <pubDate>Thu, 14 Apr 2022 06:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202686">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406144545_f09060a4ed4fe4f3a50031421edc9efe.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414091726_6348801f1d818eb80a031bf04f5c28c2.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201522">'그리드' 8회 예고  '서강준이 되돌린 2021년'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202686">이민기-김지원-이엘..."아무것도 안 하고 싶다. 사랑하고는"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406144545_f09060a4ed4fe4f3a50031421edc9efe.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414091726_6348801f1d818eb80a031bf04f5c28c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘우리들의 블루스’ 차승원-이정은, 한지민-김우빈  "두근두근 썸타기" (KBS연예 ─ TVs)]]></title>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201429">노희경 드라마 ‘우리들의 블루스’, "왜 옴니버스 구성인가?"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406074851_7da058d4437092073a6ec5f40624437e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏박스가 떴다! 유튜브 대세 김원훈-조진세 "우울증이 심하게 왔다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201277</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201277</guid>
-            <pubDate>Tue, 05 Apr 2022 04:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201277">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405111450_f8a8469d0fddac08e20e29579e4f5881.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201277">숏박스가 떴다! 유튜브 대세 김원훈-조진세 "우울증이 심하게 왔다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405111450_f8a8469d0fddac08e20e29579e4f5881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스타뷰] 당찬 신인 배우 김민아의 '연애의 참견' "이별 보험 절대 안 돼" (KBS연예 ─ KBS)]]></title>
