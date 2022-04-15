@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 15:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 16:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나의 눈부신 친구' 시즌3, 오늘 왓챠 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203005</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203005</guid>
+            <pubDate>Fri, 15 Apr 2022 16:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203005">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415180235_89e28c23d82b62ca9c2079da020a85df.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203005">'나의 눈부신 친구' 시즌3, 오늘 왓챠 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415180235_89e28c23d82b62ca9c2079da020a85df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오나라, 오늘밤 오감만족 코미디쇼 'SNL' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203000</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203000</guid>
+            <pubDate>Fri, 15 Apr 2022 16:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203000">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415175141_cabf67067e6dca5bb37010c0af828dd8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203000">오나라, 오늘밤 오감만족 코미디쇼 'SNL' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415175141_cabf67067e6dca5bb37010c0af828dd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓챠 ‘좋좋소’ 다시 뭉친 6人 ‘기묘한 회식’ (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202966</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202450">홍은원 감독을 만나는 특별한 방식, 신수원 감독의 '오마주'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413084432_14a1a6e55102f842fbc31b3ee089a371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그리드' 김아중X김무열, 두 사람의 결말은? (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202343</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202343</guid>
-            <pubDate>Tue, 12 Apr 2022 23:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202343">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412191008_0786e869f7eee3b2ad087a831075d7c8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202343">'그리드' 김아중X김무열, 두 사람의 결말은?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412191008_0786e869f7eee3b2ad087a831075d7c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신] 생방송 중 주먹 휘두른 윌 스미스... 중징계 처분 "아카데미는 폭력 용납 NO" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202308</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202308</guid>
-            <pubDate>Tue, 12 Apr 2022 06:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202308">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412141741_2f8efa026eec45c9df16a2783a3975c2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202308">[외신] 생방송 중 주먹 휘두른 윌 스미스... 중징계 처분 "아카데미는 폭력 용납 NO"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412141741_2f8efa026eec45c9df16a2783a3975c2_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[류진의 백반기행, 바다의 맛과 멋 모두 품은 고성의 참맛 (KBS연예 ─ TVs)]]></title>
