@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안나라수마나라' 김성윤 감독과 김민정 작가의 콜라보 매직 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202902</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202902</guid>
+            <pubDate>Fri, 15 Apr 2022 05:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202902">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415132722_1664af94365a3d82e80dfe3b6bec7bed.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202902">'안나라수마나라' 김성윤 감독과 김민정 작가의 콜라보 매직</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415132722_1664af94365a3d82e80dfe3b6bec7bed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["부러질지언정..." 정동원 '구필수는 없다' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202887</guid>
+            <pubDate>Fri, 15 Apr 2022 05:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202887">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415094523_221092f01a45c98fd3ad2cc872cad122.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202887">"부러질지언정..." 정동원 '구필수는 없다' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415094523_221092f01a45c98fd3ad2cc872cad122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 설경구 “아차!” 넷플릭스 ‘야차’ (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202856</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202286">제2의 프리지아-김현중 탄생하나...넷플릭스 '솔로지옥' 시즌2 제작 확정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412102550_4c313939a2c28b4c5879ea86353cd40e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 무채색으로 그려진 '파리, 13구' 속 사랑에 목마른 사람들 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202281</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202281</guid>
-            <pubDate>Tue, 12 Apr 2022 02:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202281">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412095334_7c2bed6dd4790c43ae1fd665953a013c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202281">[리뷰] 무채색으로 그려진 '파리, 13구' 속 사랑에 목마른 사람들</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412095334_7c2bed6dd4790c43ae1fd665953a013c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202130</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202130</guid>
-            <pubDate>Mon, 11 Apr 2022 05:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411131622_96782e827bd6bb1c895696159710f1ea.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411131622_96782e827bd6bb1c895696159710f1ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유재석, 엔터사 대표와의 은밀한 만남...'놀면 뭐하니?' (KBS연예 ─ TVs)]]></title>
