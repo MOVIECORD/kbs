@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 21:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 22:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['현재는 아름다워' 티키타카로 꽉 채운 깨알 드라마]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202939</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202939</guid>
+            <pubDate>Fri, 15 Apr 2022 22:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202939">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415152443_188c636a28ab6869ecacbe420011db9a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202939">'현재는 아름다워' 티키타카로 꽉 채운 깨알 드라마</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415152443_188c636a28ab6869ecacbe420011db9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 류수영의 평~생 레시피 2탄! 맛있는 ‘갈배 불고기’ Coming Soon♡]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203035</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414230955_b3cebaefbe8ce2e236617681e39da0d4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 신화숙소 앞 팬들의 군기반장은? 물벼락 날린 김동완!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202757</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202757</guid>
-            <pubDate>Thu, 14 Apr 2022 14:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202757">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414230108_8fd24a450a394ada68ebc4e35fc0261a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202757">[주접이 풍년] 신화숙소 앞 팬들의 군기반장은? 물벼락 날린 김동완!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414230108_8fd24a450a394ada68ebc4e35fc0261a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
