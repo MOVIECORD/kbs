@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그리드' 오늘 최종회, 서강준-김아중-김무열-김성균-이시영, 마지막 대접전 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204000</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204000</guid>
+            <pubDate>Wed, 20 Apr 2022 09:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204000">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420160459_7518bb461b5be5b98e6fbf0075fdd98d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204000">'그리드' 오늘 최종회, 서강준-김아중-김무열-김성균-이시영, 마지막 대접전</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420160459_7518bb461b5be5b98e6fbf0075fdd98d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그리드' 최종회, 비밀병기 이기홍 특별출연 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203838</link>
@@ -301,7 +318,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203329</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=203329</guid>
             <pubDate>Sun, 17 Apr 2022 23:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203329">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203329">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418075308_d5c2f6dfee10f9e8de6e5bc8221cfb76.jpg" alt="대체 텍스트">
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203115">홍상수 신작 '소설가의 영화' 21일 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416090355_3136272a282d89e16c48cad507229a87_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강호동의 왓챠 예능 '지혜를 빼앗는 도깨비' 5월 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203097</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203097</guid>
-            <pubDate>Sat, 16 Apr 2022 02:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203097">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416083532_2f20f061c98639f51923d2676d834545.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203097">강호동의 왓챠 예능 '지혜를 빼앗는 도깨비' 5월 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416083532_2f20f061c98639f51923d2676d834545.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장] “100% 업계 이야기” tvN 금토드라마 ‘별똥별’ 제작발표회 (KBS연예 ─ TVs)]]></title>
