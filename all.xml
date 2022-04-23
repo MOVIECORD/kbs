@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419084707_09e5f55470c728853a52f1d8af38f51d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['나의 해방일지', 산포마을에 '썸'이 불어온다 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204409</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204409</guid>
+            <pubDate>Sat, 23 Apr 2022 04:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204409">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422175447_a0f253ce95ea59d1406240494f327c65.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204409">'나의 해방일지', 산포마을에 '썸'이 불어온다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422175447_a0f253ce95ea59d1406240494f327c65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차승원 "우리들의 블루스, 배우로서 뿌듯” (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204421</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204421</guid>
@@ -671,23 +688,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417085434_00dd51b60119634a06d921b7ced6dfb4_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차승원 이정은의 블루스 "멋진 우정!" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203232</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203232</guid>
-            <pubDate>Sun, 17 Apr 2022 00:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203232">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417083617_4c1c7c14c5223d84b848be56490e44dd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203232">차승원 이정은의 블루스 "멋진 우정!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417083617_4c1c7c14c5223d84b848be56490e44dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[유희열의 스케치북] 딘딘, 범준이 형 보고 있죠? 함께해요! 딘딘 ♬ 벚꽃 엔딩 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204537</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204537</guid>
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204529</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204529</guid>
             <pubDate>Sat, 23 Apr 2022 02:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204529">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204529">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423104717_6db1ca540fee50d11e5498ba9a2b7796.png" alt="대체 텍스트">
