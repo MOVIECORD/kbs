@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['황경민' 김동욱 "돼지의 왕, 철이를 위하여" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204844</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204844</guid>
+            <pubDate>Mon, 25 Apr 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204844">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425134034_be8e753a2752c7ac6571fdae8d40ccc8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204844">'황경민' 김동욱 "돼지의 왕, 철이를 위하여"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425134034_be8e753a2752c7ac6571fdae8d40ccc8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안 '돼지의 왕' 종영소감 "강진아로 살 수 있어서 행복" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204823</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203838">'그리드' 최종회, 비밀병기 이기홍 특별출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420090209_9842de04af74b4613296d5db56ee4445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강길우, 티빙 재난스릴러 ‘몸값’ 합류 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203828</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203828</guid>
-            <pubDate>Wed, 20 Apr 2022 02:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203828">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420085130_306d40b52771e0d255ad639fd06a93c9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203828">강길우, 티빙 재난스릴러 ‘몸값’ 합류</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420085130_306d40b52771e0d255ad639fd06a93c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강하늘의 포커페이스, 복수게임  '인사이더' (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419172049_b007af0eed0554924d41573d51e7c1b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하지원, KBS 드라마 '커튼콜' 여주인공 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204849</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204849</guid>
+            <pubDate>Mon, 25 Apr 2022 06:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204849">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425135446_4f395e4bfe9c2e5c382ed0c019e89f51.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204849">하지원, KBS 드라마 '커튼콜' 여주인공 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425135446_4f395e4bfe9c2e5c382ed0c019e89f51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['붉은 단심' 포스터 촬영 비하인드 영상 공개 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204653</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204653</guid>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423194804_c3315091645b24f456b13bd931a8675b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃나무 아래, "행운을 빌어줘" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204415</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204415</guid>
-            <pubDate>Sat, 23 Apr 2022 23:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204415">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422175805_1e1eefed7e514c8d6bb1f979f7727e02.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204415">벚꽃나무 아래, "행운을 빌어줘"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422175805_1e1eefed7e514c8d6bb1f979f7727e02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
