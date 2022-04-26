@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 00:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파친코' 정웅인, 이민호와 애틋한 부자지간 연기 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204981</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204981</guid>
+            <pubDate>Tue, 26 Apr 2022 00:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204981">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426083055_7c1f96a4225f3e0007b556bd16113865.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204981">'파친코' 정웅인, 이민호와 애틋한 부자지간 연기</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426083055_7c1f96a4225f3e0007b556bd16113865.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['콜' 이충현 감독+전종서, 다시 한번 넷플릭스 '발레리나' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204967</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204967</guid>
+            <pubDate>Tue, 26 Apr 2022 00:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204967">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426081759_08369bf8da800ea4dcad92b7838a65b9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204967">'콜' 이충현 감독+전종서, 다시 한번 넷플릭스 '발레리나'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426081759_08369bf8da800ea4dcad92b7838a65b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우연과 상상' 주연배우 현리, 홍보차 방한 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204898</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204084">[인터뷰] 박해수 “오징어게임, 야차, 그 다음은... 넷플릭스 ‘종이의 집’”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421095215_0fd2dcde7becfb1bf7a5b373b78e8011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['브로커' 강동원-송강호, 12년만의 재회 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204073</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204073</guid>
-            <pubDate>Thu, 21 Apr 2022 02:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204073">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421090317_287c3af7f98d8cbf5b6f6e3ed02389d6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204073">'브로커' 강동원-송강호, 12년만의 재회</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421090317_287c3af7f98d8cbf5b6f6e3ed02389d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코'의 명장면들  "느그 아부지는 니가 훨훨 날아가길 바랬다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204067</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204067</guid>
-            <pubDate>Thu, 21 Apr 2022 02:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204067">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421085852_f9133589846fe37710c250a104185ed5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204067">'파친코'의 명장면들  "느그 아부지는 니가 훨훨 날아가길 바랬다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421085852_f9133589846fe37710c250a104185ed5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장] 이광수와 김설현의 슈퍼마켓 추리극,  '살인자의 쇼핑목록' 제작발표회 (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,60 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420090332_bf5afc3fa0320fa45cc3bff7d050961f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자친구와 동거 문제 고민하고 있는 30대 중반 남성의 고민...'무엇이든 물어보살' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205040</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205040</guid>
+            <pubDate>Tue, 26 Apr 2022 00:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205040">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426092121_076850c825d46ffccb257be7124ed13e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205040">여자친구와 동거 문제 고민하고 있는 30대 중반 남성의 고민...'무엇이든 물어보살'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426092121_076850c825d46ffccb257be7124ed13e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늦은 밤 남자 손님들과 어울리는 여자친구...'연애의 참견' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205020</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205020</guid>
+            <pubDate>Tue, 26 Apr 2022 00:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205020">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426085337_f44fa4d5efc9ce4bd68544e1eb5b9445.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205020">늦은 밤 남자 손님들과 어울리는 여자친구...'연애의 참견'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426085337_f44fa4d5efc9ce4bd68544e1eb5b9445.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS예능 '빼고파' 고은아-유정(브레이브걸스), 다이어트 예능에 출연하는 이유 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204997</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204997</guid>
+            <pubDate>Tue, 26 Apr 2022 00:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204997">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084407_567275961adb1109911fc2b367e3da40.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204997">KBS예능 '빼고파' 고은아-유정(브레이브걸스), 다이어트 예능에 출연하는 이유</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B9%BC%EA%B3%A0%ED%8C%8C">빼고파</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084407_567275961adb1109911fc2b367e3da40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[개는 훌륭하다] 진격의 입질견 가온이와 공존하는 법! 적절한 애정과 강력한 통제의 균형잡기~ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204961</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204961</guid>
@@ -991,60 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424235856_01beea621aca6c42343c9dc518956e7a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태종 이방원] 충녕대군에게 기회를 준 이방원을 말리는 원경왕후 “자식을 죽게 만드시겠단 겁니까?” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204715</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204715</guid>
-            <pubDate>Sun, 24 Apr 2022 15:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204715">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424235338_916db11e4b4ec7c94dd808681ac79678.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204715">[태종 이방원] 충녕대군에게 기회를 준 이방원을 말리는 원경왕후 “자식을 죽게 만드시겠단 겁니까?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424235338_916db11e4b4ec7c94dd808681ac79678.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태종 이방원] “서방님이 목숨을 잃을 수도 있습니다” 충녕대군에게 다가온 기회가 두려운 아내 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204711</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204711</guid>
-            <pubDate>Sun, 24 Apr 2022 15:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204711">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424234811_55cfbad387b83bfa001b640a63b624ae_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204711">[태종 이방원] “서방님이 목숨을 잃을 수도 있습니다” 충녕대군에게 다가온 기회가 두려운 아내 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424234811_55cfbad387b83bfa001b640a63b624ae_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 제2의 짜파x리를 꿈꾸며! 신메뉴 개발 나선 윤후와 아이들 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204707</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204707</guid>
-            <pubDate>Sun, 24 Apr 2022 15:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204707">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424233434_98540e2df4d5368af70506484a8e0bc4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204707">[자본주의학교] 제2의 짜파x리를 꿈꾸며! 신메뉴 개발 나선 윤후와 아이들</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424233434_98540e2df4d5368af70506484a8e0bc4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
