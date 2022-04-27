@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 00:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자친구 사랑 확인 위해 이렇게까지...? '연애의 참견']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205306</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205306</guid>
+            <pubDate>Wed, 27 Apr 2022 00:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205306">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427093103_a6a4854e90ab2aee9016a6002b28c348.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205306">남자친구 사랑 확인 위해 이렇게까지...? '연애의 참견'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427093103_a6a4854e90ab2aee9016a6002b28c348.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["청춘에게 기회를" 청춘야구단 : 아직은 낫아웃,   5월 7일 스타트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205277</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426085337_f44fa4d5efc9ce4bd68544e1eb5b9445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS예능 '빼고파' 고은아-유정(브레이브걸스), 다이어트 예능에 출연하는 이유]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204997</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204997</guid>
-            <pubDate>Tue, 26 Apr 2022 00:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204997">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084407_567275961adb1109911fc2b367e3da40.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204997">KBS예능 '빼고파' 고은아-유정(브레이브걸스), 다이어트 예능에 출연하는 이유</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B9%BC%EA%B3%A0%ED%8C%8C">빼고파</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084407_567275961adb1109911fc2b367e3da40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
