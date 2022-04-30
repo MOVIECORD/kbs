@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 21:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 22:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘프리다’ 최정원-리사-정영아-황우림,  ‘열린 음악회’ 출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206161</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206161</guid>
+            <pubDate>Sat, 30 Apr 2022 22:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206161">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220501060534_e6667f2e6f380128c2381b1cdc18ce50.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206161">뮤지컬 ‘프리다’ 최정원-리사-정영아-황우림,  ‘열린 음악회’ 출연 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220501060534_e6667f2e6f380128c2381b1cdc18ce50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트롯 보스' 장윤정, '사장님 귀는 당나귀 귀' 출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206156</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430211645_8e62ea1c4dc038f0e8367efd440f3bce_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 이 조합부터가 반칙! 소향&민우혁 ‘야생화’로 압도적 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206066</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206066</guid>
-            <pubDate>Sat, 30 Apr 2022 12:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206066">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430210815_4419aa6184aea98f53b72827a4b83e1c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206066">[불후의 명곡] 이 조합부터가 반칙! 소향&amp;민우혁 ‘야생화’로 압도적 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430210815_4419aa6184aea98f53b72827a4b83e1c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
