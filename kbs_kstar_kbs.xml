@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 11:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 이 조합부터가 반칙! 소향&민우혁 ‘야생화’로 압도적 무대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206066</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206066</guid>
+            <pubDate>Sat, 30 Apr 2022 12:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206066">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430210815_4419aa6184aea98f53b72827a4b83e1c_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206066">[불후의 명곡] 이 조합부터가 반칙! 소향&amp;민우혁 ‘야생화’로 압도적 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430210815_4419aa6184aea98f53b72827a4b83e1c_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['태종 이방원'  주상욱, 가문과 국가 위한 중대한 결정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206038</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430025448_c70f6312154a8370458c526cc35228b3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내츄럴 휴먼다큐 '자연의 철학자들',  "자연과 더불어 사는 삶의 철학"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205877</guid>
-            <pubDate>Fri, 29 Apr 2022 03:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205877">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429101048_9586018c76f1999a317b5e952e50ed3d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205877">내츄럴 휴먼다큐 '자연의 철학자들',  "자연과 더불어 사는 삶의 철학"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EC%97%B0%EC%9D%98%20%EC%B2%A0%ED%95%99%EC%9E%90%EB%93%A4">자연의 철학자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429101048_9586018c76f1999a317b5e952e50ed3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
