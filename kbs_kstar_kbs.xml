@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 12:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 13:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옥탑방의 문제아들] 천만배우 곽도원, 박성광에게 연기 지적받은 사연의 전말은?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206734</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206734</guid>
+            <pubDate>Wed, 04 May 2022 13:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206734">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504222713_933d9b9cf4be931c0a9fbf4b1175db0a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206734">[옥탑방의 문제아들] 천만배우 곽도원, 박성광에게 연기 지적받은 사연의 전말은? </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504222713_933d9b9cf4be931c0a9fbf4b1175db0a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박주현과 채종협의 흐뭇한 투샷...추억의 장소에서 만난 두 사람]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206679</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%B2%9C%EB%85%84%EC%9D%98%20%EB%B9%9B%20%EC%9C%A0%EB%84%A4%EC%8A%A4%EC%BD%94%20%EC%9C%A0%EC%82%B0%20%EC%97%B0%EB%93%B1%ED%9A%8C">천년의 빛 유네스코 유산 연등회</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503074051_91f7f9c3b051aa7a62c79c26e449bd98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] “떼쓰는 개의 전형적인 모습” 보호자 관심 끊자 달라진 행동 보이는 소복이]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206430</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206430</guid>
-            <pubDate>Mon, 02 May 2022 16:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206430">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503004455_9463202a324e6f9fb2b7f63fa7446d54.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206430">[개는 훌륭하다] “떼쓰는 개의 전형적인 모습” 보호자 관심 끊자 달라진 행동 보이는 소복이</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503004455_9463202a324e6f9fb2b7f63fa7446d54.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
