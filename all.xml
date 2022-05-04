@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 23:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 00:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423195720_eb53d3ecc036c68c9637512fdc44cb7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개그계의 아이돌, 이진호 '주접이 풍년'인 팬들 만난다! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206653</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206653</guid>
+            <pubDate>Wed, 04 May 2022 00:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206653">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504082545_51e3d58a6d6887cf65b6986394a826f3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206653">개그계의 아이돌, 이진호 '주접이 풍년'인 팬들 만난다!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504082545_51e3d58a6d6887cf65b6986394a826f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[갓파더] 우아한 유교 엄마 강주은과 과감★섹시 가비의 극과 극 파티 룩 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206639</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=206639</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503004026_979c640c2334df69ab6e9adfbb81859f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 개통령 이런 모습 처음이야! “육아보다 개훈련이 쉽다” 아들 주운에게 쩔쩔매는 강형욱 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206420</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206420</guid>
-            <pubDate>Mon, 02 May 2022 16:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206420">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503003809_bd17cde5524601fac070583bb230e806_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206420">[개는 훌륭하다] 개통령 이런 모습 처음이야! “육아보다 개훈련이 쉽다” 아들 주운에게 쩔쩔매는 강형욱</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503003809_bd17cde5524601fac070583bb230e806_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
