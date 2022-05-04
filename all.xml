@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 00:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 02:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 제대로 흑화 한 스칼렛 위치의 압도적인 존재감 '닥터 스트레인지: 대혼돈의 멀티버스' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206662</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206662</guid>
+            <pubDate>Wed, 04 May 2022 02:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206662">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504101334_523b4df45e42ee89010ca5c9d79f194a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206662">[리뷰] 제대로 흑화 한 스칼렛 위치의 압도적인 존재감 '닥터 스트레인지: 대혼돈의 멀티버스'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504101334_523b4df45e42ee89010ca5c9d79f194a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 구교환 “괴이한 드라마의 괴이한 배우” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206647</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205903">[JIFF현장] 이창동 감독 "OTT 제안 받은 적 있어, 차기작 준비 중"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429142103_309d8108ca11f2ee4f14315ec676b20c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[JIFF현장] 이창동 감독의 8가지 그림자, 전주국제영화제 특별전 "어떤 반응을 보일지 궁금하다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205897</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205897</guid>
-            <pubDate>Fri, 29 Apr 2022 07:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205897">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429140340_88e952c3ed2ab35653460ad71c9c9e21.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205897">[JIFF현장] 이창동 감독의 8가지 그림자, 전주국제영화제 특별전 "어떤 반응을 보일지 궁금하다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429140340_88e952c3ed2ab35653460ad71c9c9e21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘벌거벗은 세계사’  독일의 분단과 통일 (KBS연예 ─ TVs)]]></title>
