@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503160818_b49f31473e568a29bda16d27c5e453af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[월드미식가 싸이, '백반기행' 나들이 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207063</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207063</guid>
+            <pubDate>Fri, 06 May 2022 05:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207063">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506133106_d4a1e0be17bb6ccc42f152d27d80d7e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207063">월드미식가 싸이, '백반기행' 나들이</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506133106_d4a1e0be17bb6ccc42f152d27d80d7e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["싸이의 무대는 끝이 없어라" 헬기 동원 'That That' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207047</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207047</guid>
+            <pubDate>Fri, 06 May 2022 05:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207047">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506131515_7efbceebbfc30cf1f3afa9a7b23f762d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207047">"싸이의 무대는 끝이 없어라" 헬기 동원 'That That'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506131515_7efbceebbfc30cf1f3afa9a7b23f762d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["K-뮤직 배틀 오디션" 채널A ‘청춘스타’ (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206804</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=206804</guid>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205343">드라마 ‘살인자의 쇼핑목록’,  이광수-김설현의  '슈퍼마켓 히어로'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427102650_0a0a18badd72dbb7b249780065b260d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 이광수와 김설현의 슈퍼마켓 추리극,  '살인자의 쇼핑목록' 제작발표회 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204863</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204863</guid>
-            <pubDate>Mon, 25 Apr 2022 13:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204863">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425152059_5312f480c6876f0c91a3baef23371588.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204863">[현장] 이광수와 김설현의 슈퍼마켓 추리극,  '살인자의 쇼핑목록' 제작발표회 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425152059_5312f480c6876f0c91a3baef23371588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘의 포커페이스, 복수게임  '인사이더' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204777</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204777</guid>
-            <pubDate>Mon, 25 Apr 2022 02:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204777">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425091255_3d1fef4c52f6d004827809490b1f2834.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204777">강하늘의 포커페이스, 복수게임  '인사이더'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425091255_3d1fef4c52f6d004827809490b1f2834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['도시셰프' 이태곤 "여기가 횟집이 아니라고?" (KBS연예 ─ KBS)]]></title>
