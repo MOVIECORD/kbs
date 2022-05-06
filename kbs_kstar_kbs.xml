@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 어린이날 운동회, 슈돌 가족 완전체 최초 모임!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207156</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207156</guid>
+            <pubDate>Fri, 06 May 2022 15:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207156">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506231738_b82df5f2433852c2f83b1c660b01d94b_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207156">[슈퍼맨이 돌아왔다] 어린이날 운동회, 슈돌 가족 완전체 최초 모임!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506231738_b82df5f2433852c2f83b1c660b01d94b_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 이찬원, 모델하우스 같은 집! 그러나 주방만큼은 FULL소유!?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207152</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506013247_40ea54a2abd134b8cf1e30d50fd71ada.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 라이브] 싸이와 특별한 인터뷰 ‘BTS 슈가-컬래버 비하인드 공개’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206872</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206872</guid>
-            <pubDate>Thu, 05 May 2022 17:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206872">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506012531_897fed1dba7bae9da6b171bfd876719b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206872">[연중 라이브] 싸이와 특별한 인터뷰 ‘BTS 슈가-컬래버 비하인드 공개’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506012531_897fed1dba7bae9da6b171bfd876719b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
