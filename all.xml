@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 02:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임지연, 미스터리 '장미맨션' 입성 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207080</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207080</guid>
+            <pubDate>Sat, 07 May 2022 03:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207080">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506142620_6b855999af9ccbab2322701405257c61.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207080">임지연, 미스터리 '장미맨션' 입성</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506142620_6b855999af9ccbab2322701405257c61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["딱 맞는 출연자" 임창정 'SNL코리아' 출격 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207164</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207164</guid>
+            <pubDate>Sat, 07 May 2022 03:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207164">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507065925_756e646cdaf48bee8e3676b531bcd462.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207164">"딱 맞는 출연자" 임창정 'SNL코리아' 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507065925_756e646cdaf48bee8e3676b531bcd462.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["왕지원은 있다"  ‘구필수는 없다’에서 걸크러쉬 매력 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207002</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206647">[인터뷰] 구교환 “괴이한 드라마의 괴이한 배우” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504071332_299c1cd34668361df2256e49c05d8625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 단편영화관, 김초희 감독  "우라까이 하루키" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206573</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206573</guid>
-            <pubDate>Tue, 03 May 2022 08:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206573">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503161853_bb3b588ff1473375d2a7100a25c10843.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206573">티빙 단편영화관, 김초희 감독  "우라까이 하루키"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503161853_bb3b588ff1473375d2a7100a25c10843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕지원 3년만의 복귀작, '구필수는 없다’ (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206565</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206565</guid>
-            <pubDate>Tue, 03 May 2022 08:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206565">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503160818_b49f31473e568a29bda16d27c5e453af.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206565">왕지원 3년만의 복귀작, '구필수는 없다’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503160818_b49f31473e568a29bda16d27c5e453af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이브' 서예지-박병은-유선-이상엽의 서로 다른 욕망 (KBS연예 ─ TVs)]]></title>
