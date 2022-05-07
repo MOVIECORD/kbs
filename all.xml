@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 13:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 14:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[JIFF2022] 전주국제영화제, 열흘간의 영화 축제 마무리 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207300</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207300</guid>
+            <pubDate>Sat, 07 May 2022 14:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207300">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507202438_b2c7103d2fcb8c911f53fcd4add74f95.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207300">[JIFF2022] 전주국제영화제, 열흘간의 영화 축제 마무리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507202438_b2c7103d2fcb8c911f53fcd4add74f95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임지연, 미스터리 '장미맨션' 입성 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207080</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504101334_523b4df45e42ee89010ca5c9d79f194a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 구교환 “괴이한 드라마의 괴이한 배우” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206647</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206647</guid>
-            <pubDate>Tue, 03 May 2022 23:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206647">	<span class="img-box hh">
+            <title><![CDATA[주우재-주현영-미노이 "놀라운 토요일" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207291</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207291</guid>
+            <pubDate>Sat, 07 May 2022 14:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207291">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504071332_299c1cd34668361df2256e49c05d8625.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507201657_c092925d2e169b5f48c0b91149ca8c8b.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206647">[인터뷰] 구교환 “괴이한 드라마의 괴이한 배우” </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207291">주우재-주현영-미노이 "놀라운 토요일"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504071332_299c1cd34668361df2256e49c05d8625.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507201657_c092925d2e169b5f48c0b91149ca8c8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이브' 서예지-박병은-유선-이상엽의 서로 다른 욕망 (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171139_98bb457ec26d1e770708f0914394612c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["제주의 아버지, 그리고 아들 딸" 박지환X최영준  '티격태격 포스터' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205479</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205479</guid>
-            <pubDate>Thu, 28 Apr 2022 10:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205479">	<span class="img-box hh">
+            <title><![CDATA[[현재는 아름다워]  신동미 마음 확인한 오민석 “그런데 전 아닌 것 같아요” 거절 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207333</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207333</guid>
+            <pubDate>Sat, 07 May 2022 14:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207333">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171900_76840d632cb960d919b33714f56f4f91.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507222216_10a334f4f3e3e2ae53a109a4614b20ab.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205479">"제주의 아버지, 그리고 아들 딸" 박지환X최영준  '티격태격 포스터' </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207333">[현재는 아름다워]  신동미 마음 확인한 오민석 “그런데 전 아닌 것 같아요” 거절</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171900_76840d632cb960d919b33714f56f4f91.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507222216_10a334f4f3e3e2ae53a109a4614b20ab.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현재는 아름다워]  “혹시 저 좋아하세요?” 대놓고 물어보는 오민석에 신동미 “몰랐어요?” (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506224956_0f1fee1c474578aaee015866fa9d116f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 남자 향기 물씬 나는 이태곤 하우스에 취한다! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=207144</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207144</guid>
-            <pubDate>Fri, 06 May 2022 13:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207144">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506222614_e0efb4f06258b2c9c703ac5f85b3145c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207144">[신상출시 편스토랑] 남자 향기 물씬 나는 이태곤 하우스에 취한다!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506222614_e0efb4f06258b2c9c703ac5f85b3145c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
