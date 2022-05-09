@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 22:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 23:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['같이삽시다' 이경진 "상대 어머니의 질투로 결혼 무산“]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207666</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207666</guid>
+            <pubDate>Mon, 09 May 2022 23:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207666">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510080254_8acf812cae0628a59d5f17d76cf37e2f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207666">'같이삽시다' 이경진 "상대 어머니의 질투로 결혼 무산“ </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510080254_8acf812cae0628a59d5f17d76cf37e2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 목줄 훈련 후 침착하게 산책할 수 있게 된 흑임자! 보호자 걸음 맞춰 차분한 산책을 즐기다!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207660</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220508235517_4ca46eaabe7a593218f85be34631b7e4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 서경석, 전 축구선수 백지훈 ‘의뢰인’으로 만났다...집 매매 의뢰]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=207461</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207461</guid>
-            <pubDate>Sun, 08 May 2022 15:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207461">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220508235047_7deba37d0760521da73579eb21578243_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207461">[자본주의학교] 서경석, 전 축구선수 백지훈 ‘의뢰인’으로 만났다...집 매매 의뢰</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220508235047_7deba37d0760521da73579eb21578243_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
