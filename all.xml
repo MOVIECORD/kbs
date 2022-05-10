@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 ‘장미맨션’ 제작발표회  "탐욕과 비밀의 아파트, 그리고 사라진 언니" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207779</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207779</guid>
+            <pubDate>Tue, 10 May 2022 06:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207779">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510143546_4c8bd57e37e019f153e50cd7a8e32da0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207779">티빙 ‘장미맨션’ 제작발표회  "탐욕과 비밀의 아파트, 그리고 사라진 언니"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510143546_4c8bd57e37e019f153e50cd7a8e32da0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작보고회 현장] 이지은-배두나-이주영의 워맨스 담긴 '브로커' (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207771</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206935">다큐멘터리 '아치의 노래, 정태춘'  메인예고편 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506091537_9c3ba3c121826768603c65eaad9e8254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["안나라수마나라" 오늘 매직 스타트~ (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206929</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206929</guid>
-            <pubDate>Fri, 06 May 2022 00:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206929">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506090853_c448ff816373c4fce6eb0ecb1e73190f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206929">"안나라수마나라" 오늘 매직 스타트~</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506090853_c448ff816373c4fce6eb0ecb1e73190f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄정화 주연 '우리들의 블루스'?, 엄정화의 블루스~ (KBS연예 ─ TVs)]]></title>
