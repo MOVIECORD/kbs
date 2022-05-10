@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 04:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['붉은 단심' 강한나-장혁의 독대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207740</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207740</guid>
+            <pubDate>Tue, 10 May 2022 04:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207740">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510130228_6da50b18726af2e4d462ec8abd7a7f86.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207740">'붉은 단심' 강한나-장혁의 독대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510130228_6da50b18726af2e4d462ec8abd7a7f86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘개훌륭’ 도베르만 믹스 흑임자의 공격성, 해결책은?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207712</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220509000302_ebefe920b202f4c6322a8583bc019fe3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 윤후의 이야기로 완성된 가사...30분 안에 멜로디를 완성시킨 자이언티]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=207469</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207469</guid>
-            <pubDate>Sun, 08 May 2022 15:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207469">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220508235934_ff1c567c80b02cfdb28b331d3405af2e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207469">[자본주의학교] 윤후의 이야기로 완성된 가사...30분 안에 멜로디를 완성시킨 자이언티</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220508235934_ff1c567c80b02cfdb28b331d3405af2e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
