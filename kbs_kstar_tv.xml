@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 22:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 23:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나의 해방일지 #최종회] “마음에 사랑밖에 없어.”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=211156</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211156</guid>
+            <pubDate>Sun, 29 May 2022 23:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211156">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530075803_f62abd4b6132e995e10c09cf38e6587f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211156">[나의 해방일지 #최종회] “마음에 사랑밖에 없어.”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530075803_f62abd4b6132e995e10c09cf38e6587f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나의 해방일지 15회] 손석구의 진심 “나 너 진짜 좋아했다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=211078</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=209734">母의 죽음, 인생에 찾아온 또 다른 위기 '나의 해방일지'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220522121350_8fed9446b23801dfaa6352d27e3028a3_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘뜻밖의 여정’ 그림자 매니저, 이서진]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=209718</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=209718</guid>
-            <pubDate>Tue, 24 May 2022 02:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=209718">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220522093535_966feeae44e39b5b579893551bf114db.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=209718">‘뜻밖의 여정’ 그림자 매니저, 이서진</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220522093535_966feeae44e39b5b579893551bf114db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
