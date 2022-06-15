@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 00:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220610080834_9663cba9bdc698fc531305d1d60250ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장윤정-이찬원의 연결고리...전국노래자랑? (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213698</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213698</guid>
+            <pubDate>Wed, 15 Jun 2022 00:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213698">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615085622_f3aecf060e6cdd3dd803218a2f21370a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213698">장윤정-이찬원의 연결고리...전국노래자랑?</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615085622_f3aecf060e6cdd3dd803218a2f21370a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 허성태, '아다마스'에서 묵직한 카리스마 지닌 최총괄 역으로 출연 확정! (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213574</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213574</guid>
@@ -671,28 +688,29 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220607135128_b6d2af5075e6b84da7a870a803d9103e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘환혼’ 이재욱-정소민, "딱 붙어 있어!" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=212134</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212134</guid>
-            <pubDate>Tue, 07 Jun 2022 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212134">	<span class="img-box hh">
+            <title><![CDATA[서현X나인우 판타지 로맨스 '징크스의 연인' 오늘 첫 방송 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213687</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213687</guid>
+            <pubDate>Wed, 15 Jun 2022 00:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213687">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220605080535_b4e94e427efab670c5be38e45b85e11a.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615081612_a76edceacfbfd6fb0285de671134e3f5.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212134">‘환혼’ 이재욱-정소민, "딱 붙어 있어!"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213687">서현X나인우 판타지 로맨스 '징크스의 연인' 오늘 첫 방송</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%95%ED%81%AC%EC%8A%A4%EC%9D%98%20%EC%97%B0%EC%9D%B8">수목드라마 징크스의 연인</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220605080535_b4e94e427efab670c5be38e45b85e11a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615081612_a76edceacfbfd6fb0285de671134e3f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[갓파더] 사회초년생 조나단을 위한 김숙의 자산 관리 팁 공개! “아는 만큼 안 당한다” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213659</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213659</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213659">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213659">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615011642_f09eed7b64f70251bf3c8a709bf2aa81_1.png" alt="대체 텍스트">
@@ -710,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213653</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213653</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213653">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213653">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615003920_bbc51c1a8e38f2770276dc152ed2b090.png" alt="대체 텍스트">
@@ -728,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213648</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213648</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213648">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213648">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615003732_7c1c16cf0a7edf961d45ca3e7e841f16_1.png" alt="대체 텍스트">
@@ -746,7 +764,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213643</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213643</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213643">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213643">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615002615_d4fad2110535f420bb28a92eb8e0b51f_1.png" alt="대체 텍스트">
@@ -764,7 +782,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213638</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213638</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213638">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213638">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614234129_aee07df2dd8599db4c6b29eef40e1501_1.png" alt="대체 텍스트">
@@ -782,7 +800,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213633</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213633</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213633">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213633">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233918_75f89b69888d4853ac6d4337aec1521a_1.png" alt="대체 텍스트">
@@ -800,7 +818,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213628</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213628</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213628">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213628">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233631_7acd1cbf20c4d406c6f27d10199a6154_1.png" alt="대체 텍스트">
@@ -818,7 +836,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213623</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213623</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213623">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213623">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233412_5164f145c56c8deca71ec3b43b4c1b53_1.png" alt="대체 텍스트">
@@ -836,7 +854,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213618</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213618</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213618">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213618">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614232618_231ee4d043846104ca1a7bda976e53c2_1.png" alt="대체 텍스트">
@@ -854,7 +872,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213613</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213613</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213613">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213613">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614232407_3ec262a2c2497bdfea041b15eeaa5072_1.png" alt="대체 텍스트">
@@ -872,7 +890,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213608</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213608</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213608">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213608">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614232128_03923df040a43983a8c8dd9d9f784434_1.png" alt="대체 텍스트">
@@ -890,7 +908,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213603</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213603</guid>
             <pubDate>Tue, 14 Jun 2022 17:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213603">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213603">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614231756_76d6c30fb55ba65c842a03d17d9bb472_1.png" alt="대체 텍스트">
@@ -908,7 +926,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213559</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213559</guid>
             <pubDate>Tue, 14 Jun 2022 03:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213559">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213559">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614113040_fd090d64aa429678768c438cf050b2bc.jpg" alt="대체 텍스트">
@@ -926,7 +944,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213499</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213499</guid>
             <pubDate>Mon, 13 Jun 2022 17:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213499">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213499">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614012009_ec95cc4da98732d59cae6793eb81ecdd.png" alt="대체 텍스트">
@@ -944,7 +962,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213494</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213494</guid>
             <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213494">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213494">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614010152_2b9772ce619dd8c863cecc4a55ddaad5_1.png" alt="대체 텍스트">
@@ -962,7 +980,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213489</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213489</guid>
             <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213489">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213489">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614005630_7a412ec9e612cdcb23bd8b2445948a63_1.png" alt="대체 텍스트">
@@ -980,7 +998,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213484</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213484</guid>
             <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213484">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213484">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614005230_dd04b756a8438409bcc73b8e03339df7_1.png" alt="대체 텍스트">
@@ -998,7 +1016,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213479</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213479</guid>
             <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213479">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213479">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614002637_683f27e27e35173ea520010307bd4977_1.png" alt="대체 텍스트">
@@ -1016,7 +1034,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213474</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213474</guid>
             <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213474">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213474">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614002127_85705c032f4b9efbacc05d3f39f10eee_1.png" alt="대체 텍스트">
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614002127_85705c032f4b9efbacc05d3f39f10eee_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[붉은 단심] “전하의 아이를 가졌습니다” 폭탄 발언으로 대비 권력 위협하는 강한나 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213469</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213469</guid>
-            <pubDate>Mon, 13 Jun 2022 16:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213469">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614001337_b040615476e996dd44960cb18aba71ad_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213469">[붉은 단심] “전하의 아이를 가졌습니다” 폭탄 발언으로 대비 권력 위협하는 강한나</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614001337_b040615476e996dd44960cb18aba71ad_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
