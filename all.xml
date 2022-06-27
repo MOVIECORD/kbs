@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 03:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비상선언' 김남길, 항공재난 부기장의 책임감 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215460</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215460</guid>
+            <pubDate>Mon, 27 Jun 2022 04:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215460">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627075532_58006f75b642cb7d4b83712363aab110_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215460">'비상선언' 김남길, 항공재난 부기장의 책임감</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627075532_58006f75b642cb7d4b83712363aab110_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓챠 '최종병기 앨리스' 제작발표회  "하드코어 액션 로맨스!" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215302</link>
@@ -331,21 +348,55 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623071215_5cd940dccf1f4f8d1f9d6e5fd0745211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[권상우 ‘현실 격공 코미디’, 웨이브 오리지널 '위기의 X' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214859</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214859</guid>
-            <pubDate>Wed, 22 Jun 2022 03:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214859">	<span class="img-box hh">
+            <title><![CDATA[마음 치유하는 조선의 의원, 김민재X김향기X김상경 '조선 정신과 의사 유세풍' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215527</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215527</guid>
+            <pubDate>Mon, 27 Jun 2022 04:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215527">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622110400_60b86a8f4a964a07c42bee28ea2b1b23.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627091847_1670f8f4078a5dd12466421039a8815d.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214859">권상우 ‘현실 격공 코미디’, 웨이브 오리지널 '위기의 X' </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215527">마음 치유하는 조선의 의원, 김민재X김향기X김상경 '조선 정신과 의사 유세풍'</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622110400_60b86a8f4a964a07c42bee28ea2b1b23.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627091847_1670f8f4078a5dd12466421039a8815d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OCN 나타난 김성규, '돼지의 왕' 하드캐리 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215497</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215497</guid>
+            <pubDate>Mon, 27 Jun 2022 04:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215497">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627085332_97412e392b7dc2a90edab7a6be5a6630.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215497">OCN 나타난 김성규, '돼지의 왕' 하드캐리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627085332_97412e392b7dc2a90edab7a6be5a6630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['톡파원25시', 칸 영화제 박찬욱-송강호 수상 비하인드 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215492</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215492</guid>
+            <pubDate>Mon, 27 Jun 2022 04:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215492">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627084943_e759a604d6dfa835fc8a7081eb5c29ea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215492">'톡파원25시', 칸 영화제 박찬욱-송강호 수상 비하인드 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627084943_e759a604d6dfa835fc8a7081eb5c29ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나연-모모-채영, tvN ‘놀라운 토요일’ (KBS연예 ─ TVs)]]></title>
@@ -635,57 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214068">유재석 깜짝 놀란 이유는? WSG워너비 후보곡 청음회에서 생긴 일!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617104009_9497370295d8b167a21b7ab699be28cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN스포츠 '남자농구 평가전', '부다페스트 FINA 세계수영선수권대회' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213803</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213803</guid>
-            <pubDate>Fri, 17 Jun 2022 02:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213803">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615153716_8eac9b8f862097cbd6f6dbc2edc78254_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213803">tvN스포츠 '남자농구 평가전', '부다페스트 FINA 세계수영선수권대회'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220615153716_8eac9b8f862097cbd6f6dbc2edc78254_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서예지, 자상한 남편 불륜하게 만드는 위험한 매력 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214044</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214044</guid>
-            <pubDate>Fri, 17 Jun 2022 00:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214044">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617084736_4be133ddd4dda24bd20eb523088c4a35.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214044">서예지, 자상한 남편 불륜하게 만드는 위험한 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617084736_4be133ddd4dda24bd20eb523088c4a35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성규, OCN에서 만난다! '돼지의 왕' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214039</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214039</guid>
-            <pubDate>Fri, 17 Jun 2022 00:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214039">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617084438_d9da22649cd89ae4dd4cc6b26bc2f414.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214039">김성규, OCN에서 만난다! '돼지의 왕'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617084438_d9da22649cd89ae4dd4cc6b26bc2f414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[콘서트] 트바로티 김호중부터 아이돌 위클리까지...평화를 위한 무대! (KBS연예 ─ KBS)]]></title>
