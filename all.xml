@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 22:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 23:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리 아우라, 이번엔 천둥 쏘는 처자  영화 '외계+인'1부 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216218</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216218</guid>
+            <pubDate>Thu, 30 Jun 2022 23:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216218">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701075034_3124ce03fd12b0728644568574b13c31_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216218">김태리 아우라, 이번엔 천둥 쏘는 처자  영화 '외계+인'1부</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701075034_3124ce03fd12b0728644568574b13c31_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서바이벌 스릴러 '옐로우재킷'을 보려면? (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216110</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215625">[인터뷰] 김홍선 감독 "'종이의 집' 호불호 리뷰...잘 안 보려고 한다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627164556_41848dde9e4e60ecf5a4e0be1fe736b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 유지태, "내가 베를린 연기했다면...성 정체성 빼지 말아 달라 했을 것" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=215616</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215616</guid>
-            <pubDate>Mon, 27 Jun 2022 08:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215616">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627154729_5c9274e27d233cb37cdc963a95fa7ebe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215616">[인터뷰] 유지태, "내가 베를린 연기했다면...성 정체성 빼지 말아 달라 했을 것"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627154729_5c9274e27d233cb37cdc963a95fa7ebe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 강기영, 박은빈과 함께 변호사로 변신! (KBS연예 ─ TVs)]]></title>
