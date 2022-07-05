@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 22:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 23:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한재림 감독 항공재난 드라마 '비상선언' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216930</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216930</guid>
+            <pubDate>Tue, 05 Jul 2022 23:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216930">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706075602_aeacf7038d467a20366e091bdf33cad1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216930">한재림 감독 항공재난 드라마 '비상선언'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706075602_aeacf7038d467a20366e091bdf33cad1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['역삼역 우영우' 박은빈, "이렇게 착한 드라마, 이렇게 이상한 변호사" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216853</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216099">7월 7일 BIFAN 개막식, 박병은·한선화가 연다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220630074935_13475adc106ea4fbbeb9caa9cc6de0fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박해일과 김한민 감독, 흥행은 계속 된다 '한산:용의 출현' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216093</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216093</guid>
-            <pubDate>Thu, 30 Jun 2022 15:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216093">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220630074211_8f470e0bb8dcc8ff3ed753165777a41d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216093">박해일과 김한민 감독, 흥행은 계속 된다 '한산:용의 출현'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220630074211_8f470e0bb8dcc8ff3ed753165777a41d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['벌거벗은 세계사' 블라디미르 푸틴의 진면모를 파헤친다 (KBS연예 ─ TVs)]]></title>
