@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 22:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628125719_b5d7dd1f6baca52b536df5502ae1832a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빼고파] 여자도 王자 복근이 가능하다?! 보디 프로필에 도전하는 김신영 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217638</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217638</guid>
+            <pubDate>Sat, 09 Jul 2022 23:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217638">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220710075557_643058e35992783234ae3604b347c71d_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217638">[빼고파] 여자도 王자 복근이 가능하다?! 보디 프로필에 도전하는 김신영</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B9%BC%EA%B3%A0%ED%8C%8C">빼고파</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220710075557_643058e35992783234ae3604b347c71d_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[살림하는 남자들 2] ‘두뇌 풀가동’ 정태우의 위기?! 시어머니 vs 며느리의 ‘매실청’ 배틀 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217634</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=217634</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709024052_9ecacca774cdc06665f1a2f09a5b4fab_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[유희열의 스케치북] 김종국과 KCM의 컬래버 곡, 래퍼 미란이의 피처링 ♬ I Luv U (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217506</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217506</guid>
-            <pubDate>Fri, 08 Jul 2022 19:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217506">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709023827_d3e0b02d76e0114d4414269e8f5e2119.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217506">[유희열의 스케치북] 김종국과 KCM의 컬래버 곡, 래퍼 미란이의 피처링 ♬ I Luv U</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709023827_d3e0b02d76e0114d4414269e8f5e2119.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
