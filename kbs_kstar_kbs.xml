@@ -4,9 +4,45 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 23:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 00:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["나는 가수가 아니다"  비가수 ‘올스타 가왕전’ (KBS 불후의명곡)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217586</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217586</guid>
+            <pubDate>Sat, 09 Jul 2022 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217586">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709082821_ffee1695c537a9ce34524bbee6d24228.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217586">"나는 가수가 아니다"  비가수 ‘올스타 가왕전’ (KBS 불후의명곡)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709082821_ffee1695c537a9ce34524bbee6d24228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김영철의 마지막 '동네한바퀴' 보령의 여름]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217575</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217575</guid>
+            <pubDate>Sat, 09 Jul 2022 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217575">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709080658_4074695c783ae0be3faf649375782a6f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217575">김영철의 마지막 '동네한바퀴' 보령의 여름</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B9%80%EC%98%81%EC%B2%A0%EC%9D%98%20%EB%8F%99%EB%84%A4%20%ED%95%9C%20%EB%B0%94%ED%80%B4">김영철의 동네 한 바퀴</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220709080658_4074695c783ae0be3faf649375782a6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸어서 세계속으로,  "오늘 캐나다 서부를 간다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217568</link>
@@ -330,42 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708185219_b447361ad7736fe365f54d5a8218bb7b_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 우주소녀, 환상적인 Sequence로 돌아온 인어공주님들 ♪Last Sequence]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217449</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217449</guid>
-            <pubDate>Fri, 08 Jul 2022 16:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217449">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708184820_35f047b3b5659c35d71f48bce5c7981d.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217449">[뮤직뱅크] 우주소녀, 환상적인 Sequence로 돌아온 인어공주님들 ♪Last Sequence</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708184820_35f047b3b5659c35d71f48bce5c7981d.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[김종국-KCM-선미-바다-로시의 '스케치북']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217264</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217264</guid>
-            <pubDate>Fri, 08 Jul 2022 04:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217264">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708085339_9b7461aca277ffa29089c1d51b3949f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217264">김종국-KCM-선미-바다-로시의 '스케치북'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708085339_9b7461aca277ffa29089c1d51b3949f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
