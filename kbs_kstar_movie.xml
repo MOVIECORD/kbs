@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 00:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니, 하이브와 글로벌 콘텐츠 협업 나서]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217972</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217972</guid>
+            <pubDate>Tue, 12 Jul 2022 00:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217972">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220712083544_a020728910578ae40a4e74e2179af615_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217972">디즈니, 하이브와 글로벌 콘텐츠 협업 나서</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220712083544_a020728910578ae40a4e74e2179af615_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '환승연애2' , 한층 더 복잡해진 청춘남녀들의 연애노선]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217321</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217319">최동훈 감독  '외계+인', "우리는 난다 뛴다 쏜다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708101036_cbc0a22615fefeda15fd6afde9440d41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["박서준-픽보이-최우식-박형식-뷔" 디즈니플러스 힐링예능 리얼리티 '인더숲 : 우정여행']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217307</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217307</guid>
-            <pubDate>Fri, 08 Jul 2022 04:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217307">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708100648_288146885f58a17d957e17b89e5f8853_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217307">"박서준-픽보이-최우식-박형식-뷔" 디즈니플러스 힐링예능 리얼리티 '인더숲 : 우정여행'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708100648_288146885f58a17d957e17b89e5f8853_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
