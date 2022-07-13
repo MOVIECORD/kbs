@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 22:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBC '멧돼지사냥',  4부작 시골스릴러 스틸공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=218293</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218293</guid>
+            <pubDate>Wed, 13 Jul 2022 23:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218293">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714074414_e1c1c4414a42c64fd161e84049e4c097.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218293">MBC '멧돼지사냥',  4부작 시골스릴러 스틸공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714074414_e1c1c4414a42c64fd161e84049e4c097.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과부가 된 김향기, 비자발적 열녀의 꿈과 호기심은?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=218216</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216858">'벌거벗은 세계사' 블라디미르 푸틴의 진면모를 파헤친다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705154923_3abb2a3a9450729c2e407e0fc889f74b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아다마스' 서지혜,  사랑을 잃고 복수심만 남은 며느리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216821</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216821</guid>
-            <pubDate>Tue, 05 Jul 2022 04:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216821">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705091143_47b7d3ba7eaf8ea8254f5c67318875dd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216821">'아다마스' 서지혜,  사랑을 잃고 복수심만 남은 며느리 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705091143_47b7d3ba7eaf8ea8254f5c67318875dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
