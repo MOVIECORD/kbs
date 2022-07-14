@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 22:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 23:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706085632_f65371d5c42171d27fbb1830dd2b4ee0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[독립영화관] ‘백야’ 성추행한 남자가 자살하고 생긴 일 (염문경 감독,2020) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=218424</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218424</guid>
+            <pubDate>Thu, 14 Jul 2022 23:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218424">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714163425_56bf46407c3d7d5ba5b851c0259d342b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218424">[독립영화관] ‘백야’ 성추행한 남자가 자살하고 생긴 일 (염문경 감독,2020)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714163425_56bf46407c3d7d5ba5b851c0259d342b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연중 라이브] 노제, SNS 광고 갑질 논란? (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=218478</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=218478</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220713223912_ee6e2f5bdf66b9dd341446dc81ef0df9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 지상렬의 직진 고백♥ 김숙~ 너 예쁘다고~! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=218244</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218244</guid>
-            <pubDate>Wed, 13 Jul 2022 13:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218244">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220713223528_3dda5a0e430a78ab8a5681d37ade058d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218244">[옥탑방의 문제아들] 지상렬의 직진 고백♥ 김숙~ 너 예쁘다고~!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220713223528_3dda5a0e430a78ab8a5681d37ade058d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
