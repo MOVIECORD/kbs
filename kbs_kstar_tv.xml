@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 00:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBC 4부작 '멧돼지사냥' 할머니 예수정 - 손주 이민재 스틸 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=218814</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218814</guid>
+            <pubDate>Mon, 18 Jul 2022 00:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218814">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220717085701_6a40ee3c7732d6f9d5cf158effddffb8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218814">MBC 4부작 '멧돼지사냥' 할머니 예수정 - 손주 이민재 스틸 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220717085701_6a40ee3c7732d6f9d5cf158effddffb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타다큐 마이웨이- 조춘,  80년대 코믹 연기의 대가 근황 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=218847</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217419">류시원과 함께, 속초 백반기행 (TV조선허영만의 백반기행)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708102709_c52a138dcf84fc7fef87100cd269e50a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN단막 '목소리를 구분하는 방법' 이홍내-최희진의 솔로탈출 연애기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217425</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217425</guid>
-            <pubDate>Fri, 08 Jul 2022 06:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217425">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708122330_cb1bde5e2533bdfd0547b7360f554754.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217425"> tvN단막 '목소리를 구분하는 방법' 이홍내-최희진의 솔로탈출 연애기</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708122330_cb1bde5e2533bdfd0547b7360f554754.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
