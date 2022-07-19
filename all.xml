@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 22:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 23:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714165829_81f8fbdfb0d05eebc59f1695e4b9661b_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['유세풍' 김상경, 조선의 괴짜의원 계지한 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219221</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219221</guid>
+            <pubDate>Tue, 19 Jul 2022 23:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219221">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220719085835_b7ddecfb2c08e4fd519707fd091e149f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219221">'유세풍' 김상경, 조선의 괴짜의원 계지한</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220719085835_b7ddecfb2c08e4fd519707fd091e149f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[걸크러쉬 격투예능 '씨름의 여왕' 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219227</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=219227</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217802">tvN 행복처방극 '조선 정신과 의사 유세풍' 포스터 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220711090826_05ffce63b8e4669dbf3f5e221a5d1bb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱글男 장민호, 5남매 독박육아 도전  예능 '엄마는 예뻤다' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217677</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217677</guid>
-            <pubDate>Sun, 10 Jul 2022 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217677">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220710085406_e2a856e23fab923a9d74fb345f42d210_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217677">싱글男 장민호, 5남매 독박육아 도전  예능 '엄마는 예뻤다'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220710085406_e2a856e23fab923a9d74fb345f42d210_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오케이? 오케이!] 오케이 힐러로 전역 신고하는 김호중 “오케이? 오케이!는 내가 원조다” (KBS연예 ─ KBS)]]></title>
