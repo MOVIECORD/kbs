@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 10:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 11:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721100056_7137d772fecbc250ca819a34779e4eff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘불후의 명곡’, 록 페스티벌 in 강릉 "김창완밴드-YB-크라잉넛-몽니-육중완밴드-잔나비-멜로망스" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221420</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221420</guid>
+            <pubDate>Sat, 30 Jul 2022 11:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221420">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730171305_84f885cd2ac74ed4d8d3484f7d0a1f6e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221420">‘불후의 명곡’, 록 페스티벌 in 강릉 "김창완밴드-YB-크라잉넛-몽니-육중완밴드-잔나비-멜로망스"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730171305_84f885cd2ac74ed4d8d3484f7d0a1f6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘리슨 업' 프로듀서 배틀 프로그램 '1라운드' 시작 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221388</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221388</guid>
+            <pubDate>Sat, 30 Jul 2022 11:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221388">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730164121_cad86855dac229da9e7318f4ba542a7b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221388">‘리슨 업' 프로듀서 배틀 프로그램 '1라운드' 시작</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730164121_cad86855dac229da9e7318f4ba542a7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성대 이상에 의상 문제까지, 김호중 "하늘에 맡기겠다" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221323</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=221323</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729135840_0323b043f1d920b7810baef5cff7c24c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221208</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221208</guid>
-            <pubDate>Fri, 29 Jul 2022 00:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%20%EC%A7%81%EA%B2%A9">시사 직격</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원지안, '결핍과 집착, 그리고 힐링'  드라마 '당신이 소원을 말하면' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221039</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221039</guid>
-            <pubDate>Thu, 28 Jul 2022 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221039">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728142536_58d30b936d9ed19c152a41ac7d65ef94.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221039">원지안, '결핍과 집착, 그리고 힐링'  드라마 '당신이 소원을 말하면'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728142536_58d30b936d9ed19c152a41ac7d65ef94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
