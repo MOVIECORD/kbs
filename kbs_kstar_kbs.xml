@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이별도 리콜이 되나요?] “깔끔하게 정리하기 위해 나왔을 뿐” 전 남자친구 단호함에 눈물 보이는 리콜녀]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221717</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221717</guid>
+            <pubDate>Mon, 01 Aug 2022 15:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221717">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801233105_73fcdf2f3f92abf4c11d6b2dde0c85f0.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221717">[이별도 리콜이 되나요?] “깔끔하게 정리하기 위해 나왔을 뿐” 전 남자친구 단호함에 눈물 보이는 리콜녀</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801233105_73fcdf2f3f92abf4c11d6b2dde0c85f0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이별도 리콜이 되나요?] 한쪽이 다가오면 한쪽은 밀어내는 엇갈린 타이밍… 이별 할 수 밖에 없었던 두 남녀]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221712</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220731220422_f69c69bb6fd72d89cb059f1894c18851.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 난장판 머드 지옥... 1 : 3 힘세윤을 쓰러트리기 위한 멤버 연합 사투]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221514</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221514</guid>
-            <pubDate>Sun, 31 Jul 2022 13:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221514">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220731215054_3102b6816e07a56a4717f40634af3f5b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221514">[1박2일] 난장판 머드 지옥... 1 : 3 힘세윤을 쓰러트리기 위한 멤버 연합 사투</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220731215054_3102b6816e07a56a4717f40634af3f5b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
