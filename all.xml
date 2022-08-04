@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 13:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 14:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220727090744_45f37b3a4f59bbcef6473453c59cfc87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[홍김동전] 홍김동전의 브레인 장우영! 순조롭게 진행되는 우영의 미션! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222245</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222245</guid>
+            <pubDate>Thu, 04 Aug 2022 14:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222245">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804225732_6a9e39cb61d0c1353e7517c89b307bb3_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222245">[홍김동전] 홍김동전의 브레인 장우영! 순조롭게 진행되는 우영의 미션!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804225732_6a9e39cb61d0c1353e7517c89b307bb3_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이세영, 로펌 사표 던지다 “사직을 축하합니다" (KBS '법대로 사랑하라') (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222205</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=222205</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802233106_1c324d98fc95ae02b70d333c0a9775e8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미남당] 수사 고집하며 꽃다발과 근사한 식사 준비한 서인국, 투덜거리면서도 데이트 즐기는 오연서 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221992</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221992</guid>
-            <pubDate>Tue, 02 Aug 2022 15:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221992">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802232730_b00fd560035a56b2447c5f99b2fd74d0_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221992">[미남당] 수사 고집하며 꽃다발과 근사한 식사 준비한 서인국, 투덜거리면서도 데이트 즐기는 오연서</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802232730_b00fd560035a56b2447c5f99b2fd74d0_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
