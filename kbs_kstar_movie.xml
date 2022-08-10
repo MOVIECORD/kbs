@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,7 +25,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220810164254_cdfd0d7288e8b6a29cae6ef4999a41f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인티뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)]]></title>
+            <title><![CDATA[[인터뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223287</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=223287</guid>
             <pubDate>Wed, 10 Aug 2022 08:07:55 GMT</pubDate>
@@ -37,7 +37,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223287">[인티뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223287">[인터뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220810154629_eb09a1a04d6fbb8edb523ab07e881f71.jpg" length="0" type="image/jpg"/>
         </item>
