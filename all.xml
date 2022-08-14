@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 11:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 12:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802163757_bdf3440eeb21cb469176c7e6fb897231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[1박2일] 연정훈, 시민 100명과 사진찍기 미션... 너무 만만했나 ‘여유만만’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223960</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223960</guid>
+            <pubDate>Sun, 14 Aug 2022 12:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223960">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814205912_7f05a6272d70ae8867f7013e45a1f995.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223960">[1박2일] 연정훈, 시민 100명과 사진찍기 미션... 너무 만만했나 ‘여유만만’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814205912_7f05a6272d70ae8867f7013e45a1f995.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[사장님 귀는 당나귀 귀] '요식업 사업 동업' 슈퍼주니어 신동-이특, 사사건건 의견충돌 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223949</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=223949</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220813220329_dc188ec922853516fcfa72ec3acb92b9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘국가대표급 디바’ 박기영 감탄나오는 무대 - 희나리 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223784</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223784</guid>
-            <pubDate>Sat, 13 Aug 2022 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223784">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220813215851_87cca17f7a74bf0962f3e3db2b8ec57a.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223784">[불후의 명곡] ‘국가대표급 디바’ 박기영 감탄나오는 무대 - 희나리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220813215851_87cca17f7a74bf0962f3e3db2b8ec57a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
