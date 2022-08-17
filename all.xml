@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:58:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김호중 두 번째 영화 '인생은 뷰티풀: 비타돌체' 9월 개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224334</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224334</guid>
+            <pubDate>Wed, 17 Aug 2022 04:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224334">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817134126_a26513520ed628fe169839e7b083c2ce.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224334">김호중 두 번째 영화 '인생은 뷰티풀: 비타돌체' 9월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817134126_a26513520ed628fe169839e7b083c2ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 현빈+유해진+다니엘 헤니, “남-북한 플러스 FBI의 공조라...” ‘공조2:인터내셔날’ 제작보고회 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224311</link>
@@ -25,7 +42,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817093218_aa326f1c01abbe1037d85f4370efe323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] 브래드 피트가 탑승한 '불릿 트레인', 절정의 미장센 스며든 액션 신의 폭주 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[[리뷰] 브래드 피트가 탑승한 '불릿 트레인', 절정의 미장센 스며든 액션 신의 질주 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224307</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224307</guid>
             <pubDate>Wed, 17 Aug 2022 00:32:41 GMT</pubDate>
@@ -37,7 +54,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224307">[리뷰] 브래드 피트가 탑승한 '불릿 트레인', 절정의 미장센 스며든 액션 신의 폭주</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224307">[리뷰] 브래드 피트가 탑승한 '불릿 트레인', 절정의 미장센 스며든 액션 신의 질주</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817093030_e75b8cf5edcfe8992ef366f1bf4960e8.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223956">[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814201118_0bb9dddd12b0955e175d204ca6194973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' "이정재 감독님, '동림'의 정체를 아는 사람이 벌써 100만 명입니다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223899</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223899</guid>
-            <pubDate>Sun, 14 Aug 2022 05:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223899">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814095532_2f2832f0fbe180a910ac4e3416ad0721.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223899">'헌트' "이정재 감독님, '동림'의 정체를 아는 사람이 벌써 100만 명입니다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814095532_2f2832f0fbe180a910ac4e3416ad0721.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['유세풍' 김민재-김향기, '계수의원에서만 내릴 수 있는 처방전' (KBS연예 ─ TVs)]]></title>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224326</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224326</guid>
             <pubDate>Wed, 17 Aug 2022 03:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224326">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224326">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817104229_273ab577ec7e8083f1dbab4f35027c78.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224274</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224274</guid>
             <pubDate>Wed, 17 Aug 2022 00:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224274">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224274">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817081034_c8a170b47cb4dc7af322c9105b10f821.jpg" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224242</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224242</guid>
             <pubDate>Tue, 16 Aug 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224242">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224242">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004633_625a3254e772973ce2bd26851ddf3bf7_1.png" alt="대체 텍스트">
@@ -746,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224237</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224237</guid>
             <pubDate>Tue, 16 Aug 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224237">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224237">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004315_fd54da4f0aa2f5c4b48c8c2fd6ed4d34.png" alt="대체 텍스트">
@@ -764,7 +764,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224232</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224232</guid>
             <pubDate>Tue, 16 Aug 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224232">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224232">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817002136_2f771053886fef5796314ddd27158c6d_1.png" alt="대체 텍스트">
