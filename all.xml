@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 00:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 03:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811082442_220410e4ddcbf1fb478974963c0cee70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['현재는 아름다워’ 박지영, 딸을 향한 애절한 모정 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224929</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224929</guid>
+            <pubDate>Sun, 21 Aug 2022 03:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224929">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821093019_dc4661ffccd74851893ceb9db9cd8cc1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224929">'현재는 아름다워’ 박지영, 딸을 향한 애절한 모정</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821093019_dc4661ffccd74851893ceb9db9cd8cc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리슨업] 첫번 째 탈락자 발생... “후회는 없어요” 리슨업을 떠나는 픽보이 프로듀서 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224923</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=224923</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220820100029_5838f5a12ff50acb279c8114a2218cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 ‘Attention’, ‘뮤직뱅크’ 1위 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224795</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224795</guid>
-            <pubDate>Sat, 20 Aug 2022 13:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224795">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220820080926_49ad11e2e2949b144d94901e17d9cccb_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224795">뉴진스 ‘Attention’, ‘뮤직뱅크’ 1위</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220820080926_49ad11e2e2949b144d94901e17d9cccb_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
