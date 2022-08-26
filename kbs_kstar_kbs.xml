@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독립영화관] ‘자매들의 밤’ SIWFF에 완벽하게 어울리는 여성영화 (김보람 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226181</guid>
+            <pubDate>Fri, 26 Aug 2022 07:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826160114_80849faef4d3404b67bd6d6aba8e7579.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226181">[독립영화관] ‘자매들의 밤’ SIWFF에 완벽하게 어울리는 여성영화 (김보람 감독)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826160114_80849faef4d3404b67bd6d6aba8e7579.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신상출시, 김규리 ‘북촌 리틀 포레스트’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226144</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825075025_6df0c7c133ddb8141b0cffcc67871d6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['드라마스페셜-프리즘'  김민철-홍서희 캐스팅 "10대들의 성장 드라마!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225643</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225643</guid>
-            <pubDate>Wed, 24 Aug 2022 20:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225643">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824133025_1cb9951f0a65fd1ee4b853ba2ff54225.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225643">'드라마스페셜-프리즘'  김민철-홍서희 캐스팅 "10대들의 성장 드라마!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824133025_1cb9951f0a65fd1ee4b853ba2ff54225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
