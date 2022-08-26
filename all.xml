@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 03:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 05:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823160840_1c156d5671f89b4eb6830fffc88cc9de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 김효진, 최강 악역...천나나로 변신 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226173</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226173</guid>
+            <pubDate>Fri, 26 Aug 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226173">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826135737_2c3d468897e1dd0300d8c06106c996c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226173">배우 김효진, 최강 악역...천나나로 변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826135737_2c3d468897e1dd0300d8c06106c996c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tvN 새 드라마,  중전의 '슈룹'(우산) .. 김혜수-김해숙-최원영 캐스팅 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226150</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226150</guid>
+            <pubDate>Fri, 26 Aug 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226150">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826111525_8e6bd862d8b5aec4de5e5f924fd5b121.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226150">tvN 새 드라마,  중전의 '슈룹'(우산) .. 김혜수-김해숙-최원영 캐스팅  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826111525_8e6bd862d8b5aec4de5e5f924fd5b121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['빅마우스'전쟁 2막 시작 "이것만 알면 당신도 구천시민'" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226068</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226068</guid>
+            <pubDate>Fri, 26 Aug 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226068">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826082711_c92e977105c0d06c934f359ba640d294.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226068">'빅마우스'전쟁 2막 시작 "이것만 알면 당신도 구천시민'"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826082711_c92e977105c0d06c934f359ba640d294.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC '디 엠파이어: 법의 제국' 티저 공개 "모든 걸 가진 사람들, 그들이 감춘 이야기" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=225975</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=225975</guid>
@@ -635,57 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225044">칼 맞은 '모범형사2' 팀 정순원...눈물의 상봉 현장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822083755_daf71cf846d860f76c63ca9b66e5b519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유세풍' 김민재-김향기-김상경, '행동하는 심의’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225016</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225016</guid>
-            <pubDate>Wed, 24 Aug 2022 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225016">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822074701_cf0d97a866d675653581b8fad485102e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225016">'유세풍' 김민재-김향기-김상경, '행동하는 심의’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822074701_cf0d97a866d675653581b8fad485102e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENA '변호사 다음엔 재벌탐정' 정일우X권유리X음문석X송상은 '굿잡' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224511</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224511</guid>
-            <pubDate>Wed, 24 Aug 2022 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224511">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819075749_6f19ed4876a160eca8196cca249f22fe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224511">ENA '변호사 다음엔 재벌탐정' 정일우X권유리X음문석X송상은 '굿잡'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819075749_6f19ed4876a160eca8196cca249f22fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈 영훈, SBS '인기가요' 스페셜 MC 출격 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224915</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224915</guid>
-            <pubDate>Wed, 24 Aug 2022 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224915">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821090535_5df7f9693f998da95485fbf0ecb61413.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224915">더보이즈 영훈, SBS '인기가요' 스페셜 MC 출격</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821090535_5df7f9693f998da95485fbf0ecb61413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신상출시, 김규리 ‘북촌 리틀 포레스트’ (KBS연예 ─ KBS)]]></title>
