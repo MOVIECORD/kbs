@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 03:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 05:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824082418_7d9eb345ab801f360d70d06efae1f0f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권유리에게 이런 모습이? '굿잡' 비하인드컷 공개! (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226527</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226527</guid>
+            <pubDate>Mon, 29 Aug 2022 05:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226527">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829130210_417c0fb53487fe2df95d83aa83b91d13.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226527">권유리에게 이런 모습이? '굿잡' 비하인드컷 공개!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829130210_417c0fb53487fe2df95d83aa83b91d13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[일문일답] 배우 이재욱, '환혼' 종영 소감 "장욱은 사라지지 않았다" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226469</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=226469</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225649">tvN  [텐트 밖은 유럽]  이탈리아 캠핑기, 그리고 박지환 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824133434_e9eef86297fcd97736f66f7993c93120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제작발표회] 현대극으로 다시 만난 정일우-권유리, 재벌탐정과 초시력자의 수사극 '굿잡' (종합) (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225578</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225578</guid>
-            <pubDate>Wed, 24 Aug 2022 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225578">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824112629_1791deadffaf5a3fe96746cd5b1dadf7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225578">[제작발표회] 현대극으로 다시 만난 정일우-권유리, 재벌탐정과 초시력자의 수사극 '굿잡' (종합)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824112629_1791deadffaf5a3fe96746cd5b1dadf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[자본주의학교] 나도 모르게 보이스피싱 피의자가 될 뻔했던 이국주 (KBS연예 ─ KBS)]]></title>
