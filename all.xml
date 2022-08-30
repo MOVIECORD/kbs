@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 03:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 05:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] '성적표의 김민영'시사회  "스물 살의 우정 " (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226675</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226675</guid>
+            <pubDate>Tue, 30 Aug 2022 05:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226675">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830130605_3870598d05469312e566d4090844a0b2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226675">[현장] '성적표의 김민영'시사회  "스물 살의 우정 "</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830130605_3870598d05469312e566d4090844a0b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["올 추석엔 공조합시다, 두 번 합시다" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226612</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225759">"연상호의 상상력은 어디까지?" 넷플릭스와 '기생수' 만든다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825080234_4637b3dac1d2fbdf4d62e1f1c14da0df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 제27회 부산국제영화제, 뉴 커런츠상&지석상 심사위원 확정 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225748</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225748</guid>
-            <pubDate>Wed, 24 Aug 2022 23:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225748">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825073229_ea1e6637e5a13bdfa5a4c4af7d4c3dc8_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225748">[BIFF] 제27회 부산국제영화제, 뉴 커런츠상&amp;지석상 심사위원 확정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825073229_ea1e6637e5a13bdfa5a4c4af7d4c3dc8_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈] '스맨파' 의리와 자존심 대신 논란만 가득... 트릭스-오천 배틀만 보였던 첫 방송 (KBS연예 ─ TVs)]]></title>
