@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 22:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 23:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1박 2일- 친구 특집'  "서울 곳곳에 퍼진 친구들을 찾아라"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227430</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227430</guid>
+            <pubDate>Sat, 03 Sep 2022 23:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227430">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904074116_7670b6a07a447e86a8829a17d453fd3c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227430">'1박 2일- 친구 특집'  "서울 곳곳에 퍼진 친구들을 찾아라"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904074116_7670b6a07a447e86a8829a17d453fd3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불후의 명곡 - 임재범 편'   레전드 무대 탄생]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227424</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227424</guid>
+            <pubDate>Sat, 03 Sep 2022 23:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227424">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904073354_e08f1d5d10f52c3a27beff93bbeefd45.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227424">'불후의 명곡 - 임재범 편'   레전드 무대 탄생</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904073354_e08f1d5d10f52c3a27beff93bbeefd45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘사장님 귀' 장윤정의 족집게 음치클리닉 "눈썹을 올리세요!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227299</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227299</guid>
+            <pubDate>Sat, 03 Sep 2022 23:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227299">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903070533_4431671c524db2938626df4b7a6dabc1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227299">‘사장님 귀' 장윤정의 족집게 음치클리닉 "눈썹을 올리세요!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903070533_4431671c524db2938626df4b7a6dabc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[살림하는 남자들 2] 스치기만 해도 서로에게 치명타! 정태우 VS 이승효 ‘과거사 폭로전’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227386</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903065532_ddb956a6fd42d5aab60bd1e1e1c4be16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 신현준X정준호, 우리 지금 진지하다! 물총 서바이벌 승자는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227270</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227270</guid>
-            <pubDate>Sat, 03 Sep 2022 00:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227270">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903063733_1e2a7814a76c597dd39c6a15b2946753_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227270">[슈퍼맨이 돌아왔다] 신현준X정준호, 우리 지금 진지하다! 물총 서바이벌 승자는?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903063733_1e2a7814a76c597dd39c6a15b2946753_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 신현준X정준호, 제주 배틀트립 2탄! 다섯 아이 독박 육아 당첨은?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227260</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227260</guid>
-            <pubDate>Sat, 03 Sep 2022 00:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227260">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903062744_ed7f7db8d1dabb4edad66fb761dd18bd_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227260">[슈퍼맨이 돌아왔다] 신현준X정준호, 제주 배틀트립 2탄! 다섯 아이 독박 육아 당첨은?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903062744_ed7f7db8d1dabb4edad66fb761dd18bd_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 빅보이 젠, 코요태 제4의 멤버? 남다른 리듬감♪]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227251</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227251</guid>
-            <pubDate>Sat, 03 Sep 2022 00:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227251">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903061915_538d9671e01075938603a141e0d4872d_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227251">[슈퍼맨이 돌아왔다] 빅보이 젠, 코요태 제4의 멤버? 남다른 리듬감♪</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903061915_538d9671e01075938603a141e0d4872d_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
