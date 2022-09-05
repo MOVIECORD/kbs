@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 05:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["10월에 뭘 보지?" '스파이더맨: 노 웨이 홈' 확장판  ‘펀 버전’ 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227619</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227619</guid>
+            <pubDate>Mon, 05 Sep 2022 06:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227619">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905143502_2e24b95d67b72518dd535131d7fbad6d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227619">"10월에 뭘 보지?" '스파이더맨: 노 웨이 홈' 확장판  ‘펀 버전’ 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905143502_2e24b95d67b72518dd535131d7fbad6d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '수리남'  몰아보기 시사회 “탄력있는 대사와 완성도 높은 각본, 그리고 개성 넘치는 연기” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227578</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220901080033_4d68aaef5c7bef5fca01241d0801f1cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 쉬광한(허광한)  “한국콘텐츠 베리굿! 혁오와 offonoff 좋아합니다” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226924</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226924</guid>
-            <pubDate>Wed, 31 Aug 2022 05:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226924">	<span class="img-box hh">
+            <title><![CDATA[[작은 아씨들 2회]  “세상엔 진짜 무서운 게 있다는 거, 누군가 저 위에 있다는 거” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227572</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227572</guid>
+            <pubDate>Mon, 05 Sep 2022 06:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227572">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831140317_8bbae92a62d2527b0ccd8bba10c4b410.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905105157_d849af05a87a4688a3e12d9cffdf3a79_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226924">[인터뷰] 쉬광한(허광한)  “한국콘텐츠 베리굿! 혁오와 offonoff 좋아합니다”</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227572">[작은 아씨들 2회]  “세상엔 진짜 무서운 게 있다는 거, 누군가 저 위에 있다는 거”</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831140317_8bbae92a62d2527b0ccd8bba10c4b410.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905105157_d849af05a87a4688a3e12d9cffdf3a79_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 '유세풍' 11회,   "진실을 찾아 한양으로 " (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227523</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227523</guid>
+            <pubDate>Mon, 05 Sep 2022 06:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227523">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905081118_6456e1dbf7128bb4eef1dcec5b8bd2bd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227523">오늘 '유세풍' 11회,   "진실을 찾아 한양으로 "</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905081118_6456e1dbf7128bb4eef1dcec5b8bd2bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN '작은 아씨들' 오늘 첫 방송 ... "가장 높고 밝은 세계가 열린다" (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826111525_8e6bd862d8b5aec4de5e5f924fd5b121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['빅마우스'전쟁 2막 시작 "이것만 알면 당신도 구천시민'" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226068</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226068</guid>
-            <pubDate>Fri, 26 Aug 2022 05:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226068">	<span class="img-box ww">
+            <title><![CDATA[[제작발표회] 이세영-이승기의 신선한 연애 법칙 '법대로 사랑하라' (종합) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227627</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227627</guid>
+            <pubDate>Mon, 05 Sep 2022 06:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227627">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826082711_c92e977105c0d06c934f359ba640d294.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905144854_97e0e6508ceda2fe19d818c847e34749.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226068">'빅마우스'전쟁 2막 시작 "이것만 알면 당신도 구천시민'"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227627">[제작발표회] 이세영-이승기의 신선한 연애 법칙 '법대로 사랑하라' (종합)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826082711_c92e977105c0d06c934f359ba640d294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC '디 엠파이어: 법의 제국' 티저 공개 "모든 걸 가진 사람들, 그들이 감춘 이야기" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225975</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225975</guid>
-            <pubDate>Thu, 25 Aug 2022 23:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225975">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825163406_9a9f49781c7b2f76621881bce30b8d90.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225975">JTBC '디 엠파이어: 법의 제국' 티저 공개 "모든 걸 가진 사람들, 그들이 감춘 이야기"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220825163406_9a9f49781c7b2f76621881bce30b8d90.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905144854_97e0e6508ceda2fe19d818c847e34749.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['법대로 사랑하라' 오늘 첫 방송,  이승기-이세영 "월요병, 법대로 하라" (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904082948_a2d8ceac14e809e16badcd3aa5ec21cf_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리슨업] 리슨업을 떠나는 두 번째 탈락자 LAS.. “더 멋진 모습들 보여드리겠습니다” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227439</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227439</guid>
-            <pubDate>Sun, 04 Sep 2022 00:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227439">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904082434_ec0ccd90044b71be93a33b28d653cf4e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227439">[리슨업] 리슨업을 떠나는 두 번째 탈락자 LAS.. “더 멋진 모습들 보여드리겠습니다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904082434_ec0ccd90044b71be93a33b28d653cf4e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
