@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 21:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 22:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,59 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826101556_34b07eac1d116f3261600a34e15196cd_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추석특집 음악 게임쇼 '라운드테이블'  ... 강호동, 6년 만의 KBS 복귀작 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227599</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227599</guid>
+            <pubDate>Fri, 09 Sep 2022 22:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227599">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905141114_7d818faa68149c417a553dea10325af0_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227599">추석특집 음악 게임쇼 '라운드테이블'  ... 강호동, 6년 만의 KBS 복귀작</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905141114_7d818faa68149c417a553dea10325af0_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS 추석특집 4부작 ‘한식연대기’ ... 주상욱 “한식의 매력에 푹 빠졌다” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228257</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228257</guid>
+            <pubDate>Fri, 09 Sep 2022 22:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228257">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907211133_470111946c8fe6d57efb2d0d3913602f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228257"> KBS 추석특집 4부작 ‘한식연대기’ ... 주상욱 “한식의 매력에 푹 빠졌다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EC%8B%9D%20%EC%97%B0%EB%8C%80%EA%B8%B0">한식 연대기</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907211133_470111946c8fe6d57efb2d0d3913602f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["사진작가 차인표" 추석특집 ‘종로사진관’ 단독 MC (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227879</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227879</guid>
+            <pubDate>Fri, 09 Sep 2022 22:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227879">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906094043_f3f311cab964cfa26079ab02f5e63efe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227879">"사진작가 차인표" 추석특집 ‘종로사진관’ 단독 MC</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A2%85%EB%A1%9C%20%EC%82%AC%EC%A7%84%EA%B4%80">종로 사진관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906094043_f3f311cab964cfa26079ab02f5e63efe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스포츠 골든벨] 마지막 주자 허재, 10초간의 상의 타임 허용! 언발에..? (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228404</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=228404</guid>
@@ -990,60 +1043,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227084">KBS 추석특집 ‘한식연대기’ 주상욱-김규리 프리젠터 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220901110344_8c119554af7f06973302c65307859cc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[당신이 소원을 말하면] “평생 연주 씨 옆에 서 있고 싶습니다” 최수영에게 고백하는 신주환?! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228292</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228292</guid>
-            <pubDate>Wed, 07 Sep 2022 19:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228292">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908022026_3b37b0b1cec2cdcea31aa8e2bb8cb63a_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228292">[당신이 소원을 말하면] “평생 연주 씨 옆에 서 있고 싶습니다” 최수영에게 고백하는 신주환?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908022026_3b37b0b1cec2cdcea31aa8e2bb8cb63a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[당신이 소원을 말하면] 어르신의 소원 ‘아내의 결혼’을 이루어주기 위해 결혼식장에 찾아온 지창욱! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228288</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228288</guid>
-            <pubDate>Wed, 07 Sep 2022 19:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228288">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908021517_5724fdbbba7dfc13fe6ea3610f32f1a0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228288">[당신이 소원을 말하면] 어르신의 소원 ‘아내의 결혼’을 이루어주기 위해 결혼식장에 찾아온 지창욱! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908021517_5724fdbbba7dfc13fe6ea3610f32f1a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[당신이 소원을 말하면] 호스피스를 떠나려는 지창욱을 막아선 최수영 “아예 나가게?” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228284</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228284</guid>
-            <pubDate>Wed, 07 Sep 2022 19:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228284">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908021012_1d4e1978ebc0f0d60383537a977c99f6_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228284">[당신이 소원을 말하면] 호스피스를 떠나려는 지창욱을 막아선 최수영 “아예 나가게?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908021012_1d4e1978ebc0f0d60383537a977c99f6_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
