@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 13:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 14:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,60 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829075210_deb67eff4fced8637168b5dba4b7c5ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현재는 아름다워] ‘박지영 암’ 알게 된 배다빈  “엄마 없이 어떻게 살아” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228601</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228601</guid>
+            <pubDate>Sun, 11 Sep 2022 14:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228601">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911225536_6d6aeeece4f3853c22d6505b551ddf48_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228601">[현재는 아름다워] ‘박지영 암’ 알게 된 배다빈  “엄마 없이 어떻게 살아”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911225536_6d6aeeece4f3853c22d6505b551ddf48_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] 신지까지 ‘코요테 남매’ 포함...멤버들+친구들 10명 전원 입수 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228597</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228597</guid>
+            <pubDate>Sun, 11 Sep 2022 14:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228597">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911224053_9a9591d38184e343bc2a51db078eff9e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228597">[1박2일] 신지까지 ‘코요테 남매’ 포함...멤버들+친구들 10명 전원 입수</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911224053_9a9591d38184e343bc2a51db078eff9e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] 문세윤보다 잘 먹는 먹방계 샛별 등장! 기도훈, 엄청난 먹성 자랑 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228593</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228593</guid>
+            <pubDate>Sun, 11 Sep 2022 14:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228593">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911223508_917491ce9546042bc3be66cd82b3ccec_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228593">[1박2일] 문세윤보다 잘 먹는 먹방계 샛별 등장! 기도훈, 엄청난 먹성 자랑</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911223508_917491ce9546042bc3be66cd82b3ccec_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[1박2일] 압도적인 피지컬 기도훈의 ‘닭싸움’ 무패 신화! 7명 모두 이기고 올킬 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228589</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=228589</guid>
@@ -992,60 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910214607_73ed1a99476fba0cb9c761f9841c9036_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 임재범, 신곡 ‘아버지 사진’으로 ‘불후-임재범’ 편 2부 포문 열었다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228450</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228450</guid>
-            <pubDate>Sat, 10 Sep 2022 13:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228450">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910212430_fbe51bc29505314701359ad2283247e1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228450">[불후의 명곡] 임재범, 신곡 ‘아버지 사진’으로 ‘불후-임재범’ 편 2부 포문 열었다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910212430_fbe51bc29505314701359ad2283247e1_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘법대로 사랑하라’ 이승기-이세영, "추석에도 사랑하라!" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228441</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228441</guid>
-            <pubDate>Sat, 10 Sep 2022 08:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228441">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910143153_d01c5320a10c42a8a8b6ced88b920bde_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228441">‘법대로 사랑하라’ 이승기-이세영, "추석에도 사랑하라!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910143153_d01c5320a10c42a8a8b6ced88b920bde_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 맨손 송어 잡기 달인 민준이와 잡은 송어를 모두 풀어주는 하룬? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228436</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228436</guid>
-            <pubDate>Sat, 10 Sep 2022 03:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228436">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910083850_784c10da48c24a746503d54b4f963a98_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228436">[슈퍼맨이 돌아왔다] 맨손 송어 잡기 달인 민준이와 잡은 송어를 모두 풀어주는 하룬?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910083850_784c10da48c24a746503d54b4f963a98_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
