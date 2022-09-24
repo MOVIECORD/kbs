@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Sep 2022 03:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 05:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡 - 혜은이 편'  ‘외로움이 온다’ 오프닝 열창]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230534</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230534</guid>
+            <pubDate>Sat, 24 Sep 2022 05:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230534">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220924081736_11ebf120e9e5d5b4239091fa46800073.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230534">‘불후의 명곡 - 혜은이 편'  ‘외로움이 온다’ 오프닝 열창</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220924081736_11ebf120e9e5d5b4239091fa46800073.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 새 주말드라마 '삼남매가 용감하게' 오늘 첫 방송 ...  안방극장 물들일 따뜻한 가족 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230408</link>
@@ -348,23 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EB%82%B4%20%EB%88%88%EC%97%90%20%EC%BD%A9%EA%B9%8D%EC%A7%80">일일연속극 내 눈에 콩깍지</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923080340_1ca61fb26d3459693dc3db46ea124a41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장희정, ‘삼남매가 용감하게’ 캐스팅 ... 이하나의 절친]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230318</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230318</guid>
-            <pubDate>Fri, 23 Sep 2022 06:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230318">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923074607_db3896664fc8343b268302e01c982606_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230318">장희정, ‘삼남매가 용감하게’ 캐스팅 ... 이하나의 절친</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923074607_db3896664fc8343b268302e01c982606_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
