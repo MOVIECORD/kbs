@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 14:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 15:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옥탑방의 문제아들] 송새벽, 과거에 신문 배달하다가 기절한 적이 있다고?!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231252</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231252</guid>
+            <pubDate>Wed, 28 Sep 2022 15:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231252">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928232816_6d8525b2e3b86957a48851b46dae5410_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231252">[옥탑방의 문제아들] 송새벽, 과거에 신문 배달하다가 기절한 적이 있다고?! </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928232816_6d8525b2e3b86957a48851b46dae5410_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] “야 너 배우였나?” 자주 가던 백반집 사장님한테 동네 백수로 오해받은 송새벽]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231247</link>
@@ -347,24 +365,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230996">[뉴스타뷰] '당소원' 대표 순정파 장석준 역 맡은 배우 남태훈...진짜 모습도 사랑꾼</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927130139_4ee5d0c4f362674d47b87105b8182fc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 지창욱 주연 '당신이 소원을 말하면' 인도네시아 비롯한 아시아 지역에서 인기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230988</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230988</guid>
-            <pubDate>Tue, 27 Sep 2022 06:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230988">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927125506_724c241e0dc0082e93cf7a2332de0ad0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230988">배우 지창욱 주연 '당신이 소원을 말하면' 인도네시아 비롯한 아시아 지역에서 인기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927125506_724c241e0dc0082e93cf7a2332de0ad0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
