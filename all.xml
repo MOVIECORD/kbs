@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 13:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 14:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923112723_e7bd9a5072956b2504b31efba00d9c1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이별도 리콜이 되나요?] 22살 동갑내기 커플의 풋풋한 첫사랑 이야기♥ 미스코리아 준비로 이별하게 된 사연 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231864</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231864</guid>
+            <pubDate>Mon, 03 Oct 2022 14:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231864">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221003225000_3866ef28ae44efba9072d158fdae7230_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231864">[이별도 리콜이 되나요?] 22살 동갑내기 커플의 풋풋한 첫사랑 이야기♥ 미스코리아 준비로 이별하게 된 사연</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221003225000_3866ef28ae44efba9072d158fdae7230_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[이별도 리콜이 되나요?] 뒤로는 사이버 외도 저지르고 여친에겐 가부장적 통제 이중잣대?! 최악의 남친 등장 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231859</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=231859</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221002205316_100a955526657cc96488ec3f93787375.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] 승무원 보스 김형래, 괌에서 즉석 회식 제안 “저녁 같이 할까요. 강요는 아니고” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231749</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231749</guid>
-            <pubDate>Sun, 02 Oct 2022 12:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231749">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221002203904_f2a0ee6bd70993cb5ef604d0c2081c86_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231749">[사장님 귀는 당나귀 귀] 승무원 보스 김형래, 괌에서 즉석 회식 제안 “저녁 같이 할까요. 강요는 아니고”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221002203904_f2a0ee6bd70993cb5ef604d0c2081c86_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
