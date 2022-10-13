@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 00:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 03:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 배창호 감독 “영화감독의 길, 가지 않은 길”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233083</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233083</guid>
+            <pubDate>Thu, 13 Oct 2022 03:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233083">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221013101239_ebd2dcbffe551488f3fc8b9f52033ca2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233083">[인터뷰] 배창호 감독 “영화감독의 길, 가지 않은 길”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221013101239_ebd2dcbffe551488f3fc8b9f52033ca2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설경구-장동건-김희애-수현, 허진호 감독 신작 '더 디너' 촬영 끝~]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233081</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232690">[BIFF] '프랑스의 밤' 송강호-예지원 ‘에뜨왈 뒤 시네마’상 수상 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010090922_27c318777b6629a3e03364b1b96a59b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 제4회 아시아콘텐츠어워즈 '우영우' '오징어 게임' 2관왕]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232674</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232674</guid>
-            <pubDate>Mon, 10 Oct 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232674">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010085644_8d9222e01cbcc8273cbc875a642f12d7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232674">[BIFF] 제4회 아시아콘텐츠어워즈 '우영우' '오징어 게임' 2관왕 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010085644_8d9222e01cbcc8273cbc875a642f12d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
