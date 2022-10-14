@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 03:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 05:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221011132230_7aa3aff1170fa234f9ce80fdce9bf2b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신예 윤상현, ‘슈룹’ 무안대군으로 연기 데뷔 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233285</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233285</guid>
+            <pubDate>Fri, 14 Oct 2022 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233285">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014141204_3011ddf9133896aae7e34f179f6bd802.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233285">신예 윤상현, ‘슈룹’ 무안대군으로 연기 데뷔 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014141204_3011ddf9133896aae7e34f179f6bd802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC 히든싱어 "신용재를 찾아라!" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233255</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=233255</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231472">TV CHOSUN '여행의 맛'  괌으로 떠나다  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220930144046_95420f908b821fd49871e8fbe2190079_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['히든싱어' 진짜 엄정화와 모창 능력자들 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231313</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231313</guid>
-            <pubDate>Thu, 29 Sep 2022 21:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231313">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929104924_57e56197705eb6d5a3cac335de855de5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231313"> '히든싱어' 진짜 엄정화와 모창 능력자들</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929104924_57e56197705eb6d5a3cac335de855de5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박수홍, '편스토랑' 요리사 출격 (KBS연예 ─ KBS)]]></title>
