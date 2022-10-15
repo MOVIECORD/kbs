@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 22:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 23:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불명 - 더 프렌즈2'  양동근&리듬파워부터 이찬원&황윤성까지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233559</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233559</guid>
+            <pubDate>Sat, 15 Oct 2022 23:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233559">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016074954_920775923bbd8b0281254b804777912a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233559"> ‘불명 - 더 프렌즈2'  양동근&amp;리듬파워부터 이찬원&amp;황윤성까지 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016074954_920775923bbd8b0281254b804777912a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['KBS드라마스페셜2022' 티저 공개, "단막극 8편+TV시네마 2편"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233553</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233553</guid>
+            <pubDate>Sat, 15 Oct 2022 23:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233553">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016073424_6709a96215d9c4dbb07b11e5ebfac7c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233553">'KBS드라마스페셜2022' 티저 공개, "단막극 8편+TV시네마 2편" </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016073424_6709a96215d9c4dbb07b11e5ebfac7c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] '스스로 찾아가는 추(秋)리 여행’ 특집..   "진땀 폭발 눈치 싸움 예고"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233526</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233526</guid>
+            <pubDate>Sat, 15 Oct 2022 23:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233526">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016070733_dcd56ca348ba43e98f1831a495ce0593.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233526">[1박2일] '스스로 찾아가는 추(秋)리 여행’ 특집..   "진땀 폭발 눈치 싸움 예고"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016070733_dcd56ca348ba43e98f1831a495ce0593.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다큐ON'  백마고지 승전 70주년 기념 다큐 ‘뼈의 산 – 백마고지’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233409</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015203031_81dbdd3fea5e3ecf3bb70ec888f123f3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['배틀트립2' 오늘 첫 방송 "완벽한 엔데믹 여행 설계"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233436</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233436</guid>
-            <pubDate>Sat, 15 Oct 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233436">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015084939_690f01f4705eab76d59ec7b85c38f67b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233436">'배틀트립2' 오늘 첫 방송 "완벽한 엔데믹 여행 설계"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015084939_690f01f4705eab76d59ec7b85c38f67b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['삼남매가 용감하게' 이하나  '김태주의 웃음과 눈물']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233427</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233427</guid>
-            <pubDate>Sat, 15 Oct 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233427">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015083403_c6ad3f7174e41b36da9fb24885129cd8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233427">'삼남매가 용감하게' 이하나  '김태주의 웃음과 눈물'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015083403_c6ad3f7174e41b36da9fb24885129cd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['100인의 리딩쇼-지구를 읽다'  정우-김미숙-요조 "어느 멋진 날의 지구"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233402</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233402</guid>
-            <pubDate>Fri, 14 Oct 2022 23:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233402">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015075839_df99615aae0d1444f8e9942d33987150.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233402">'100인의 리딩쇼-지구를 읽다'  정우-김미숙-요조 "어느 멋진 날의 지구"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=100%EC%9D%B8%EC%9D%98%20%EB%A6%AC%EB%94%A9%EC%87%BC">100인의 리딩쇼</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015075839_df99615aae0d1444f8e9942d33987150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
