@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 20:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 21:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221008063309_65ff497b20e4a978f2d1f38ec49f49a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김신영 '전국노래자랑' MC 신고  “우리 신영이, 100세까지 이어나가라” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233601</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233601</guid>
+            <pubDate>Sun, 16 Oct 2022 21:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233601">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016175354_aed77c3a81e74db0ac12875d3a8b7bf6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233601">김신영 '전국노래자랑' MC 신고  “우리 신영이, 100세까지 이어나가라” </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016175354_aed77c3a81e74db0ac12875d3a8b7bf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[홍김동전] 게릴라콘서트 오프닝 무대...조세호 ‘레이니즘’ 댄스로 실력 대방출 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233679</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=233679</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016073424_6709a96215d9c4dbb07b11e5ebfac7c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] '스스로 찾아가는 추(秋)리 여행’ 특집..   "진땀 폭발 눈치 싸움 예고" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233526</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233526</guid>
-            <pubDate>Sat, 15 Oct 2022 23:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233526">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016070733_dcd56ca348ba43e98f1831a495ce0593.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233526">[1박2일] '스스로 찾아가는 추(秋)리 여행’ 특집..   "진땀 폭발 눈치 싸움 예고"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016070733_dcd56ca348ba43e98f1831a495ce0593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
