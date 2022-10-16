@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 09:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 10:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[삼남매가.. 7회] 이하나-임주환 '또 한 번의 오해']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233615</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233615</guid>
+            <pubDate>Sun, 16 Oct 2022 10:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233615">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016180402_2c63fd637c562370da1bc1bb1f029afa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233615">[삼남매가.. 7회] 이하나-임주환 '또 한 번의 오해'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016180402_2c63fd637c562370da1bc1bb1f029afa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘불명 - 더 프렌즈2'  양동근&리듬파워부터 이찬원&황윤성까지]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233559</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015203915_3805776f0c6749763d1ce6e1cf9ee1f0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 17년 지기 국악 남사친, 여사친 신승태&이미리! 우정 ~ing 스토리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233453</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233453</guid>
-            <pubDate>Sat, 15 Oct 2022 14:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233453">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015203031_81dbdd3fea5e3ecf3bb70ec888f123f3_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233453">[불후의 명곡] 17년 지기 국악 남사친, 여사친 신승태&amp;이미리! 우정 ~ing 스토리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015203031_81dbdd3fea5e3ecf3bb70ec888f123f3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
