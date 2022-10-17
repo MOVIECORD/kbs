@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 05:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 06:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221008063309_65ff497b20e4a978f2d1f38ec49f49a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['개훌륭' 크러쉬와  천방지축 퍼피 진돗개 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233736</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233736</guid>
+            <pubDate>Mon, 17 Oct 2022 06:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233736">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017090952_008a580d927e4e4c59407af77c666533.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233736">'개훌륭' 크러쉬와  천방지축 퍼피 진돗개</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017090952_008a580d927e4e4c59407af77c666533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[삼남매가...8회] 이하나, 또 다른 위기 맞다 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233685</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=233685</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016180402_2c63fd637c562370da1bc1bb1f029afa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘불명 - 더 프렌즈2'  양동근&리듬파워부터 이찬원&황윤성까지 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233559</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233559</guid>
-            <pubDate>Sat, 15 Oct 2022 23:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233559">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016074954_920775923bbd8b0281254b804777912a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233559"> ‘불명 - 더 프렌즈2'  양동근&amp;리듬파워부터 이찬원&amp;황윤성까지 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016074954_920775923bbd8b0281254b804777912a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
