@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 17:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 18:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221013084108_4a82b27fb257fd5895b08d327538969a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] NEW 막둥이 생후 62일 차 준범이와 새내기 아빠 제이쓴★ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234345</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234345</guid>
+            <pubDate>Fri, 21 Oct 2022 18:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234345">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021233651_5668a0d473cf30f40f59d87ec3dd8b3f_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234345">[슈퍼맨이 돌아왔다] NEW 막둥이 생후 62일 차 준범이와 새내기 아빠 제이쓴★</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021233651_5668a0d473cf30f40f59d87ec3dd8b3f_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 춤신춤왕 젠에 르세라핌 누나들 물개박수 ♪ANTIFRAGILE (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234341</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234341</guid>
+            <pubDate>Fri, 21 Oct 2022 18:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234341">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021233321_16b5f895aac92be2c8e62d2eb1c3ccbe.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234341">[슈퍼맨이 돌아왔다] 춤신춤왕 젠에 르세라핌 누나들 물개박수 ♪ANTIFRAGILE</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021233321_16b5f895aac92be2c8e62d2eb1c3ccbe.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 펜싱 국가대표 김준호네, 꽃미남 삼부자 인간 화환으로 변신! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234337</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=234337</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021003356_20f0a3200c0aab1657dbdb392894a380_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진검승부] “지금부터 복수전이야” 도경수가 걱정되어 찾아온 3인방! 호들갑도 이런 호들갑이 없는 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=234031</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234031</guid>
-            <pubDate>Thu, 20 Oct 2022 16:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234031">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021003026_386908f8c8321250096a356c40b022b7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234031">[진검승부] “지금부터 복수전이야” 도경수가 걱정되어 찾아온 3인방! 호들갑도 이런 호들갑이 없는 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021003026_386908f8c8321250096a356c40b022b7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진검승부] “너 이러다 죽어!” 쓰러진 도경수를 데리고 병원에 갈 수 없어 김상호에게 데려가고… (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=234027</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234027</guid>
-            <pubDate>Thu, 20 Oct 2022 16:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234027">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021002634_399c2d05eee99f72d126a8b3686b42bf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234027">[진검승부] “너 이러다 죽어!” 쓰러진 도경수를 데리고 병원에 갈 수 없어 김상호에게 데려가고…</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021002634_399c2d05eee99f72d126a8b3686b42bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
