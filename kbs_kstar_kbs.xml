@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 20:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 21:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 최북단 아오모리 이와키산을 오르다 (KBS 영상앨범 산)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234244</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234244</guid>
+            <pubDate>Sat, 22 Oct 2022 21:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234244">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021154822_744d2a55ec9092d13bf7a75cfaae4bd7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234244">일본 최북단 아오모리 이와키산을 오르다 (KBS 영상앨범 산) </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021154822_744d2a55ec9092d13bf7a75cfaae4bd7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배틀트립2] 예린-김희정 방콕 초신성 5성급 호텔에 도착...독특 디자인에 “귀여워” 연발]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234470</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021165521_f384a1fd2bae5be48464de41d162d4a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캄보디아 '크메르 제국'의 발자취  (KBS 걸어서 세계속으로)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=234250</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234250</guid>
-            <pubDate>Fri, 21 Oct 2022 22:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234250">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021155213_79f179a0e94e0a09d1abdc4bdaa9db44.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234250">캄보디아 '크메르 제국'의 발자취  (KBS 걸어서 세계속으로)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%EC%84%B8%EA%B3%84%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 세계속으로</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021155213_79f179a0e94e0a09d1abdc4bdaa9db44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
