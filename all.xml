@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 14:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 15:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113082031_8b4e9d39331a7e79c0b75af22acf6200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송중기의 인생역전, '재벌집 막내아들' 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=237972</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237972</guid>
+            <pubDate>Fri, 18 Nov 2022 15:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237972">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118172551_a546f29cfb4e6b3b7804ef18a33e1eff.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237972">송중기의 인생역전, '재벌집 막내아들' 오늘 첫 방송</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118172551_a546f29cfb4e6b3b7804ef18a33e1eff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고윤정,  '환혼: 빛과 그림자' 스틸 첫 공개 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237907</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237907</guid>
@@ -672,28 +689,83 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111083154_0fee44752d0509a610622d30a272db00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[집념의 검사 신현빈, "다채로운 모습 보여드릴 수 있을 것" (재벌집 막내아들) (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237154</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237154</guid>
-            <pubDate>Tue, 15 Nov 2022 04:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237154">	<span class="img-box hh">
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 파이터 아빠 김동현네, 대구에서 운명의 막창 메이트 결성! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238040</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238040</guid>
+            <pubDate>Fri, 18 Nov 2022 15:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238040">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113091458_6d49c03ec0e8d9c66445b4d173bac7a9.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118234311_dbf7144a8cca906462405e4be766199b_1.PNG" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237154">집념의 검사 신현빈, "다채로운 모습 보여드릴 수 있을 것" (재벌집 막내아들) </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238040">[슈퍼맨이 돌아왔다] 파이터 아빠 김동현네, 대구에서 운명의 막창 메이트 결성! </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113091458_6d49c03ec0e8d9c66445b4d173bac7a9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118234311_dbf7144a8cca906462405e4be766199b_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 주사 앞에서도 햇살 미소로 화답하는 힐링 요정 은우★ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238036</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238036</guid>
+            <pubDate>Fri, 18 Nov 2022 15:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238036">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118233328_8e9dd09786b583e4fe27a0e11379345e.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238036">[슈퍼맨이 돌아왔다] 주사 앞에서도 햇살 미소로 화답하는 힐링 요정 은우★</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118233328_8e9dd09786b583e4fe27a0e11379345e.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 파이터 아빠 김동현네, 어서 와요! 민경 장군★ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238032</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238032</guid>
+            <pubDate>Fri, 18 Nov 2022 15:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238032">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118231810_4480e827e3f2d9b9e24e81b81a3df5d6_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238032">[슈퍼맨이 돌아왔다] 파이터 아빠 김동현네, 어서 와요! 민경 장군★</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118231810_4480e827e3f2d9b9e24e81b81a3df5d6_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 차예련♥주상욱, 딸바보 부부의 알콩달콩 일상 공개! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238028</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238028</guid>
+            <pubDate>Fri, 18 Nov 2022 15:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238028">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118230537_512e3e03b7e27629bc0b795997a49daa.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238028">[신상출시 편스토랑] 차예련♥주상욱, 딸바보 부부의 알콩달콩 일상 공개! </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118230537_512e3e03b7e27629bc0b795997a49daa.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 라면에 인생을 건 류수영의 피, 땀, 눈물♪ 한편의 휴먼 다큐! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238024</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238024</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238024">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238024">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118225648_316dabc775af62184c073f5db7d08a7d_1.PNG" alt="대체 텍스트">
@@ -711,7 +783,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238020</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238020</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238020">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238020">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118224649_1d6964be9b3590d0e998e7fcf3283a0b.PNG" alt="대체 텍스트">
@@ -729,7 +801,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238016</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238016</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238016">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238016">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118223756_1ef1980a572ed059bf0d6793662ae918_1.PNG" alt="대체 텍스트">
@@ -747,7 +819,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238012</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238012</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238012">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238012">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118210632_e9cda3d99a0804ed74db8a24ee3accf2_1.PNG" alt="대체 텍스트">
@@ -765,7 +837,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238008</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238008</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238008">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238008">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118210135_196a1a0f637cd368364518dcc468d999_1.PNG" alt="대체 텍스트">
@@ -783,7 +855,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238004</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238004</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238004">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238004">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118205808_bd7ef77fb1c2db7360a88274c573a534.PNG" alt="대체 텍스트">
@@ -801,7 +873,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238000</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=238000</guid>
             <pubDate>Fri, 18 Nov 2022 14:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238000">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238000">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118205444_838e84b06a3f5d35a715411ed2cdcb31.PNG" alt="대체 텍스트">
@@ -819,7 +891,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237895</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237895</guid>
             <pubDate>Fri, 18 Nov 2022 03:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237895">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237895">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118080721_c9dce5c09824607c8a6bc7e3e8c53ef9.jpg" alt="대체 텍스트">
@@ -836,7 +908,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237877</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237877</guid>
             <pubDate>Fri, 18 Nov 2022 03:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237877">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237877">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118074529_96d806cf153cd85a99d51edf1bce9132.jpg" alt="대체 텍스트">
@@ -854,7 +926,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237871</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237871</guid>
             <pubDate>Fri, 18 Nov 2022 03:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237871">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237871">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118073939_bc2a6fcb46a716d8bb599aa411998dc4.jpg" alt="대체 텍스트">
@@ -872,7 +944,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237845</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237845</guid>
             <pubDate>Thu, 17 Nov 2022 19:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237845">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237845">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118035254_fe795531ecb2cbaa333750ebf35b96b1_1.jpg" alt="대체 텍스트">
@@ -890,7 +962,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237841</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237841</guid>
             <pubDate>Thu, 17 Nov 2022 19:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237841">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237841">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118034954_8a5f96750013c438b09d15e78a002715_1.jpg" alt="대체 텍스트">
@@ -908,7 +980,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237837</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237837</guid>
             <pubDate>Thu, 17 Nov 2022 19:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237837">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237837">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118034447_19147933710e9d5531cd2e2822fdbb42.jpg" alt="대체 텍스트">
@@ -926,7 +998,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237833</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237833</guid>
             <pubDate>Thu, 17 Nov 2022 19:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237833">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237833">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118034041_d18fb1872790f0da0754c7cf8eb2363d_1.jpg" alt="대체 텍스트">
@@ -944,7 +1016,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237829</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237829</guid>
             <pubDate>Thu, 17 Nov 2022 18:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237829">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237829">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022951_a35f5849d71905d2d65cd4fba2175685_1.jpg" alt="대체 텍스트">
@@ -962,7 +1034,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237825</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=237825</guid>
             <pubDate>Thu, 17 Nov 2022 18:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237825">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237825">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022540_23ffff07833cdd3ccad231c9f44bddf8_1.jpg" alt="대체 텍스트">
@@ -974,78 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022540_23ffff07833cdd3ccad231c9f44bddf8_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[드라마 스페셜-방종] 인기 커뮤니티 ‘듀플’의 고닉을 가지기 위해 돈을 주고 계정을 구입하는 김기해! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237821</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237821</guid>
-            <pubDate>Thu, 17 Nov 2022 18:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237821">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022111_bc8b591954e34a471ed7dcf11a30d59e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237821">[드라마 스페셜-방종] 인기 커뮤니티 ‘듀플’의 고닉을 가지기 위해 돈을 주고 계정을 구입하는 김기해! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022111_bc8b591954e34a471ed7dcf11a30d59e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[드라마 스페셜-방종] 익명에 감춰 폭로하는 김기해! 박정표의 기부글에 익명으로 폭로하는데… (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237817</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237817</guid>
-            <pubDate>Thu, 17 Nov 2022 18:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237817">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118021700_dca92c72fe0d80f6562b081935d940ff_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237817">[드라마 스페셜-방종] 익명에 감춰 폭로하는 김기해! 박정표의 기부글에 익명으로 폭로하는데…</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118021700_dca92c72fe0d80f6562b081935d940ff_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세컨 하우스] 혼자서 타일 붙이기 도전하는 대규! 반장님한테 칭찬 받다?! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237813</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237813</guid>
-            <pubDate>Thu, 17 Nov 2022 16:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237813">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221117233642_aec92378e4c88a47ca1ea2cf71369f74_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237813">[세컨 하우스] 혼자서 타일 붙이기 도전하는 대규! 반장님한테 칭찬 받다?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221117233642_aec92378e4c88a47ca1ea2cf71369f74_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세컨 하우스] 한숨 소리와 함께 등장한 의문의 남성! 배우 오대규 등장! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237809</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237809</guid>
-            <pubDate>Thu, 17 Nov 2022 16:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237809">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221117233332_e948a5bdecdcefabb553c4e234fe27a4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237809">[세컨 하우스] 한숨 소리와 함께 등장한 의문의 남성! 배우 오대규 등장!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221117233332_e948a5bdecdcefabb553c4e234fe27a4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
