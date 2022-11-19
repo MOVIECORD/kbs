@@ -4,9 +4,44 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 21:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 22:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 유튜브 라이브 ‘출근길 카타르’ ... 매일 아침 함께 하는 월드컵]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238218</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238218</guid>
+            <pubDate>Sat, 19 Nov 2022 22:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238218">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120070057_3cfa51b9f324a62a10d68c3f14c0dc32.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238218">KBS 유튜브 라이브 ‘출근길 카타르’ ... 매일 아침 함께 하는 월드컵</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120070057_3cfa51b9f324a62a10d68c3f14c0dc32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1박2일, 하지원-강하늘 ‘뉴친스'와 함께하는 텐션 업 제철 음식 여행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238213</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238213</guid>
+            <pubDate>Sat, 19 Nov 2022 22:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238213">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120065609_1d36225684c740efc7d2e2f05bf7d015.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238213">1박2일, 하지원-강하늘 ‘뉴친스'와 함께하는 텐션 업 제철 음식 여행</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120065609_1d36225684c740efc7d2e2f05bf7d015.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배틀트립2] 화천에 크리스마스 체인점(?)이 있다? 산타클로스 우체국에서 동심 충전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238207</link>
@@ -329,42 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119220550_7531b9c36bba5a2efc73d7f19aa5deb1_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박진영, 장원영과 특급 케미스트리 신곡 "Groove Back (Feat. 개코)"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238097</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238097</guid>
-            <pubDate>Sat, 19 Nov 2022 04:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238097">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119093833_be9a97072a27e842b474c64065542499_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238097">박진영, 장원영과 특급 케미스트리 신곡 "Groove Back (Feat. 개코)"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119093833_be9a97072a27e842b474c64065542499_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘편스토랑’ 류수영 어라면 - 박수홍 얼큰설렁탕라면 "맛 볼 수 있습니다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238091</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238091</guid>
-            <pubDate>Sat, 19 Nov 2022 00:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238091">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119092657_b9e8c8784987c4f498fbf0476081ad26.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238091">‘편스토랑’ 류수영 어라면 - 박수홍 얼큰설렁탕라면 "맛 볼 수 있습니다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119092657_b9e8c8784987c4f498fbf0476081ad26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
