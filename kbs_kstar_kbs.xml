@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 20:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가수와 세프의 배틀트립" 김호중- 정호영, 진한 우정 여행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238346</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238346</guid>
+            <pubDate>Sun, 20 Nov 2022 21:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238346">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120185342_7daae7edb32e408b6f60b0b584384e34.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238346">"가수와 세프의 배틀트립" 김호중- 정호영, 진한 우정 여행</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120185342_7daae7edb32e408b6f60b0b584384e34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[홍김동전] 기가 막힌 한강뷰...17억이 부족해서 못 산 조세호집 대공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238432</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120175949_68036c1881050120c08c966dd7dd4e7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불후의 명곡' 김호중,  ‘백만송이 장미’→‘그 중에 그대를 만나’ 완벽 재해석]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238235</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238235</guid>
-            <pubDate>Sat, 19 Nov 2022 23:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238235">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120072136_92991a1b404bc7e4f6fc8d747bdf4eef.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238235">'불후의 명곡' 김호중,  ‘백만송이 장미’→‘그 중에 그대를 만나’ 완벽 재해석</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120072136_92991a1b404bc7e4f6fc8d747bdf4eef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
