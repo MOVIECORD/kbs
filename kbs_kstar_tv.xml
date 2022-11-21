@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 04:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황세온  "몸은 데스크, 마음은 스테이지"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238515</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238515</guid>
+            <pubDate>Mon, 21 Nov 2022 05:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238515">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121140010_9ca1be056af3833d26fa9d34c73bf680.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238515">황세온  "몸은 데스크, 마음은 스테이지" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121140010_9ca1be056af3833d26fa9d34c73bf680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['환혼' 이재욱-고윤정 ‘빛과 그림자’ 캐릭터 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238102</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237696">'유 퀴즈 - 해내야죠' 특집, 유해진과 포기를 모르는 열정의 사람들</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116113558_5857ffd104ab5c45291adf601762c883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['복덩이들고GO' 김호중과 송가인, 복덩이 남매 풍도 "흥 폭발"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237690</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237690</guid>
-            <pubDate>Wed, 16 Nov 2022 03:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237690">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116092004_4ec33cfa7494ccc551b169a80a30b7bd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237690">'복덩이들고GO' 김호중과 송가인, 복덩이 남매 풍도 "흥 폭발"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116092004_4ec33cfa7494ccc551b169a80a30b7bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
