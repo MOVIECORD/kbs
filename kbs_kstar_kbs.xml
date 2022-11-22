@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 21:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 22:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서지혜, 문학소녀 ‘이순애’ 찰떡 변신.. 2023년 방송 KBS드라마 '어쩌다 마주친, 그대']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238608</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238608</guid>
+            <pubDate>Tue, 22 Nov 2022 22:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238608">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221122083939_7e35b690529c5380c024e4f10f9f6e89.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238608">서지혜, 문학소녀 ‘이순애’ 찰떡 변신.. 2023년 방송 KBS드라마 '어쩌다 마주친, 그대' </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">수목드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221122083939_7e35b690529c5380c024e4f10f9f6e89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커튼콜] “손발을 잘라내도 견딜 수 있을까?” 하지원에 본격적인 지분 탈환 전쟁 선포하는 지승현]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238684</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120224700_728a0cdeba752bc84287742c12efb9a7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 승부예측과 함께하는'KBS 월드컵' 디지털 서비스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238114</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238114</guid>
-            <pubDate>Sun, 20 Nov 2022 16:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238114">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119095600_1456e924133f7f404b97e8fbfc65778e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238114">AI 승부예측과 함께하는'KBS 월드컵' 디지털 서비스</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119095600_1456e924133f7f404b97e8fbfc65778e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
