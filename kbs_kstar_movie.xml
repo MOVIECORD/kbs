@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 00:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 '술꾼도시여자들2' 이선빈 "안소희 작가, 승진한다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238728</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238728</guid>
+            <pubDate>Wed, 23 Nov 2022 00:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238728">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123083548_d1702412ff7cc0bced7f8faf214fca63.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238728">티빙 '술꾼도시여자들2' 이선빈 "안소희 작가, 승진한다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123083548_d1702412ff7cc0bced7f8faf214fca63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 류준열 ‘눈먼 자의 목격담’ (영화 ‘올빼미’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238698</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237927">넷플릭스 '썸바디' 오늘 공개 ... "솔직한 욕망과 내밀한 심리를 엿본다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118155009_aa72d143f9c5878d920eae5ec1acb524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['형사록' 경수진  "강력계 형사 이성아, 행복했다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237864</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237864</guid>
-            <pubDate>Fri, 18 Nov 2022 06:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237864">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118072125_c0c6c88d0c4830252f0727f731f78a40.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237864">'형사록' 경수진  "강력계 형사 이성아, 행복했다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118072125_c0c6c88d0c4830252f0727f731f78a40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
