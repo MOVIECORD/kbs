@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 12:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 13:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123083548_d1702412ff7cc0bced7f8faf214fca63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["초고난도 미션, 액션 스타트!" tvN ‘슈퍼액션’ 오늘 첫 방송 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239320</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239320</guid>
+            <pubDate>Sun, 27 Nov 2022 13:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239320">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127163247_3184bd83b4272b26407e47fb27886385.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239320">"초고난도 미션, 액션 스타트!" tvN ‘슈퍼액션’ 오늘 첫 방송</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127163247_3184bd83b4272b26407e47fb27886385.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[종영소감] 최수영, '팬레터를 보내주세요' …"닮은 듯 다른 강희 통해 성장했다" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239270</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=239270</guid>
@@ -671,23 +688,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238353">ENA 야망과 포부 "2023년, 우영우를 뛰어넘는다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120190207_2956bec75bb3a6e3d12b5594368968d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈룹' 김혜수, “저 규수는 누구인가?” 오예주 발견 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238326</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238326</guid>
-            <pubDate>Sun, 20 Nov 2022 20:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238326">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120180338_6fc1e5ab1bb3fc81cf4054a4b3509c7a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238326">'슈룹' 김혜수, “저 규수는 누구인가?” 오예주 발견</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120180338_6fc1e5ab1bb3fc81cf4054a4b3509c7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1박2일] 나인우 ‘오메기떡 100개 만들기’ 미션 성공했는데... 제주도 탈출 실패 (KBS연예 ─ KBS)]]></title>
