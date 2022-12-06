@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 13:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 14:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127081427_2bc05874a25b1c49833459aecf44b780_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 안소영 26점, 안문숙 54점… 조종 면허 탈락 안자매에 박원숙 안심 “요트 안 사줘도 되겠다” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240374</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240374</guid>
+            <pubDate>Tue, 06 Dec 2022 14:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240374">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206221614_fd032f98ed78deb3a36611055ba9b818.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240374">[박원숙의 같이 삽시다 시즌3] 안소영 26점, 안문숙 54점… 조종 면허 탈락 안자매에 박원숙 안심 “요트 안 사줘도 되겠다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206221614_fd032f98ed78deb3a36611055ba9b818.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 경찰서 방문만 60번? 박원숙 “경찰서 소리만 들어도 징글징글~” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240369</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240369</guid>
+            <pubDate>Tue, 06 Dec 2022 14:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240369">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206221231_5411c3fe2f1a6ec8bc299a7d1a7db7e4_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240369">[박원숙의 같이 삽시다 시즌3] 경찰서 방문만 60번? 박원숙 “경찰서 소리만 들어도 징글징글~”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206221231_5411c3fe2f1a6ec8bc299a7d1a7db7e4_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[커튼콜] 화기애애한 아침 식탁에서 묘한 긴장감 느끼는 강하늘, 그들 앞에 스스로 모습 드러내는 노상현 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240249</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=240249</guid>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204224620_4e54de6f9063d051294270e77f3d665a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 역대급 분노 폭발! 문세윤 멱살 잡은 딘딘... 대반전 스위트룸의 실체~(feat.울릉도 크루즈) (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240120</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240120</guid>
-            <pubDate>Sun, 04 Dec 2022 14:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240120">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204223716_0e67a5c9908946220002c0189be1bb73_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240120">[1박2일] 역대급 분노 폭발! 문세윤 멱살 잡은 딘딘... 대반전 스위트룸의 실체~(feat.울릉도 크루즈)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204223716_0e67a5c9908946220002c0189be1bb73_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] “나 안 해” 승부욕 불타오른 연정훈에 체력 방전된 딘딘 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240116</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240116</guid>
-            <pubDate>Sun, 04 Dec 2022 14:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240116">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204222923_44b5d3cbd4e7f77802ffd6f7f4f2495e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240116">[1박2일] “나 안 해” 승부욕 불타오른 연정훈에 체력 방전된 딘딘</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204222923_44b5d3cbd4e7f77802ffd6f7f4f2495e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
