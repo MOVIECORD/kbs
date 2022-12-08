@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 08:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 09:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아바타: 물의 길' 판도라 세계관...  "오마티카야 부족, 멧케이나 부족, 그리고 쿼리치 대령"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240683</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240683</guid>
+            <pubDate>Thu, 08 Dec 2022 09:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240683">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208114211_d9cd45bb74c9577ea8aaa682a3a570c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240683">'아바타: 물의 길' 판도라 세계관...  "오마티카야 부족, 멧케이나 부족, 그리고 쿼리치 대령"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208114211_d9cd45bb74c9577ea8aaa682a3a570c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '푸드 크로니클' 세상을 사로잡은 '스시의 비밀']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240624</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240306">'술꾼도시女2' 한선화 “다시 한지연으로~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206090829_00e1b06a47bc252c649f3af9f77d0c10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 디즈니+ '커넥트' 미이케 다카시 감독과 정해인 "살아있는 존재의 커넥트"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240279</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240279</guid>
-            <pubDate>Tue, 06 Dec 2022 18:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240279">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206081142_355ed17feb705473ec35efb835adbf28.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240279">[현장] 디즈니+ '커넥트' 미이케 다카시 감독과 정해인 "살아있는 존재의 커넥트"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206081142_355ed17feb705473ec35efb835adbf28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
