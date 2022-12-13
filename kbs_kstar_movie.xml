@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 11:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 12:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '솔로지옥2' "더 천국 같이, 더 지옥 같이"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241435</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241435</guid>
+            <pubDate>Tue, 13 Dec 2022 12:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241435">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221213182052_745917e8b57fa477c188a6b810b0fa44.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241435">넷플릭스 '솔로지옥2' "더 천국 같이, 더 지옥 같이"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221213182052_745917e8b57fa477c188a6b810b0fa44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["개봉도 되기 전..."  아바타: 물의 길, 골든 글로브 시상식 작품상-감독상 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241333</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240794">문근영, 2022여성영화인축제 '강수연상' 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209134317_364d526b738aef370cba5c63d1869031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '종이의 집: 공동경제구역' 파트2, 오늘 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240767</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240767</guid>
-            <pubDate>Fri, 09 Dec 2022 18:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240767">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209130910_631350e146987ac0190de85719d0b6e6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240767">넷플릭스 '종이의 집: 공동경제구역' 파트2, 오늘 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209130910_631350e146987ac0190de85719d0b6e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
