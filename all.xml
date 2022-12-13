@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 22:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 23:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["슈주, 그들의 진짜 이야기"  디즈니+ '슈퍼주니어: 더 라스트 맨 스탠딩' 내년 1월 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241521</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241521</guid>
+            <pubDate>Tue, 13 Dec 2022 23:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241521">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214075720_ff275bd1c5809dc7f1a768b36189ba49.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241521">"슈주, 그들의 진짜 이야기"  디즈니+ '슈퍼주니어: 더 라스트 맨 스탠딩' 내년 1월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214075720_ff275bd1c5809dc7f1a768b36189ba49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 오피스드라마 '레이스', 이연희-홍종현-문소리-정윤호 캐스팅 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241360</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221210072629_28d913c8bbc4b2013858f89ed7bb8474.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 '강남좀비' 지일주-박지연,  "필사의 탈출" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240578</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240578</guid>
-            <pubDate>Fri, 09 Dec 2022 23:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240578">	<span class="img-box hh">
+            <title><![CDATA['트롤리' 류보리 작가, "꼬리에 꼬리를 무는 사건, 요동치는 감정" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240868</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240868</guid>
+            <pubDate>Tue, 13 Dec 2022 23:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240868">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208075641_d6ef5328d6dde7d4ab0723e2b120bbac.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209145231_367d4706a0142867bc6f9d4d1bb864bd.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240578">영화 '강남좀비' 지일주-박지연,  "필사의 탈출"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240868">'트롤리' 류보리 작가, "꼬리에 꼬리를 무는 사건, 요동치는 감정"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208075641_d6ef5328d6dde7d4ab0723e2b120bbac.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209145231_367d4706a0142867bc6f9d4d1bb864bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tvN '유세풍2' 김민재-김향기, "마음부터 살펴보겠습니다" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240817</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240817</guid>
+            <pubDate>Tue, 13 Dec 2022 23:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240817">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209140211_b1e481edbd7970bebec626810636ca07.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240817">tvN '유세풍2' 김민재-김향기, "마음부터 살펴보겠습니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209140211_b1e481edbd7970bebec626810636ca07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화제 단독 MC 김아중,  "드레스가 난감" (tvN 연예인매니저로살아남기) (KBS연예 ─ TVs)]]></title>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239856">tvN예능 '스킵'  "사랑에 빠지는 시간 단 3초, 속전속결 소개팅"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221203081732_ae648c6f0692d2f246529266653bbf37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['재벌집 막내아들' 송중기, '순양을 향한 야망 격변의 후반부' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240883</guid>
-            <pubDate>Fri, 09 Dec 2022 08:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240883">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209155542_61c5919f548e2b9390d1b6e5e4c8f166.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240883">'재벌집 막내아들' 송중기, '순양을 향한 야망 격변의 후반부' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209155542_61c5919f548e2b9390d1b6e5e4c8f166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트롤리' 김현주-박희순,  "완벽한 부부, 균열이 생기다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240836</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240836</guid>
-            <pubDate>Fri, 09 Dec 2022 08:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240836">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209143359_bb196e797712e9a33dc84c154ab00bcf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240836">'트롤리' 김현주-박희순,  "완벽한 부부, 균열이 생기다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209143359_bb196e797712e9a33dc84c154ab00bcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[커튼콜] 정지소 고백 직전 하지원에게 고백하는 강하늘 “나 누나 좋아해요” 인생은 타이밍… (KBS연예 ─ KBS)]]></title>

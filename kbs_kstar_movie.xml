@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 22:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 23:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["슈주, 그들의 진짜 이야기"  디즈니+ '슈퍼주니어: 더 라스트 맨 스탠딩' 내년 1월 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241521</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241521</guid>
+            <pubDate>Tue, 13 Dec 2022 23:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241521">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214075720_ff275bd1c5809dc7f1a768b36189ba49.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241521">"슈주, 그들의 진짜 이야기"  디즈니+ '슈퍼주니어: 더 라스트 맨 스탠딩' 내년 1월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214075720_ff275bd1c5809dc7f1a768b36189ba49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 오피스드라마 '레이스', 이연희-홍종현-문소리-정윤호 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241360</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240969">서울독립영화제2022 폐막, 이정홍 감독 '괴인' 장편 대상 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221210072629_28d913c8bbc4b2013858f89ed7bb8474.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '강남좀비' 지일주-박지연,  "필사의 탈출"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240578</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240578</guid>
-            <pubDate>Fri, 09 Dec 2022 23:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240578">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208075641_d6ef5328d6dde7d4ab0723e2b120bbac.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240578">영화 '강남좀비' 지일주-박지연,  "필사의 탈출"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208075641_d6ef5328d6dde7d4ab0723e2b120bbac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
