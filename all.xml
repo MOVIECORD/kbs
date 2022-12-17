@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 06:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 07:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아바타:물의 길' 개봉 3일만에 100만 관객.. 어제까지 106만 관객 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242106</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242106</guid>
+            <pubDate>Sat, 17 Dec 2022 07:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242106">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217090511_f642b818c48b666511d23f845c7226a4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242106">'아바타:물의 길' 개봉 3일만에 100만 관객.. 어제까지 106만 관객 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217090511_f642b818c48b666511d23f845c7226a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조훈현- 이창호의 승부, 이병헌-유아인의 승부"   넷플릭스  '승부' (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242053</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241666">'아바타2', 개봉일 35만 관객이 '물의 길'을 보았다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215080319_cc4e8add6229c0e4d84c6ee831fce528_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 디즈니+ '카지노', "최민식 25년만의 드라마, 손석구의 신작, 이동휘의 대표작"  (제작발표회) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=241648</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241648</guid>
-            <pubDate>Thu, 15 Dec 2022 05:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241648">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215074429_04f2dc6e805cd238e22a34261a3109be.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241648">[현장] 디즈니+ '카지노', "최민식 25년만의 드라마, 손석구의 신작, 이동휘의 대표작"  (제작발표회)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215074429_04f2dc6e805cd238e22a34261a3109be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN 속전속결 소개팅 예능 '스킵', "매력 없음, 퀵하고 쿨하게 스킵~" (KBS연예 ─ TVs)]]></title>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241951</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=241951</guid>
             <pubDate>Sat, 17 Dec 2022 04:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241951">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241951">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216084451_e15e37969fca885d17d300f3c981cfa8.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242005</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=242005</guid>
             <pubDate>Sat, 17 Dec 2022 04:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242005">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242005">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216093723_d7d80df268f19af931e49e79a7598ccc.jpg" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242101</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=242101</guid>
             <pubDate>Fri, 16 Dec 2022 18:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242101">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242101">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217011831_af2dc55de13d18993b0a8cea490b8cf0_1.PNG" alt="대체 텍스트">
@@ -746,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242097</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=242097</guid>
             <pubDate>Fri, 16 Dec 2022 18:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242097">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242097">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217011016_ff61d02e0192f18d8721d57e2c679398_1.PNG" alt="대체 텍스트">
@@ -764,7 +764,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242093</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=242093</guid>
             <pubDate>Fri, 16 Dec 2022 16:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242093">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242093">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217005639_b974fb50fe01dfedd7d170a2f6a49deb_1.PNG" alt="대체 텍스트">
