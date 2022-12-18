@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 03:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 04:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209144054_d1438e6a4ee32d3b94ae0ede1c55944a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘두뇌공조’ 분노하는 정용화, "내가 브레인 허브 만들었다!" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242223</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242223</guid>
+            <pubDate>Sun, 18 Dec 2022 04:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242223">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221218122627_6b8dc4d1b094ff6581a4d09039032f16.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242223">‘두뇌공조’ 분노하는 정용화, "내가 브레인 허브 만들었다!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%91%90%EB%87%8C%EA%B3%B5%EC%A1%B0">월화드라마 두뇌공조</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221218122627_6b8dc4d1b094ff6581a4d09039032f16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[배틀트립2] 김정환-구본길, 스위스 치즈돈가스 ‘코르동블뢰’ 먹방...무엇을 상상하든 그 이상의 맛! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242217</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=242217</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217205418_13bb9b08e6cdc6ad3058c97fc60b3a04_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['배틀트립2' 펜싱선수 김정환X구본길, "스위스는 힐링" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=241951</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241951</guid>
-            <pubDate>Sat, 17 Dec 2022 04:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241951">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216084451_e15e37969fca885d17d300f3c981cfa8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241951">'배틀트립2' 펜싱선수 김정환X구본길, "스위스는 힐링"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216084451_e15e37969fca885d17d300f3c981cfa8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
