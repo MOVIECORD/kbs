@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 03:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 04:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마스페셜⑧양들의 침묵  "목격자와 방관자, 그리고 잘 사는 것"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242655</guid>
+            <pubDate>Wed, 21 Dec 2022 04:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221221084831_2aa52f19e9065e2a77c4c9a19cde0144.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242655">드라마스페셜⑧양들의 침묵  "목격자와 방관자, 그리고 잘 사는 것"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221221084831_2aa52f19e9065e2a77c4c9a19cde0144.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커튼콜 14회] 결국... “모든게 연극이었다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242631</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219230015_16b4e403cac41af18230479328a02f42.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이별도 리콜이 되나요?] 환승 이별 배신한 리콜녀와 4년 만에 재회한 전 남친 “가장 즐거웠던 연애가 너였어”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242508</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242508</guid>
-            <pubDate>Mon, 19 Dec 2022 15:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242508">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219225742_91a46e17aa7a811e14e474510fecce40.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242508">[이별도 리콜이 되나요?] 환승 이별 배신한 리콜녀와 4년 만에 재회한 전 남친 “가장 즐거웠던 연애가 너였어”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219225742_91a46e17aa7a811e14e474510fecce40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
