@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 06:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 07:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 윤제균 감독 ‘영웅: 감독의 길’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242945</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242945</guid>
+            <pubDate>Fri, 23 Dec 2022 07:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242945">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223105802_3f6cba2ac71adaa81f78c7e92d51a943.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242945">[인터뷰] 윤제균 감독 ‘영웅: 감독의 길’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223105802_3f6cba2ac71adaa81f78c7e92d51a943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "웹툰을 찢고, 티빙 속으로" 김남길-이다희-차은우-성준 '아일랜드'로 들어가다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242921</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242450">[리뷰] ‘올빼미’ 인조와 소현세자, 그리고 맹인 침술사 (안태진 감독)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219144328_9ec33395e3d6da7978d0e4d11771399b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 놀란의 거대한 도전 '오펜하이머', "CG 없이 핵폭발 실험 구현!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242443</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242443</guid>
-            <pubDate>Mon, 19 Dec 2022 08:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242443">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219125027_e6e78aec6690871b64d793efac0f3039.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242443">크리스토퍼 놀란의 거대한 도전 '오펜하이머', "CG 없이 핵폭발 실험 구현!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219125027_e6e78aec6690871b64d793efac0f3039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
