@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 00:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 웨타FX 최종진-황정록 “제임스 카메론 감독과 함께 아바타를 창조했다” (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243425</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243425</guid>
+            <pubDate>Tue, 27 Dec 2022 00:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243425">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227090625_790be1b1dbf2937a301f3fe1d8c5739f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243425">[인터뷰] 웨타FX 최종진-황정록 “제임스 카메론 감독과 함께 아바타를 창조했다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227090625_790be1b1dbf2937a301f3fe1d8c5739f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["누가 유령인가?"  영화 '유령' 캐릭터 포스터 공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243421</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242877">넷플릭스 '나이브스 아웃:글래스 어니언', 다니엘 크레이그의  '외딴 섬' 미스터리 추리극</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223092650_afb628b83107d3933b90c17f97600342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '술꾼도시여자들2' 술꾼삼인방, "우리 엄마는 말이야~" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242898</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242898</guid>
-            <pubDate>Fri, 23 Dec 2022 00:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242898">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223081621_926e18df99fc12199e5e5704d7c283c7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242898">티빙 '술꾼도시여자들2' 술꾼삼인방, "우리 엄마는 말이야~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223081621_926e18df99fc12199e5e5704d7c283c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘대행사' 이보영, "속이 뻥 뚫리는 독한 대사" (KBS연예 ─ TVs)]]></title>
