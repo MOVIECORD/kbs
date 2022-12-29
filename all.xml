@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 10:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 11:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,11 +688,83 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224192039_747012dd03489714615854c7dd1c25cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KBS 연중 플러스 "송중기, 이승기, 태풍의 신부, 그리고 실베스터 스탤론 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243865</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243865</guid>
+            <pubDate>Thu, 29 Dec 2022 11:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243865">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229174530_717c8eacad9f25169be46a837015d2cf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243865">KBS 연중 플러스 "송중기, 이승기, 태풍의 신부, 그리고 실베스터 스탤론</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229174530_717c8eacad9f25169be46a837015d2cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["오래 기다렸습니다"  KBS 새 뮤직 토크쇼, ‘더 시즌즈-박재범의 드라이브’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243858</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243858</guid>
+            <pubDate>Thu, 29 Dec 2022 11:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243858">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229170956_3af1f89efcd41cad5451e827cab89cee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243858">"오래 기다렸습니다"  KBS 새 뮤직 토크쇼, ‘더 시즌즈-박재범의 드라이브’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88">더 시즌즈</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229170956_3af1f89efcd41cad5451e827cab89cee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잉꼬부부 최수종-하희라, "가마솥 밥에 누룽지" (KBS2 세컨 하우스) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243765</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243765</guid>
+            <pubDate>Thu, 29 Dec 2022 11:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243765">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229081844_f3bb6b6f2314bfa949709412303eea5e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243765">잉꼬부부 최수종-하희라, "가마솥 밥에 누룽지" (KBS2 세컨 하우스)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229081844_f3bb6b6f2314bfa949709412303eea5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["다 같이 두뇌공조 합니다"  정용화-차태현-곽선영-예지원-정동환-우현-김수진-임철형 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243657</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243657</guid>
+            <pubDate>Thu, 29 Dec 2022 11:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243657">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228154440_659a933184c9ca61807b2d0af9599c62.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243657">"다 같이 두뇌공조 합니다"  정용화-차태현-곽선영-예지원-정동환-우현-김수진-임철형 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%91%90%EB%87%8C%EA%B3%B5%EC%A1%B0">월화드라마 두뇌공조</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228154440_659a933184c9ca61807b2d0af9599c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[드라마 스페셜-유포자들] 영상을 보게 된 김소은, 이로 인해 박성훈은 안석환에게 죽을 위기에 처하는데… (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243742</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243742</guid>
             <pubDate>Wed, 28 Dec 2022 20:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243742">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243742">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229012330_80fe723e69953319b99533b9ce529a81_1.jpg" alt="대체 텍스트">
@@ -710,7 +782,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243738</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243738</guid>
             <pubDate>Wed, 28 Dec 2022 20:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243738">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243738">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229011544_573042b2ca79e7b50923f1649dcbf5c7_1.jpg" alt="대체 텍스트">
@@ -728,7 +800,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243734</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243734</guid>
             <pubDate>Wed, 28 Dec 2022 20:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243734">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243734">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229010848_8b29eb544fc6cbba7a5fdcd084d9c108.jpg" alt="대체 텍스트">
@@ -746,7 +818,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243730</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243730</guid>
             <pubDate>Wed, 28 Dec 2022 16:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243730">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243730">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229010201_19faf6508c36e931a50db6549552410e_1.jpg" alt="대체 텍스트">
@@ -764,7 +836,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243726</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243726</guid>
             <pubDate>Wed, 28 Dec 2022 16:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243726">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243726">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228231250_d55f94c594ee0831afeaaf23a53c6476_1.jpg" alt="대체 텍스트">
@@ -782,7 +854,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243722</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243722</guid>
             <pubDate>Wed, 28 Dec 2022 16:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243722">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243722">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228230854_03a5572c1775366b4146401cf7e47b44_1.jpg" alt="대체 텍스트">
@@ -800,7 +872,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243718</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243718</guid>
             <pubDate>Wed, 28 Dec 2022 16:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243718">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243718">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228230029_d615f196faea999ec4c5972adb2b7bef_1.jpg" alt="대체 텍스트">
@@ -818,7 +890,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243714</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243714</guid>
             <pubDate>Wed, 28 Dec 2022 16:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243714">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243714">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229013830_cb60f1bd0e278c2f739b33ec2eadba6d_1.jpg" alt="대체 텍스트">
@@ -836,7 +908,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243644</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243644</guid>
             <pubDate>Wed, 28 Dec 2022 07:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243644">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243644">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228151937_833b82980b09c083032d18363ab566df.jpg" alt="대체 텍스트">
@@ -853,7 +925,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243574</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243574</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243574">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243574">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228081739_4506df336eac12c7dd33d7a299f5be25.jpg" alt="대체 텍스트">
@@ -871,7 +943,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243532</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243532</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243532">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243532">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228074422_22b325e5b3e787bc28ed31cefbb31fae.jpg" alt="대체 텍스트">
@@ -889,7 +961,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243524</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243524</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243524">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243524">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228073718_00600a30ba426497cec4fdbc050eb203.jpg" alt="대체 텍스트">
@@ -907,7 +979,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243445</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243445</guid>
             <pubDate>Tue, 27 Dec 2022 21:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243445">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243445">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227094457_fbe5f847d606e60a3590fc1586709497.jpg" alt="대체 텍스트">
@@ -925,7 +997,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243510</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243510</guid>
             <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243510">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243510">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227233949_7f545964a170b0e76dedc1c3b1080d2d_1.png" alt="대체 텍스트">
@@ -943,7 +1015,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243504</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243504</guid>
             <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243504">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243504">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227233358_dce6623b1073f544ebf14d2cc86d4301_1.png" alt="대체 텍스트">
@@ -961,7 +1033,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243499</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243499</guid>
             <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243499">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243499">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227233040_adbf5d62d55767ed69329c9ef5bfe5de.png" alt="대체 텍스트">
@@ -973,78 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%BB%A4%ED%8A%BC%EC%BD%9C">월화드라마 커튼콜</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227233040_adbf5d62d55767ed69329c9ef5bfe5de.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[커튼콜] 고두심이 깨어난 단 하루! 한 사람을 위한 처음이자 마지막 공연이 시작된다! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243494</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243494</guid>
-            <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243494">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227232814_1b7bb5114897fcca4ce67c8da8247de7_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243494">[커튼콜] 고두심이 깨어난 단 하루! 한 사람을 위한 처음이자 마지막 공연이 시작된다!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%BB%A4%ED%8A%BC%EC%BD%9C">월화드라마 커튼콜</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227232814_1b7bb5114897fcca4ce67c8da8247de7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 갓 담근 김장 김치와 혜은이 표 특급 수육의 만남! “지리산에서 비법 배웠다” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243489</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243489</guid>
-            <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243489">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230928_674bfa03a2f445c86237105502f27aba_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243489">[박원숙의 같이 삽시다 시즌3] 갓 담근 김장 김치와 혜은이 표 특급 수육의 만남! “지리산에서 비법 배웠다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230928_674bfa03a2f445c86237105502f27aba_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 정찬 가스총 쥐고 물 만난 혜은이 “FBI다! 손들어!” 포항 비밀 요원 탄생 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243484</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243484</guid>
-            <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243484">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230713_7a71c8f3a3031a883b9d4b9214c5de53.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243484">[박원숙의 같이 삽시다 시즌3] 정찬 가스총 쥐고 물 만난 혜은이 “FBI다! 손들어!” 포항 비밀 요원 탄생</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230713_7a71c8f3a3031a883b9d4b9214c5de53.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 싱글대디 배우 정찬 방문! 안문숙과 커플 엮기 시도하는 안소영 “문숙이랑 몇 살 차이지?” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243479</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243479</guid>
-            <pubDate>Tue, 27 Dec 2022 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243479">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230603_62e2075d6224c7c9ff2d69642f2431b1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243479">[박원숙의 같이 삽시다 시즌3] 싱글대디 배우 정찬 방문! 안문숙과 커플 엮기 시도하는 안소영 “문숙이랑 몇 살 차이지?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227230603_62e2075d6224c7c9ff2d69642f2431b1_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
