@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223073826_51f962967459e50a7d05df23deb9e41d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["무한긍정, 전도연" 국가대표 반찬가게 사장님 (tvN 일타 스캔들) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243815</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243815</guid>
+            <pubDate>Thu, 29 Dec 2022 03:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243815">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229104732_a601edf643019a97b14851083c226995_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243815">"무한긍정, 전도연" 국가대표 반찬가게 사장님 (tvN 일타 스캔들)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229104732_a601edf643019a97b14851083c226995_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강소라, 이혼전문 변호사 변신 (지니TV '남이 될 수 있을까') (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243752</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=243752</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243083">'놀라운 토요일' 김태우-테이 "달콤한 라이브 무대"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224192039_747012dd03489714615854c7dd1c25cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영, ‘은행의 여신’ 드라마 ‘사랑의 이해’ 비하인드 스틸 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242991</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242991</guid>
-            <pubDate>Fri, 23 Dec 2022 13:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242991">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223140859_80dbca97048b5b9027c6aca2290a09d3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242991"> 문가영, ‘은행의 여신’ 드라마 ‘사랑의 이해’ 비하인드 스틸</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223140859_80dbca97048b5b9027c6aca2290a09d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[드라마 스페셜-유포자들] 영상을 보게 된 김소은, 이로 인해 박성훈은 안석환에게 죽을 위기에 처하는데… (KBS연예 ─ KBS)]]></title>
