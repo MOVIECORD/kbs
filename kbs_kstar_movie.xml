@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 22:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 23:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하정우-주지훈-최민호-여진구 "여행보내Dream" (티빙 '두발로 티켓팅')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243777</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243777</guid>
+            <pubDate>Fri, 30 Dec 2022 23:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243777">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229083738_069f0b9429047f3772ce69da5db2f42f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243777">하정우-주지훈-최민호-여진구 "여행보내Dream" (티빙 '두발로 티켓팅')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229083738_069f0b9429047f3772ce69da5db2f42f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["송혜교의 복수, 오늘 시작된다"...  넷플릭스 '더 글로리' 파트1,  오후 5시 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243985</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243408">[2022결산] 2022티빙어워즈,  ‘올해의 PICK’ 콘텐츠 6편 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227073031_3461248174429925d8a00c411e0be654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화 "꼼꼼하게, 한지연에 몰입히다" (티빙 '술꾼도시여자들')]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243336</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243336</guid>
-            <pubDate>Mon, 26 Dec 2022 23:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243336">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221226165703_5c41df64ecfe15400e2845f229147865.jpeg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243336">한선화 "꼼꼼하게, 한지연에 몰입히다" (티빙 '술꾼도시여자들')</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221226165703_5c41df64ecfe15400e2845f229147865.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
