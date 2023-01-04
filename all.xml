@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 04:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이민정 “인생은 재밌어, 영화도 재밌어” (영화 ‘스위치’) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=244737</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244737</guid>
+            <pubDate>Wed, 04 Jan 2023 05:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244737">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230104095723_a9ae4fae5152981538c0f958e7e78de7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244737">[인터뷰] 이민정 “인생은 재밌어, 영화도 재밌어” (영화 ‘스위치’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230104095723_a9ae4fae5152981538c0f958e7e78de7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 몸짱 예능 '피지컬: 100'...  “가장 완벽한 피지컬이란 무엇인가?” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=244671</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243873">티빙 '아일랜드' 판타지 액션의 신기원, 오늘 열린다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229175711_ddf80a183ef0256a04532fd4c7562589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도현의 역할은?  송혜교 복수극  ‘더 글로리’ 금수저 닥터 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243833</guid>
-            <pubDate>Thu, 29 Dec 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243833">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229165411_391d73c7f2c65cc9b96533441db73f87.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243833">이도현의 역할은?  송혜교 복수극  ‘더 글로리’ 금수저 닥터</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229165411_391d73c7f2c65cc9b96533441db73f87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘벌거벗은 세계사’ 佛 여왕 마고, '광기의 대학살' (KBS연예 ─ TVs)]]></title>
