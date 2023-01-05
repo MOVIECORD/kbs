@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블랙 팬서: 와칸다 포에버' 디즈니플러스 2월 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=244880</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244880</guid>
+            <pubDate>Thu, 05 Jan 2023 06:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244880">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230105142258_1342739f10e4c6479591358dfaed3f01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244880">'블랙 팬서: 와칸다 포에버' 디즈니플러스 2월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230105142258_1342739f10e4c6479591358dfaed3f01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['바둑 두는 남자' 정성일, 넷플릭스 '더 글로리' 하도영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=244832</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243985">"송혜교의 복수, 오늘 시작된다"...  넷플릭스 '더 글로리' 파트1,  오후 5시 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221230093835_3194037155cc7750102d0344ee36de13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘' 아일랜드 1-2회]  얽히고 설킨 운명의 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243922</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243922</guid>
-            <pubDate>Fri, 30 Dec 2022 04:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243922">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221230073848_cf67de1e21224e738b7e8af1e5a1ec44.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243922">[오늘' 아일랜드 1-2회]  얽히고 설킨 운명의 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221230073848_cf67de1e21224e738b7e8af1e5a1ec44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
