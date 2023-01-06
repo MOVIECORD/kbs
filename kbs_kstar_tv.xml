@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 02:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 03:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN '청춘월담', 왕세자 박형식의 저주 “내가 귀신의 저주를 받았다고..”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=244975</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244975</guid>
+            <pubDate>Fri, 06 Jan 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244975">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230106080507_afceb35312986fc3abbd0512a26c79c0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244975">tvN '청춘월담', 왕세자 박형식의 저주 “내가 귀신의 저주를 받았다고..”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230106080507_afceb35312986fc3abbd0512a26c79c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장]  JTBC '대행사' 제작발표회 "차원이 다른 광고꾼들의 이야기, 고아인과 어벤져스"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=244892</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244133">이준기, 2022SBS연기대상, 최우수 연기상 (어게인 마이 라이프)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230101082004_5df7b11c9dc0d3d4e3b7db069dc5c796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강소라-장승조,  '이혼 전과 후' (드라마 ‘남이 될 수 있을까’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243760</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243760</guid>
-            <pubDate>Sat, 31 Dec 2022 17:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243760">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229081227_c62f7caaf358a2dc9f4620cf77fe6ac5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243760">강소라-장승조,  '이혼 전과 후' (드라마 ‘남이 될 수 있을까’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229081227_c62f7caaf358a2dc9f4620cf77fe6ac5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
