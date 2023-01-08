@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 22:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 23:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영웅'의 길, 19일 연속 한국영화 박스오피스 1위 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=245359</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245359</guid>
+            <pubDate>Sun, 08 Jan 2023 23:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245359">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230109073810_6deb48e5c245b3a7f209b26b089f68d0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245359">'영웅'의 길, 19일 연속 한국영화 박스오피스 1위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230109073810_6deb48e5c245b3a7f209b26b089f68d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡P 'SNL코리아' 김옥빈, 수위를 넘나드는 아찔한 웃음 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=245279</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244512">티빙 '아일랜드' 차은우, 역대급 구마사제의 등장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230103075455_68da4482075ab2cc6bb4166a2dc78408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장화 신은' 안토니오 반데라스 & 플로렌스 퓨 “새해 복 많이 받으세요!” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=244310</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244310</guid>
-            <pubDate>Mon, 02 Jan 2023 04:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244310">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230102090005_0b9d83c5f8beb82af45cfabc85b84ff7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244310">'장화 신은' 안토니오 반데라스 &amp; 플로렌스 퓨 “새해 복 많이 받으세요!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230102090005_0b9d83c5f8beb82af45cfabc85b84ff7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘대행사’ 첫 방송, 이보영 vs. 조성하, 살벌한 사내 전쟁 (KBS연예 ─ TVs)]]></title>
