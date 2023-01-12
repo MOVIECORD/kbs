@@ -4,11 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 20:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 21:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[현장] 영화 ‘유령’,  경성 총독부의 스파이를 잡아라 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA["이 중 한 명이 살아남는다!"  넷플릭스 예능 '피지컬: 100' ...  '궁극의 피지컬, 극강의 서바이벌' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=245746</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245746</guid>
+            <pubDate>Thu, 12 Jan 2023 21:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245746">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230112080052_778b47ff313a9b72b239f90a3b7063ad.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245746">"이 중 한 명이 살아남는다!"  넷플릭스 예능 '피지컬: 100' ...  '궁극의 피지컬, 극강의 서바이벌' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230112080052_778b47ff313a9b72b239f90a3b7063ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] 누가 '유령'인가 (시사회 현장) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=245772</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=245772</guid>
             <pubDate>Thu, 12 Jan 2023 05:02:00 GMT</pubDate>
@@ -20,7 +37,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245772">[현장] 영화 ‘유령’,  경성 총독부의 스파이를 잡아라 </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245772">[현장] 누가 '유령'인가 (시사회 현장)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230112094938_bc088af6e456c78e4c023a89bdfbb6c0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245014">"들어는 봤나 트뤼포, 스크린으로 봤나 400번의 구타'" 프랑수아 트뤼포 영화 극장개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230106085941_3705e9d40a6a0babcec80f1b9340cdba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["농구가 하고 싶어요"  '더 퍼스트 슬램덩크'는 거들 뿐!  (셀럽 추천 영상 공개) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=245008</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245008</guid>
-            <pubDate>Fri, 06 Jan 2023 00:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245008">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230106084549_11d6cb962c44f10ff637090aba1ecfd7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245008">"농구가 하고 싶어요"  '더 퍼스트 슬램덩크'는 거들 뿐!  (셀럽 추천 영상 공개)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230106084549_11d6cb962c44f10ff637090aba1ecfd7_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['꼭두의 계절' 김정현-임수향, "시간을 거슬러, 길고 긴 인연" (KBS연예 ─ TVs)]]></title>
