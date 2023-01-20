@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Fri, 20 Jan 2023 04:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[인터뷰] 임순례 감독 “리틀포레스트 감독, 탈레반과의 '교섭' 영화 찍다” (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[[인터뷰] 임순례 감독 “리틀포레스트 감독, 탈레반과의 '교섭' 영화 찍다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246738</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246738</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -25,7 +25,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119201207_1a83861485b9e2e1c71a4b013c12fa05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감독과 배우, '유령'을 밝히다.. 메가토크 GV (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[감독과 배우, '유령'을 밝히다.. 메가토크 GV]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246721</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246721</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -42,7 +42,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119171135_03481c82a87b3fe7d2c9f5e270882a9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["사랑의 품격" 애절한 러브스토리 '그대 어이가리' 3월 개봉 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA["사랑의 품격" 애절한 러브스토리 '그대 어이가리' 3월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246680</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246680</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -59,7 +59,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119103737_6198ae328b698a4a9be526e34d0c24b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연상호의 AI,  넷플릭스의 SF '정이' GV현장 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[연상호의 AI,  넷플릭스의 SF '정이' GV현장]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246620</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246620</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -76,7 +76,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119090713_01a6fa592aa00d3bc137adab94d10f4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["추성훈 윤성빈 살아남을까"  최강 피지컬 대결, 넷플릭스 '피지컬:100' (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA["추성훈 윤성빈 살아남을까"  최강 피지컬 대결, 넷플릭스 '피지컬:100']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246489</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246489</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -93,7 +93,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118094427_daf8cb4e02c45b15426261c81e41b3f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["문동은의 복수, 3월 10일 계속된다" ... 넷플릭스 '더 글로리' 파트2 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA["문동은의 복수, 3월 10일 계속된다" ... 넷플릭스 '더 글로리' 파트2]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246549</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246549</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -110,7 +110,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118110817_e4656513adcc7538df4d4cbf5748fbf5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 이지훈, 일본 사부 감독 ‘언더 유어 베드’ 마지막 촬영 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[배우 이지훈, 일본 사부 감독 ‘언더 유어 베드’ 마지막 촬영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246539</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246539</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -127,7 +127,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118105632_f51512caef3c2709df8381af784eba7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 런던 O2아레나 공연실황, CGV에서 본다 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[빌리 아일리시 런던 O2아레나 공연실황, CGV에서 본다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246513</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246513</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -144,7 +144,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118100702_e4673af92c4e25da3ea61e41723b8393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['슈퍼주니어: 더 라스트 맨 스탠딩' 오늘 디즈니플러스에서 공개..  "20년 성장드라마, 그들의 진짜 속마음" (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA['슈퍼주니어: 더 라스트 맨 스탠딩' 오늘 디즈니플러스에서 공개..  "20년 성장드라마, 그들의 진짜 속마음"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246482</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246482</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -161,7 +161,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118083356_9bc3f16f560a13476498efe461445457.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 이하늬 “이 작품 스타일리시하다,  대단하다!” (영화 ‘유령’) (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[[인터뷰] 이하늬 “이 작품 스타일리시하다,  대단하다!” (영화 ‘유령’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246458</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246458</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -178,7 +178,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118081656_44fe6e25a4930cb234e093910a2af2d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장근석과 허성태 '미끼',  "진실을 숨기는 자, 누구인가" (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[장근석과 허성태 '미끼',  "진실을 숨기는 자, 누구인가"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246380</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246380</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -195,7 +195,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117112527_c7a1d3a86b4414226819da544a930bb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["기쁨도 그리움도, 함께"  김다미-전소니 '소울메이트' 3월 개봉 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA["기쁨도 그리움도, 함께"  김다미-전소니 '소울메이트' 3월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246374</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246374</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -212,7 +212,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117111820_307922cd99362a6ff401f45fc077a3d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 설경구 “난, 무라야마 쥰지이다. 과연 유령일까?” (영화 ‘유령’) (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[[인터뷰] 설경구 “난, 무라야마 쥰지이다. 과연 유령일까?” (영화 ‘유령’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246347</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246347</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -229,7 +229,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117085442_8f751b8bddda2078a85a9a7ed0374056.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하정우-임시완 영광의 마라톤,  '1947 보스톤'... 9월 드디어 개봉 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[하정우-임시완 영광의 마라톤,  '1947 보스톤'... 9월 드디어 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246333</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246333</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -246,7 +246,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117074613_b46c0d80e77ca39c8375f1ae6d859945.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안희연, 디즈니+ ‘사랑이라 말해요' 출연 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[안희연, 디즈니+ ‘사랑이라 말해요' 출연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246244</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246244</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -263,7 +263,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230116075630_24f9bbd6d195bfee637abd880da89fbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[줄리안 무어 주연 '샤퍼',  애플TV+ 2월 공개... “이왕 훔칠 거면 크게 한탕 해” (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[줄리안 무어 주연 '샤퍼',  애플TV+ 2월 공개... “이왕 훔칠 거면 크게 한탕 해”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246141</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246141</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -280,7 +280,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115085851_96294e003bef048afc933600a337e954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대런 애로노프스키  신작 '더 웨일' 미국제작자조합상(PGA) 작품상 후보 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[대런 애로노프스키  신작 '더 웨일' 미국제작자조합상(PGA) 작품상 후보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246135</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246135</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -297,7 +297,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115084907_d7351494b9c7fda2da62603ed7ac6465.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장] ‘교섭’ 임순례 감독의 서프라이즈, “황정민, 현빈, 그리고 카심” (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[[현장] ‘교섭’ 임순례 감독의 서프라이즈, “황정민, 현빈, 그리고 카심”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246162</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246162</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -314,7 +314,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115100048_cbb1dfb808ac122e46494fbf408f091c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[설경구+전도연 넷플릭스 영화 '길복순', 베를린국제영화제 진출 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[설경구+전도연 넷플릭스 영화 '길복순', 베를린국제영화제 진출]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246104</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246104</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
@@ -331,7 +331,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115075450_0091c57da10ced954cb398b8808c49ab_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['에브리씽 에브리웨어 올 앳 원스' 골든글로브 수상 기념, 3월 극장 재개봉 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA['에브리씽 에브리웨어 올 앳 원스' 골든글로브 수상 기념, 3월 극장 재개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246095</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=246095</guid>
             <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
