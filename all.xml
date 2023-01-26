@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 서현우, 날씬하고 귀여운 대기만성 배우  “파이란 같은 멜로물 어때요?” (영화 ‘유령’) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=247280</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247280</guid>
+            <pubDate>Thu, 26 Jan 2023 03:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247280">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126093500_c9cbe9fcab94bb715d317eaa53673790.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247280">[인터뷰] 서현우, 날씬하고 귀여운 대기만성 배우  “파이란 같은 멜로물 어때요?” (영화 ‘유령’) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126093500_c9cbe9fcab94bb715d317eaa53673790.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["에브리씽 '아카데미' 올 앳 원스" 에에올, 아카데미 시상식 최다부문 후보 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=247260</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246680">"사랑의 품격" 애절한 러브스토리 '그대 어이가리' 3월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119103737_6198ae328b698a4a9be526e34d0c24b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연상호의 AI,  넷플릭스의 SF '정이' GV현장 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246620</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246620</guid>
-            <pubDate>Fri, 20 Jan 2023 04:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246620">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119090713_01a6fa592aa00d3bc137adab94d10f4d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246620">연상호의 AI,  넷플릭스의 SF '정이' GV현장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119090713_01a6fa592aa00d3bc137adab94d10f4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['유퀴즈' "그건 내가 만들었어!" 수의사, 여행 크리에이터, 그리고 이성민 (KBS연예 ─ TVs)]]></title>
