@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 13:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 14:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165049_d14c72d23b6ea85394a079d1f22cc2c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[세컨 하우스] 난생처음 들어보는 귀 면도에 겁먹은 상욱! 강진 스타일을 완벽 소화한 주조형제 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=247312</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247312</guid>
+            <pubDate>Thu, 26 Jan 2023 14:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247312">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126230231_832acadcd86466a0a80c1f88c7425963.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247312">[세컨 하우스] 난생처음 들어보는 귀 면도에 겁먹은 상욱! 강진 스타일을 완벽 소화한 주조형제</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126230231_832acadcd86466a0a80c1f88c7425963.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['세컨 하우스' 주상욱-조재윤, 오토바이 타고 동네 한 바퀴 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=247271</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=247271</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230123213609_c215c88033746da20df194b3456f8e84_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[걸어서 환장 속으로] 서동주 환장하게 하는 서정희+장복숙 여사의 미라클 모닝 텐션(feat. 댄스타임) (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=247035</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247035</guid>
-            <pubDate>Mon, 23 Jan 2023 15:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247035">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230123211822_1cbe4b13858c681ba7212615b552292c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247035">[걸어서 환장 속으로] 서동주 환장하게 하는 서정희+장복숙 여사의 미라클 모닝 텐션(feat. 댄스타임)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230123211822_1cbe4b13858c681ba7212615b552292c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
