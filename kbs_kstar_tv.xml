@@ -4,26 +4,9 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티빙 '두발로 티켓팅' 주지훈, "오늘은 내가 요리사~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=247355</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247355</guid>
-            <pubDate>Thu, 26 Jan 2023 23:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247355">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127074756_e1ad3e319fadbde83e05767aadfdfb85.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247355">티빙 '두발로 티켓팅' 주지훈, "오늘은 내가 요리사~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127074756_e1ad3e319fadbde83e05767aadfdfb85.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[JTBC '신성한, 이혼' "3월, 유쾌한 휴먼 드라마가 온다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246666</link>
@@ -346,6 +329,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245893">"니가 가라 시드니"  부산남자 뭉치다 "허성태X이시언X안보현X곽튜브"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230113083146_43ac1f3c3b7f699e1f06fe11f19a10f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tvN '캐나다 체크인'  빼꼼이와 쿠키의 견(犬)생극장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246012</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246012</guid>
+            <pubDate>Fri, 27 Jan 2023 02:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246012">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165504_510a2a5881b41990a196970d0dc286a6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246012">tvN '캐나다 체크인'  빼꼼이와 쿠키의 견(犬)생극장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165504_510a2a5881b41990a196970d0dc286a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
