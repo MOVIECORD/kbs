@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 07:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 08:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230128092337_648904110ac370e2e8fd960346ad18b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['배틀트립2' 송해나X유빈, 그라운드에서 발리로 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=248516</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248516</guid>
+            <pubDate>Sat, 04 Feb 2023 08:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248516">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230204094756_d3331a9e091332206a4f3786b84ef51a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248516">'배틀트립2' 송해나X유빈, 그라운드에서 발리로 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230204094756_d3331a9e091332206a4f3786b84ef51a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['청춘스타' 류지현, 뮤직뱅크에서 "씰룩씰룩~" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=248493</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=248493</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203081904_45cb50a6d3d0a8ad6a46561e6ddf6fd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 플러스] 육아도 함께 하는 스타 CEO 아빠들! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248320</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248320</guid>
-            <pubDate>Thu, 02 Feb 2023 17:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248320">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203013815_900826110ec84e613143a0fb2b3048d0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248320">[연중 플러스] 육아도 함께 하는 스타 CEO 아빠들!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203013815_900826110ec84e613143a0fb2b3048d0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
