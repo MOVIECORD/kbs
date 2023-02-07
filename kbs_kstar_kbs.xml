@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 00:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 02:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’ 캐스팅 대공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=248914</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248914</guid>
+            <pubDate>Tue, 07 Feb 2023 02:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248914">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230207084331_1e62ffe04ee2cdf3f4946b0a8e04f0c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248914">KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’ 캐스팅 대공개 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230207084331_1e62ffe04ee2cdf3f4946b0a8e04f0c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 폭풍전야! 본격 훈련 전 강형욱 손길 즐기는 몰티즈 호야]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=248871</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206213518_a6b3f62d07bdb200801283930a41d465.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태풍의 신부] 지수원 구출 성공했지만 뇌 손상 진단에 좌절하는 박하나 “꼭 갚아줄 거야…”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248775</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248775</guid>
-            <pubDate>Mon, 06 Feb 2023 18:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248775">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206212649_b769fdf49217ca70ea834fa5aad74454.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248775">[태풍의 신부] 지수원 구출 성공했지만 뇌 손상 진단에 좌절하는 박하나 “꼭 갚아줄 거야…”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206212649_b769fdf49217ca70ea834fa5aad74454.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
