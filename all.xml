@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 11:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 12:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203095019_9e142a2d186caa3a441ea9f8977df35a.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 먹방계 아이돌 유튜버 권상혁, 뉴 보스 합류...한겨울에 반팔 차림 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249543</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249543</guid>
+            <pubDate>Sun, 12 Feb 2023 12:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249543">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212201932_8ed51ec9169459b603190b2ca7d403ee_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249543">[사장님 귀는 당나귀 귀] 먹방계 아이돌 유튜버 권상혁, 뉴 보스 합류...한겨울에 반팔 차림</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212201932_8ed51ec9169459b603190b2ca7d403ee_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사장님 귀는 당나귀 귀] 정지선 셰프만의 초대형 크기 찹쌀공! (김태균&조인성 딤섬 찜기로 탑쌓기) (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249539</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=249539</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230211203317_be24099382cf0dad426232778665a2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘아름다운 하모니’ 윤형주&유리상자...‘웨딩케익+우리들의 이야기’ 무대 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249475</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249475</guid>
-            <pubDate>Sat, 11 Feb 2023 12:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249475">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230211202351_e25323cf65566787884a42e6aa1d638d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249475">[불후의 명곡] ‘아름다운 하모니’ 윤형주&amp;유리상자...‘웨딩케익+우리들의 이야기’ 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230211202351_e25323cf65566787884a42e6aa1d638d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
