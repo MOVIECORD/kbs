@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 23:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 00:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203095019_9e142a2d186caa3a441ea9f8977df35a.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA['개는 훌륭하다' 통제불능 입질견 "파양까지 생각했다!" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249622</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249622</guid>
+            <pubDate>Mon, 13 Feb 2023 00:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249622">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230213081014_46e28548420bbe67f2aac8b0aa6709a1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249622">'개는 훌륭하다' 통제불능 입질견 "파양까지 생각했다!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230213081014_46e28548420bbe67f2aac8b0aa6709a1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[걸어서 환장 속으로] 라오스에서 가장 유명한 맛집을 찾은 고은아+방가네 (그런데 너무 익숙한 맛?) (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249591</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=249591</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212082032_5015dc897b4eb4a7c45d26f68c8ae5a5_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 시작부터 답답? 남자 둘이 온천 여행을... 문경에 찾아간 지상렬과 kcm (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249515</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249515</guid>
-            <pubDate>Sun, 12 Feb 2023 00:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249515">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212081531_fbb62b51de89dfbd9d61f7801232a0e5_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249515">[배틀트립2] 시작부터 답답? 남자 둘이 온천 여행을... 문경에 찾아간 지상렬과 kcm</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212081531_fbb62b51de89dfbd9d61f7801232a0e5_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
