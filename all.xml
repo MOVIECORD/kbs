@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 02:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203092423_1ba9afd631c3d2e6658bedca29ea855f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[두뇌공조 11회 예고] 차태현-곽선영, “사랑은 야근을 타고” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249637</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249637</guid>
+            <pubDate>Mon, 13 Feb 2023 03:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249637">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230213093617_25b743748968de342d9fb0de9b5842c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249637">[두뇌공조 11회 예고] 차태현-곽선영, “사랑은 야근을 타고” </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%91%90%EB%87%8C%EA%B3%B5%EC%A1%B0">월화드라마 두뇌공조</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230213093617_25b743748968de342d9fb0de9b5842c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['개는 훌륭하다' 통제불능 입질견 "파양까지 생각했다!" (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249622</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=249622</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212082959_28ad2a6b8221528dbdc982c6d7974ec9_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 문경여행 지상렬-kcm ‘술로 슬로우 투어 팀’ 첫번째 방문지는 MZ 감성 카페? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249519</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249519</guid>
-            <pubDate>Sun, 12 Feb 2023 00:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249519">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212082032_5015dc897b4eb4a7c45d26f68c8ae5a5_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249519">[배틀트립2] 문경여행 지상렬-kcm ‘술로 슬로우 투어 팀’ 첫번째 방문지는 MZ 감성 카페?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230212082032_5015dc897b4eb4a7c45d26f68c8ae5a5_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
