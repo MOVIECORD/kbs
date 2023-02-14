@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230207075905_871974413b7467b76198faf5cdccd11b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JTBC '안방판사' "'더 글로리' 고데기 사건 전말" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249786</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249786</guid>
+            <pubDate>Tue, 14 Feb 2023 03:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249786">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214074905_78ac67f604a4b1285853f23e4e25d800.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249786">JTBC '안방판사' "'더 글로리' 고데기 사건 전말" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214074905_78ac67f604a4b1285853f23e4e25d800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방민아-윤찬영 '딜리버리맨', “제 택시에 귀신이 붙었습니다” (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249747</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=249747</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248660">'청춘월담' 박형식-전소니, "청춘들의 케미스트리"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230205091153_e20235e3e0b1846da9ec2b970d913afe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC 새 드라마 '신성한, 이혼'  한혜진 "양육권만은 포기할 수 없다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248265</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248265</guid>
-            <pubDate>Sun, 05 Feb 2023 00:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248265">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230202110414_1e89f09f1c66307e7b9087654df74af0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248265">JTBC 새 드라마 '신성한, 이혼'  한혜진 "양육권만은 포기할 수 없다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230202110414_1e89f09f1c66307e7b9087654df74af0_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 김희정, KBS '비밀의 여자' 캐스팅.. 이선호와 애틋한 모자 케미 예고 (KBS연예 ─ KBS)]]></title>
