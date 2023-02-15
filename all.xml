@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 00:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 02:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209081550_d368b98492d695e88da06a03be9e99f4.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ENA 예능 '혜미리예채파' "러블리한 여섯 명이 모였다" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249831</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249831</guid>
+            <pubDate>Wed, 15 Feb 2023 02:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249831">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214172318_03a2ccf5cb26007ba29167a82434385d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249831">ENA 예능 '혜미리예채파' "러블리한 여섯 명이 모였다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214172318_03a2ccf5cb26007ba29167a82434385d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC '안방판사' "'더 글로리' 고데기 사건 전말" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249786</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=249786</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248351">장삐쭈 ‘신병’ 스핀오프, ENA예능 '신병캠프'  장동민X최영재 포스작렬 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230203083632_3a57b2cff4fef2c444490f26f70e42b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청춘월담' 박형식-전소니, "청춘들의 케미스트리" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248660</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248660</guid>
-            <pubDate>Mon, 06 Feb 2023 18:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248660">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230205091153_e20235e3e0b1846da9ec2b970d913afe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248660">'청춘월담' 박형식-전소니, "청춘들의 케미스트리"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230205091153_e20235e3e0b1846da9ec2b970d913afe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두뇌공조] 고통받는 차태현 위해 스스로 이별 선택하는 곽선영 “우리 이쯤에서 정리해요” (KBS연예 ─ KBS)]]></title>
