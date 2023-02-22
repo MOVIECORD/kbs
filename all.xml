@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 00:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 02:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 김영광+이성경, “복수가 아니라... 사랑이라 말해요” 제작발표회 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250921</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250921</guid>
+            <pubDate>Wed, 22 Feb 2023 02:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250921">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222081553_244faad0cd87792f07dc406837687480.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250921">[현장] 김영광+이성경, “복수가 아니라... 사랑이라 말해요” 제작발표회 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222081553_244faad0cd87792f07dc406837687480.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전도연 "엄마는 국가대표도, 요원도 아니란다!"  넷플릭스 '길복순' 캐릭터들의 정체 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250900</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230217094326_bdbb95ad88fcaf2d66ac01755e0f5692.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미스터리 호텔 생존 게임, '더 타임 호텔' 3월 티빙 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250179</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250179</guid>
-            <pubDate>Fri, 17 Feb 2023 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250179">	<span class="img-box hh">
+            <title><![CDATA["으랏차차 장미란!"  오늘 '유퀴즈온더블럭' 출연 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250913</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250913</guid>
+            <pubDate>Wed, 22 Feb 2023 02:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250913">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230217093723_814f18aa99f892937d1bb774d30172d6.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222080142_a5db32b508b440da0f984f9e30057a81.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250179">미스터리 호텔 생존 게임, '더 타임 호텔' 3월 티빙 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250913">"으랏차차 장미란!"  오늘 '유퀴즈온더블럭' 출연</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230217093723_814f18aa99f892937d1bb774d30172d6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222080142_a5db32b508b440da0f984f9e30057a81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤찬영-방민아-김민석, 하이텐션 수사극 '딜리버리맨' (KBS연예 ─ TVs)]]></title>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249272">티빙 '두발로 티켓팅' 뉴질랜드에서 게임하고, 일하고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230210080641_fcd8bc165e26fb5ce1388f5f3a98d4fa_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오늘의 엠카운트다운" 임창정-세븐틴 부석순 컴백무대 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249201</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249201</guid>
-            <pubDate>Thu, 09 Feb 2023 21:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249201">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209134739_c9334e7cd47fe2f32f889b0ae8c54ecf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249201">"오늘의 엠카운트다운" 임창정-세븐틴 부석순 컴백무대</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209134739_c9334e7cd47fe2f32f889b0ae8c54ecf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두뇌공조 14회] “신하루의 뇌에 위험신호가 울렸다!” (KBS연예 ─ KBS)]]></title>
