@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 20:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 21:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230210080641_fcd8bc165e26fb5ce1388f5f3a98d4fa_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['진짜가 나타났다!' 백진희, 학원가 슈퍼루키 국어강사 오연두 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250151</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250151</guid>
+            <pubDate>Wed, 22 Feb 2023 21:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250151">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230217083541_266f0f613c6bf0dbe723734fef0653fc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250151">'진짜가 나타났다!' 백진희, 학원가 슈퍼루키 국어강사 오연두 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230217083541_266f0f613c6bf0dbe723734fef0653fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[옥탑방의 문제아들] 결혼을 무서워하는 젊은이들? 김미경이 생각하는 ‘결혼 적령기’는 50대! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250964</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=250964</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EB%82%B4%20%EB%88%88%EC%97%90%20%EC%BD%A9%EA%B9%8D%EC%A7%80">일일연속극 내 눈에 콩깍지</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221221031_56a8121b13ecd392a208f9e5d37184a1_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태풍의 신부] “내가 너 살릴게” 치료 권하는 강지섭에 죽음 각오 내비치는 박윤재 “조용히 사라질 수 있게 해줘” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250800</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250800</guid>
-            <pubDate>Tue, 21 Feb 2023 13:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250800">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221215810_5b95b30c70e4899a05e410f7eed9ddc7_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250800">[태풍의 신부] “내가 너 살릴게” 치료 권하는 강지섭에 죽음 각오 내비치는 박윤재 “조용히 사라질 수 있게 해줘”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221215810_5b95b30c70e4899a05e410f7eed9ddc7_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
