@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 12:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 13:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 보컬그룹 포스트맨, 한층 더 성숙한 이별 감성 ♪안녕 신촌]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251150</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251150</guid>
+            <pubDate>Fri, 24 Feb 2023 13:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251150">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224221354_67caf960bbdc2eb4b754ce4047cd2464_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251150">[뮤직뱅크] 보컬그룹 포스트맨, 한층 더 성숙한 이별 감성 ♪안녕 신촌</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224221354_67caf960bbdc2eb4b754ce4047cd2464_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 더보이즈(THE BOYZ), 강렬한 ‘타락 천사’ 퍼포먼스 ♪로어(ROAR)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251146</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251146</guid>
+            <pubDate>Fri, 24 Feb 2023 13:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251146">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224220947_dd6644f5778aa331a4a8211e8005916e_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251146">[뮤직뱅크] 더보이즈(THE BOYZ), 강렬한 ‘타락 천사’ 퍼포먼스 ♪로어(ROAR)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224220947_dd6644f5778aa331a4a8211e8005916e_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 1위의 영광 스테이씨, “스윗(팬클럽) 너무 고맙다” ♪Teddy Bear]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251142</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251142</guid>
+            <pubDate>Fri, 24 Feb 2023 13:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251142">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224220234_28720902e08414a78128c760a84a5365_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251142">[뮤직뱅크] 1위의 영광 스테이씨, “스윗(팬클럽) 너무 고맙다” ♪Teddy Bear</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224220234_28720902e08414a78128c760a84a5365_1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA['편스토랑’ 류수영 "뚝배기를 정말 맛있게 끓이는 방법!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251090</link>
@@ -312,60 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223000047_73c3efc81817e7853ca39001bcf963d9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 결혼한 40대 남성들에게 해주고 싶은 조언! 반드시 정서적 아지트를 만들어라!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250956</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250956</guid>
-            <pubDate>Wed, 22 Feb 2023 15:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250956">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222235423_fb4c5b9792208eb88f103489bcdee794_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250956">[옥탑방의 문제아들] 결혼한 40대 남성들에게 해주고 싶은 조언! 반드시 정서적 아지트를 만들어라!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222235423_fb4c5b9792208eb88f103489bcdee794_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] “귀명창이 명창을 키운다” 김미경 강사가 알려주는 말을 잘 할 수 있는 방법!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250952</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250952</guid>
-            <pubDate>Wed, 22 Feb 2023 15:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250952">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222234406_741c80446877e00fbf4b0e8cff403189_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250952">[옥탑방의 문제아들] “귀명창이 명창을 키운다” 김미경 강사가 알려주는 말을 잘 할 수 있는 방법!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222234406_741c80446877e00fbf4b0e8cff403189_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 일일드라마 '비밀의 여자'  "바람 잘 날 없는 정겨울네 가족"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250764</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250764</guid>
-            <pubDate>Wed, 22 Feb 2023 08:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250764">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221164002_b22f1716de1dfc92c4ffafb1fb33af14.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250764">KBS 일일드라마 '비밀의 여자'  "바람 잘 날 없는 정겨울네 가족"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221164002_b22f1716de1dfc92c4ffafb1fb33af14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
