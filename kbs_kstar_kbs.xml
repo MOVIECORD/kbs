@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 15:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 16:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[걸어서 환장 속으로] 오나미-박민 부부, 발리서 타로점...아이 질문에 ‘다산’ 김지선 임신 꿀팁 전수]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252521</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252521</guid>
+            <pubDate>Sun, 05 Mar 2023 16:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252521">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306001847_d2f17bf4464f84a62a75992ecb49a7cf_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252521">[걸어서 환장 속으로] 오나미-박민 부부, 발리서 타로점...아이 질문에 ‘다산’ 김지선 임신 꿀팁 전수</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306001847_d2f17bf4464f84a62a75992ecb49a7cf_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 오나미 잠투정에 박민, 키스 세례... ‘달달 초과’ 신혼여행]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252517</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305083604_1ef0f4fb5c444977f62fd27a64754d69_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘불후의 명곡’ KBS 공영방송 50주년 특집,  디지털 복원된 故 송해부터 설운도-이찬원 듀엣까지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252433</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252433</guid>
-            <pubDate>Sun, 05 Mar 2023 00:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252433">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305080834_30d0648fb96ee8f4e77e26654baaec15.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252433">‘불후의 명곡’ KBS 공영방송 50주년 특집,  디지털 복원된 故 송해부터 설운도-이찬원 듀엣까지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305080834_30d0648fb96ee8f4e77e26654baaec15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
