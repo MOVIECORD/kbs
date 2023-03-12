@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 10:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 11:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 유튜버 권상혁, 조회수 반등 작전...특전사 출신 박군 출연 “손톱 안 깎아… 멧돼지 눈이라도 파야”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=253461</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253461</guid>
+            <pubDate>Sun, 12 Mar 2023 11:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253461">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230312194550_72097f1db7f50affd6f8c2c6dc760c40_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253461">[사장님 귀는 당나귀 귀] 유튜버 권상혁, 조회수 반등 작전...특전사 출신 박군 출연 “손톱 안 깎아… 멧돼지 눈이라도 파야”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230312194550_72097f1db7f50affd6f8c2c6dc760c40_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘걸어서 환장 속으로’  오나미-박민,  신혼여행지에서 생긴 일]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253451</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311215201_aeec95fafa8f04c5a4b508ca79d98c4b_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] YB 멤버 전원 기립 시킨 무대... 서도밴드 - 탈춤]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=253384</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253384</guid>
-            <pubDate>Sat, 11 Mar 2023 13:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253384">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311214640_6b6cde0cdcc28e69e93c8051385ed1db.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253384">[불후의 명곡] YB 멤버 전원 기립 시킨 무대... 서도밴드 - 탈춤</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311214640_6b6cde0cdcc28e69e93c8051385ed1db.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
