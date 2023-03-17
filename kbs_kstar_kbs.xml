@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 22:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 23:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불후의 명곡'  YB 명곡 다시 부르기... 김진호, 강승윤, UV, 에스페로, 김창연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254252</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254252</guid>
+            <pubDate>Fri, 17 Mar 2023 23:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254252">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317081637_e128dc464abb23553117f2db6e3ed348.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254252">'불후의 명곡'  YB 명곡 다시 부르기... 김진호, 강승윤, UV, 에스페로, 김창연 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317081637_e128dc464abb23553117f2db6e3ed348.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 김준호네, 은우 앞머리 자르기 도전! ‘저 가위를 막아주오’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254340</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=254340</guid>
             <pubDate>Fri, 17 Mar 2023 16:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254340">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254340">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318001315_de00e484d8cad92c6b91447498608a78.PNG" alt="대체 텍스트">
@@ -30,7 +48,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254336</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=254336</guid>
             <pubDate>Fri, 17 Mar 2023 16:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254336">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254336">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318000445_fdaf11d856bb1139551e737ffdf573d1_1.PNG" alt="대체 텍스트">
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317003604_c7e8a3f7b91eeb3994b778d199525eea_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 막둥이 우영이를 지켜라! 세호의 갑작스러운 제안으로 시작된 형들의 대결]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254193</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254193</guid>
-            <pubDate>Thu, 16 Mar 2023 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254193">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317002744_d8d53e9fdcc8d40a3d5cabaab0ddd025_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254193">[홍김동전] 막둥이 우영이를 지켜라! 세호의 갑작스러운 제안으로 시작된 형들의 대결</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317002744_d8d53e9fdcc8d40a3d5cabaab0ddd025_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
