@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 12:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 13:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307152944_11a66dea7aecf1759261c7cc1f0a1c01.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[1박2일] 한창 결혼에 관심 많을 청춘즈 YB! 외로움 극복 방법? “불 켜놓고 외출” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254594</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254594</guid>
+            <pubDate>Sun, 19 Mar 2023 13:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254594">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230319213740_280b6c872269ed06d3721bedeafe7b20_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254594">[1박2일] 한창 결혼에 관심 많을 청춘즈 YB! 외로움 극복 방법? “불 켜놓고 외출”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230319213740_280b6c872269ed06d3721bedeafe7b20_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사장님 귀는 당나귀 귀]  애리조나 그라운드 15년 만에 밟은 김병현, 폭풍 눈물...세탁실에서 잔 사연 공개 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254590</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=254590</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318220110_d9ef1b4ca0e1f1013af97efa62786f1a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘YB키즈’ UV, 美친 흥+센스로 전원 기립 시킨 무대...‘타잔’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254450</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254450</guid>
-            <pubDate>Sat, 18 Mar 2023 13:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254450">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318213155_4e204b4cd543be91eb77c80d34396501_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254450">[불후의 명곡] ‘YB키즈’ UV, 美친 흥+센스로 전원 기립 시킨 무대...‘타잔’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318213155_4e204b4cd543be91eb77c80d34396501_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
