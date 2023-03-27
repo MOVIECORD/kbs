@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBC 일일드라마 '하늘의 인연' "탐욕과 복수의 드라마"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254093</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254093</guid>
+            <pubDate>Mon, 27 Mar 2023 00:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254093">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316110046_9b3113c2aab40ad0ce3fc93557bc4a6a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254093">MBC 일일드라마 '하늘의 인연' "탐욕과 복수의 드라마"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316110046_9b3113c2aab40ad0ce3fc93557bc4a6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN ‘패밀리’ 장혁, "장나라와 네 번째 만남, 찰떡궁합"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255044</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254164">MBN 여행예능 ‘난생처음 우리끼리’ "제주도 해녀입니다."</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316154130_e202698e1c61505fa6f36efdf34258aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '텐트 밖은 유럽' "혹한기 방송?" 폭설 속 설중 캠핑]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254147</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254147</guid>
-            <pubDate>Thu, 16 Mar 2023 07:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254147">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316152350_757ebfefa9b627908d4873d14086790d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254147">tvN '텐트 밖은 유럽' "혹한기 방송?" 폭설 속 설중 캠핑</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316152350_757ebfefa9b627908d4873d14086790d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

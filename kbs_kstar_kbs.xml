@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS  ‘금이야 옥이야’ 명품군단... 최종환-송채환-이응경-김영호-최재원-이윤성-최필립]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254959</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254959</guid>
+            <pubDate>Mon, 27 Mar 2023 00:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254959">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324134221_5cf92fd957f0447f86594e619b502ba9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254959">KBS  ‘금이야 옥이야’ 명품군단... 최종환-송채환-이응경-김영호-최재원-이윤성-최필립</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324134221_5cf92fd957f0447f86594e619b502ba9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[진짜가나타났다 2회!] 악연인가 인연인가 , 폭풍전개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255368</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326103827_e0e2d1b51f6135e598f42d47f2fee15c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 신봉선-한해, 베트남 웨딩 촬영 1순위 여행지 방문...신봉선의 아찔한 부탁?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255271</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255271</guid>
-            <pubDate>Sun, 26 Mar 2023 02:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255271">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326103028_2f3e9c1a0c14f089b9228aac724393ce_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255271">[배틀트립2] 신봉선-한해, 베트남 웨딩 촬영 1순위 여행지 방문...신봉선의 아찔한 부탁?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326103028_2f3e9c1a0c14f089b9228aac724393ce_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
