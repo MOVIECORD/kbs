@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 11:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 12:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[https://entertaincms.kbsmedia.co.kr/admin/login.php]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256115</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256115</guid>
+            <pubDate>Sat, 01 Apr 2023 12:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256115">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401210634_e277e499937260ba89b7fb1acd729f7b_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256115">https://entertaincms.kbsmedia.co.kr/admin/login.php</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401210634_e277e499937260ba89b7fb1acd729f7b_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 김준호네, 첫 소풍 와서 먹는 김밥 맛이 어때?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256111</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331012745_0487488796f02bb894873f4725bac115_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 손만 대면 대박, 금손 작가 - 이슬로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255897</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255897</guid>
-            <pubDate>Thu, 30 Mar 2023 17:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255897">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331012106_99bcd438f8ddbe3d1995a30daa3dbc05_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255897">[노머니 노아트] 손만 대면 대박, 금손 작가 - 이슬로</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331012106_99bcd438f8ddbe3d1995a30daa3dbc05_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
