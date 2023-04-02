@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 11:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 12:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324163750_5d3053630a286b7798310fc4759b3152.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 배용준-박수진 결혼식 연출…비키정에 차태현 “우아한 진상 같다” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256248</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256248</guid>
+            <pubDate>Sun, 02 Apr 2023 12:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256248">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402204959_8f7237cdf50181e0124a3aba0cb36228_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256248">[사장님 귀는 당나귀 귀] 배용준-박수진 결혼식 연출…비키정에 차태현 “우아한 진상 같다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402204959_8f7237cdf50181e0124a3aba0cb36228_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['불후의 명곡 600회 특집 심수봉 편'  ‘백만송이 장미’ 우승 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256225</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=256225</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401214907_374bbab99c657fbe9dc5a0bc22ad6a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 올라운더 걸그룹 NMIXX(엔믹스), 심수봉 명곡 ‘미워요’ 재해석 무대 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256124</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256124</guid>
-            <pubDate>Sat, 01 Apr 2023 13:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256124">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401213046_b869bc3b39a2e28b774ef23b743cff68_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256124">[불후의 명곡] 올라운더 걸그룹 NMIXX(엔믹스), 심수봉 명곡 ‘미워요’ 재해석 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401213046_b869bc3b39a2e28b774ef23b743cff68_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
