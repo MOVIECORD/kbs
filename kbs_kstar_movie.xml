@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 00:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 안재홍 "울렁울렁 울렁대는 농구공을 안고..." (영화 '리바운드')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256862</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256862</guid>
+            <pubDate>Wed, 05 Apr 2023 01:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256862">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405101804_2870ab1bac0376e59e57d79b24869652.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256862">[인터뷰] 안재홍 "울렁울렁 울렁대는 농구공을 안고..." (영화 '리바운드')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405101804_2870ab1bac0376e59e57d79b24869652.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["광대짓, 정치쇼" 김희애-문소리  정치 드라마 '퀸메이커']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256846</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255944">"지하철 성추행범으로 몰리다"  수오 마샤유키 감독 '그래도 내가 하지 않았어' 4월 재개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331090701_6d2dccc44285314c534c2021fdfb3666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '방과 후 전쟁활동' "평범했던 고3, '생존 전쟁' 카운트다운"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255926</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255926</guid>
-            <pubDate>Thu, 30 Mar 2023 23:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255926">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331073735_cb529bd62dab44848f8fef611f28e128.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255926">티빙 '방과 후 전쟁활동' "평범했던 고3, '생존 전쟁' 카운트다운"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331073735_cb529bd62dab44848f8fef611f28e128.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
