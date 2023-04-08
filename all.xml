@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 00:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 01:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스즈메와 소타는 오늘도 문단속 중" 개봉 31일만에 400만 관객 돌파 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257260</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257260</guid>
+            <pubDate>Sat, 08 Apr 2023 01:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257260">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408092825_1afe9dca05ee8bc0d022de68a30826ae_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257260">"스즈메와 소타는 오늘도 문단속 중" 개봉 31일만에 400만 관객 돌파</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408092825_1afe9dca05ee8bc0d022de68a30826ae_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김홍선 감독 “악인의 죽음에 합리적 의심의 여지가 없는지..” (쿠팡플레이 ‘미끼’) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257234</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256882">소피아 로렌의 '해바라기'를 극장에서 본다... 소피아 로렌 특별 상영전 개최</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405105219_4a4b567823c742089f5a264c5c3ee99b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 안재홍 "울렁울렁 울렁대는 농구공을 안고..." (영화 '리바운드') (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256862</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256862</guid>
-            <pubDate>Wed, 05 Apr 2023 01:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256862">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405101804_2870ab1bac0376e59e57d79b24869652.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256862">[인터뷰] 안재홍 "울렁울렁 울렁대는 농구공을 안고..." (영화 '리바운드')</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405101804_2870ab1bac0376e59e57d79b24869652.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SBS ‘낭만닥터 김사부3’ 김민재, "돌담병원 지킴이" (KBS연예 ─ TVs)]]></title>
