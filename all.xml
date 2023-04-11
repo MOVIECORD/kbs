@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 21:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 22:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍종현, "대기업 홍보팀 에이스입니다" 디즈니+ '레이스' 내달 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257693</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257693</guid>
+            <pubDate>Tue, 11 Apr 2023 22:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257693">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411080004_016812ad19911e0b26abc5ad61c3dce4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257693">홍종현, "대기업 홍보팀 에이스입니다" 디즈니+ '레이스' 내달 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411080004_016812ad19911e0b26abc5ad61c3dce4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해리슨 포드 '인디아나 존스: 운명의 다이얼' 메인 에고편 공개... “전설이 운명을 마주하다” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257768</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407075447_fbf4b66ae3f6cb76027d086646a9a78f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임영웅 '아임 히어로 더 파이널', 글로벌 상영 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257073</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257073</guid>
-            <pubDate>Thu, 06 Apr 2023 23:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257073">	<span class="img-box ww">
+            <title><![CDATA[tvN '구미호뎐1938' 이동욱X김소연X김범X류경수, "K-판타지 액션 활극" 포스터 공개 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257513</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257513</guid>
+            <pubDate>Tue, 11 Apr 2023 22:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257513">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407073643_13e0a1af93b29f983b92b72dd4aca716.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410100349_ce7c879c86241863567b188972ac02c3.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257073">임영웅 '아임 히어로 더 파이널', 글로벌 상영</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257513"> tvN '구미호뎐1938' 이동욱X김소연X김범X류경수, "K-판타지 액션 활극" 포스터 공개</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407073643_13e0a1af93b29f983b92b72dd4aca716.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410100349_ce7c879c86241863567b188972ac02c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["볼프강 아마데우스 모차르트!"  tvN 벌거벗은 세계사, '모차르트의 이중생활' (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403132633_f373202be507481ce9f1c67e413a3a43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SBS ‘낭만닥터 김사부3’ 이성경, ‘차쌤의 귀환' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256372</guid>
-            <pubDate>Tue, 04 Apr 2023 21:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256372">	<span class="img-box hh">
+            <title><![CDATA['어쩌다 마주친, 그대' 서지혜X이원정,  문학소녀와 음악소년의 만남 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257773</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257773</guid>
+            <pubDate>Tue, 11 Apr 2023 22:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257773">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403084605_da45249802a1ba58a7264ef2042e4c19.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411161458_77ecc562b050c81070f47c2dd049e31b.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256372">SBS ‘낭만닥터 김사부3’ 이성경, ‘차쌤의 귀환'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257773">'어쩌다 마주친, 그대' 서지혜X이원정,  문학소녀와 음악소년의 만남</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403084605_da45249802a1ba58a7264ef2042e4c19.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411161458_77ecc562b050c81070f47c2dd049e31b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오아시스] “말도 안 돼…” 3년 만에 살아 돌아온 장동윤과 눈물의 재회 나누는 설인아 (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4">월화드라마 오아시스</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411003000_1f3e823b3ca92efd32ac789a7fb07802_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오아시스] 도주 중 총 맞고 바다에 빠진 장동윤과 죄책감+안도감 동시에 느끼는 추영우 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257629</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257629</guid>
-            <pubDate>Mon, 10 Apr 2023 16:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257629">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411002822_1cfa869b92f3c4d32891a90be21a1f8a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257629">[오아시스] 도주 중 총 맞고 바다에 빠진 장동윤과 죄책감+안도감 동시에 느끼는 추영우</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4">월화드라마 오아시스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411002822_1cfa869b92f3c4d32891a90be21a1f8a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
