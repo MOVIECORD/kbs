@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 20:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 21:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["세상에서 가장 달콤한 전쟁" 티빙 '더 디저트'...  디저트 서바이벌 리얼리티! (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259069</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259069</guid>
+            <pubDate>Thu, 20 Apr 2023 21:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259069">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420084732_634d251e4854a5a62f70922d1189501c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259069">"세상에서 가장 달콤한 전쟁" 티빙 '더 디저트'...  디저트 서바이벌 리얼리티!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420084732_634d251e4854a5a62f70922d1189501c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널, 파라마운트+ 타고 글로벌 유통... '운수 오진 날', '우씨왕후' (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259142</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258094">"만달로리안 다음엔, 아소카!" 디즈니플러스 '아소카' 여름 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413083154_1a7d4bb7186d3e7bdfc3caa13bb549ea_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["김지운 감독+송강호, 손잡고 칸으로" 신작 <거미집> 칸 영화제 초청 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258240</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258240</guid>
-            <pubDate>Fri, 14 Apr 2023 00:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258240">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414081932_74172697284d5528267f1acf6693968b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258240">"김지운 감독+송강호, 손잡고 칸으로" 신작 &lt;거미집&gt; 칸 영화제 초청</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414081932_74172697284d5528267f1acf6693968b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['텐트 밖은 유럽 -스페인' "우리는 프리힐리아나로 간다" (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412134818_991f93f0419bd6d039ab5692f96a171c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘편스토랑’ 박솔미, "우아하게~ 공주처럼" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259155</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259155</guid>
+            <pubDate>Thu, 20 Apr 2023 21:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259155">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162832_9fef411634f6ac14d22e64541ab368bc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259155">‘편스토랑’ 박솔미, "우아하게~ 공주처럼" </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162832_9fef411634f6ac14d22e64541ab368bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[노머니 노아트] 세상에 이렇게 귀여운 호랑이는 없었다? 호랑이로 표현한 염원 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259196</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=259196</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419231656_92b3ca8641bb3f916c2f68037992319e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['옥탑방의 문제아들' 오윤아 , "아들 이야기는 언제나 감동입니다" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258974</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258974</guid>
-            <pubDate>Wed, 19 Apr 2023 11:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258974">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419195008_81a576317c2e28cc10de514a45fdc888_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258974">'옥탑방의 문제아들' 오윤아 , "아들 이야기는 언제나 감동입니다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419195008_81a576317c2e28cc10de514a45fdc888_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
