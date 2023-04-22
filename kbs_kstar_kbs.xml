@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 22:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 23:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['역사저널 그날' 자의 반 타의 반 김종필, "영원한 2인자, JP"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259297</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259297</guid>
+            <pubDate>Sat, 22 Apr 2023 23:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259297">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421104439_9c7988128e7b5d86aaf90b4db6b68503.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259297">'역사저널 그날' 자의 반 타의 반 김종필, "영원한 2인자, JP"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%AD%EC%82%AC%EC%A0%80%EB%84%90%20%EA%B7%B8%EB%82%A0">역사저널 그날</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421104439_9c7988128e7b5d86aaf90b4db6b68503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이슈 PICK 쌤과 함께',  "코끼리 옮기기 -  국민연금의 미래는?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259303</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421235129_0ad693c5bedb7f11da660e70edac9234_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 찐건나블리네, 비행기 타고 꿈과 환상의 나라 입성★]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259347</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259347</guid>
-            <pubDate>Fri, 21 Apr 2023 15:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259347">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421234110_9740daa7cbfd68af15f07c23649ad0d1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259347">[슈퍼맨이 돌아왔다] 찐건나블리네, 비행기 타고 꿈과 환상의 나라 입성★</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421234110_9740daa7cbfd68af15f07c23649ad0d1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
