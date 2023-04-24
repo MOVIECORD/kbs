@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 12:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 13:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416165836_81ef25ae5f40de4e7bfa85f66b8bc9f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[금이야 옥이야] 일진에 둘러싸인 김시은 구해주는 김영호 “어린 여학생이나 괴롭히고, 너희들 뭐냐!” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259636</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259636</guid>
+            <pubDate>Mon, 24 Apr 2023 13:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259636">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230424213924_29c9e209efc334d77782dd2c0e076a62_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259636">[금이야 옥이야] 일진에 둘러싸인 김시은 구해주는 김영호 “어린 여학생이나 괴롭히고, 너희들 뭐냐!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230424213924_29c9e209efc334d77782dd2c0e076a62_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[비밀의 여자] “제 애인이에요” 예고 없이 훅 들어오는 최윤영 유혹에 속절없이 끌려가는 한기웅 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259631</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259631</guid>
+            <pubDate>Mon, 24 Apr 2023 13:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259631">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230424211418_bb1c2d47b74fa2e09066aea9f318eafd_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259631">[비밀의 여자] “제 애인이에요” 예고 없이 훅 들어오는 최윤영 유혹에 속절없이 끌려가는 한기웅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230424211418_bb1c2d47b74fa2e09066aea9f318eafd_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[비밀의 여자] 최윤영 안부 챙기는 한기웅에 신경 곤두서는 이채영 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259626</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=259626</guid>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423203659_4b01287311f9215495deb2c1954d3486.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] 김수미, 방송계 양아들 장동민 호적서 팠다...최애는 탁재훈 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259505</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259505</guid>
-            <pubDate>Sun, 23 Apr 2023 12:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259505">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423200341_26f196642aac088538d23c4a6402417d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259505">[사장님 귀는 당나귀 귀] 김수미, 방송계 양아들 장동민 호적서 팠다...최애는 탁재훈</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423200341_26f196642aac088538d23c4a6402417d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] ‘52년 차 대배우’ 김수미, 뮤지컬 ‘친정엄마’ 연습 장면 공개...매번 달라지는 맛깔나는 애드리브 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259501</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259501</guid>
-            <pubDate>Sun, 23 Apr 2023 11:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259501">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423195628_e11b687b0f98b96612dd672e3b7e0d96_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259501">[사장님 귀는 당나귀 귀] ‘52년 차 대배우’ 김수미, 뮤지컬 ‘친정엄마’ 연습 장면 공개...매번 달라지는 맛깔나는 애드리브</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423195628_e11b687b0f98b96612dd672e3b7e0d96_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
