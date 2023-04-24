@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 23:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 00:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['개훌륭' 믹스견 봄이의 사연, "사람이 무서워요"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259222</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259222</guid>
+            <pubDate>Mon, 24 Apr 2023 00:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259222">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421081139_5bcecf39b8f4126d228700150f426470.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259222">'개훌륭' 믹스견 봄이의 사연, "사람이 무서워요"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421081139_5bcecf39b8f4126d228700150f426470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 새 드라마 '순정복서' 포스터 공개... "주먹이 운다"  이상엽-김소혜 주연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259160</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423094151_b3b93b559f4b3049d8f42e84558fc150_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 혼자 ‘밀면’ 선택한 주학년...“혼자 왔으니 다 내 거” 부산 만두&편육 먹방!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259480</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259480</guid>
-            <pubDate>Sun, 23 Apr 2023 00:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259480">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423092339_03d446e746c4d1d2862d1a74755bfe03_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259480">[배틀트립2] 혼자 ‘밀면’ 선택한 주학년...“혼자 왔으니 다 내 거” 부산 만두&amp;편육 먹방!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423092339_03d446e746c4d1d2862d1a74755bfe03_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
