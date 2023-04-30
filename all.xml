@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 13:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 14:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421075228_757b1aeeadfb654a367ee0630ea5782e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진짜가 나타났다] “진짜가 아니라니?” 가족들 추궁에 안재현...“아이 태명이 진짜” 임기응변 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260530</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260530</guid>
+            <pubDate>Sun, 30 Apr 2023 14:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260530">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230430223411_42f6c92ec39c311233c288d5eb32ea2f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260530">[진짜가 나타났다] “진짜가 아니라니?” 가족들 추궁에 안재현...“아이 태명이 진짜” 임기응변</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230430223411_42f6c92ec39c311233c288d5eb32ea2f_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1박2일] 시작부터 진수성찬을 주는 제작진에 멤버들 의심의 눈초리...결국 나타난 ‘맨인블랙’에 혼비백산 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260526</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=260526</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429234554_008ee30f22844336eca879cf6241e837_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들 2] ‘성괴’ 외모 악플에 김수찬 마상 “코 밖에 안 했는데...” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260391</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260391</guid>
-            <pubDate>Sat, 29 Apr 2023 15:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260391">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429233857_df33fa7a9482c4e6f5f6d83dcda4f1b2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260391">[살림하는 남자들 2] ‘성괴’ 외모 악플에 김수찬 마상 “코 밖에 안 했는데...”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429233857_df33fa7a9482c4e6f5f6d83dcda4f1b2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
