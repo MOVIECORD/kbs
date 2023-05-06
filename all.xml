@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 23:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 00:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '사이렌: 불의 섬', 명예를 걸고 살아남아라!... "경찰, 소방, 경호, 스턴트, 군인, 운동선수" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261357</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261357</guid>
+            <pubDate>Sat, 06 May 2023 00:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261357">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506082148_6f15fff26a247ef39911864481934232.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261357">넷플릭스 '사이렌: 불의 섬', 명예를 걸고 살아남아라!... "경찰, 소방, 경호, 스턴트, 군인, 운동선수"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506082148_6f15fff26a247ef39911864481934232.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ '레이스'  김루리 작가 “‘소통’에 대해 얘기하고 싶었다” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261230</link>
@@ -332,21 +349,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503074431_2f80ee78f2e2ee98ac0b82f8daab2ca2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[픽사 '엘리멘탈' 칸 영화제 폐막작 선정... "유쾌하고, 가슴 따뜻한 놀라운 작품" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260919</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260919</guid>
-            <pubDate>Tue, 02 May 2023 23:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260919">	<span class="img-box hh">
+            <title><![CDATA[더보이즈 영훈, 드라마 '구미호뎐1938' 특별출연... "삼천갑자 동방삭" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261352</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261352</guid>
+            <pubDate>Sat, 06 May 2023 00:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261352">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503073807_843957602fc8fa323605db20e1bcb82f.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506081404_20fb9f03d01c62f42fe8c1f123dfaf9d.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260919">픽사 '엘리멘탈' 칸 영화제 폐막작 선정... "유쾌하고, 가슴 따뜻한 놀라운 작품" </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261352">더보이즈 영훈, 드라마 '구미호뎐1938' 특별출연... "삼천갑자 동방삭"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503073807_843957602fc8fa323605db20e1bcb82f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506081404_20fb9f03d01c62f42fe8c1f123dfaf9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구미호뎐1938'  1938년으로 소환된 ‘구미호’... "K-판타지 액션 활극" (KBS연예 ─ TVs)]]></title>
@@ -672,21 +689,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426110322_ceb699a2f1c332dafae56571449766d0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[JTBC '나쁜엄마'  안은진,  “가족, 사랑, 코미디 등 많은 것이 담긴 작품" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259937</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259937</guid>
-            <pubDate>Wed, 26 Apr 2023 02:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259937">	<span class="img-box hh">
+            <title><![CDATA[세븐틴, ‘뮤직뱅크’ 1위로 음악방송 3관왕… “긍정적이고 에너지 넘치는 기운 전달되길” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261377</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261377</guid>
+            <pubDate>Sat, 06 May 2023 00:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261377">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426105904_7840501ed367d30cea5833f0a5893820.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506085301_797fcb5a408cc97655927e7bf4b4dd53_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259937">JTBC '나쁜엄마'  안은진,  “가족, 사랑, 코미디 등 많은 것이 담긴 작품"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261377">세븐틴, ‘뮤직뱅크’ 1위로 음악방송 3관왕… “긍정적이고 에너지 넘치는 기운 전달되길”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426105904_7840501ed367d30cea5833f0a5893820.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506085301_797fcb5a408cc97655927e7bf4b4dd53_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['진짜가 나타났다!' 백진희-안재현, 진짜 같은 가짜 부부 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261372</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261372</guid>
+            <pubDate>Sat, 06 May 2023 00:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261372">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506084657_b3c22424ef18cc0b63d3a5f3de54c1a6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261372">'진짜가 나타났다!' 백진희-안재현, 진짜 같은 가짜 부부</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506084657_b3c22424ef18cc0b63d3a5f3de54c1a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수찬, '살림하는 남자들2'  "팬들과 함께~" (KBS연예 ─ KBS)]]></title>
@@ -1011,42 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505040612_3979210bf061ab5dabfbfbe51a870964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 양귀비를 통해 나타내는 자유, 힘든 기억을 위로받는 느낌의 작품! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261185</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261185</guid>
-            <pubDate>Thu, 04 May 2023 20:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261185">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505040217_d484034687a39d4bfeaf854d38c0dfea_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261185">[노머니 노아트] 양귀비를 통해 나타내는 자유, 힘든 기억을 위로받는 느낌의 작품! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505040217_d484034687a39d4bfeaf854d38c0dfea_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 최초의 작품, 작가의 감정을 직접적으로 드러내다? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261181</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261181</guid>
-            <pubDate>Thu, 04 May 2023 19:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261181">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505035749_4e53268441f76aa160009171b01a5059_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261181">[노머니 노아트] 최초의 작품, 작가의 감정을 직접적으로 드러내다? </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505035749_4e53268441f76aa160009171b01a5059_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
