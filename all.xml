@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍사빈 & 송중기, 영화 '화란' 해외용 포스터 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261600</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261600</guid>
+            <pubDate>Mon, 08 May 2023 06:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261600">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508150610_cfc46d3e78bf25ffc0f523eb26ab8549.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261600">홍사빈 &amp; 송중기, 영화 '화란' 해외용 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508150610_cfc46d3e78bf25ffc0f523eb26ab8549.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] “나, 강수연이야!” 고(故) 강수연 1주기 추모전 개막식 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261579</link>
@@ -332,21 +349,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503130513_429f0a386054b6a4f817284ed7961c8e.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘리턴 투 서울’ 내 마음의 안식처는 어디인가 (데이비 추 감독, 2022) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260977</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260977</guid>
-            <pubDate>Wed, 03 May 2023 02:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260977">	<span class="img-box ww">
+            <title><![CDATA[‘닥터 차정숙’ 까칠한 조아람, "일도, 사랑도, 엄정화에게도 당당" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261592</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261592</guid>
+            <pubDate>Mon, 08 May 2023 06:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261592">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503105901_1d8c4a979d83bea35c017d434d989d0e.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508145901_298a7b4c1d26bd57b50a4b1898a527a7.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260977">[리뷰] ‘리턴 투 서울’ 내 마음의 안식처는 어디인가 (데이비 추 감독, 2022)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261592"> ‘닥터 차정숙’ 까칠한 조아람, "일도, 사랑도, 엄정화에게도 당당"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503105901_1d8c4a979d83bea35c017d434d989d0e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508145901_298a7b4c1d26bd57b50a4b1898a527a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN ‘패밀리’ 장혁, 김남희 첫 만남에 멱살잡이 (KBS연예 ─ TVs)]]></title>
@@ -672,21 +689,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428144952_22919a57149d2c4d791cfa792dc5fd67_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 백현, '낭만닥터 김사부3' OST  "헬로우" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260099</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260099</guid>
-            <pubDate>Thu, 27 Apr 2023 23:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260099">	<span class="img-box hh">
+            <title><![CDATA['어쩌다 마주친 그대' 신예 지혜원, 천재소녀 '87년 미숙' 캐스팅 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261585</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261585</guid>
+            <pubDate>Mon, 08 May 2023 06:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261585">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428071935_903406252a6db306a972d4264be260f5.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508144601_f2b15ef1c046d3a38688943d73770c84.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260099">엑소 백현, '낭만닥터 김사부3' OST  "헬로우"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261585">'어쩌다 마주친 그대' 신예 지혜원, 천재소녀 '87년 미숙' 캐스팅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428071935_903406252a6db306a972d4264be260f5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508144601_f2b15ef1c046d3a38688943d73770c84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어쩌다 마주친...' 김동욱, '잔소리대마왕' 국어선생님 (KBS연예 ─ KBS)]]></title>
@@ -1029,24 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507074517_6652227ffbfa4aafdd7b5e97c46fb532_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 히밥, 홍콩 여행서도 아침 운동...“하루 4시간 운동으로 7㎏ 감량” 철저한 자기관리 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261478</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261478</guid>
-            <pubDate>Sun, 07 May 2023 00:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261478">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507085605_3875741dca3d8b9ed14e458fa121e847_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261478">[배틀트립2] 히밥, 홍콩 여행서도 아침 운동...“하루 4시간 운동으로 7㎏ 감량” 철저한 자기관리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507085605_3875741dca3d8b9ed14e458fa121e847_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
