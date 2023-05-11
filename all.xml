@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최민영,  넷플릭스 ‘엑스오, 키티’ 글로벌 프레스 미팅 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262082</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262082</guid>
+            <pubDate>Thu, 11 May 2023 06:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262082">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511143828_6dc7590c3e376a0d7c589ca17880760f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262082">최민영,  넷플릭스 ‘엑스오, 키티’ 글로벌 프레스 미팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511143828_6dc7590c3e376a0d7c589ca17880760f_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정유진,  ‘우리가 사랑했던 모든 것’  "한소연의 재림" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262075</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262075</guid>
+            <pubDate>Thu, 11 May 2023 06:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262075">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511143037_2ee4a09355e42fd083aa2304d0712d70.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262075">정유진,  ‘우리가 사랑했던 모든 것’  "한소연의 재림"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511143037_2ee4a09355e42fd083aa2304d0712d70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[레이스 1,2] 대한민국 직장인  "스펙과 레벨, 그리고, 워라벨" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262070</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262070</guid>
+            <pubDate>Thu, 11 May 2023 06:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262070">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511142704_2232f038d88b5cb65f3bff836ebd7267.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262070">[레이스 1,2] 대한민국 직장인  "스펙과 레벨, 그리고, 워라벨"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511142704_2232f038d88b5cb65f3bff836ebd7267.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[톰 홀랜드 - 아만다 사이프리드 스릴러 ‘크라우디드’, 애플TV+ 6월 공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=262064</link>
@@ -297,55 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230509075404_04e03cc50cb75d4aa6ca82fdbf5a550f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['레이스' 제작발표회, '미생' 이후 10년, 직장인의 소울드라마 탄생 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261619</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261619</guid>
-            <pubDate>Mon, 08 May 2023 08:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261619">	<span class="img-box hh">
+            <title><![CDATA[Mnet '엠카운트다운'  에스파-원어스-이무진 컴백무대 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262096</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262096</guid>
+            <pubDate>Thu, 11 May 2023 06:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262096">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508160300_93df85b496d02a36d887bca0a50f875b.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511145700_5c78fb0262609d49cb32d4bac6188aa1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261619">'레이스' 제작발표회, '미생' 이후 10년, 직장인의 소울드라마 탄생</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262096">Mnet '엠카운트다운'  에스파-원어스-이무진 컴백무대 </a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508160300_93df85b496d02a36d887bca0a50f875b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍사빈 & 송중기, 영화 '화란' 해외용 포스터 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261600</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261600</guid>
-            <pubDate>Mon, 08 May 2023 06:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261600">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508150610_cfc46d3e78bf25ffc0f523eb26ab8549.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261600">홍사빈 &amp; 송중기, 영화 '화란' 해외용 포스터 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508150610_cfc46d3e78bf25ffc0f523eb26ab8549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] “나, 강수연이야!” 고(故) 강수연 1주기 추모전 개막식 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261579</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261579</guid>
-            <pubDate>Mon, 08 May 2023 00:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261579">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508090932_97092326f350b4ce3edc7e6ededdfb0f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261579">[현장] “나, 강수연이야!” 고(故) 강수연 1주기 추모전 개막식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508090932_97092326f350b4ce3edc7e6ededdfb0f.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511145700_5c78fb0262609d49cb32d4bac6188aa1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN '이로운 사기' 박소진, 정신과 전문의 모재인 (KBS연예 ─ TVs)]]></title>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260258">'구미호뎐1938'  ‘반인반호’ 김범, "까칠하고 도도한 마적단 두목"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428152213_90cf5d5e9dac0d2a1ec85be20e4c5a24.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[김사부3] '낭만닥터' 한석규, 끝까지 환자 포기 안 했다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260451</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260451</guid>
-            <pubDate>Sun, 30 Apr 2023 00:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260451">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230430080256_a9785ed1a7e908d1400fa72b371d69cf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260451">[김사부3] '낭만닥터' 한석규, 끝까지 환자 포기 안 했다 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230430080256_a9785ed1a7e908d1400fa72b371d69cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[과학수사대 스모킹 건] 전 애인의 결정적 진술과 국과수의 판정 결과, 혈흔 지문의 주인공은 바로 손 씨! (KBS연예 ─ KBS)]]></title>
