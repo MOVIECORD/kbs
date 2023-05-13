@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 06:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 07:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -961,7 +961,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=262324</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=262324</guid>
             <pubDate>Fri, 12 May 2023 13:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262324">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262324">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512215051_0d5a65067ebb44db9185a6b2d6ae54d6_1.PNG" alt="대체 텍스트">
