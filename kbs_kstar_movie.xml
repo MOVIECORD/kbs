@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 21:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 22:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼진그룹..' 이종필 감독, 웨이브 ‘박하경 여행기’ 찍다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262124</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262124</guid>
+            <pubDate>Sat, 13 May 2023 22:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262124">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511152459_fada8fd59670b13924b8afb5ec5c2725.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262124">'삼진그룹..' 이종필 감독, 웨이브 ‘박하경 여행기’ 찍다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511152459_fada8fd59670b13924b8afb5ec5c2725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘레이스’ 이연희, ‘열혈 직장인’으로 완벽 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=262107</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262006">"변신은 끝나지 않았다!" '트랜스포머: 비스트의 서막' 6월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511074018_ca9e9b53a0a0d05b564eb3c7cd970fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정수정, 영화 ‘거미집’으로 칸 진출]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262000</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262000</guid>
-            <pubDate>Wed, 10 May 2023 23:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262000">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511073238_f6bf956bf2f9ab1f876b71adadf74f50.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262000">정수정, 영화 ‘거미집’으로 칸 진출</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511073238_f6bf956bf2f9ab1f876b71adadf74f50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
