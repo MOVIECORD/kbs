@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 13:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 14:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진짜가 나타났다] 글 모르는 강부자 비밀 알게 된 김혜옥, “어떻게 버티셨어요” 공감]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262575</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262575</guid>
+            <pubDate>Sun, 14 May 2023 14:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262575">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230514225744_86b037fbecd0c32bed5a6dd8475e7037_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262575">[진짜가 나타났다] 글 모르는 강부자 비밀 알게 된 김혜옥, “어떻게 버티셨어요” 공감</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230514225744_86b037fbecd0c32bed5a6dd8475e7037_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1박2일]  딘딘 X 담당VJ 동반 입수...주고받는 배신 속에 싹트는 참된 우정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=262571</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230514075456_61bc22cc5a2552ababa1bd2a4a3bf348_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['역사저널 그날' 각하의 화려한 외출, 레이건을 만나다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262313</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262313</guid>
-            <pubDate>Sat, 13 May 2023 23:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262313">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512113611_f63def6b8122f0dc21238a52347e15ce.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262313">'역사저널 그날' 각하의 화려한 외출, 레이건을 만나다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%AD%EC%82%AC%EC%A0%80%EB%84%90%20%EA%B7%B8%EB%82%A0">역사저널 그날</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512113611_f63def6b8122f0dc21238a52347e15ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
