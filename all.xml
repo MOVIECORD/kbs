@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 10:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 11:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230504083924_145915daa94bcf587c260758a74f3680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] “내가 정답이야 따라와!” 배우+밴드 리허설서 악역 자처하는 김문정 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262543</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262543</guid>
+            <pubDate>Sun, 14 May 2023 11:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262543">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230514194813_cef1490cb3e4692314c83cfd392ccd45_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262543">[사장님 귀는 당나귀 귀] “내가 정답이야 따라와!” 배우+밴드 리허설서 악역 자처하는 김문정</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230514194813_cef1490cb3e4692314c83cfd392ccd45_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['걸어서 환장 속으로’ ‘광산 김씨 패밀리’ 첫째 며느리 vs 예비 둘째 며느리... “파리보다 더 순탄하지 않았다” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=262236</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=262236</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230513211142_acc71c12a0669937cafb574c065f8957_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡]  현재진행형 레전드 로커 김경호, 천상계 고음 종결자 특집 무대 ‘보여줄게’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262447</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262447</guid>
-            <pubDate>Sat, 13 May 2023 12:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262447">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230513210017_d984e22e3164e99bce98ab4bd1b15126_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262447">[불후의 명곡]  현재진행형 레전드 로커 김경호, 천상계 고음 종결자 특집 무대 ‘보여줄게’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230513210017_d984e22e3164e99bce98ab4bd1b15126_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
