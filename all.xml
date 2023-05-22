@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 20:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 21:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230511165003_fd47058d5055d60a349b23bad1b790f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KBS 새 월화드라마 '가슴이 뛴다'.. 옥택연-원지안, 달빛 아래 두 사람 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263697</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263697</guid>
+            <pubDate>Mon, 22 May 2023 21:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263697">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522083610_ff9dd3b5045bbf88a32c34996514af3e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263697">KBS 새 월화드라마 '가슴이 뛴다'.. 옥택연-원지안, 달빛 아래 두 사람</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522083610_ff9dd3b5045bbf88a32c34996514af3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[어쩌다 마주친 그대] 살인 막아내고 자축하던 진기주+김동욱에게 전해진 비보 “사람이 죽었어요” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263829</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=263829</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522080513_f4461b7e76cc0c0891df9215a0bd9c8a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 드라마 '가슴이 뛴다' 원지안, 고등학교 보건교사 '주인해' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263177</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263177</guid>
-            <pubDate>Sun, 21 May 2023 21:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263177">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230518194620_9f381c2c1cb2f4a75594cb13734b47d8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263177">KBS 드라마 '가슴이 뛴다' 원지안, 고등학교 보건교사 '주인해'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230518194620_9f381c2c1cb2f4a75594cb13734b47d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
