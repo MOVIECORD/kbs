@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 20:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 21:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522092032_4510eb5d4379777e22b4229d4c2fa92b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MBC드라마넷 ‘로맨스빌런’ 차선우-하승리 "CC 로맨스" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264245</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264245</guid>
+            <pubDate>Thu, 25 May 2023 21:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264245">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525093756_a5fc9555b8aa94ce3e2f3f5ed4093e97.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264245">MBC드라마넷 ‘로맨스빌런’ 차선우-하승리 "CC 로맨스"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525093756_a5fc9555b8aa94ce3e2f3f5ed4093e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[tvN '이로운 사기' 천우희-윤박, "전과자와 보호관찰관" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264239</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264239</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512095554_34aa180e8d600561c952515a23740326.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘오! 영심이’ 한 지붕 아래 완전체 포스터 공개 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262400</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262400</guid>
-            <pubDate>Mon, 15 May 2023 08:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262400">	<span class="img-box hh">
+            <title><![CDATA[드라마 '가슴이 뛴다' 박강현, 부동산개발 전문가 '신도식' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264215</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264215</guid>
+            <pubDate>Thu, 25 May 2023 21:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264215">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230513071119_fb77bf0ccdd19678b382e94e8750e2a8.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525085714_07fb4665e965c9f163ecb73e03ab1e09.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262400">‘오! 영심이’ 한 지붕 아래 완전체 포스터 공개 </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264215">드라마 '가슴이 뛴다' 박강현, 부동산개발 전문가 '신도식'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230513071119_fb77bf0ccdd19678b382e94e8750e2a8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525085714_07fb4665e965c9f163ecb73e03ab1e09.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노머니 노아트] 최종 결정의 순간 -최고의 작가는 누구?! (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524225028_9a273f60c0f210ff0676625922517f91_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세컨 하우스2' 6월 1일 방송... 최수종과 하희라, 주상욱과 조재윤 돌아온다! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264142</guid>
-            <pubDate>Wed, 24 May 2023 02:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524110238_2c4e55c9d8a734d4d9612d3a0b3158bd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264142">'세컨 하우스2' 6월 1일 방송... 최수종과 하희라, 주상욱과 조재윤 돌아온다!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524110238_2c4e55c9d8a734d4d9612d3a0b3158bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
