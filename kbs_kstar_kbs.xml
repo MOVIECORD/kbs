@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 23:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 00:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세컨 하우스' 시즌2,  "더 강력해진 웃음과 힐링으로 돌아온다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264332</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264332</guid>
+            <pubDate>Fri, 26 May 2023 00:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264332">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526090122_1a26e0acdff536a822df1b07df55477e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264332">'세컨 하우스' 시즌2,  "더 강력해진 웃음과 힐링으로 돌아온다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526090122_1a26e0acdff536a822df1b07df55477e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '가슴이 뛴다' 박강현, 부동산개발 전문가 '신도식']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264215</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230220_c45b47f3b96a270b79bbbb46ef0ab210_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 근육과 종이는 한 장 차이?! 피지컬 파이터 추성훈과 예능 파이터 광희]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264146</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264146</guid>
-            <pubDate>Wed, 24 May 2023 14:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264146">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524225028_9a273f60c0f210ff0676625922517f91_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264146">[옥탑방의 문제아들] 근육과 종이는 한 장 차이?! 피지컬 파이터 추성훈과 예능 파이터 광희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524225028_9a273f60c0f210ff0676625922517f91_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
