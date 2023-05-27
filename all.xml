@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 12:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 13:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264540</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264540</guid>
             <pubDate>Sat, 27 May 2023 08:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264540">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264540">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527161314_f0e37c5a1766cf20a45844b2b4db57e9.png" alt="대체 텍스트">
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230518080327_a2f4e08b1497e53cae3bc518053708f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[불후의 명곡]  연예계 대표 잉꼬부부 김소현&손준호 ‘사랑의 찬가’ 듀엣 무대 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264565</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264565</guid>
+            <pubDate>Sat, 27 May 2023 13:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264565">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527214728_b5bf15fbcf47336c704ec99260835f3c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264565">[불후의 명곡]  연예계 대표 잉꼬부부 김소현&amp;손준호 ‘사랑의 찬가’ 듀엣 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527214728_b5bf15fbcf47336c704ec99260835f3c_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[불후의 명곡]  소통전문가 김창옥 토크콘서트 2부, 가족 고민 사연 솔루션 스타트~ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264561</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264561</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526140334_ff0b17b7fba5fb1bf98991e51d7cb8c5_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다큐ON'  산사(山寺), 봄의 맛 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264356</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264356</guid>
-            <pubDate>Fri, 26 May 2023 01:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264356">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526093624_7a5433a96084f22d7726f72b498b43f6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264356">'다큐ON'  산사(山寺), 봄의 맛</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%98%A8">다큐 온</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526093624_7a5433a96084f22d7726f72b498b43f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
