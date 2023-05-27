@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 22:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 23:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522085307_157df6dd91ffa5c9c922fcff61bcc8af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[종영소감] 유인나 "바람이 분다, 살아야겠다" (ENA 보라! 데보라) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264630</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264630</guid>
+            <pubDate>Sat, 27 May 2023 23:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264630">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528074414_21d65e1ef287e518b5c521c67275dc07.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264630">[종영소감] 유인나 "바람이 분다, 살아야겠다" (ENA 보라! 데보라)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528074414_21d65e1ef287e518b5c521c67275dc07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[tvN '이로운 사기'  김동욱, 특별한 변호사 한무영 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264378</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264378</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516162241_1342739f10e4c6479591358dfaed3f01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JTBC '킹더랜드' 눈부신 커플 이준호-임윤아... '당신을 구원할 사랑의 마법' 포스터 공개 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263291</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263291</guid>
-            <pubDate>Fri, 19 May 2023 21:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263291">	<span class="img-box hh">
+            <title><![CDATA[[진짜가나타났다 19회]  안재현▶백진희 “우리 계약 깹시다” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264638</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264638</guid>
+            <pubDate>Sat, 27 May 2023 23:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264638">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519093055_d44ca97fdb370b83ec459d65c528434f.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528075910_fec4e4419951924b8d89d92657bf9249.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263291">JTBC '킹더랜드' 눈부신 커플 이준호-임윤아... '당신을 구원할 사랑의 마법' 포스터 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264638">[진짜가나타났다 19회]  안재현▶백진희 “우리 계약 깹시다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519093055_d44ca97fdb370b83ec459d65c528434f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528075910_fec4e4419951924b8d89d92657bf9249.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전국노래자랑' 대전광역시 동구... 김연자-진성-정다한-김정호&소명-정연순 특별무대 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527034848_5789168a4744e72c25ffbade585efaba.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 스윗한 면모와 재치까지 두루 갖춘 이석훈의 내레이션 활약 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264446</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264446</guid>
-            <pubDate>Fri, 26 May 2023 19:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264446">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527034109_4f6a4d7943e3ab82225d907de448c58d.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264446">[슈퍼맨이 돌아왔다] 스윗한 면모와 재치까지 두루 갖춘 이석훈의 내레이션 활약</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527034109_4f6a4d7943e3ab82225d907de448c58d.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
