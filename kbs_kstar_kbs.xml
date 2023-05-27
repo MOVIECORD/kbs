@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 00:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 01:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배틀트립2' 홍석천-주호민, '포르투갈' 반전 여행경비]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264468</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264468</guid>
+            <pubDate>Sat, 27 May 2023 01:57:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264468">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527071642_c97d4530370365fc2e85c44f23083bd1_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264468">'배틀트립2' 홍석천-주호민, '포르투갈' 반전 여행경비</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527071642_c97d4530370365fc2e85c44f23083bd1_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['불후의 명곡' 김창옥의 토크콘서트 2부 "뜨거운 감동!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264462</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264462</guid>
             <pubDate>Fri, 26 May 2023 23:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264462">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264462">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527070600_ba2263a8d0511da60eb81f909f86527a.jpg" alt="대체 텍스트">
@@ -30,7 +48,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264221</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264221</guid>
             <pubDate>Fri, 26 May 2023 22:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264221">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264221">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525090419_93ca7aee971f0833ec22090bf3b668c2.jpg" alt="대체 텍스트">
@@ -48,7 +66,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264454</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=264454</guid>
             <pubDate>Fri, 26 May 2023 19:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264454">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264454">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527035458_8da83ffe9b3ce09a4f2b234353b3c51b_1.PNG" alt="대체 텍스트">
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230525085714_07fb4665e965c9f163ecb73e03ab1e09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 최종 결정의 순간 -최고의 작가는 누구?!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264297</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264297</guid>
-            <pubDate>Thu, 25 May 2023 17:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264297">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526013423_9c3af87045f2b105ba58251f67d337cc_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264297">[노머니 노아트] 최종 결정의 순간 -최고의 작가는 누구?! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526013423_9c3af87045f2b105ba58251f67d337cc_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
