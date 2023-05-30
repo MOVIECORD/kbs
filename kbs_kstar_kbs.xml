@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 06:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 07:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세컨 하우스2' 주상욱-조재윤, "시골 빈집 리모델링 프로젝트~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264344</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264344</guid>
+            <pubDate>Tue, 30 May 2023 07:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264344">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526091619_af4b54da831de7966da60efb8f5cbb34.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264344">'세컨 하우스2' 주상욱-조재윤, "시골 빈집 리모델링 프로젝트~"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526091619_af4b54da831de7966da60efb8f5cbb34.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['가슴이 뛴다' 포스터 공개.. 옥택연-원지안, "100년 될 때까지 열지 말랬잖아”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264764</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529081416_48899af75d0a3b71a0c4f04ccfaa3aa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진짜가나타났다 20회] 안재현, 백진희에게 속마음 고백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264732</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264732</guid>
-            <pubDate>Mon, 29 May 2023 00:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264732">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529080848_d0778e820b43e09f6524fbb761946356_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264732">[진짜가나타났다 20회] 안재현, 백진희에게 속마음 고백</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529080848_d0778e820b43e09f6524fbb761946356_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
