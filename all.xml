@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 15:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 16:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530170136_f647698aee089e93256f0660bb703e0b.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[걸어서 환장 속으로] “와이프 사랑한다!” 김연아 남편 고우림, 866m 상공에서 외치는 아내 사랑 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265659</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265659</guid>
+            <pubDate>Sun, 04 Jun 2023 16:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265659">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605000957_5919e8db6efad872f8e8f49bd6ff4dfd_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265659">[걸어서 환장 속으로] “와이프 사랑한다!” 김연아 남편 고우림, 866m 상공에서 외치는 아내 사랑</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605000957_5919e8db6efad872f8e8f49bd6ff4dfd_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[걸어서 환장 속으로] ‘백종원 성대모사’ 기가 막히게 하는 막내 세은, 귀여움 한도 초과 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265655</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=265655</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604091916_094cd17f2f1ce625c0d8c6461bef8cc1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 유세윤-송진우, ‘프라하의 이색 체험’ 비어 스파 도전...맥주에 풍덩 빠지는 진짜 맥주 스파 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265572</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265572</guid>
-            <pubDate>Sun, 04 Jun 2023 00:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265572">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604091346_2fba4fd02ae45f816db25c1375d48f18_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265572">[배틀트립2] 유세윤-송진우, ‘프라하의 이색 체험’ 비어 스파 도전...맥주에 풍덩 빠지는 진짜 맥주 스파</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604091346_2fba4fd02ae45f816db25c1375d48f18_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
