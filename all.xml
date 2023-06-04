@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 13:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 14:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530170136_f647698aee089e93256f0660bb703e0b.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[진짜가 나타났다]  백진희 “집 구하면 이혼하자”....제안 받아들이는 안재현에 아리송 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265631</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265631</guid>
+            <pubDate>Sun, 04 Jun 2023 14:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265631">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604224703_c5f84ed8c90c2d18871430204d8e2204_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265631">[진짜가 나타났다]  백진희 “집 구하면 이혼하자”....제안 받아들이는 안재현에 아리송</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604224703_c5f84ed8c90c2d18871430204d8e2204_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일] ‘개미’ 피하고픈 연정훈, 필사의 몸부림... 쪼쪼댄스로 심사위원 마음 사기 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265627</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265627</guid>
+            <pubDate>Sun, 04 Jun 2023 14:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265627">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604221547_ec644369d3a4e4e65205614c2ae3b779.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265627">[1박2일] ‘개미’ 피하고픈 연정훈, 필사의 몸부림... 쪼쪼댄스로 심사위원 마음 사기</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230604221547_ec644369d3a4e4e65205614c2ae3b779.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1박2일] 지독하게 냉정한 심사 어벤져스에 찐 당황한 랩 장인, 본업 가수 딘딘 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265623</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=265623</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230603222940_8e23f2a8f8ee9b7f00552b257dee967b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진짜가 나타났다]  안재현 “좋아한다” 고백 후 포옹... 백진희 “없던 일로 하자” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265548</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265548</guid>
-            <pubDate>Sat, 03 Jun 2023 14:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265548">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230603222148_34a6b5e026f9e38df04d041fdd2c7aa7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265548">[진짜가 나타났다]  안재현 “좋아한다” 고백 후 포옹... 백진희 “없던 일로 하자”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230603222148_34a6b5e026f9e38df04d041fdd2c7aa7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡]  ‘진성 애제자’ 강조한 이찬원 ‘울 엄마’ 무대로 진성 특집 최종우승 “어머니께 트로피 드리고파” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265544</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265544</guid>
-            <pubDate>Sat, 03 Jun 2023 13:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265544">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230603214158_a4cb37acc1ecb2066f7264c02420479a_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265544">[불후의 명곡]  ‘진성 애제자’ 강조한 이찬원 ‘울 엄마’ 무대로 진성 특집 최종우승 “어머니께 트로피 드리고파”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230603214158_a4cb37acc1ecb2066f7264c02420479a_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
