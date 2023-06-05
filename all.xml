@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529083849_997fab4cf6a46b42bdcec3984a9a85b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 엄정화 “다함께 차정숙” (닥터 차정숙) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265711</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265711</guid>
+            <pubDate>Mon, 05 Jun 2023 05:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265711">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605134230_b3eea68e44ad7f79180cf8bf259b9540.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265711">[인터뷰] 엄정화 “다함께 차정숙” (닥터 차정숙)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605134230_b3eea68e44ad7f79180cf8bf259b9540.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC '톡파원 25시' 체코-대만-이탈리아-캐나다 알찬 랜선 여행 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265512</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=265512</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265079">김소현-황민현, tvN '소용없어 거짓말' 캐스팅... "너의 거짓말이 들려!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531085244_4e65cbd18d82496b46bee3dd31667bf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘행복배틀’ 이엘-진서연-차예련-박효주-우정원 "연기호흡, 좋아요!" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265048</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265048</guid>
-            <pubDate>Tue, 30 May 2023 23:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265048">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531073909_9754d0f65cb81987d28d45c7bbc48973.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265048">‘행복배틀’ 이엘-진서연-차예련-박효주-우정원 "연기호흡, 좋아요!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531073909_9754d0f65cb81987d28d45c7bbc48973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] “와이프 사랑한다!” 김연아 남편 고우림, 866m 상공에서 외치는 아내 사랑 (KBS연예 ─ KBS)]]></title>
