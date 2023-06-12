@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 22:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 23:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차승원, 영화 '전,란' 캐스팅...  조선 선조 임금 된다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266690</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266690</guid>
+            <pubDate>Mon, 12 Jun 2023 23:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266690">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613074934_2ce681a355121c4018ab68a6f48e294e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266690">차승원, 영화 '전,란' 캐스팅...  조선 선조 임금 된다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613074934_2ce681a355121c4018ab68a6f48e294e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['너의 눈을 들여다보면' 미야케 쇼 감독 - 키시이 유키노 배우 내한 행사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266685</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266685</guid>
+            <pubDate>Mon, 12 Jun 2023 23:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266685">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613074149_6c8951cccc440116242b052766aadb7c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266685">'너의 눈을 들여다보면' 미야케 쇼 감독 - 키시이 유키노 배우 내한 행사</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613074149_6c8951cccc440116242b052766aadb7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["만달로리안 봤으면,다음엔..."  디즈니플러스 '아소카' 8월 23일 글로벌 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266608</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266027">"작전명 변경!" 하정우-주지훈," '비공식작전' 들어갑니다" 8월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607075619_fa1d1343d29e23fbefc660fec8cb197f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["뭔가 독특해!" 웨스 앤더슨 신작  '애스터로이드 시티' 포스터 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265825</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265825</guid>
-            <pubDate>Tue, 06 Jun 2023 21:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265825">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606064655_77077d2d4e368cb33a8084c530195aa6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265825">"뭔가 독특해!" 웨스 앤더슨 신작  '애스터로이드 시티' 포스터 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606064655_77077d2d4e368cb33a8084c530195aa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["군산의 역사!" 다큐멘터리 '군산전기' 7월 극장 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265806</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265806</guid>
-            <pubDate>Tue, 06 Jun 2023 21:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265806">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606062220_597ce614aea5ed2a0327afccc542768e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265806"> "군산의 역사!" 다큐멘터리 '군산전기' 7월 극장 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606062220_597ce614aea5ed2a0327afccc542768e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
