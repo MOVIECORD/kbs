@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 00:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["만달로어 봤으면,다음엔..."  디즈니플러스 '아소카' 8월 23일 글로벌 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266608</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266608</guid>
+            <pubDate>Mon, 12 Jun 2023 02:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266608">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612111746_9588173f17170e21572ffa9e952b550b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266608">"만달로어 봤으면,다음엔..."  디즈니플러스 '아소카' 8월 23일 글로벌 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612111746_9588173f17170e21572ffa9e952b550b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스 헴스워스 넷플릭스  '익스트랙션2'  "21분 7초짜리 롱테이크 액션"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266538</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265806"> "군산의 역사!" 다큐멘터리 '군산전기' 7월 극장 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606062220_597ce614aea5ed2a0327afccc542768e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '춘화연애담' 고아성-장률 캐스팅.... 화리공주, "내 남편은 내가 고른다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265869</guid>
-            <pubDate>Tue, 06 Jun 2023 00:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265869">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606081711_351108ebe54ed784f10a0a4e668f59be.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265869">티빙 '춘화연애담' 고아성-장률 캐스팅.... 화리공주, "내 남편은 내가 고른다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606081711_351108ebe54ed784f10a0a4e668f59be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
