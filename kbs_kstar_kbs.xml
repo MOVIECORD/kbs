@@ -4,7 +4,7 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 08:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 09:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -354,7 +354,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=268163</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=268163</guid>
             <pubDate>Thu, 22 Jun 2023 15:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268163">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268163">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230622234952_22fb022652be4db3ede997158e660e0b_1.jpg" alt="대체 텍스트">
