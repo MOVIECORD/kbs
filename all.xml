@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 20:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 21:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어디로 가고 싶으신가요' 시사회 열리다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268478</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268478</guid>
+            <pubDate>Sun, 25 Jun 2023 21:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268478">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625083838_adb2165fef06322c3653a8afd88dd1dc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268478"> '어디로 가고 싶으신가요' 시사회 열리다 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625083838_adb2165fef06322c3653a8afd88dd1dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영탁 단독콘서트 ‘TAK SHOW’ 실황..  CGV 단독개봉 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=268374</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620150038_67b9d57b93d290af51b273ac4888d527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 첫 메디컬시리즈 '중증외상센터' 주지훈-추영우-윤경호-하영-정재광 캐스팅 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267525</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267525</guid>
-            <pubDate>Tue, 20 Jun 2023 00:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267525">	<span class="img-box hh">
+            <title><![CDATA[[현장] ENA '유괴의 날' 윤계상-박성훈-유나, "대본 리딩이 날" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267173</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267173</guid>
+            <pubDate>Sun, 25 Jun 2023 21:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267173">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230619084956_f9ac751e4545b9be4a7855f75a9d6c5e.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615154936_59586e3334ed08a57df74690bb48bb2a.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267525">넷플릭스 첫 메디컬시리즈 '중증외상센터' 주지훈-추영우-윤경호-하영-정재광 캐스팅</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267173">[현장] ENA '유괴의 날' 윤계상-박성훈-유나, "대본 리딩이 날"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230619084956_f9ac751e4545b9be4a7855f75a9d6c5e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615154936_59586e3334ed08a57df74690bb48bb2a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SBS ‘악귀’ 김태리, "귀신보다 더 무서운 것은 사람이에요." (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620074104_4f78452258df50c9d9fc8464ab8cfa59.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MBC '넘버스:빌딩숲의 감시자들' 티저 공개.. 회계사 김명수의 선택은? (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267051</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267051</guid>
-            <pubDate>Mon, 19 Jun 2023 22:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267051">	<span class="img-box ww">
+            <title><![CDATA['가슴이 뛴다' 오늘 첫 방송... "사람도, 뱀파이어도 살기 힘든 세상" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268106</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268106</guid>
+            <pubDate>Sun, 25 Jun 2023 21:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268106">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615085612_d89a8ed8dc667bf0d5e5e76d387dd259.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230622150803_ef1caf8b9187fcda762af6578c9fa61f_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267051">MBC '넘버스:빌딩숲의 감시자들' 티저 공개.. 회계사 김명수의 선택은? </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268106"> '가슴이 뛴다' 오늘 첫 방송... "사람도, 뱀파이어도 살기 힘든 세상"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615085612_d89a8ed8dc667bf0d5e5e76d387dd259.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230622150803_ef1caf8b9187fcda762af6578c9fa61f_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진짜가 나타났다]  “너랑 인사하고 싶었어” 백진희 아이와 인사하는 안재현...눈물 흘리는 백진희 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625080954_32355899d38c51bc9ac141778afdb385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 이탈리아+태국 음식이 만났다... SNS 감성 가득한 대형 카페를 찾은 닉쿤&백호 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268447</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268447</guid>
-            <pubDate>Sat, 24 Jun 2023 23:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268447">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625075223_1129a7f432ab3198630649cb3052640e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268447">[배틀트립2] 이탈리아+태국 음식이 만났다... SNS 감성 가득한 대형 카페를 찾은 닉쿤&amp;백호</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625075223_1129a7f432ab3198630649cb3052640e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
