@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 21:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 22:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621091225_3e2e9b4387b30e369aa61d744c32e320.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[tvN X TVING 프로젝트 O'PENing... "7편의 신선한 단막극" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268274</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268274</guid>
+            <pubDate>Mon, 26 Jun 2023 22:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268274">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230623163846_c4b96f34510233b7ed9633b9f79b5e6a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268274">tvN X TVING 프로젝트 O'PENing... "7편의 신선한 단막극"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230623163846_c4b96f34510233b7ed9633b9f79b5e6a.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['넘버스' 김명수, '회계사 장호우, 굿 스타트' (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=268661</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=268661</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268001">'유퀴즈온더블럭' 콜린 크룩스 주한영국대사부터 배우 이준혁까지 "당신이 모르는 사이에"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621161415_8db5afe690ade2b75ae0b848490c766f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조보아, 9급 공무원 변신.. JTBC 새 수목드라마 ‘이 연애는 불가항력’  8월 방송 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267242</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267242</guid>
-            <pubDate>Tue, 20 Jun 2023 21:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267242">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616063451_79a85207d30c4e9081a3f4bc654a9f51.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267242">조보아, 9급 공무원 변신.. JTBC 새 수목드라마 ‘이 연애는 불가항력’  8월 방송</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616063451_79a85207d30c4e9081a3f4bc654a9f51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가슴이 뛴다] 원지안, 무심코 관 열었다가 100년(-1일) 숙면 중이던 뱀파이어를 깨우다?! (KBS연예 ─ KBS)]]></title>
