@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 00:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가슴이뛴다 1회] 옥택연-원지안, "100년 마이너스 1일의 운명"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268860</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268860</guid>
+            <pubDate>Tue, 27 Jun 2023 00:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268860">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627092132_80bdfa077be974fad4c70c01ef96f79d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268860">[가슴이뛴다 1회] 옥택연-원지안, "100년 마이너스 1일의 운명"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627092132_80bdfa077be974fad4c70c01ef96f79d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[가슴이 뛴다] 원지안, 무심코 관 열었다가 100년(-1일) 숙면 중이던 뱀파이어를 깨우다?!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=268792</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625233227_5482009634c24c0adcb5c02e9ceef9ee_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진짜가 나타났다]  ‘차주영-정의제 연인’ 소식에 안심하는 백진희...안재현, 포옹으로 백진희 위로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268551</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268551</guid>
-            <pubDate>Sun, 25 Jun 2023 15:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268551">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625232013_8b80ee1a3ff3542a26666d7315b9ed9b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268551">[진짜가 나타났다]  ‘차주영-정의제 연인’ 소식에 안심하는 백진희...안재현, 포옹으로 백진희 위로</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230625232013_8b80ee1a3ff3542a26666d7315b9ed9b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
