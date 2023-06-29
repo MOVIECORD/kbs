@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 20:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 21:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["고윤정의 초능력을 기대해" 디즈니플러스 휴먼액션  '무빙'  8월 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=269094</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269094</guid>
+            <pubDate>Thu, 29 Jun 2023 21:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269094">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230629085952_156cb9a411976568ebc21b24afbf6f47.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269094">"고윤정의 초능력을 기대해" 디즈니플러스 휴먼액션  '무빙'  8월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230629085952_156cb9a411976568ebc21b24afbf6f47.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 영화 '더 문' 제작보고회.. "한국 첫 우주인과 함께, 달나라로~" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269107</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626091215_f1b826cbd8fb00aa16c8afd1c92e28fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["친구야, 아무도 믿지 마"  이성민의 김택록이 돌아온다...  '형사록 시즌2' 7월 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268576</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268576</guid>
-            <pubDate>Sun, 25 Jun 2023 23:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268576">	<span class="img-box ww">
+            <title><![CDATA[tvN ‘소용없어 거짓말’ 황민현, 천재 작곡가 김도하... "‘너는 몰라… 나의 진실을" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268839</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268839</guid>
+            <pubDate>Thu, 29 Jun 2023 21:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268839">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626075315_341feedd2106daf72b06fdef722980bd.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627084827_f109ec064889fdfdc297316b7be84558.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268576">"친구야, 아무도 믿지 마"  이성민의 김택록이 돌아온다...  '형사록 시즌2' 7월 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268839">tvN ‘소용없어 거짓말’ 황민현, 천재 작곡가 김도하... "‘너는 몰라… 나의 진실을"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626075315_341feedd2106daf72b06fdef722980bd.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627084827_f109ec064889fdfdc297316b7be84558.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주종혁, JTBC 드라마 ‘비밀은 없어’ 주연 캐스팅... "모두를 사로잡는 스타 예능인 김정헌!" (KBS연예 ─ TVs)]]></title>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267995">JTBC ‘기적의 형제’ 이기우, 옹졸함과 궁색함의 재벌남</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621160533_0a57feaf96047f06f6a95aa274759a2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘기적의 형제’ 포스터 공개...  결핍인간 정우 + 신비소년 배현성 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267978</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267978</guid>
-            <pubDate>Sat, 24 Jun 2023 00:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267978">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621155044_a2f4e08b1497e53cae3bc518053708f7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267978">JTBC ‘기적의 형제’ 포스터 공개...  결핍인간 정우 + 신비소년 배현성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621155044_a2f4e08b1497e53cae3bc518053708f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세컨 하우스2] 이대로 가면…우리가 쓰러진다! 마당발 재윤의 힘 센 지원군 요청! (KBS연예 ─ KBS)]]></title>
