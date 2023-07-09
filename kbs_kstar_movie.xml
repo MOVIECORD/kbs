@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 22:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 23:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '밀수' 박정민의 두 얼굴.. "야누스 장도리"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270138</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270138</guid>
+            <pubDate>Sun, 09 Jul 2023 23:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270138">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706104248_41c7f475a0a07257da21573c560a325f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270138">영화 '밀수' 박정민의 두 얼굴.. "야누스 장도리"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706104248_41c7f475a0a07257da21573c560a325f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비공식작전' 하정우-주지훈, "1987년 레바논 생존 액션"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270021</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269987">'더 문' 우리의 목표는 단 하나, "달에 고립된 우주대원의 무사귀환!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706073036_42f325c27bdb5200a688ff5128720688.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘어디로 가고 싶으신가요’ 당신의 손은 따뜻한가요 (김희정 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269949</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269949</guid>
-            <pubDate>Wed, 05 Jul 2023 09:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269949">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705170901_e9903663b83cf17acb67649832d4f799.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269949">[리뷰] ‘어디로 가고 싶으신가요’ 당신의 손은 따뜻한가요 (김희정 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705170901_e9903663b83cf17acb67649832d4f799.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
