@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 00:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왓챠, 2023 부천국제영화제 ‘왓챠상’... '과화만사성', '정동', '만분의 일초' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270694</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270694</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270694">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710093147_f7276e08e4be8ba1f322b570dd270de3_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270694">왓챠, 2023 부천국제영화제 ‘왓챠상’... '과화만사성', '정동', '만분의 일초'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710093147_f7276e08e4be8ba1f322b570dd270de3_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["오펜하이머의 시간이 온다" 포스터 공개.. 8월 15일 개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270655</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710082014_5e933a42f24a2dc3c0e34d329e3515bf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270655">"오펜하이머의 시간이 온다" 포스터 공개.. 8월 15일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710082014_5e933a42f24a2dc3c0e34d329e3515bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '밀수' 박정민의 두 얼굴.. "야누스 장도리" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270138</link>
@@ -23,6 +57,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270138">영화 '밀수' 박정민의 두 얼굴.. "야누스 장도리"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706104248_41c7f475a0a07257da21573c560a325f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["군무이탈체포조의 이야기는 끝나지 않았다" 넷플릭스 'D.P' 시즌2 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270649</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270649</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270649">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710080957_3c6b1e619ce7a545cce080b46a91fdd6.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270649">"군무이탈체포조의 이야기는 끝나지 않았다" 넷플릭스 'D.P' 시즌2 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710080957_3c6b1e619ce7a545cce080b46a91fdd6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['비공식작전' 하정우-주지훈, "1987년 레바논 생존 액션" (KBS연예 ─ 영화)]]></title>
@@ -297,55 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706075709_d83484d976204632b7477351515ef0d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["TXT, 생애 첫 월드투어" '투모로우바이투게더: 날씨를 잃어버렸어' 디즈니플러스 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269999</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269999</guid>
-            <pubDate>Wed, 05 Jul 2023 23:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269999">	<span class="img-box hh">
+            <title><![CDATA[‘남남’ 웹툰 원작자 정영롱 작가, “전혜진-최수영, 캐릭터 싱크로율 100% 초과” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=269914</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269914</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269914">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706074554_59792972b8ff3f684d1d0cdc43fe3326.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705153644_6969eeae761bd91b804cca3489626e25.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269999">"TXT, 생애 첫 월드투어" '투모로우바이투게더: 날씨를 잃어버렸어' 디즈니플러스 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269914">‘남남’ 웹툰 원작자 정영롱 작가, “전혜진-최수영, 캐릭터 싱크로율 100% 초과”</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706074554_59792972b8ff3f684d1d0cdc43fe3326.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705153644_6969eeae761bd91b804cca3489626e25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빛나는 샤이니의 15년, "다큐로, 극장에서 본다".. 'My SHINee World' 9월 개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269992</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269992</guid>
-            <pubDate>Wed, 05 Jul 2023 23:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269992">	<span class="img-box hh">
+            <title><![CDATA[‘마당이 있는 집’ 김진영 작가, “원작소설과 드라마, 또 다른 재미" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270675</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270675</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270675">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706073611_01746289c44bc6668ee18631ddef27e2.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710085553_54130ca74d38727cbb497514f0418a8e.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269992">빛나는 샤이니의 15년, "다큐로, 극장에서 본다".. 'My SHINee World' 9월 개봉</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270675">‘마당이 있는 집’ 김진영 작가, “원작소설과 드라마, 또 다른 재미"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706073611_01746289c44bc6668ee18631ddef27e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 문' 우리의 목표는 단 하나, "달에 고립된 우주대원의 무사귀환!" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269987</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269987</guid>
-            <pubDate>Wed, 05 Jul 2023 23:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269987">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706073036_42f325c27bdb5200a688ff5128720688.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269987">'더 문' 우리의 목표는 단 하나, "달에 고립된 우주대원의 무사귀환!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706073036_42f325c27bdb5200a688ff5128720688.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710085553_54130ca74d38727cbb497514f0418a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['톡파원 25시' 마카오 출장 톡파원 깜짝변신 "알짜배기 액티비티 투어" (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705112946_88e645182f5b68a5e958d8e893a13c34.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[현장] SLL의 경쟁력은 대중성.. “부부의세계->재벌집막내->차정숙-> 다음 작품은 □□□...” (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269856</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269856</guid>
-            <pubDate>Wed, 05 Jul 2023 00:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269856">	<span class="img-box hh">
+            <title><![CDATA['가슴이 뛴다' 옥택연의 설렘, ‘눈물 뚝뚝’ 원지안 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270668</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270668</guid>
+            <pubDate>Mon, 10 Jul 2023 00:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270668">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705084336_3fa29546e0fb89859b48be4e434a9bc9.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710084115_45f22a8542dbb57eba8639cefd815785.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269856">[현장] SLL의 경쟁력은 대중성.. “부부의세계-&gt;재벌집막내-&gt;차정숙-&gt; 다음 작품은 □□□...”</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270668">'가슴이 뛴다' 옥택연의 설렘, ‘눈물 뚝뚝’ 원지안</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705084336_3fa29546e0fb89859b48be4e434a9bc9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ENA ‘오랫동안 당신을 기다렸습니다’ 대본리딩 현장... 나인우-김지은-권율 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269544</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269544</guid>
-            <pubDate>Tue, 04 Jul 2023 22:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269544">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703092252_bad5142dc08c88aabc9b3c856ce3dfe3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269544"> ENA ‘오랫동안 당신을 기다렸습니다’ 대본리딩 현장... 나인우-김지은-권율 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703092252_bad5142dc08c88aabc9b3c856ce3dfe3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710084115_45f22a8542dbb57eba8639cefd815785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월의 드라마 '순정복서'... "사라진 이권숙을 찾습니다" (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230709095917_505877b04766c21f4648fda4fea96932_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2]  ‘제슐랭(?)=제천시 인증 맛집’ 찾은 조준호&조준현 형제의 첫 끼! ‘오징어더덕구이’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270542</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270542</guid>
-            <pubDate>Sun, 09 Jul 2023 02:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270542">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230709094948_36d47872587f1a199ee612622ebb57b9_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270542">[배틀트립2]  ‘제슐랭(?)=제천시 인증 맛집’ 찾은 조준호&amp;조준현 형제의 첫 끼! ‘오징어더덕구이’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230709094948_36d47872587f1a199ee612622ebb57b9_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
