@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 22:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 23:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정빈, KBS 새 일일드라마 '우아한 제국' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270934</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270934</guid>
+            <pubDate>Wed, 12 Jul 2023 23:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270934">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711142705_560f6e20b84af7ec67d8569669ba5db0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270934">이정빈, KBS 새 일일드라마 '우아한 제국' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711142705_560f6e20b84af7ec67d8569669ba5db0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[과학수사대 스모킹 건] 14년 만에 시신으로 발견된 신명호?! 피할 수 없었던 범죄자의 비참한 최후!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271183</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711213114_bf3ddf6400bf8a82db81053245b73e63_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[비밀의 여자] 수술 순서 바꿔 이채영 엄마 죽게 만든 이종원, 완전 범죄 이루고 YJ그룹 회장 등극]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271033</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271033</guid>
-            <pubDate>Tue, 11 Jul 2023 12:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271033">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711210913_c97697cee21941bbb9a1dd82f9d16d85_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271033">[비밀의 여자] 수술 순서 바꿔 이채영 엄마 죽게 만든 이종원, 완전 범죄 이루고 YJ그룹 회장 등극</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711210913_c97697cee21941bbb9a1dd82f9d16d85_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
