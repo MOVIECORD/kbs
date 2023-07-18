@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 13:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 14:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230712094246_924fdbbe324cf1620308405bdf06cd22_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가슴이 뛴다] 뱀파이어 능력 사용해 윤소희 구한 옥택연, 초인적 능력 목격 후 옥택연 정체 의심하는 박강현 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272043</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272043</guid>
+            <pubDate>Tue, 18 Jul 2023 14:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272043">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230718230201_26ebab1c2a4404ce8fb516745f667eb1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272043">[가슴이 뛴다] 뱀파이어 능력 사용해 윤소희 구한 옥택연, 초인적 능력 목격 후 옥택연 정체 의심하는 박강현</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230718230201_26ebab1c2a4404ce8fb516745f667eb1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[금이야 옥이야] “저 이 결혼 못해요” 가족들에게 김시후와 파혼 선언하는 윤다영 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272037</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272037</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717220911_ecbca19fcec2dc8e4da8a6a43f3b0c7d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[금이야 옥이야] 우연히 동부자 대화 엿듣게 된 윤다영 “방금 내가 들은 얘기 다 사실이에요?” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271883</guid>
-            <pubDate>Mon, 17 Jul 2023 13:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271883">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717220629_96b752e0dd639cd8b6c1de8c60fdefd8_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271883">[금이야 옥이야] 우연히 동부자 대화 엿듣게 된 윤다영 “방금 내가 들은 얘기 다 사실이에요?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717220629_96b752e0dd639cd8b6c1de8c60fdefd8_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
