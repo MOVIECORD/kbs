@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 22:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 23:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K드라마 '마당이 있는 집' '넘버스',  글로벌 인기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272084</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272084</guid>
+            <pubDate>Wed, 19 Jul 2023 23:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272084">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230719100737_97ef1aa5005f6346ede4d956b915236d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272084"> K드라마 '마당이 있는 집' '넘버스',  글로벌 인기 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230719100737_97ef1aa5005f6346ede4d956b915236d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무빙' 한효주 초능력 엘리트요원...  “여자 ‘존 윅’ 같다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271354</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271567">조여정-정성일, 영화  '인터뷰' 캐스팅... "사회부 기자와 연쇄살인범"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715074140_714f74e07da3eb405249680f395ab43d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '무빙' 류승룡-한효주-조인성 "우리는 '초능력' 안기부 요원이다!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271329</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271329</guid>
-            <pubDate>Fri, 14 Jul 2023 16:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271329">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714085621_17301d4e4818070fab37896fd72954e8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271329">디즈니+ '무빙' 류승룡-한효주-조인성 "우리는 '초능력' 안기부 요원이다!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714085621_17301d4e4818070fab37896fd72954e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
