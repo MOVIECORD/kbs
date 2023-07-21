@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 13:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 14:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -689,6 +689,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230716174029_86c67fd5c6d5e6b4b433c9bea96ca160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[신상출시 편스토랑] ※주목※ 컵라면으로 만드는 류수영의 초간단 김치전 레시피! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272805</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272805</guid>
+            <pubDate>Fri, 21 Jul 2023 14:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272805">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721225736_3ba577b6536a3c9a3d83a1616e12c638_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272805">[신상출시 편스토랑] ※주목※ 컵라면으로 만드는 류수영의 초간단 김치전 레시피!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721225736_3ba577b6536a3c9a3d83a1616e12c638_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 잊지 못할 이정현 부부의 결혼식! 아름다운 신부 하객석★ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272801</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272801</guid>
+            <pubDate>Fri, 21 Jul 2023 14:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272801">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721225421_a14ea1749a87be0636620e76e55a369b_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272801">[신상출시 편스토랑] 잊지 못할 이정현 부부의 결혼식! 아름다운 신부 하객석★</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721225421_a14ea1749a87be0636620e76e55a369b_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[[뮤직뱅크] 제로베이스원, 끝이 있기에 더 아름다운 청량한 첫걸음 ♪In Bloom (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272797</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272797</guid>
@@ -1011,41 +1047,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720165821_eeb7dd261165aa51a8b2b9a6dbec91b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS2 일일드라마 ‘우아한 제국’ 대본리딩 현장...  김진우, 한지완, 강율, 손성윤 "첫 만남부터 스파크~" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271499</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271499</guid>
-            <pubDate>Thu, 20 Jul 2023 08:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271499">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714135704_45e8de5b592cc0fd868a9e27628d4cd2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271499">KBS2 일일드라마 ‘우아한 제국’ 대본리딩 현장...  김진우, 한지완, 강율, 손성윤 "첫 만남부터 스파크~"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A0%9C%EA%B5%AD">일일드라마 우아한 제국</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714135704_45e8de5b592cc0fd868a9e27628d4cd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세컨 하우스2] 주상욱X조재윤, 용현리 스타돼지 '콩순이' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272277</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272277</guid>
-            <pubDate>Thu, 20 Jul 2023 06:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272277">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720143328_f2ccbe4ba32158fb26a2e86ae57df263.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272277">[세컨 하우스2] 주상욱X조재윤, 용현리 스타돼지 '콩순이'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720143328_f2ccbe4ba32158fb26a2e86ae57df263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
