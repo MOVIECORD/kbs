@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 14:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720133104_0c74c1eb8fb60c29c42e344ca205c4c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[홍김동전] 홍김스카우트 조직도 완성! 얘가 대장이라고? 야외 캠핑 특집 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273437</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273437</guid>
+            <pubDate>Thu, 27 Jul 2023 15:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273437">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727235217_28e2c2802c103a702944b08688373ec1_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273437">[홍김동전] 홍김스카우트 조직도 완성! 얘가 대장이라고? 야외 캠핑 특집</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727235217_28e2c2802c103a702944b08688373ec1_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 인사이트] 정전 70주년 기획 ‘판문점’... 정전회담부터 컬러로 만나는 공동경비구역 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273390</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273390</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725230049_680b653d02a27f8848f894ab2881516c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] “혼자 지내는 준범 외로울 듯” 문센 동기들에게 둘째 고민 털어놓는 제이쓴 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273245</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273245</guid>
-            <pubDate>Tue, 25 Jul 2023 14:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273245">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725225841_b5e38be7c92409616436c93d735c9fc9.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273245">[슈퍼맨이 돌아왔다] “혼자 지내는 준범 외로울 듯” 문센 동기들에게 둘째 고민 털어놓는 제이쓴</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725225841_b5e38be7c92409616436c93d735c9fc9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
