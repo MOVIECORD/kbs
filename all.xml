@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 14:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 15:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273416</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273416</guid>
             <pubDate>Thu, 27 Jul 2023 22:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273416">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273416">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727161417_362f3ec7b0c6edd56d09adcf88d81c6e.jpg" alt="대체 텍스트">
@@ -369,7 +369,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273410</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273410</guid>
             <pubDate>Thu, 27 Jul 2023 08:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273410">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273410">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727160835_0069ab5f1136bfdc9baaa486536acfe5.jpg" alt="대체 텍스트">
@@ -386,7 +386,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272978</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272978</guid>
             <pubDate>Wed, 26 Jul 2023 21:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272978">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272978">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230723085804_eb5423b671508b21cde6ff852172057e.jpg" alt="대체 텍스트">
@@ -403,7 +403,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272726</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272726</guid>
             <pubDate>Wed, 26 Jul 2023 05:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272726">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272726">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721112802_b6f1c44717d1eaffda0f1e9a8230a773.png" alt="대체 텍스트">
@@ -420,7 +420,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272733</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272733</guid>
             <pubDate>Wed, 26 Jul 2023 21:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272733">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272733">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721113214_6cb8cd248b1be555527451d031819739.jpg" alt="대체 텍스트">
@@ -437,7 +437,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272692</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272692</guid>
             <pubDate>Tue, 25 Jul 2023 21:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272692">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272692">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721094059_16393b98a41875c799d9f834ac849172.jpg" alt="대체 텍스트">
@@ -454,7 +454,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272415</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272415</guid>
             <pubDate>Tue, 25 Jul 2023 12:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272415">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272415">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720112118_6fa54d6770cb1f0bab534e7a223fcf73.jpg" alt="대체 텍스트">
@@ -471,7 +471,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272720</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272720</guid>
             <pubDate>Mon, 24 Jul 2023 21:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272720">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272720">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721112309_c61c9c0314d2e208587c7a22cd1307e8.jpg" alt="대체 텍스트">
@@ -488,7 +488,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272545</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272545</guid>
             <pubDate>Mon, 24 Jul 2023 21:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272545">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272545">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720142814_f85c2d1aa49b1c44b1eaeb6ff1d156e5.jpg" alt="대체 텍스트">
@@ -505,7 +505,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272534</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=272534</guid>
             <pubDate>Sun, 23 Jul 2023 21:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272534">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272534">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720141818_a54259e93c875934a00ddb80d13c14fa.png" alt="대체 텍스트">
@@ -686,6 +686,78 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272708">ENA ‘오랫동안 당신을 기다렸습니다’ 형사 나인우, "순박美 지우고  남성美 폭발"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721111232_57063cc9808b922fa569e3770d76e686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 요리 초보 학생들을 위해 생애 첫 요리교실을 오픈한 류수영! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273650</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273650</guid>
+            <pubDate>Fri, 28 Jul 2023 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273650">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728234337_6bc0edd556553a3c88af31bf740909c1_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273650">[신상출시 편스토랑] 요리 초보 학생들을 위해 생애 첫 요리교실을 오픈한 류수영!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728234337_6bc0edd556553a3c88af31bf740909c1_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 근면 성실의 표본! 저축왕 래퍼 한해의 NEW 하우스 최. 초. 공. 개 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273646</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273646</guid>
+            <pubDate>Fri, 28 Jul 2023 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273646">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728233252_b443fee7a713daba7cc5272b8fe68613_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273646">[신상출시 편스토랑] 근면 성실의 표본! 저축왕 래퍼 한해의 NEW 하우스 최. 초. 공. 개 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728233252_b443fee7a713daba7cc5272b8fe68613_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 집밥 여전사 이정현과 낭만닥터의 연애 스토리가 공개됩니다! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273642</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273642</guid>
+            <pubDate>Fri, 28 Jul 2023 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273642">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728232430_1df4a52439337d09e53a2ed5bc87b493_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273642">[신상출시 편스토랑] 집밥 여전사 이정현과 낭만닥터의 연애 스토리가 공개됩니다!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728232430_1df4a52439337d09e53a2ed5bc87b493_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 인턴 한해의 편셰프 도전기! 성실남 한해의 유일한 취미는? (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273638</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273638</guid>
+            <pubDate>Fri, 28 Jul 2023 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273638">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728231245_28c2a33e5145a4eca3d9666e2739f156_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273638">[신상출시 편스토랑] 인턴 한해의 편셰프 도전기! 성실남 한해의 유일한 취미는?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728231245_28c2a33e5145a4eca3d9666e2739f156_1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[[뮤직뱅크] NMIXX(엔믹스), 무더위에 청량함을 선사하는 무대 ♪Party O’Clock (KBS연예 ─ KBS)]]></title>
@@ -974,78 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727235217_28e2c2802c103a702944b08688373ec1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 인사이트] 정전 70주년 기획 ‘판문점’... 정전회담부터 컬러로 만나는 공동경비구역 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273390</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273390</guid>
-            <pubDate>Thu, 27 Jul 2023 07:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273390">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727153256_5732db5b975c1da6650f4f5b774ff4b5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273390">[다큐 인사이트] 정전 70주년 기획 ‘판문점’... 정전회담부터 컬러로 만나는 공동경비구역</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8">다큐 인사이트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727153256_5732db5b975c1da6650f4f5b774ff4b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세컨 하우스2' 주상욱-조재윤-차예련, 유쾌한 농촌체험 "민물고기 잡기 도전!" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273337</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273337</guid>
-            <pubDate>Thu, 27 Jul 2023 00:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273337">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727081929_8181f75de46f0b4dc0dded8e10937cf4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273337">'세컨 하우스2' 주상욱-조재윤-차예련, 유쾌한 농촌체험 "민물고기 잡기 도전!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727081929_8181f75de46f0b4dc0dded8e10937cf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['순정복서' 흥미유발 티저 영상 공개 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272403</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272403</guid>
-            <pubDate>Wed, 26 Jul 2023 23:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272403">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720110420_2a10d2e15144a8376d0dfa9e740cfb70.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272403">'순정복서' 흥미유발 티저 영상 공개 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720110420_2a10d2e15144a8376d0dfa9e740cfb70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도겸, KBS 일일드라마 '우당탕탕 패밀리' 주인공 캐스팅 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272645</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272645</guid>
-            <pubDate>Wed, 26 Jul 2023 21:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272645">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721080436_31ce049994100a2297cdb1aceb4e75bf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272645">이도겸, KBS 일일드라마 '우당탕탕 패밀리' 주인공 캐스팅</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721080436_31ce049994100a2297cdb1aceb4e75bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
