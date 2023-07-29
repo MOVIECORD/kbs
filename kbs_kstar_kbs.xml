@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 21:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 22:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['순정복서' 김소혜, 넘어져도 다시 일어나는 복서, ‘이권숙’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273352</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273352</guid>
+            <pubDate>Sat, 29 Jul 2023 22:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273352">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727083049_5ea8ed5b9ab8fb08f1670facbef12c67.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273352">'순정복서' 김소혜, 넘어져도 다시 일어나는 복서, ‘이권숙’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727083049_5ea8ed5b9ab8fb08f1670facbef12c67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[진짜가 나타났다] 차화연을 찾아간 김혜옥 “백진희-안재현, 어떻게든 찢어놓자” 제안]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273762</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728232430_1df4a52439337d09e53a2ed5bc87b493_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 인턴 한해의 편셰프 도전기! 성실남 한해의 유일한 취미는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273638</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273638</guid>
-            <pubDate>Fri, 28 Jul 2023 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273638">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728231245_28c2a33e5145a4eca3d9666e2739f156_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273638">[신상출시 편스토랑] 인턴 한해의 편셰프 도전기! 성실남 한해의 유일한 취미는?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728231245_28c2a33e5145a4eca3d9666e2739f156_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
