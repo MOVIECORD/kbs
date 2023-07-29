@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 14:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 15:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721081900_040e845a5732fcef1740c83e6a38bfc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진짜가 나타났다] 차화연을 찾아간 김혜옥 “백진희-안재현, 어떻게든 찢어놓자” 제안 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273762</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273762</guid>
+            <pubDate>Sat, 29 Jul 2023 15:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273762">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729232649_ec801e2f3b8a1ef74e6ed472404e4a07_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273762">[진짜가 나타났다] 차화연을 찾아간 김혜옥 “백진희-안재현, 어떻게든 찢어놓자” 제안</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729232649_ec801e2f3b8a1ef74e6ed472404e4a07_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진짜가 나타났다] “엄마랑 아이 키우자” 손주 데려가려는 김혜옥...안재현 안 떠나려는 백진희 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273758</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273758</guid>
+            <pubDate>Sat, 29 Jul 2023 15:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273758">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729231544_655128e1f2f326070fab8fa1e98287d3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273758">[진짜가 나타났다] “엄마랑 아이 키우자” 손주 데려가려는 김혜옥...안재현 안 떠나려는 백진희</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729231544_655128e1f2f326070fab8fa1e98287d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[진짜가 나타났다] 백진희 아이 안고 있는 안재현과 마주친 김혜옥 “설마 백진희 애는 아니지?” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273754</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273754</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728231245_28c2a33e5145a4eca3d9666e2739f156_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] NMIXX(엔믹스), 무더위에 청량함을 선사하는 무대 ♪Party O’Clock (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273634</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273634</guid>
-            <pubDate>Fri, 28 Jul 2023 14:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273634">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728225843_c70839094fa34056a99a85b26fd8bc74.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273634">[뮤직뱅크] NMIXX(엔믹스), 무더위에 청량함을 선사하는 무대 ♪Party O’Clock</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728225843_c70839094fa34056a99a85b26fd8bc74.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 세러데이(SATURDAY), 러블리 가득한 퍼포먼스 ♪있을게 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273630</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273630</guid>
-            <pubDate>Fri, 28 Jul 2023 14:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273630">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728224827_eb3617bfd3c65ef05bb88414b320764a_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273630">[뮤직뱅크] 세러데이(SATURDAY), 러블리 가득한 퍼포먼스 ♪있을게</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728224827_eb3617bfd3c65ef05bb88414b320764a_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
