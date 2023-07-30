@@ -4,15 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 21:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 22:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '마스크걸' 안재홍-염혜란, "역대급 연기 변신 예고" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273677</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273677</guid>
+            <pubDate>Sun, 30 Jul 2023 22:01:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273677">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729071023_ca0eb86e6a939464b4838e2718643438.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273677">넷플릭스 '마스크걸' 안재홍-염혜란, "역대급 연기 변신 예고"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729071023_ca0eb86e6a939464b4838e2718643438.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오펜하이머' 크리스토퍼 놀란 감독이 완성한 '흑과 백'의 세상 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273800</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273800</guid>
             <pubDate>Sat, 29 Jul 2023 23:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273800">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273800">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730074443_ac8024fc5f1d37a369e28f1333e7b89a.jpg" alt="대체 텍스트">
@@ -29,7 +46,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273794</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273794</guid>
             <pubDate>Sat, 29 Jul 2023 23:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273794">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273794">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730073746_c15d43577625c8c2824bd0a9b74c64f0.jpg" alt="대체 텍스트">
@@ -46,7 +63,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273768</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273768</guid>
             <pubDate>Sat, 29 Jul 2023 23:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273768">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273768">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730070241_932dd876c34b629e324180d7aae4fb32_1.jpg" alt="대체 텍스트">
@@ -63,7 +80,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273682</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273682</guid>
             <pubDate>Sat, 29 Jul 2023 22:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273682">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273682">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729071546_c3ba70f3164adaaea9c77f3dfd5e679b.jpg" alt="대체 텍스트">
@@ -80,7 +97,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273604</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=273604</guid>
             <pubDate>Fri, 28 Jul 2023 23:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273604">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273604">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728181128_e3e68b53f560921ba8a1ee8d97b94727.png" alt="대체 텍스트">
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727072707_0f3ce1222d07f2ef1a36fa995e4202a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['너의 순간' 우지현, "순간의 기억을 담은 독특한 로맨스" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272629</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272629</guid>
-            <pubDate>Wed, 26 Jul 2023 21:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272629">	<span class="img-box hh">
+            <title><![CDATA[‘연인’ 안은진, "꼭 도전하고 싶은 작품이었다!" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273374</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273374</guid>
+            <pubDate>Sun, 30 Jul 2023 22:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273374">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721074034_ff266fe42d3c234a5f4dafc70f34b982.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085143_114eff391ec699d5868b793539895920.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272629"> '너의 순간' 우지현, "순간의 기억을 담은 독특한 로맨스"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273374"> ‘연인’ 안은진, "꼭 도전하고 싶은 작품이었다!"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721074034_ff266fe42d3c234a5f4dafc70f34b982.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085143_114eff391ec699d5868b793539895920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뭉쳐야 찬다 2] ‘어쩌다벤져스’..  조직력+팀워크 (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230723082857_a8214d7c282d802e66a2745de85a193f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ENA ‘오랫동안 당신을 기다렸습니다’ 한철수 감독... "다양한 군상들이 그려내는 '기다림'의 실체" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272714</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272714</guid>
-            <pubDate>Sun, 23 Jul 2023 00:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272714">	<span class="img-box hh">
+            <title><![CDATA['순정복서' 이상엽, 픽스매치 게임에 뛰어들다 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273357</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273357</guid>
+            <pubDate>Sun, 30 Jul 2023 22:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273357">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721111753_485824a53bab79b5f5d52688f8e6c082.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727083507_86fb6b5a7f71453f9d42721004bcef02.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272714">ENA ‘오랫동안 당신을 기다렸습니다’ 한철수 감독... "다양한 군상들이 그려내는 '기다림'의 실체" </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273357">'순정복서' 이상엽, 픽스매치 게임에 뛰어들다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721111753_485824a53bab79b5f5d52688f8e6c082.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727083507_86fb6b5a7f71453f9d42721004bcef02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 박나래+엄마 효도관광...목포 입맛(?)에도 제격인 로마 피자?! 결국, 한국 피자(?) 찾는 마미즈 (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730100921_074c7a1cb24cd5b8aeed138b12a26771_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 박슬기+황수경 코타키나발루 5성급 호텔서 오션 뷰+요가+오션 골프까지 즐겼다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273828</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273828</guid>
-            <pubDate>Sun, 30 Jul 2023 01:55:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273828">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730095805_38af9d8c09f32480a2ec31d4ca3b1018_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273828">[배틀트립2] 박슬기+황수경 코타키나발루 5성급 호텔서 오션 뷰+요가+오션 골프까지 즐겼다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230730095805_38af9d8c09f32480a2ec31d4ca3b1018_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
