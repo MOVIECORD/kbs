@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 01:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 02:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 조인성의 액션비법 “크게 더 크게, 작용-반작용, 그리고 소싯적 류승완” (영화 ‘밀수’) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=274006</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274006</guid>
+            <pubDate>Mon, 31 Jul 2023 02:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274006">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230731105848_06cf5b18b01d4c6204a8886ce892227a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274006">[인터뷰] 조인성의 액션비법 “크게 더 크게, 작용-반작용, 그리고 소싯적 류승완” (영화 ‘밀수’) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230731105848_06cf5b18b01d4c6204a8886ce892227a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["소련, 스탈린폭정, 그리고 비밀경찰" 영화 '볼코노고프 대위 탈출하다'... 8월 개봉 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273953</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273472">이시카와 케이 감독 + 츠마부키 사토시, 영화 '한 남자' 8월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728072519_1c31fc531f2d3de2ec86a77cf1156aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '디.피 2' "더 많은 사연, 사건, 사람들" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273403</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273403</guid>
-            <pubDate>Thu, 27 Jul 2023 07:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273403">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727155417_5c2a513e1cc431272671b62a8e37919b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273403">넷플릭스 '디.피 2' "더 많은 사연, 사건, 사람들"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727155417_5c2a513e1cc431272671b62a8e37919b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[일문일답] 홍경 '악귀' 종영 소감 (KBS연예 ─ TVs)]]></title>
