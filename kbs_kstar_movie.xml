@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 22:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 23:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['D.P.' 시즌2,  "준호와 호열을 만나다"... 팬 이벤트와 라이브 토크 현장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=274230</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274230</guid>
+            <pubDate>Tue, 01 Aug 2023 23:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274230">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802073358_a99c5d7cff91beae75b54537288fc674.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274230">'D.P.' 시즌2,  "준호와 호열을 만나다"... 팬 이벤트와 라이브 토크 현장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802073358_a99c5d7cff91beae75b54537288fc674.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["8월의 메가박스" 돌비 시네마를 느낀다.... '더 문', '콘크리트유토피아', '오펜하이머' , '그란 투리스모']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=274133</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273515">디즈니+ 은하계 대전 '아소카'  "전쟁은 반드시 온다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728081234_c8ab1e75574298bd9a32de5b3f73edc6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '잔혹한 인턴' 라미란-엄지원,  “노련하게, 경력으로 살아남아라.”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273507</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273507</guid>
-            <pubDate>Fri, 28 Jul 2023 00:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273507">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728080318_c4d3c6ecd31cbc26d8f89da8768fc11b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273507">티빙 '잔혹한 인턴' 라미란-엄지원,  “노련하게, 경력으로 살아남아라.”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230728080318_c4d3c6ecd31cbc26d8f89da8768fc11b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
