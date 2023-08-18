@@ -4,15 +4,32 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 21:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 22:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 영화 '그녀의 취미생활' 시사회.. "정이서-김혜나, 손을 잡다 총을 들다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276877</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276877</guid>
+            <pubDate>Fri, 18 Aug 2023 22:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276877">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818120022_3f89aa3aa9d8249c244662aaf18527dd.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276877">[현장] 영화 '그녀의 취미생활' 시사회.. "정이서-김혜나, 손을 잡다 총을 들다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818120022_3f89aa3aa9d8249c244662aaf18527dd.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김지운 감독 '거미집' 송강호, "걸작을 만들고 싶은 감독"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276870</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276870</guid>
             <pubDate>Fri, 18 Aug 2023 03:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276870">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276870">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818114927_06631ac05e277ae9bf6dbe03963e4501.jpg" alt="대체 텍스트">
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276481">[무빙] 블랙요원 한효주-조인성, '남산돈까스' 데이트 현장 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816090341_afeb7ea7417f2935ceed95368cc45198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이번 추석, 강동원 영화!"  '천박사 퇴마 연구소: 설경의 비밀' 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276475</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276475</guid>
-            <pubDate>Wed, 16 Aug 2023 00:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276475">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816085549_0025f194e493865ab7375db435b2d3a3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276475">"이번 추석, 강동원 영화!"  '천박사 퇴마 연구소: 설경의 비밀' 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816085549_0025f194e493865ab7375db435b2d3a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
