@@ -4,15 +4,51 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 11:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 12:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 원조 트롯 프린스 박현빈과의 인연토크...이찬원 “현재 트롯 프린스는 나”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276989</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276989</guid>
+            <pubDate>Sat, 19 Aug 2023 12:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276989">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819205222_091af68709fa8a9417db516eee1b7a39_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276989">[불후의 명곡] 원조 트롯 프린스 박현빈과의 인연토크...이찬원 “현재 트롯 프린스는 나”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819205222_091af68709fa8a9417db516eee1b7a39_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[불후의 명곡] 아티스트 박현빈 편...‘오빠만 믿어’로 불후 무대 포문 열었다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276985</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276985</guid>
+            <pubDate>Sat, 19 Aug 2023 12:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276985">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819204828_dad10db28dfc6e5f4f63b8fc43000766_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276985">[불후의 명곡] 아티스트 박현빈 편...‘오빠만 믿어’로 불후 무대 포문 열었다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819204828_dad10db28dfc6e5f4f63b8fc43000766_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시편스토랑] 진도 10첩 반상, 송가인 폭풍먹방...  “가인이 잘 먹는구나”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276959</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276959</guid>
             <pubDate>Fri, 18 Aug 2023 23:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276959">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276959">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819073955_6d916348348ec8d9e62967c89bc5329d_1.jpg" alt="대체 텍스트">
@@ -30,7 +66,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276939</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276939</guid>
             <pubDate>Fri, 18 Aug 2023 23:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276939">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276939">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819070214_0285aafc107b085b475dfb1bc3447888_1.jpg" alt="대체 텍스트">
@@ -48,7 +84,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276754</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276754</guid>
             <pubDate>Fri, 18 Aug 2023 22:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276754">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276754">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818094036_772b7c5cbdbcb560cc8051643a294659.png" alt="대체 텍스트">
@@ -66,7 +102,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276680</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276680</guid>
             <pubDate>Fri, 18 Aug 2023 22:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276680">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276680">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817152526_0d1bd2858725f5f84c7f64048f74af6f.jpg" alt="대체 텍스트">
@@ -84,7 +120,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276858</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276858</guid>
             <pubDate>Fri, 18 Aug 2023 22:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276858">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276858">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818113448_99658218c8c8bf7e4bc824bd45e0ece0.jpg" alt="대체 텍스트">
@@ -102,7 +138,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276851</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276851</guid>
             <pubDate>Fri, 18 Aug 2023 22:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276851">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276851">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818113115_fe4a02e9c30fbf5c6057f5afb9047e34_1.png" alt="대체 텍스트">
@@ -120,7 +156,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276925</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276925</guid>
             <pubDate>Fri, 18 Aug 2023 16:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276925">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276925">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819001916_b9b112fee10d6082461a3a82fde6d454_1.PNG" alt="대체 텍스트">
@@ -330,42 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818225451_3abc3fa20f1cdf6d6c17ab5e0df49281_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시편스토랑] 송가인X한혜진, 진도 손맛에 푹 빠지다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276779</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276779</guid>
-            <pubDate>Fri, 18 Aug 2023 01:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276779">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818100558_984b41cba9e12b3a072f92a576bd539d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276779">[신상출시편스토랑] 송가인X한혜진, 진도 손맛에 푹 빠지다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818100558_984b41cba9e12b3a072f92a576bd539d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세컨 하우스2]  수라부부X주조형제, 빈집 소생 성공... 시즌2 대장정 마무리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276747</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276747</guid>
-            <pubDate>Fri, 18 Aug 2023 00:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276747">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818083929_61e5adca0e5113c1a14dd53d801288e6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276747">[세컨 하우스2]  수라부부X주조형제, 빈집 소생 성공... 시즌2 대장정 마무리 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818083929_61e5adca0e5113c1a14dd53d801288e6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
