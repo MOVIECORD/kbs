@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 16:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 17:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808101604_fe34fabb415d4fb11b052e3d074283ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[걸어서 환장 속으로] 박나래, 마미즈와 이탈리아 스타일로 변신...‘마릴린 나래’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277093</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277093</guid>
+            <pubDate>Sun, 20 Aug 2023 17:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277093">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821011412_9706d59accd422c957ee052724493afa_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277093">[걸어서 환장 속으로] 박나래, 마미즈와 이탈리아 스타일로 변신...‘마릴린 나래’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821011412_9706d59accd422c957ee052724493afa_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[걸어서 환장 속으로] 장현성, 글로벌 인기 실감? 아들도 인정한 아빠의 스페인 존재감 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277089</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277089</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230820010752_78a966db84198c7c5e7f01d95b049655_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들 2]  새 살림남 정혁, 기독교+불교+명리학 ‘종교 대통합’ 일상 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277025</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277025</guid>
-            <pubDate>Sat, 19 Aug 2023 17:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277025">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230820010229_6fbd9b779cc61675234ee9fc0faf0498_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277025">[살림하는 남자들 2]  새 살림남 정혁, 기독교+불교+명리학 ‘종교 대통합’ 일상</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230820010229_6fbd9b779cc61675234ee9fc0faf0498_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
