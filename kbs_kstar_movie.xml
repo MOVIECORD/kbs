@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아소카가 온다!"  ... 내일 1-2화 글로벌 대공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277384</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277384</guid>
+            <pubDate>Tue, 22 Aug 2023 03:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277384">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822115220_817ba5d94d419e0eee1be19fe77fd296_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277384">"아소카가 온다!"  ... 내일 1-2화 글로벌 대공개  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822115220_817ba5d94d419e0eee1be19fe77fd296_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘달짝지근해:7510’ 유해진-김희선, 궁극의 배합비율 (이한 감독,2023)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277358</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277358</guid>
+            <pubDate>Tue, 22 Aug 2023 03:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277358">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822111605_478319f971ab72b186056f126f65aaa9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277358">[리뷰] ‘달짝지근해:7510’ 유해진-김희선, 궁극의 배합비율 (이한 감독,2023)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822111605_478319f971ab72b186056f126f65aaa9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] ‘飛行청소년’ 이정하 "이제 날아보자“  (디즈니+ '무빙')]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277300</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276740">'콘크리트 유토피아' 내년 열리는 미국 아카데미영화상 국제장편영화 '한국' 대표 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818080725_a2c83e6140d4815b8cf6bd2938f86607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김민재 분데스리가 본다"  티빙, 23-24시즌 분데스리가 1라운드 독점 생중계]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276658</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276658</guid>
-            <pubDate>Thu, 17 Aug 2023 22:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276658">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150302_f56582446a211701c31846f7b71e6c7f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276658">"김민재 분데스리가 본다"  티빙, 23-24시즌 분데스리가 1라운드 독점 생중계</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150302_f56582446a211701c31846f7b71e6c7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이런 한효주는 없었다!" '무빙' 국정원 요원 출신, 봉석이 엄마]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276648</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276648</guid>
-            <pubDate>Thu, 17 Aug 2023 22:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276648">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817145642_b1e0e280655a7660bd652e81d479697b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276648">"이런 한효주는 없었다!" '무빙' 국정원 요원 출신, 봉석이 엄마</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817145642_b1e0e280655a7660bd652e81d479697b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
