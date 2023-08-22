@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 00:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 01:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[순정복서 1회] 이상엽-김소혜 첫 만남, ‘승부조작 탈출기’ 포문 열다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277309</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277309</guid>
+            <pubDate>Tue, 22 Aug 2023 01:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277309">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822103132_d8e7f500565b5f6eac658547e60e532b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277309">[순정복서 1회] 이상엽-김소혜 첫 만남, ‘승부조작 탈출기’ 포문 열다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822103132_d8e7f500565b5f6eac658547e60e532b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[순정복서] “찾아내면 커미션은 내가 정합니다” 독기 품고 김소혜 찾아 나서는 이상엽]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277248</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821011412_9706d59accd422c957ee052724493afa_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[걸어서 환장 속으로] 장현성, 글로벌 인기 실감? 아들도 인정한 아빠의 스페인 존재감]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277089</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277089</guid>
-            <pubDate>Sun, 20 Aug 2023 16:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277089">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821005907_88d1d77353061c2aab32e656739ba3e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277089">[걸어서 환장 속으로] 장현성, 글로벌 인기 실감? 아들도 인정한 아빠의 스페인 존재감</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821005907_88d1d77353061c2aab32e656739ba3e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
