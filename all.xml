@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 03:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 04:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 고윤정은 달린다  "응원할게, 너" (디즈니+ ‘무빙’) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277651</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277651</guid>
+            <pubDate>Thu, 24 Aug 2023 04:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277651">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824121321_557acee22e46bf47a25b142850f4d7f3.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277651">[인터뷰] 고윤정은 달린다  "응원할게, 너" (디즈니+ ‘무빙’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824121321_557acee22e46bf47a25b142850f4d7f3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['마스크걸' 고현정, 교도소를 나가야 하는 '모성애' 김모미 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277605</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277156">나나, "내 이름은 김모미"... 넷플릭스 마걸 변신</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821092707_9b03fd211bed6e4e4ad706490b19c074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '거미집'  오정세,  바람둥이 톱스타 변신 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277133</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277133</guid>
-            <pubDate>Mon, 21 Aug 2023 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277133">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821084857_09e27c5a57bbe9676b04f325c836fef3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277133">영화 '거미집'  오정세,  바람둥이 톱스타 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821084857_09e27c5a57bbe9676b04f325c836fef3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이 연애는 불가항력] 조보아, 첫방부터  ‘로코 요정’ (KBS연예 ─ TVs)]]></title>
@@ -944,7 +944,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277459</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277459</guid>
             <pubDate>Tue, 22 Aug 2023 15:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277459">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277459">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822233221_aa0493d3ee4caffa45f15b8095cedbe5_1.png" alt="대체 텍스트">
@@ -962,7 +962,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277454</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277454</guid>
             <pubDate>Tue, 22 Aug 2023 15:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277454">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277454">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822232950_2cb5b500aeb0adbe46cab81c7ed44408_1.png" alt="대체 텍스트">
@@ -980,7 +980,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277449</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277449</guid>
             <pubDate>Tue, 22 Aug 2023 15:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277449">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277449">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822232618_3514ae9f31d4be9a212f11a91617fde7.png" alt="대체 텍스트">
@@ -998,7 +998,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277444</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277444</guid>
             <pubDate>Tue, 22 Aug 2023 14:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277444">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277444">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822223522_a452fee51df2ec7da637d0bf2de62e28_1.png" alt="대체 텍스트">
@@ -1016,7 +1016,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277439</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277439</guid>
             <pubDate>Tue, 22 Aug 2023 14:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277439">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277439">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822223140_12fdd0c08cc5b6b896d5e9d0588d401e_1.png" alt="대체 텍스트">
@@ -1034,7 +1034,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277434</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277434</guid>
             <pubDate>Tue, 22 Aug 2023 14:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277434">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277434">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822222955_dddcb3a2fd7e8b7aa43a9c90764bee78_1.png" alt="대체 텍스트">
