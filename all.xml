@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 21:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 22:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘해리 포터와 혼혈 왕자’ 4DX 로 만난다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277638</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277638</guid>
+            <pubDate>Thu, 24 Aug 2023 22:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277638">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824090240_d284065fbd62cd6035bbd8dce7ee2c52.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277638"> ‘해리 포터와 혼혈 왕자’ 4DX 로 만난다 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824090240_d284065fbd62cd6035bbd8dce7ee2c52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 부산에서 미리 만난다, '독전2' '발레리나' '화란' 등 ... '스페셜 프리미어’ ‘온 스크린’ 선정작 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277696</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277168">넷플릭스 '성+인물: 대만편'  시사회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821141308_3ae2c8c4aba2575b4de3e3dd4b89bb8b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전여빈, 김지운 감독 '거미집'... "이 작품 걸작, 맞습니다!" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277139</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277139</guid>
-            <pubDate>Mon, 21 Aug 2023 23:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277139">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821085302_6aaf44e8f69b46681a49550f5a2b48cb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277139">전여빈, 김지운 감독 '거미집'... "이 작품 걸작, 맞습니다!" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821085302_6aaf44e8f69b46681a49550f5a2b48cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['연인' 7회, "인조는 남한산성을 나서고 이장현은...." (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814080228_2d21ce2df06596e87e1901661d6617f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['우당탕탕 패밀리' 이도겸, 할리우드 유망감독 '강선우' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277526</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277526</guid>
+            <pubDate>Thu, 24 Aug 2023 22:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277526">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230823082848_7c43f76f6ebe6e9d158e7426138a4b01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277526">'우당탕탕 패밀리' 이도겸, 할리우드 유망감독 '강선우'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230823082848_7c43f76f6ebe6e9d158e7426138a4b01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[홍김동전] 신경쓰지 마! 대형 변수의 발생! 우재의 녹음실에 들어 온 STAYC의 등장! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277712</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=277712</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822234824_37c0e70a2c31938662e2e86e7c18e773.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[순정복서] 지는 경기 만들어야만 하는 이상엽, 천재 복서 김소혜에게 “딱 3개월! 2경기만요!” 계약 제안 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277459</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277459</guid>
-            <pubDate>Tue, 22 Aug 2023 15:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277459">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822233221_aa0493d3ee4caffa45f15b8095cedbe5_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277459">[순정복서] 지는 경기 만들어야만 하는 이상엽, 천재 복서 김소혜에게 “딱 3개월! 2경기만요!” 계약 제안</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822233221_aa0493d3ee4caffa45f15b8095cedbe5_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
