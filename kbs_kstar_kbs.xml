@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 14:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 15:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[홍김동전] 알겠다고 해! 김숙의 샤우팅 + 우재 ‘갱갱갱’ 대환장 파티!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278662</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278662</guid>
+            <pubDate>Thu, 31 Aug 2023 15:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278662">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831235713_75ced4e41b153df154db299413b41352.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278662">[홍김동전] 알겠다고 해! 김숙의 샤우팅 + 우재 ‘갱갱갱’ 대환장 파티!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831235713_75ced4e41b153df154db299413b41352.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['홍김동전' 이준호, ‘노래 가사 끝말잇기’ 맹활약 예고]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278645</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830005758_579f73259141b24c5c64654aa0a213bc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[순정복서] “권투 말고 연애가 하고 싶다고요!” 모쏠 김소혜 소원도 안 통하는 독한 남자 이상엽]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278334</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278334</guid>
-            <pubDate>Tue, 29 Aug 2023 16:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278334">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830005234_1b1190f23a0267784dbce05e22cba278_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278334">[순정복서] “권투 말고 연애가 하고 싶다고요!” 모쏠 김소혜 소원도 안 통하는 독한 남자 이상엽</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830005234_1b1190f23a0267784dbce05e22cba278_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
