@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 유재선 감독  " 당신 옆에 잠든 사람은 누구일까?" (영화 ‘잠’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279775</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279775</guid>
+            <pubDate>Thu, 07 Sep 2023 08:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279775">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907163917_e043e4e0a1398fee1038363f307d3ffc.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279775">[인터뷰] 유재선 감독  " 당신 옆에 잠든 사람은 누구일까?" (영화 ‘잠’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907163917_e043e4e0a1398fee1038363f307d3ffc.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["700만 관객이 눈물 뚝뚝" '엘리멘탈'.. 9월 13일 디즈니+ 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279767</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279369">[인터뷰] 정유미 “광기까지는 아니고, '사투' 정도의 연기” (영화 ‘잠’)    </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230905081515_975179c151a7a16611aa5af956458ffa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '너의 시간 속으로' 제작발표회.. 안효섭-전여빈-강훈  "너를 찾는 시간여행!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279339</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279339</guid>
-            <pubDate>Mon, 04 Sep 2023 23:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279339">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230905072923_2cddc1738e44a5fbe76298bb220faa92.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279339">넷플릭스 '너의 시간 속으로' 제작발표회.. 안효섭-전여빈-강훈  "너를 찾는 시간여행!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230905072923_2cddc1738e44a5fbe76298bb220faa92.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
