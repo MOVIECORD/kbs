@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[추적 60분] "3,160억 원을 배상하라" 인생을 압류당한 사람들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280839</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280839</guid>
+            <pubDate>Fri, 15 Sep 2023 06:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280839">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915143438_56a4d38c768ac9ac0c193aedb32d42d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280839">[추적 60분] "3,160억 원을 배상하라" 인생을 압류당한 사람들</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915143438_56a4d38c768ac9ac0c193aedb32d42d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘편스토랑’ 이서연, "드라마 촬영하면서도 과외 아르바이트 했어요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280787</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913085154_5518c31162c9425140403c1cf47d1758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전국노래자랑’ 故 송해,  2023 방송통신위원회 방송대상 공로상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280441</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280441</guid>
-            <pubDate>Wed, 13 Sep 2023 00:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280441">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913084246_fb76237f7d19ec13c1b3338eab1beed2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280441">‘전국노래자랑’ 故 송해,  2023 방송통신위원회 방송대상 공로상 수상</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913084246_fb76237f7d19ec13c1b3338eab1beed2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
