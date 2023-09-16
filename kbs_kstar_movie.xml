@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 22:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 23:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["추석영화, 벌써 예매 열풍" 강동원 주연 '천박사 퇴마 연구소' 예매율 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=281049</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281049</guid>
+            <pubDate>Sat, 16 Sep 2023 23:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281049">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230917071006_53f836ef569acf66b73a8e43c31911d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281049">"추석영화, 벌써 예매 열풍" 강동원 주연 '천박사 퇴마 연구소' 예매율 1위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230917071006_53f836ef569acf66b73a8e43c31911d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["정유미-이선균은 오늘도 잠들지 못한다"  영화 <잠> 개봉 11일째, 손익분기점 돌파]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=281044</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280571">티빙 '춘화연애담' 고아라, '화리공주' 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914080311_7c263327a4d5e67a7ba743fab096267f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최악의 악'  지창욱-위하준...  "위험한 잠입수사가 시작된다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280418</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280418</guid>
-            <pubDate>Wed, 13 Sep 2023 22:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280418">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913081848_37db45bec62f9a796d3a7ce6a057cad2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280418">'최악의 악'  지창욱-위하준...  "위험한 잠입수사가 시작된다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913081848_37db45bec62f9a796d3a7ce6a057cad2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
