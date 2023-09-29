@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 11:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 12:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230916083724_aab2ebeb5a176dc08d78b64ded4efec7_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[신상출시 편스토랑] NEW 편셰프! 효녀가수 양지은의 흥 돋우는 노래 선물♪ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282667</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282667</guid>
+            <pubDate>Fri, 29 Sep 2023 12:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282667">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929203759_34466a256161d921e6d504f09f02e5ed_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282667">[신상출시 편스토랑] NEW 편셰프! 효녀가수 양지은의 흥 돋우는 노래 선물♪</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929203759_34466a256161d921e6d504f09f02e5ed_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신상출시 편스토랑] 수다부부가 마음 담아 인삼을 선물한 의리파 친구의 정체는?! (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282663</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282663</guid>
+            <pubDate>Fri, 29 Sep 2023 12:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282663">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929200612_61fc0a3ea7abfb2c5bf011d8846298fb_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282663">[신상출시 편스토랑] 수다부부가 마음 담아 인삼을 선물한 의리파 친구의 정체는?!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929200612_61fc0a3ea7abfb2c5bf011d8846298fb_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[[신상출시 편스토랑] 웃음 가득! 눈물 찔끔~ 13남매 장녀 남보라의 일상 구경♥ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282659</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282659</guid>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927004701_b213b5e69d83db36691452c2fb4dc1b8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우당탕탕 패밀리] “손주 사주시게요?” 재킷 쟁탈전 승자는? Y2K 패셔니스타 임하룡~ “가서 패션 공부나 더 해” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282409</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282409</guid>
-            <pubDate>Tue, 26 Sep 2023 16:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282409">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927000858_14f72430314a6e3732cf02222181cb61_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282409">[우당탕탕 패밀리] “손주 사주시게요?” 재킷 쟁탈전 승자는? Y2K 패셔니스타 임하룡~ “가서 패션 공부나 더 해”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927000858_14f72430314a6e3732cf02222181cb61_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우당탕탕 패밀리] 익명 폭로글에 판세 뒤집힌 남상지와 오채이, “폭로는 타이밍이야” 우쭐하는 이도겸 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282404</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282404</guid>
-            <pubDate>Tue, 26 Sep 2023 16:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282404">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927000638_c0221a075706ed9a66da75f99622b51a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282404">[우당탕탕 패밀리] 익명 폭로글에 판세 뒤집힌 남상지와 오채이, “폭로는 타이밍이야” 우쭐하는 이도겸</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927000638_c0221a075706ed9a66da75f99622b51a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
