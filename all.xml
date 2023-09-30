@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 22:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 23:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재화, 영화 ‘화사한 그녀’ .. 비밀의 반전꾼 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282783</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282783</guid>
+            <pubDate>Sat, 30 Sep 2023 23:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282783">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001072605_08565d1c1e6f4e257c3e0ffbd9ea1170.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282783">김재화, 영화 ‘화사한 그녀’ .. 비밀의 반전꾼</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001072605_08565d1c1e6f4e257c3e0ffbd9ea1170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서현의 도전,  넷플릭스 '도적'..  독립운동가 남희신  변신 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282778</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282778</guid>
+            <pubDate>Sat, 30 Sep 2023 23:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282778">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001072153_468ca0f0e7d27ec09e880a97c98fa780.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282778">서현의 도전,  넷플릭스 '도적'..  독립운동가 남희신  변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001072153_468ca0f0e7d27ec09e880a97c98fa780.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282246</link>
@@ -314,38 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926075923_8fd7d72d65fac9af78433e71c7a0b194.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["봉 감독의 첫 단편을 찾아라!!" 넷플릭스 '노란문: 세기말 시네필 다이어리' 10월 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282239</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282239</guid>
-            <pubDate>Tue, 26 Sep 2023 22:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282239">	<span class="img-box ww">
+            <title><![CDATA[tvN '언젠가는 슬기로울 전공의생활'.. 고윤정, 산부인과 레지던트 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282794</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282794</guid>
+            <pubDate>Sat, 30 Sep 2023 23:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282794">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926103225_fa34097673be3d5b0df8c355225743d8.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001073452_dd3dff2c97161eb214473fe4d62afb7b.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282239">"봉 감독의 첫 단편을 찾아라!!" 넷플릭스 '노란문: 세기말 시네필 다이어리' 10월 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282794">tvN '언젠가는 슬기로울 전공의생활'.. 고윤정, 산부인과 레지던트</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926103225_fa34097673be3d5b0df8c355225743d8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프리퀄 '헝거게임: 노래하는 새와 뱀의 발라드'.. “모든 것은 여기서 시작되었다!” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282333</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282333</guid>
-            <pubDate>Tue, 26 Sep 2023 06:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282333">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926134158_1b5641c657ed5ab48f33037fc3b7aeeb.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282333">프리퀄 '헝거게임: 노래하는 새와 뱀의 발라드'.. “모든 것은 여기서 시작되었다!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926134158_1b5641c657ed5ab48f33037fc3b7aeeb.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001073452_dd3dff2c97161eb214473fe4d62afb7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['재벌집 막내아들' 국제 에미상 TV 영화/미니시리즈 부문 최종 노미네이트 (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230921081214_86614c75e71ec4f86e9247d03d63526f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[유퀴즈온더블럭] ‘강한 자들’ 특집..  "지치지 않는 열정적 인생사" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=281501</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281501</guid>
-            <pubDate>Wed, 20 Sep 2023 06:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281501">	<span class="img-box hh">
+            <title><![CDATA[[KBS아시안게임] 김연경, 베트남전 해설 첫 데뷔.. "후배들 파이팅, 부상 없이 최선 다하자" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282810</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282810</guid>
+            <pubDate>Sat, 30 Sep 2023 23:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282810">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920143016_96cd72324b10e6c8f7de5ace06d0440d_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001074853_2ecf9b77a0d5432ee87ca53385098599.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281501">[유퀴즈온더블럭] ‘강한 자들’ 특집..  "지치지 않는 열정적 인생사"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282810">[KBS아시안게임] 김연경, 베트남전 해설 첫 데뷔.. "후배들 파이팅, 부상 없이 최선 다하자"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920143016_96cd72324b10e6c8f7de5ace06d0440d_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001074853_2ecf9b77a0d5432ee87ca53385098599.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상앨범 산] 도시, 자연을 입다 – 불암산, 수락산 (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929200048_004dd54a9ab209f4d9db343bd99b3fb4_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 오직 딸 한지혜를 위해 생애 첫 요리에 도전한 아버지! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282655</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282655</guid>
-            <pubDate>Fri, 29 Sep 2023 11:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282655">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929192548_08c5aaa98901bee4a0d470959558c707_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282655">[신상출시 편스토랑] 오직 딸 한지혜를 위해 생애 첫 요리에 도전한 아버지!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929192548_08c5aaa98901bee4a0d470959558c707_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
