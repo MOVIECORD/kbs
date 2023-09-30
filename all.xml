@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 21:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 22:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282246</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282246</guid>
+            <pubDate>Sat, 30 Sep 2023 22:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282246">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926104020_be19b0bfb07439a36be1bb0009e8c866.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282246">SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926104020_be19b0bfb07439a36be1bb0009e8c866.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김향기 '플레이, 플리' 11월 티빙 공개.. 인기 아이돌과 유튜버의 비밀 연애 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282717</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926134158_1b5641c657ed5ab48f33037fc3b7aeeb.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[두뇌서바이벌 '데블스 플랜'.. 오늘 1-4화  넷플릭스 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282310</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282310</guid>
-            <pubDate>Tue, 26 Sep 2023 04:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282310">	<span class="img-box ww">
+            <title><![CDATA['재벌집 막내아들' 국제 에미상 TV 영화/미니시리즈 부문 최종 노미네이트 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282735</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282735</guid>
+            <pubDate>Sat, 30 Sep 2023 22:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282735">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926125526_ab991b08f5757f6343319b73cf50f529.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930080536_adaa71535c7f0aca83aa418c1302984f_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282310">두뇌서바이벌 '데블스 플랜'.. 오늘 1-4화  넷플릭스 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282735">'재벌집 막내아들' 국제 에미상 TV 영화/미니시리즈 부문 최종 노미네이트</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926125526_ab991b08f5757f6343319b73cf50f529.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930080536_adaa71535c7f0aca83aa418c1302984f_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[놀라운 토요일] 정소민-송해나-엄지, 추석맞이 파격 힌트 (KBS연예 ─ TVs)]]></title>
@@ -671,28 +688,11 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920143016_96cd72324b10e6c8f7de5ace06d0440d_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['유괴의 날' 오늘 3회 방송.. 윤계상-유나, 김신록을 만난다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=281470</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281470</guid>
-            <pubDate>Wed, 20 Sep 2023 00:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281470">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920084152_342043c34b4c8e3de21e416805396f5e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281470">'유괴의 날' 오늘 3회 방송.. 윤계상-유나, 김신록을 만난다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920084152_342043c34b4c8e3de21e416805396f5e.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[영상앨범 산] 도시, 자연을 입다 – 불암산, 수락산 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282710</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282710</guid>
             <pubDate>Sat, 30 Sep 2023 21:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282710">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282710">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930072417_720e2945a7e73474a5600524ce774383.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282723</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282723</guid>
             <pubDate>Sat, 30 Sep 2023 21:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282723">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282723">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930073606_83dcba342300e34d218f4d31aacf7aaf.jpg" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282772</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282772</guid>
             <pubDate>Sat, 30 Sep 2023 16:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282772">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282772">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001000226_6ee15f73f0d4828a115b5ffdb9161d80_1.jpg" alt="대체 텍스트">
