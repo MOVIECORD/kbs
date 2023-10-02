@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 22:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 23:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[혼례대첩] 조이현, ‘중매의 신’ 정순덕 .. "좌상댁 둘째 며느리의 은밀한 사생활"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282940</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282940</guid>
+            <pubDate>Mon, 02 Oct 2023 23:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282940">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003070723_03c955b76e1b2dcc866b30b8671d77de.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282940">[혼례대첩] 조이현, ‘중매의 신’ 정순덕 .. "좌상댁 둘째 며느리의 은밀한 사생활"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003070723_03c955b76e1b2dcc866b30b8671d77de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[순정복서 종영] 1년 만에 김소혜 앞에 나타난 이상엽 “보고싶었어” 복수와 사랑 모두 이룬 완벽 해피엔딩♥]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282933</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930225222_ebbd0a334cb66f1ce582c17ba2a2d7c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 정통 트로트 무대의 진수...김용임 - 목포의 눈물]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282752</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282752</guid>
-            <pubDate>Sat, 30 Sep 2023 14:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282752">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930224509_a0f74edf03e374f5cd8e0f07aa015a01_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282752">[불후의 명곡] 정통 트로트 무대의 진수...김용임 - 목포의 눈물</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930224509_a0f74edf03e374f5cd8e0f07aa015a01_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
