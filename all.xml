@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 18:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 19:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -888,7 +888,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282933</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282933</guid>
             <pubDate>Mon, 02 Oct 2023 16:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282933">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282933">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003002840_c6fa04f4a54d118bcc13bb7aa068f7bc.png" alt="대체 텍스트">
@@ -906,7 +906,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282928</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282928</guid>
             <pubDate>Mon, 02 Oct 2023 15:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282928">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282928">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231002235050_97fa5cdc800bed0f1f0db7f7ed3d5b46.png" alt="대체 텍스트">
@@ -924,7 +924,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282923</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282923</guid>
             <pubDate>Mon, 02 Oct 2023 15:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282923">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282923">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231002234212_2cf6eb8e47217d57db93117b11c3452b.png" alt="대체 텍스트">
