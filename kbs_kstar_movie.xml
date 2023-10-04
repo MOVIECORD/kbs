@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 07:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 08:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV ‘페데리코 펠리니 감독전’..  ‘달콤한 인생’, ‘8과 2분의 1’ 등 디지털 리마스터링 5편 상영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283124</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283124</guid>
+            <pubDate>Wed, 04 Oct 2023 08:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283124">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004162154_4318cc861d05bf0c2bbc886896ad13ab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283124">CGV ‘페데리코 펠리니 감독전’..  ‘달콤한 인생’, ‘8과 2분의 1’ 등 디지털 리마스터링 5편 상영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004162154_4318cc861d05bf0c2bbc886896ad13ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 30일, “우리 이전에 사랑했던가요?”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=283115</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282246">SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926104020_be19b0bfb07439a36be1bb0009e8c866.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김향기 '플레이, 플리' 11월 티빙 공개.. 인기 아이돌과 유튜버의 비밀 연애]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282717</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282717</guid>
-            <pubDate>Fri, 29 Sep 2023 23:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282717">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930073105_ea7c07a984e80d65ce00ef6bc8bcfd4b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282717">김향기 '플레이, 플리' 11월 티빙 공개.. 인기 아이돌과 유튜버의 비밀 연애</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230930073105_ea7c07a984e80d65ce00ef6bc8bcfd4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
