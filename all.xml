@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 22:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 23:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231006195546_e4cbfe1ce28794d93b8a01d55931e8fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마 ‘악인전기’ 신하균-김영광, 팽팽한 기싸움..  ‘교도소 첫 만남’ (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283354</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283354</guid>
+            <pubDate>Mon, 09 Oct 2023 23:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283354">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231007201720_f92945413423d36f1101d4ba65efbf72.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283354">드라마 ‘악인전기’ 신하균-김영광, 팽팽한 기싸움..  ‘교도소 첫 만남’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231007201720_f92945413423d36f1101d4ba65efbf72.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['언젠가는 슬기로울 전공의생활' 신시아-한예지-강유석-정준원 캐스팅.. "우리는 레지던트" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282805</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=282805</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927120714_c48264684616be461a1aff06b8f0d79c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘반짝이는 워터멜론’ 려운, ‘위풍당당 18세’ 고교생 은결 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282526</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282526</guid>
-            <pubDate>Wed, 27 Sep 2023 02:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282526">	<span class="img-box ww">
+            <title><![CDATA['아주 史사적인 여행' 호국의 도시 경북 칠곡.. "전쟁의 상흔을 더듬는 여행" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283533</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283533</guid>
+            <pubDate>Mon, 09 Oct 2023 23:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283533">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927105154_621390456644c2538a7a4226f0764c12.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231009202602_b0fca5a86999255149993c7612b36c92.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282526">‘반짝이는 워터멜론’ 려운, ‘위풍당당 18세’ 고교생 은결</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283533">'아주 史사적인 여행' 호국의 도시 경북 칠곡.. "전쟁의 상흔을 더듬는 여행"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%95%84%EC%A3%BC%20%EC%82%AC%EC%A0%81%EC%9D%B8%20%EC%97%AC%ED%96%89">아주 사적인 여행</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927105154_621390456644c2538a7a4226f0764c12.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231009202602_b0fca5a86999255149993c7612b36c92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[혼례대첩] 조이현의 두 얼굴, "이번엔 좌의정 둘째 며느리, 정순덕" (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231009003409_2d6fc16dab4e94b1629758cb38601756_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[효심이네 각자도생]  김도연 차에 치였다가 눈을 뜬 정영숙, 병원행 거부 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283471</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283471</guid>
-            <pubDate>Sun, 08 Oct 2023 16:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283471">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231009002943_0e49bd552c2f404ad44490f321d7501f_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283471">[효심이네 각자도생]  김도연 차에 치였다가 눈을 뜬 정영숙, 병원행 거부</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231009002943_0e49bd552c2f404ad44490f321d7501f_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
