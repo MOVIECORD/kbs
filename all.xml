@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 22:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 23:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘크리에이터’ “인간은 AI를 만들었다. HAL~” (가렛 에드워즈 감독) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284314</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284314</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284314">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231015174004_5436000421c0e5a09befc07d83485349.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284314">[리뷰] ‘크리에이터’ “인간은 AI를 만들었다. HAL~” (가렛 에드워즈 감독)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231015174004_5436000421c0e5a09befc07d83485349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 '소년 소녀 연애하다'.. "소소연 캠프로 오세요" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284389</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284389</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284389">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016073005_dc602063840acdf5c1e534d503d4ccdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284389">티빙 '소년 소녀 연애하다'.. "소소연 캠프로 오세요"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016073005_dc602063840acdf5c1e534d503d4ccdf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["BIFF가 알려줄거야!" 영화 '막걸리가 알려줄거야'.. 부산국제영화제 ‘오로라미디어상’ 수상 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284364</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284364</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284364">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070308_615b654268e026993f9075bc2b406eff.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284364">"BIFF가 알려줄거야!" 영화 '막걸리가 알려줄거야'.. 부산국제영화제 ‘오로라미디어상’ 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070308_615b654268e026993f9075bc2b406eff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김호중 No3. '바람 따라 만나리: 김호중의 계절' .. "생생한 콘서트의 열기와 휴식 같은 여행까지" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284290</link>
@@ -297,55 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011162547_4d776121e39e5e8cd4237d83a97358ce.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 홍사빈 “칼과 피, 그리고 오토바이” (영화 ‘화란’) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283816</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283816</guid>
-            <pubDate>Wed, 11 Oct 2023 07:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283816">	<span class="img-box hh">
+            <title><![CDATA[[반짝이는 워터멜론] 신은수 애틋한 고백.. "나를 발견해줘서 고마워" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284384</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284384</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284384">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011153624_772d70f38e2ad9b620cbdee793c0cb9d.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016072319_2f3decd1e58ad7f6ce5a3dd23b236d78_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283816">[인터뷰] 홍사빈 “칼과 피, 그리고 오토바이” (영화 ‘화란’)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284384">[반짝이는 워터멜론] 신은수 애틋한 고백.. "나를 발견해줘서 고마워"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011153624_772d70f38e2ad9b620cbdee793c0cb9d.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016072319_2f3decd1e58ad7f6ce5a3dd23b236d78_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["배수지와 양세종" 넷플릭스 로맨스 <이두나!> ..10월 20일 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283793</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283793</guid>
-            <pubDate>Tue, 10 Oct 2023 23:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283793">	<span class="img-box hh">
+            <title><![CDATA[[연인] 안은진, 위기에 빛나다... "처절할수록 강인해지는 유길채" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284378</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284378</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284378">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011074154_c0040bfcb30a1858484c7fc2ec5b00d7.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016071844_b9fe8851c484ab678013abdd94da19f3.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283793">"배수지와 양세종" 넷플릭스 로맨스 &lt;이두나!&gt; ..10월 20일 공개</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284378">[연인] 안은진, 위기에 빛나다... "처절할수록 강인해지는 유길채"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011074154_c0040bfcb30a1858484c7fc2ec5b00d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 2023 아시아프로젝트마켓(APM) 어워드 수상작 발표 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283782</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283782</guid>
-            <pubDate>Tue, 10 Oct 2023 23:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283782">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011073223_71371d3902d33fc7d93b9317eb0c6696_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283782">[BIFF] 2023 아시아프로젝트마켓(APM) 어워드 수상작 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011073223_71371d3902d33fc7d93b9317eb0c6696_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016071844_b9fe8851c484ab678013abdd94da19f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC에브리원 ‘위대한 가이드’, 현지인 착붙 여행 리얼리티 프로그램... "알레르토와 베네치아!" (KBS연예 ─ TVs)]]></title>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283072">'무인도의 디바'  박은빈, "무인도? 끄떡없음!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004124128_0ac19f2271261f93a904d297a00fa312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘반짝이는 워터멜론' 려운, "낮엔 모범생 밤엔 기타리스트, 낭랑 18세" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283048</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283048</guid>
-            <pubDate>Wed, 04 Oct 2023 02:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283048">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004105830_1f57ffcfed14b841cce866aa551ece4a.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283048">‘반짝이는 워터멜론' 려운, "낮엔 모범생 밤엔 기타리스트, 낭랑 18세" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004105830_1f57ffcfed14b841cce866aa551ece4a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강유석, tvN ‘언젠가는 슬기로울 전공의생활’ 캐스팅.. 산부인과 1년차 전공의 변신 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282799</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282799</guid>
-            <pubDate>Tue, 03 Oct 2023 22:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282799">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001073838_b71b7922207e6f1ddb35f36830dc6f1c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282799">강유석, tvN ‘언젠가는 슬기로울 전공의생활’ 캐스팅.. 산부인과 1년차 전공의 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001073838_b71b7922207e6f1ddb35f36830dc6f1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘혼례대첩’ 베테랑 총출동..  "박지영-조한철-이해영-최희진-진희경" (KBS연예 ─ KBS)]]></title>
