@@ -4,15 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 04:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['소년들' 영화 속 실존인물 , 황상만-최성자-박준영... "이들이 있었기에..." (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA['마이 샤이니 월드' 반짝이는 샤이니를 만난다.. "민호, 태민, 키" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=286957</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286957</guid>
+            <pubDate>Thu, 02 Nov 2023 05:01:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286957">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102131335_e862c6de156fc8972453a571ac060390.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286957">'마이 샤이니 월드' 반짝이는 샤이니를 만난다.. "민호, 태민, 키"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102131335_e862c6de156fc8972453a571ac060390.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '소년들'의 어른들 , 황상만-최성자-박준영... "이들이 있었기에..." (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286941</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=286941</guid>
             <pubDate>Thu, 02 Nov 2023 04:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286941">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286941">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102124656_085a102491f2d48fa22403bcb72902d8.jpg" alt="대체 텍스트">
@@ -20,7 +37,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286941">'소년들' 영화 속 실존인물 , 황상만-최성자-박준영... "이들이 있었기에..."</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286941">영화 '소년들'의 어른들 , 황상만-최성자-박준영... "이들이 있었기에..."</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102124656_085a102491f2d48fa22403bcb72902d8.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286554">티빙, 서비스 전면 개편.. 광고형 요금제(AVOD), 실시간 LIVE 채널 무료화</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231031081951_60450b620212c585bbe2c13bcc01b59b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ CGV, 3분기도 흑자..  "4분기도 기대, ‘서울의 봄’-‘노량'- ‘더 마블스’" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286548</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286548</guid>
-            <pubDate>Tue, 31 Oct 2023 00:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286548">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231031080926_2615609ff9f3ee0c0691ef2ad4d3f765_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286548">CJ CGV, 3분기도 흑자..  "4분기도 기대, ‘서울의 봄’-‘노량'- ‘더 마블스’" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231031080926_2615609ff9f3ee0c0691ef2ad4d3f765_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS '마이 데몬' 김유정-송강의 판타지 로코... "낯설고 수상한 나의 구원" (KBS연예 ─ TVs)]]></title>
