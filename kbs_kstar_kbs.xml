@@ -4,7 +4,7 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 01:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 02:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286867</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=286867</guid>
             <pubDate>Thu, 02 Nov 2023 00:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286867">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286867">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102091601_4f0d90b2c8f525706e859bb6807bf817.jpg" alt="대체 텍스트">
@@ -30,7 +30,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286860</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=286860</guid>
             <pubDate>Thu, 02 Nov 2023 00:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286860">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286860">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102091005_8523000d63f1533701b5d3a13e1e866f.jpg" alt="대체 텍스트">
@@ -48,7 +48,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286852</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=286852</guid>
             <pubDate>Thu, 02 Nov 2023 00:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286852">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286852">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102090441_265f6b2c46077312fdc5940d3df7f103.jpg" alt="대체 텍스트">
@@ -65,7 +65,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286838</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=286838</guid>
             <pubDate>Thu, 02 Nov 2023 00:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286838">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286838">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102083041_6c0d0d7a624d90ea5a94161ef55bc8c9.png" alt="대체 텍스트">
