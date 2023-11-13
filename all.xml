@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 01:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 02:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 호러 명가 블룸하우스 대표 제이슨 블룸.. “프레디의 피자가게, 독창적으로 무서운 영화” (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=288641</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288641</guid>
+            <pubDate>Mon, 13 Nov 2023 02:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288641">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113104847_401e293f72acc76cd580e7e4834e8a6a_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288641">[인터뷰] 호러 명가 블룸하우스 대표 제이슨 블룸.. “프레디의 피자가게, 독창적으로 무서운 영화”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113104847_401e293f72acc76cd580e7e4834e8a6a_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["One Summer Night~" 클래식 '사랑의 스잔나' 12월 재개봉 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288197</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288004">영화 '서울의 봄'..  1979년 12월 12일, 운명의 그날!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109095623_c6eb52d08015df38fc9b6fd1d8651256.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울독립영화제  공식기자회견, 개막작 '신생대의 삶' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287991</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287991</guid>
-            <pubDate>Thu, 09 Nov 2023 01:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287991">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109094227_e9297e1d2a1142f9098af2547e47b54a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287991">서울독립영화제  공식기자회견, 개막작 '신생대의 삶'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109094227_e9297e1d2a1142f9098af2547e47b54a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN '마에스트라' "최고의 오케스트라를 위해.."  1차 티저영상 공개 (KBS연예 ─ TVs)]]></title>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288636</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=288636</guid>
             <pubDate>Mon, 13 Nov 2023 00:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288636">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288636">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113092541_0d47c558a6110f0e19bb78d6ad5e983b_1.png" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288547</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=288547</guid>
             <pubDate>Mon, 13 Nov 2023 00:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288547">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288547">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231112215732_f11dc873ff1d8657b5dbbfcde2bd7aff_1.jpg" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288480</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=288480</guid>
             <pubDate>Sun, 12 Nov 2023 21:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288480">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288480">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231112112946_cffcf41946746f1bbcc38cbb015422e5.jpg" alt="대체 텍스트">
