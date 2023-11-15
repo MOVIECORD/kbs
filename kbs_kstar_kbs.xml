@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 15:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 16:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[살림하는 남자들2] 워킹맘이 된 하은?! 육아를 돕기 위해 짐을 한 보따리 싸서 찾아온 장모님…]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289126</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289126</guid>
+            <pubDate>Wed, 15 Nov 2023 16:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289126">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116005533_5ca28eaf575eed9a5d535f0770f2fe82_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289126">[살림하는 남자들2] 워킹맘이 된 하은?! 육아를 돕기 위해 짐을 한 보따리 싸서 찾아온 장모님…</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116005533_5ca28eaf575eed9a5d535f0770f2fe82_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] 주영의 취미는 풋살! ‘풋살’이라는 단어를 듣자마자 자동 반응하는 김종국]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289122</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114214059_7f9af6ae03e1b7519199bab9e66b0b17_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우당탕탕 패밀리] 이도겸이 보낸 데이트 장소 메시지를 이효나 방해로 받지 못했던 남상지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288950</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288950</guid>
-            <pubDate>Tue, 14 Nov 2023 13:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288950">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114213831_50f93ecbb0363445930b8e9499b32abf_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288950">[우당탕탕 패밀리] 이도겸이 보낸 데이트 장소 메시지를 이효나 방해로 받지 못했던 남상지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114213831_50f93ecbb0363445930b8e9499b32abf_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
