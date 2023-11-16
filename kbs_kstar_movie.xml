@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 22:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 23:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['3일의 휴가' 김해숙-신민아의 힐링 판타지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289025</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289025</guid>
+            <pubDate>Thu, 16 Nov 2023 23:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289025">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115080153_062bd8b2e84c194443bfc3b37965278e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289025">'3일의 휴가' 김해숙-신민아의 힐링 판타지</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115080153_062bd8b2e84c194443bfc3b37965278e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Let It Go~"  디즈니, '겨울왕국' 10주년 특급 이벤트 진행]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289192</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288624">티빙 오리지널 '스우파2 : 월드와이드로그'.. '츠바킬'의 하루</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113085559_8e5b5b3c34879c9a575bbd1b64684deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 범죄스릴러 '악연', 목격자와 트라우마... 박해수-신민아-이희준-김성균-이광수-공승연 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288552</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288552</guid>
-            <pubDate>Mon, 13 Nov 2023 19:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288552">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231112220604_360e02154070b891ac3451ba6c486442.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288552">넷플릭스 범죄스릴러 '악연', 목격자와 트라우마... 박해수-신민아-이희준-김성균-이광수-공승연 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231112220604_360e02154070b891ac3451ba6c486442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
