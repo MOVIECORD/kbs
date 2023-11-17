@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 19:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 20:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 한층 더 성숙해진 판타지 보이즈, 감성적이고 파워풀한 무대 ♪Potential]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289392</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289392</guid>
+            <pubDate>Fri, 17 Nov 2023 20:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289392">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118045429_8138d8c2f9d0424f194b8c1a3328b01e_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289392">[뮤직뱅크] 한층 더 성숙해진 판타지 보이즈, 감성적이고 파워풀한 무대 ♪Potential</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118045429_8138d8c2f9d0424f194b8c1a3328b01e_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 고요함을 깨뜨리러 등장한 레드벨벳으로 인해 뒤바뀌어 버린 세계 ♪Chill Kill]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289388</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289388</guid>
+            <pubDate>Fri, 17 Nov 2023 20:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289388">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118044241_336d01b95428862e60396b61a45705ed.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289388">[뮤직뱅크] 고요함을 깨뜨리러 등장한 레드벨벳으로 인해 뒤바뀌어 버린 세계 ♪Chill Kill</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118044241_336d01b95428862e60396b61a45705ed.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 첫눈과 함께 1위를 차지한 스트레이 키즈 ♪락(樂)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289384</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289384</guid>
+            <pubDate>Fri, 17 Nov 2023 20:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289384">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118043049_3fc1ad3510a80b9df2dac2ee359ea78c_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289384">[뮤직뱅크] 첫눈과 함께 1위를 차지한 스트레이 키즈 ♪락(樂)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118043049_3fc1ad3510a80b9df2dac2ee359ea78c_1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[드라마스페셜 '마님은 왜 마당쇠에게 고기를 주었나'.. 신분초월 ‘고기 스캔들’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289232</link>
@@ -311,60 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116091848_46f51b8b7c6057c480910e8004210bcc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS '환상연가' 내년 1월 첫 방송... 박지훈-홍예지-황희-지우]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289169</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289169</guid>
-            <pubDate>Thu, 16 Nov 2023 00:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289169">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116081946_9c914466c335db7631d87c55ce0d3df4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289169">KBS '환상연가' 내년 1월 첫 방송... 박지훈-홍예지-황희-지우</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116081946_9c914466c335db7631d87c55ce0d3df4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 대기획 <인간:신세계로부터> 2부 ‘메두사호의 뗏목’.. 표류하는 우리 사회를 위한 이야기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289079</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289079</guid>
-            <pubDate>Wed, 15 Nov 2023 21:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289079">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115172650_a1ad05e686397fd54f89c195589d42e8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289079">KBS 대기획 &lt;인간:신세계로부터&gt; 2부 ‘메두사호의 뗏목’.. 표류하는 우리 사회를 위한 이야기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B8%EA%B0%84%3A%EC%8B%A0%EC%84%B8%EA%B3%84%EB%A1%9C%EB%B6%80%ED%84%B0">인간:신세계로부터</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115172650_a1ad05e686397fd54f89c195589d42e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들2] 희철을 찾아온 22년 지기 절친 유하나와 함께 명절 음식 소생에 나선 이희철!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289138</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289138</guid>
-            <pubDate>Wed, 15 Nov 2023 17:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289138">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116012324_fc118325c1813f0260dfa24fee187699_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289138">[살림하는 남자들2] 희철을 찾아온 22년 지기 절친 유하나와 함께 명절 음식 소생에 나선 이희철!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116012324_fc118325c1813f0260dfa24fee187699_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
