@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 13:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 14:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우당탕탕 패밀리] 병문안 핑계로 다짜고짜 이도겸 집 찾아가는 진격의 이효나]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289815</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289815</guid>
+            <pubDate>Mon, 20 Nov 2023 14:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289815">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120222534_798664b8435e84d2931ad2334db8a5de_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289815">[우당탕탕 패밀리] 병문안 핑계로 다짜고짜 이도겸 집 찾아가는 진격의 이효나 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120222534_798664b8435e84d2931ad2334db8a5de_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[우아한 제국] “애한테 이러는 거 학대에요!” 어린 딸에 언어폭력 쏟아붓는 이시강 다그치는 한지완]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289810</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231119213705_7efaff96a9dec32394dc30d8f0d2c870_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] ‘먹세윤’ 문세윤 음식 거부 사태?! 호불호 극명한 두리안과 전쟁 선포]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289613</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289613</guid>
-            <pubDate>Sun, 19 Nov 2023 13:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289613">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231119211641_80b4ad7cab786406413e70315722c187_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289613">[1박2일] ‘먹세윤’ 문세윤 음식 거부 사태?! 호불호 극명한 두리안과 전쟁 선포</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231119211641_80b4ad7cab786406413e70315722c187_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
