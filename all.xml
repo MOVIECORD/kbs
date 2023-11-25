@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 14:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 15:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118194636_d8e6757a8148291beb8e9b3e6a28b344_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[효심이네 각자도생] ”누가 돈을 가져간거야!“  오열하는 유이를 달래주는 하준 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290609</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290609</guid>
+            <pubDate>Sat, 25 Nov 2023 15:01:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290609">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125231739_5abbf60a3400924a4e66f74046265498_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290609">[효심이네 각자도생] ”누가 돈을 가져간거야!“  오열하는 유이를 달래주는 하준</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125231739_5abbf60a3400924a4e66f74046265498_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[불후의 명곡] 싸이(PSY) ‘강남스타일’ 미국에 소환...‘말춤’으로 관객 호응 MAX (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290605</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=290605</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%9C44%ED%9A%8C%20%EC%B2%AD%EB%A3%A1%EC%98%81%ED%99%94%EC%83%81%20%EC%8B%9C%EC%83%81%EC%8B%9D">제44회 청룡영화상 시상식</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124221928_48b95f09aacdb5f09ffcc81108c8c0f9_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 방예담, 매력 철철~ 솔로 가수로 핫 데뷔 ♪하나만 해 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290524</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290524</guid>
-            <pubDate>Fri, 24 Nov 2023 12:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290524">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124210522_1117215658729c5dc35c49b303cbdd6e_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290524">[뮤직뱅크] 방예담, 매력 철철~ 솔로 가수로 핫 데뷔 ♪하나만 해</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124210522_1117215658729c5dc35c49b303cbdd6e_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
