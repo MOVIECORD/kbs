@@ -4,9 +4,43 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 10:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 11:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[놀라운 토요일] 래퍼 스윙스 - 가수 크러쉬 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290581</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290581</guid>
+            <pubDate>Sat, 25 Nov 2023 11:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290581">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125200024_49fae02e2ea6e9812170237f8d8e9757_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290581">[놀라운 토요일] 래퍼 스윙스 - 가수 크러쉬 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125200024_49fae02e2ea6e9812170237f8d8e9757_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마이 데몬] 김유정X송강, ‘십자가 타투’ 소유권 티격태격...  “원래는 내 거”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290574</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290574</guid>
+            <pubDate>Sat, 25 Nov 2023 11:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290574">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125193041_7ba106524195896c085485a53cd2fe78.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290574">[마이 데몬] 김유정X송강, ‘십자가 타투’ 소유권 티격태격...  “원래는 내 거” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125193041_7ba106524195896c085485a53cd2fe78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '콩콩팥팥' 출연진 vs. 제작진..  '500평 제초작업, 표면장력 게임 ']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290452</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289492">'힘쎈여자 강남순' 이유미-옹성우,해독제 비밀 파헤친다 (18일, 13회 예고)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118194636_d8e6757a8148291beb8e9b3e6a28b344_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['놀라운 토요일'  스트레이 키즈 창빈X필릭스 출격]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289486</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289486</guid>
-            <pubDate>Sat, 18 Nov 2023 11:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289486">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118193707_c6a5e953fe05921569ac400fdcb90eca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289486">'놀라운 토요일'  스트레이 키즈 창빈X필릭스 출격</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118193707_c6a5e953fe05921569ac400fdcb90eca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연인] 오늘 최종회.. 남궁민X안은진 애절한 사랑의 결말은?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289479</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289479</guid>
-            <pubDate>Sat, 18 Nov 2023 01:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289479">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118102406_0f4c408a31fbcf287236b7943bca1226.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289479">[연인] 오늘 최종회.. 남궁민X안은진 애절한 사랑의 결말은?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118102406_0f4c408a31fbcf287236b7943bca1226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
