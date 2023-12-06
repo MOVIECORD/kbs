@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 23:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 00:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '경성크리처' 시즌1..  "1945년 경성의 화려함, 그 뒤에는 비밀이 있다" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292201</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292201</guid>
+            <pubDate>Tue, 05 Dec 2023 23:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292201">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205124759_29004a602f2733653b8f45d096d63764.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292201">넷플릭스 '경성크리처' 시즌1..  "1945년 경성의 화려함, 그 뒤에는 비밀이 있다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205124759_29004a602f2733653b8f45d096d63764.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+ '퀴즈 레이디',   산드라 오 - 아콰피나,  "상극 자매의 퀴즈 쇼~" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292341</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292341</guid>
+            <pubDate>Wed, 06 Dec 2023 00:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292341">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084723_81441b81c4b5ca17b9500287771a4afc.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292341">디즈니+ '퀴즈 레이디',   산드라 오 - 아콰피나,  "상극 자매의 퀴즈 쇼~" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084723_81441b81c4b5ca17b9500287771a4afc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['사랑의 스잔나'.. "엄마, 아빠가 그 옛날 봤던 추억의 영화" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292339</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292339</guid>
+            <pubDate>Wed, 06 Dec 2023 00:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292339">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084156_52bf410e3a0fce9abfd02f3ec40a448e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292339">'사랑의 스잔나'.. "엄마, 아빠가 그 옛날 봤던 추억의 영화"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084156_52bf410e3a0fce9abfd02f3ec40a448e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['3일의 휴가' 오늘 개봉.. 김해숙-신민아 힐링 판타지 "엄마, 고향, 그리고 집밥" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=292323</link>
@@ -40,23 +91,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291910">넷플릭스 '좀비버스' 시즌2... "레벨업 좀비, 세계관 확장"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204073505_efc6c8e5fa498ab6574807ef6f3477ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '경성크리처' 시즌1..  "1945년 경성의 화려함, 그 뒤에는 비밀이 있다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292201</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292201</guid>
-            <pubDate>Tue, 05 Dec 2023 23:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292201">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205124759_29004a602f2733653b8f45d096d63764.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292201">넷플릭스 '경성크리처' 시즌1..  "1945년 경성의 화려함, 그 뒤에는 비밀이 있다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205124759_29004a602f2733653b8f45d096d63764.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘서울의 봄’.. “100만,200만,300만,400만... 그리고 500만” (KBS연예 ─ 영화)]]></title>
@@ -314,38 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203095201_abd3567ce8ba36b397adcbda216f8a0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울독립영화제2023 화려한 개막 , "독립영화, 디어 라이프!" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291782</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291782</guid>
-            <pubDate>Sun, 03 Dec 2023 00:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291782">	<span class="img-box hh">
+            <title><![CDATA[tvN 새 드라마 '내 남편과 결혼해줘'...  나인우, "복수는 같이, 로맨스는 함께" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292118</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292118</guid>
+            <pubDate>Wed, 06 Dec 2023 00:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292118">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203091325_95ee6bfa4dbc9afbdcce1261747f3d27.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205091428_58050256ec5caa86784869c8f5752e05.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291782">서울독립영화제2023 화려한 개막 , "독립영화, 디어 라이프!"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292118">tvN 새 드라마 '내 남편과 결혼해줘'...  나인우, "복수는 같이, 로맨스는 함께"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203091325_95ee6bfa4dbc9afbdcce1261747f3d27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[왓챠] SF코미디 '팟 제너레이션', 리바이벌 시즌 '덱스터: 뉴 블러드' 신규 입점 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291715</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291715</guid>
-            <pubDate>Sat, 02 Dec 2023 00:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291715">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202092257_cb9a87ff528afcb15dd693fbf7cfc042_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291715">[왓챠] SF코미디 '팟 제너레이션', 리바이벌 시즌 '덱스터: 뉴 블러드' 신규 입점</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202092257_cb9a87ff528afcb15dd693fbf7cfc042_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205091428_58050256ec5caa86784869c8f5752e05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[벌거벗은 세계사] "야쿠자는 어떻게 일본 사회를 좀먹었나?" (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128110219_c29eba8ce73b05aec3b042f62eae32ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘벌거벗은 세계사’..  1992년 LA 폭동 "코리아타운의 탄생과 비극" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291123</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291123</guid>
-            <pubDate>Tue, 28 Nov 2023 07:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291123">	<span class="img-box hh">
+            <title><![CDATA['다큐인사이트 - 독도평전' 김탁환 작가와 가다...  "8K 초고화질의 독도 탐방" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292157</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292157</guid>
+            <pubDate>Wed, 06 Dec 2023 00:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292157">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128150946_aa6b96de64917e0fd2f0a971f9bd2e68.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205100953_274627b904f72657bd8efdafe2c56a67.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291123">‘벌거벗은 세계사’..  1992년 LA 폭동 "코리아타운의 탄생과 비극" </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292157">'다큐인사이트 - 독도평전' 김탁환 작가와 가다...  "8K 초고화질의 독도 탐방"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8">다큐 인사이트</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128150946_aa6b96de64917e0fd2f0a971f9bd2e68.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205100953_274627b904f72657bd8efdafe2c56a67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[혼례대첩 11회] 로운-조이현, “두 번째 사랑, 이대로 좌절될까?” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292335</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292335</guid>
+            <pubDate>Wed, 06 Dec 2023 00:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292335">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206081400_32d7dec6dae64d20f20289117eff579a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292335">[혼례대첩 11회] 로운-조이현, “두 번째 사랑, 이대로 좌절될까?”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206081400_32d7dec6dae64d20f20289117eff579a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KBS '환상연가' 황희, 비운의 서자 '사조 융' (KBS연예 ─ KBS)]]></title>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205152217_65ba9c02e2e558adc2f96d64cec1e6fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBS 시사기획 창] '홍범도와 홍범도' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292141</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292141</guid>
-            <pubDate>Tue, 05 Dec 2023 01:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292141">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205094101_5050bb05e23f94d594022ae9aea53863.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292141">[KBS 시사기획 창] '홍범도와 홍범도'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205094101_5050bb05e23f94d594022ae9aea53863.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이돌아왔다] 국민엄마 김해숙, 스페셜 내레이터 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292135</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292135</guid>
-            <pubDate>Tue, 05 Dec 2023 01:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292135">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205093347_a50ba70f097453b5d3d4f1ca5ec0363f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292135">[슈퍼맨이돌아왔다] 국민엄마 김해숙, 스페셜 내레이터</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205093347_a50ba70f097453b5d3d4f1ca5ec0363f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
