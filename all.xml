@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 02:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 03:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡플레이 '소년시대'.. "어뜩해유, 우리 병태~" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293180</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293180</guid>
+            <pubDate>Tue, 12 Dec 2023 03:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293180">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231212114548_caf7672520baf4b811c0ee0154c69e59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293180"> 쿠팡플레이 '소년시대'.. "어뜩해유, 우리 병태~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231212114548_caf7672520baf4b811c0ee0154c69e59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["미나토와 요리가 궁금하다!"...   '괴물' 쿠로카와 소야, 히이라기 히나타 서울 온다 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293159</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292529">'다음 소희' 한국영화제작가협회상 작품상 수상... 정유미-강하늘 주연상 수상 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207193206_1b6d4e29d113087ca3c8270c1b804121_1.jfif" length="0" type="image/jfif"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '운수 오진 날' 파트2... "원작에는 없었던 새로운 이야기" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292311</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292311</guid>
-            <pubDate>Thu, 07 Dec 2023 15:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292311">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207231420_238fc8374c2f244622894515adec8fe6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292311">티빙 '운수 오진 날' 파트2... "원작에는 없었던 새로운 이야기"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207231420_238fc8374c2f244622894515adec8fe6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENA '모래에도 꽃이 핀다' 씨름판의 장동윤.. "내 생애 마지막 경기가 될지도 모른다!" (KBS연예 ─ TVs)]]></title>
