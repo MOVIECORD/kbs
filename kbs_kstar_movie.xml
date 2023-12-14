@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 03:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 04:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이명우 감독..  “17대1, 칠공주, 부여백호, 그 전설 들어봤니?” (쿠팡플레이 ‘소년시대’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293473</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293473</guid>
+            <pubDate>Thu, 14 Dec 2023 04:01:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293473">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214115234_7d3389fcb200d894392d80797fd1e951.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293473">[인터뷰] 이명우 감독..  “17대1, 칠공주, 부여백호, 그 전설 들어봤니?” (쿠팡플레이 ‘소년시대’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214115234_7d3389fcb200d894392d80797fd1e951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 영화 심상찮다!" 셀린 송 감독 '패스트 라이브즈'... 크리틱스초이스어워즈 3개부문 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293471</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293036">'외계+인 2부' 1월 10일 개봉... "마침내 모든 비밀이 밝혀진다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231211080906_991557afd09affb66315f3750d90a3cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리들리 스콧 감독 '나폴레옹'  촬영 비하인드 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292925</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292925</guid>
-            <pubDate>Sun, 10 Dec 2023 23:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292925">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210174223_3204c7a3cc96551ed4ce5aa34ead0990.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292925">리들리 스콧 감독 '나폴레옹'  촬영 비하인드 공개 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210174223_3204c7a3cc96551ed4ce5aa34ead0990.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
