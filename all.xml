@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 14:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207181031_782dca02cf0bd7f7407dd9be32908b45_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[효심이네 각자도생] 이휘향에 모욕 당한 유이, 하준에 “우리 없던 일로 해요” 초고속 이별 통보 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293714</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293714</guid>
+            <pubDate>Sat, 16 Dec 2023 15:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293714">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216230548_094c2be3c6bc833c8952de8f5591995a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293714">[효심이네 각자도생] 이휘향에 모욕 당한 유이, 하준에 “우리 없던 일로 해요” 초고속 이별 통보</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216230548_094c2be3c6bc833c8952de8f5591995a_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[효심이네 각자도생] 유이에 선 넘는 이휘향, “내 아들이 필요할 때만 뒤에서 만나” 모욕 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293710</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=293710</guid>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214083555_5eea54494a40f6e5085cb7c2a1d5baa5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[서치미] ‘서치미 주연배우 오디션’에서 하하는 지석진을 찾아내는데 성공했지만…송금 결과는? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293500</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293500</guid>
-            <pubDate>Thu, 14 Dec 2023 16:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293500">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231215005954_b65877d8d8cd56ae19cc2857f08bfdde_1.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293500">[서치미] ‘서치미 주연배우 오디션’에서 하하는 지석진을 찾아내는데 성공했지만…송금 결과는? </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%9C%EC%B9%98%3A%EB%AF%B8">서치:미</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231215005954_b65877d8d8cd56ae19cc2857f08bfdde_1.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
