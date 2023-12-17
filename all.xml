@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 13:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 14:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231209172150_514a0128f2a7d514cb3fe9a51a489399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 자칭 ‘스타셰프’ 정지선 “유튜브에서도 스타 되고 싶다”...히밥 초대 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293828</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293828</guid>
+            <pubDate>Sun, 17 Dec 2023 14:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293828">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217225039_78d4a7227b92c52369f783bf07cdb10b_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293828">[사장님 귀는 당나귀 귀] 자칭 ‘스타셰프’ 정지선 “유튜브에서도 스타 되고 싶다”...히밥 초대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217225039_78d4a7227b92c52369f783bf07cdb10b_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사장님 귀는 당나귀 귀] 호텔 CEO 김헌성 ‘라떼’ 조언에 MZ 직원 “너무 옛날이야기” 팩폭 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293824</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=293824</guid>
@@ -1026,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216221742_d63b01caa036c9a1b3a9350b22125897_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 이수지, 이경규 위한 특별무대...이소라 완벽 변신 ‘바람이 분다’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293698</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293698</guid>
-            <pubDate>Sat, 16 Dec 2023 13:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293698">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216214957_b3b8fd276897d884686320008ff1b853_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293698">[불후의 명곡] 이수지, 이경규 위한 특별무대...이소라 완벽 변신 ‘바람이 분다’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216214957_b3b8fd276897d884686320008ff1b853_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
