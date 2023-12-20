@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 23:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 00:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["빠바바~밤!"  티빙 '이재,곧 죽습니다'... "서인국, 최시원, 성훈, 김강훈, 장승조, 이재욱, 이도현..."]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294235</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294235</guid>
+            <pubDate>Wed, 20 Dec 2023 00:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294235">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231220081253_50fc99ffac91bf62f515412890996d64.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294235">"빠바바~밤!"  티빙 '이재,곧 죽습니다'... "서인국, 최시원, 성훈, 김강훈, 장승조, 이재욱, 이도현..."</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231220081253_50fc99ffac91bf62f515412890996d64.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["우주 소년 아~톰" 애니메이션 '아톰 새로운 시작' 1월 개봉... 조병규 김소원 김강현 더빙 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294110</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293603">'경성크리처' "1945년 경성, 시대의 어둠과 화려함을 담다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216090638_760ba6bc61a23170185fe909e4ecc221.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김대중 대통령 탄생 100주년 기념영화  '길위에 김대중'... 배우 장현성 내레이션 참여]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293737</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293737</guid>
-            <pubDate>Sat, 16 Dec 2023 22:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293737">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217065720_735b7ebc9bf9f1b5c32f6cdca632eaa2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293737">김대중 대통령 탄생 100주년 기념영화  '길위에 김대중'... 배우 장현성 내레이션 참여</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217065720_735b7ebc9bf9f1b5c32f6cdca632eaa2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
