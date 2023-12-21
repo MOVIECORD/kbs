@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 22:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 23:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 '이재, 곧 죽습니다' 인기 질주.. "시크릿 캐릭터의 사연들"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294517</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294517</guid>
+            <pubDate>Thu, 21 Dec 2023 23:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294517">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231222071411_a8b24110d1f08b48745bbb1ef2cc9e84.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294517">티빙 '이재, 곧 죽습니다' 인기 질주.. "시크릿 캐릭터의 사연들" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231222071411_a8b24110d1f08b48745bbb1ef2cc9e84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡플레이 '소년시대' 촬영 현장 비하인드  스틸.. "병태는 즐거워유~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294465</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293975">'마블의 극한치' &lt;에코&gt; ... "모든 악행에는 대가가 따른다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218145307_d9c1ad02507f5b9f101e12af4433e6de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스위트홈'은 계속된다...  시즌3 2024년 여름 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293424</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293424</guid>
-            <pubDate>Mon, 18 Dec 2023 21:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293424">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214082403_611ae8d19bcb11c1c338f202dd647f70_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293424">'스위트홈'은 계속된다...  시즌3 2024년 여름 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214082403_611ae8d19bcb11c1c338f202dd647f70_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
