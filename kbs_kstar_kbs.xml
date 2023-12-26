@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 20:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 21:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS '환상연가' 윤경아 작가가 꼽은 키워드.. #박지훈 #지독한 사랑 #성장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294635</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294635</guid>
+            <pubDate>Tue, 26 Dec 2023 21:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294635">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223081855_618d2faaceb97db107decc238f0b21f3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294635">KBS '환상연가' 윤경아 작가가 꼽은 키워드.. #박지훈 #지독한 사랑 #성장</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223081855_618d2faaceb97db107decc238f0b21f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 친화력 갑! 준범 애정 공세에 무장해제 된 젠, “형아가 밥 먹여줄게” 의젓미 물씬~★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295231</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226004559_e8a77fb2a93ee495cd925fe77890718f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[혼례대첩] 들키기 직전 신방 입성 성공한 오예주♥최경훈, 뒤바뀐 신랑에 박지영 기겁...]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295056</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295056</guid>
-            <pubDate>Mon, 25 Dec 2023 16:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295056">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226004250_a16306590b19534bed59704725fb6157_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295056">[혼례대첩] 들키기 직전 신방 입성 성공한 오예주♥최경훈, 뒤바뀐 신랑에 박지영 기겁...</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226004250_a16306590b19534bed59704725fb6157_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
