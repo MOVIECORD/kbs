@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 16:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 17:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[살림하는 남자들2] 현진영 부부의 시장 방문! 그를 돌봐준 보호자의 정체 최초 공개!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296387</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296387</guid>
+            <pubDate>Wed, 03 Jan 2024 17:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296387">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104021618_0fe61b671f21ce0d662b819c9c19504f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296387">[살림하는 남자들2] 현진영 부부의 시장 방문! 그를 돌봐준 보호자의 정체 최초 공개!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104021618_0fe61b671f21ce0d662b819c9c19504f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] 톱스타들이 대거 참석한 심형탁&사야의 결혼식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296383</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102214712_e64ff097e5f8070143ac9eaf9628c587.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우아한 제국] 죽지도 않은 남경읍 사망 보험금 주식으로 탕진한 김서라 “그 큰돈을 다 썼어요?” 이시강 당황]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296229</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296229</guid>
-            <pubDate>Tue, 02 Jan 2024 13:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296229">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102211515_c3c461d806665b749ec544d8811839c4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296229">[우아한 제국] 죽지도 않은 남경읍 사망 보험금 주식으로 탕진한 김서라 “그 큰돈을 다 썼어요?” 이시강 당황</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A0%9C%EA%B5%AD">일일드라마 우아한 제국</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102211515_c3c461d806665b749ec544d8811839c4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
