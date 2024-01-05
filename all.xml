@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 13:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 14:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227083939_aef21ca5da41f9654d998dcfb1e01e89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] 8TURN(에잇턴), 흘러넘치는 멋과 한계 없는 자신감 ♪RU-PUM PUM (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296601</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296601</guid>
+            <pubDate>Fri, 05 Jan 2024 14:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296601">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105225854_38425339664129274a8d8ebfb3e3db3c_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296601">[뮤직뱅크] 8TURN(에잇턴), 흘러넘치는 멋과 한계 없는 자신감 ♪RU-PUM PUM</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105225854_38425339664129274a8d8ebfb3e3db3c_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[‘골든걸스’ 이은미, ‘섹시 랩퀸’ 등극... 킬링 랩으로 리듬+끼 大 방출 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296582</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=296582</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104021618_0fe61b671f21ce0d662b819c9c19504f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 톱스타들이 대거 참석한 심형탁&사야의 결혼식 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296383</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296383</guid>
-            <pubDate>Wed, 03 Jan 2024 15:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296383">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103234522_d36c536910e4abfb432d94c9e6e1d66d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296383">[옥탑방의 문제아들] 톱스타들이 대거 참석한 심형탁&amp;사야의 결혼식 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103234522_d36c536910e4abfb432d94c9e6e1d66d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
