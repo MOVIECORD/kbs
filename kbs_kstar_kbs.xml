@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 23:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 00:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[고려거란전쟁 16회] "양규와 김숙흥은 화살을 고슴도치처럼 온몸에 맞고 함께 전사하였다...(고려사)"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=297002</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=297002</guid>
+            <pubDate>Mon, 08 Jan 2024 00:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=297002">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240108081311_4171b70d1cb1aed520ecb500394a3330.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297002">[고려거란전쟁 16회] "양규와 김숙흥은 화살을 고슴도치처럼 온몸에 맞고 함께 전사하였다...(고려사)"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240108081311_4171b70d1cb1aed520ecb500394a3330.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['피도 눈물도 없이' 이소연X오창석, 완벽녀와 완벽남의 만남]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296840</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107201154_8187b94fc4abbf565ccbdeea44bf7027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고려거란전쟁 15회]  양규, 귀주 협곡서 게릴라 전투 승리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296903</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296903</guid>
-            <pubDate>Sun, 07 Jan 2024 00:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296903">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107081639_97e38386745c60c125851563ed9eca39.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296903">[고려거란전쟁 15회]  양규, 귀주 협곡서 게릴라 전투 승리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107081639_97e38386745c60c125851563ed9eca39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
