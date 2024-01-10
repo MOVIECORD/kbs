@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 00:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 01:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘길위에 김대중’  행동하는 양심, 인동초의 삶 (민환기 감독) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=297472</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=297472</guid>
+            <pubDate>Wed, 10 Jan 2024 01:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=297472">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110103232_88ecb22b0104cb1e419653d05bb4267b.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297472">[리뷰] ‘길위에 김대중’  행동하는 양심, 인동초의 삶 (민환기 감독)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110103232_88ecb22b0104cb1e419653d05bb4267b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김태리, "미래를 구하라! 속편을 구하라!"  (영화 ‘외계+인’ 2부) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=297457</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296846">'킬러들의 쇼핑몰' 김혜준 선전포고.. "계속 덤빈다면 다 죽게될 거야"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107063230_d30d49c26b85161790a28de9b53b34a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 마블 오리지널 '에코'..  알라콰 콕스의 마블 액션 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296790</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296790</guid>
-            <pubDate>Sat, 06 Jan 2024 16:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296790">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106222648_ae192738535d8dd60393034ac0b7e9e0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296790">디즈니+ 마블 오리지널 '에코'..  알라콰 콕스의 마블 액션 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106222648_ae192738535d8dd60393034ac0b7e9e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC '끝내주는 해결사' 이지아 액션 출사표... “결혼이 지옥인 사람들을 구해주고 싶어” (KBS연예 ─ TVs)]]></title>
