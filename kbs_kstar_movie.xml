@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 01:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 02:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '에코'..  '호크아이'의 마야,  핏빛 히어로 되다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=297490</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=297490</guid>
+            <pubDate>Wed, 10 Jan 2024 02:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=297490">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110105406_e4e2876f8dee4908b4e15fea1efce55d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297490">디즈니+ '에코'..  '호크아이'의 마야,  핏빛 히어로 되다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110105406_e4e2876f8dee4908b4e15fea1efce55d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘길위에 김대중’  행동하는 양심, 인동초의 삶 (민환기 감독)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=297472</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296874">CGV 특별관 라인업... 특별하게 만나는 ‘위시’, ‘외계+인 2부’, ‘인투 더 월드’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107065729_27075cc5aeb1c488b10be62cf6c8bafd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰' 김혜준 선전포고.. "계속 덤빈다면 다 죽게될 거야"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296846</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296846</guid>
-            <pubDate>Sat, 06 Jan 2024 22:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296846">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107063230_d30d49c26b85161790a28de9b53b34a4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296846">'킬러들의 쇼핑몰' 김혜준 선전포고.. "계속 덤빈다면 다 죽게될 거야"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107063230_d30d49c26b85161790a28de9b53b34a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
