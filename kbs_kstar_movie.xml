@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 22:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 23:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마동석 '범죄도시4',  베를린국제영화제  진출... “액션과 코미디의 활기 넘치는 조화”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298251</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298251</guid>
+            <pubDate>Mon, 15 Jan 2024 23:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298251">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116074155_ac879390da4d071ec34d682db43edc42.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298251">마동석 '범죄도시4',  베를린국제영화제  진출... “액션과 코미디의 활기 넘치는 조화”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116074155_ac879390da4d071ec34d682db43edc42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 'LTNS' 이솜의 블랙리스트... 이학주-김새벽-정진영-김우겸-양말복-정재원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=297875</link>
@@ -49,14 +66,14 @@
             <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298159">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240115115545_81c75617628ae100afc553fc10fd95a7.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116080010_a10ae0c9c1f8aefce3f1a410bc5d0999.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298159"> [현장] “킬러들의 무빙쇼” 디즈니플러스 ‘킬러들의 쇼핑몰’ 제작발표회</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240115115545_81c75617628ae100afc553fc10fd95a7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116080010_a10ae0c9c1f8aefce3f1a410bc5d0999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘사랑은 낙엽을 타고’ 핀란드식 사랑 (아키 카우리스마키 감독)]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297217">'킬러들의 쇼핑몰' 서현우, 스나이퍼 변신...“호랑이가 등장하는 것 같은 압도감”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240109082341_5606b47782e59a0fadca49c549c6b8b7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '선산' 연상호의 괴이한 풍경.. "스산한 공간, 토속적 요소"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=297428</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=297428</guid>
-            <pubDate>Thu, 11 Jan 2024 22:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=297428">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110075516_25d64a4e16f7a129d392bd82de624fed.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297428">넷플릭스 '선산' 연상호의 괴이한 풍경.. "스산한 공간, 토속적 요소"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240110075516_25d64a4e16f7a129d392bd82de624fed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
