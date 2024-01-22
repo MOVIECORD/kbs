@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 05:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 06:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“충분히 귀여웠나요?” ‘만달로리안 & 그로구’ 영화로 만들어진다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298610</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298610</guid>
+            <pubDate>Mon, 22 Jan 2024 06:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298610">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118140258_b09d4c21d9fbd9615acfe5a0fc305230_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298610">“충분히 귀여웠나요?” ‘만달로리안 &amp; 그로구’ 영화로 만들어진다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118140258_b09d4c21d9fbd9615acfe5a0fc305230_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<플랜 75> '초고령사회'를 미리 본다... “75세 이상 국민, 선택하세요” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=298618</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298976">넷플릭스 '선산' 오늘 공개... "가족이라는 이름의 선산"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119102354_6a515961e129fc12e4d04ee4a317830e.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 '악인취재기:사기공화국'... ‘어묵 군납 비리’ 사건의 재구성 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298901</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298901</guid>
-            <pubDate>Thu, 18 Jan 2024 23:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298901">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119075752_e670c50369f9d00f4cfb669e433690af.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298901">웨이브 '악인취재기:사기공화국'... ‘어묵 군납 비리’ 사건의 재구성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119075752_e670c50369f9d00f4cfb669e433690af.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['내 남편과 결혼해줘'  마케팅1팀 캠핑장 총집합.. "워크숍에서 생긴 일" (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240113084545_51f7cc190ee0306861ab4a3fc6131e94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['피도 눈물도 없이' 오늘 첫 방송... "혈연으로 묶인 자매의 잔혹동화" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=299432</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299432</guid>
+            <pubDate>Mon, 22 Jan 2024 06:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299432">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240122143119_914f597297f6edb02e8296e44f3b5d5d.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299432">'피도 눈물도 없이' 오늘 첫 방송... "혈연으로 묶인 자매의 잔혹동화"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240122143119_914f597297f6edb02e8296e44f3b5d5d.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[[고려거란전쟁 20회] 현종, 생사기로에 놓인 강감찬 구했다... “온 고려가 힘을 모아야 할 때” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299416</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=299416</guid>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240121211237_340d2b25c598c1ec7c50f213915f5ca9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] 호텔 CEO 김헌성도 떨게 만드는 브랜딩의 마녀 노희영, 앤디 워홀+데미안 허스트 작품이 집에? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299329</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299329</guid>
-            <pubDate>Sun, 21 Jan 2024 12:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299329">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240121210023_7db91be2913ecb35775293c16c755fe2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299329">[사장님 귀는 당나귀 귀] 호텔 CEO 김헌성도 떨게 만드는 브랜딩의 마녀 노희영, 앤디 워홀+데미안 허스트 작품이 집에?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240121210023_7db91be2913ecb35775293c16c755fe2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
