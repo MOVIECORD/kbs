@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 15:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 16:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119085431_69bd9544d7bf9e6e04cc084ee86614a3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[박원숙의 같이 삽시다] 용림도 원래는 편식이 강했다?! 왕언니 용림이 식습관을 바꾼 결정적인 이유 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=300116</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300116</guid>
+            <pubDate>Thu, 25 Jan 2024 16:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300116">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240126000337_42023cb7ce0896a220479e9ea63f93e4_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300116">[박원숙의 같이 삽시다] 용림도 원래는 편식이 강했다?! 왕언니 용림이 식습관을 바꾼 결정적인 이유 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240126000337_42023cb7ce0896a220479e9ea63f93e4_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[박원숙의 같이 삽시다] 시어머니를 18년 모시고 살면서 정신적으로 시집살이를 겪은 용림 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300112</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=300112</guid>
@@ -724,7 +742,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125235503_9e3443e0ce83865c798372d374525ae0_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 20여 년 만남! 숨길 수 없는 격한 반가움! 오늘의 손님은 과연 누구! (KBS연예 ─ KBS)]]></title>
+            <title><![CDATA[[박원숙의 같이 삽시다] 20여 년의 만남! 숨길 수 없는 격한 반가움! 오늘의 손님은 과연 누구! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300104</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=300104</guid>
             <pubDate>Thu, 25 Jan 2024 15:02:20 GMT</pubDate>
@@ -736,7 +754,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300104">[박원숙의 같이 삽시다] 20여 년 만남! 숨길 수 없는 격한 반가움! 오늘의 손님은 과연 누구! </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300104">[박원숙의 같이 삽시다] 20여 년의 만남! 숨길 수 없는 격한 반가움! 오늘의 손님은 과연 누구! </a></span>
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125234453_480899f72e36bcda95914eb07359eb65_1.jpg" length="0" type="image/jpg"/>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240123234257_3eaeb3204f643d95bafbacacb2daf7d9_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[환상연가] 힘겹게 왕위 올랐지만 ‘반푼이’ 트라우마에 국정 중 공황 증세 보이는 박지훈 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299656</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299656</guid>
-            <pubDate>Tue, 23 Jan 2024 15:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299656">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240123233340_84a0617f52b22e25da22b952f679065c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299656">[환상연가] 힘겹게 왕위 올랐지만 ‘반푼이’ 트라우마에 국정 중 공황 증세 보이는 박지훈</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240123233340_84a0617f52b22e25da22b952f679065c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
