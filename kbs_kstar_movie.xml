@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 01:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 02:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 두 세계 사이에서.. “우리가 일하는 이유”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301865</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301865</guid>
+            <pubDate>Tue, 06 Feb 2024 02:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301865">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206105339_d1b7288dc3e4ea83756533c0a5f51279.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301865">[리뷰] 두 세계 사이에서.. “우리가 일하는 이유”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206105339_d1b7288dc3e4ea83756533c0a5f51279.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 마동석 “원래는 악어가 아니라 사슴이었다” (넷플릭스 ‘황야’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301861</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301221">‘킬러들의 쇼핑몰’ 이동욱-조한선, “휙휙~ 무엇을 보았는가!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202192815_b11d7a260467f965d84f3f6c6ac39aa8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<바튼 아카데미> 예측불가 동고동락]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300890</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300890</guid>
-            <pubDate>Sat, 03 Feb 2024 16:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300890">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131103208_cdfd6561f3437931f15745ffd99ff5b1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300890"> &lt;바튼 아카데미&gt; 예측불가 동고동락</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131103208_cdfd6561f3437931f15745ffd99ff5b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
