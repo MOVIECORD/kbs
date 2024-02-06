@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 07:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 08:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131104002_b54d5a7b270cd22623b52ad18c7a5b26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['내 남편과 결혼해줘'  박민영-보아, "나인우 두고 맞붙나" (12회 예고) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301922</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301922</guid>
+            <pubDate>Tue, 06 Feb 2024 08:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301922">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206161711_ba5438893915d63e7523c578a1adf1a1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301922">'내 남편과 결혼해줘'  박민영-보아, "나인우 두고 맞붙나" (12회 예고)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206161711_ba5438893915d63e7523c578a1adf1a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mnet '커플팰리스' 량하, 커플 매칭 서바이벌 나서다 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301911</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301911</guid>
+            <pubDate>Tue, 06 Feb 2024 08:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301911">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206160726_44e8296d0bca4e46f27c6395d9470582.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301911">Mnet '커플팰리스' 량하, 커플 매칭 서바이벌 나서다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206160726_44e8296d0bca4e46f27c6395d9470582.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['벌거벗은 세계사' 뭉크의 절규.. "무엇이 그를 미치게 했나?" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301906</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301906</guid>
+            <pubDate>Tue, 06 Feb 2024 08:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301906">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206160227_141293745a04f128a56dbe8c5506f9a9_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301906">'벌거벗은 세계사' 뭉크의 절규.. "무엇이 그를 미치게 했나?"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206160227_141293745a04f128a56dbe8c5506f9a9_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['줄 서는 식당2'..  "삼각지 우대갈비, 줄을 서시오~" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301877</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=301877</guid>
@@ -637,55 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125142400_f4c9decf4de0acd4e306453a1b5373c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[내 남편과 결혼해줘 9회]  박민영, 자비 없는 응징 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300660</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300660</guid>
-            <pubDate>Tue, 30 Jan 2024 00:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300660">	<span class="img-box hh">
+            <title><![CDATA[‘슈퍼맨이 돌아왔다’ 준호네 삼부자 금의환향.. “우리 동네 마스코트야” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301916</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301916</guid>
+            <pubDate>Tue, 06 Feb 2024 08:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301916">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240130080941_256f88f22160d47b0accea5a359f21f5.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206161116_8e265dde749927ad4946822a5ed0d6c0.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300660">[내 남편과 결혼해줘 9회]  박민영, 자비 없는 응징</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301916">‘슈퍼맨이 돌아왔다’ 준호네 삼부자 금의환향.. “우리 동네 마스코트야”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240130080941_256f88f22160d47b0accea5a359f21f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '아파트404', 아마존 프라임비디오로 글로벌 공개 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299866</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299866</guid>
-            <pubDate>Mon, 29 Jan 2024 21:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299866">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143552_f5bdbb9a17371e78e9b7480c4d888718.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299866">tvN '아파트404', 아마존 프라임비디오로 글로벌 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143552_f5bdbb9a17371e78e9b7480c4d888718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '줄 서는 식당2' 박나래-한혜진.. "지옥의 웨이팅, 쥴슐랭 가이드" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299902</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299902</guid>
-            <pubDate>Mon, 29 Jan 2024 21:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299902">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143117_cb951d48531630737544b06adf840253.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299902"> tvN '줄 서는 식당2' 박나래-한혜진.. "지옥의 웨이팅, 쥴슐랭 가이드"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143117_cb951d48531630737544b06adf840253.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206161116_8e265dde749927ad4946822a5ed0d6c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘가요무대’ 강예슬, ‘시골 버스 여차장’ 무대 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205211536_a50d1c78d51a1a7d952b85fc0bc5d57f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님귀는당나귀 귀] 박명수의 2행시, 박기량의 라떼부장님 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301721</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301721</guid>
-            <pubDate>Mon, 05 Feb 2024 01:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301721">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205092914_8afd73b0edc4733f5a89e331b8e06175_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301721">[사장님귀는당나귀 귀] 박명수의 2행시, 박기량의 라떼부장님</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205092914_8afd73b0edc4733f5a89e331b8e06175_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
