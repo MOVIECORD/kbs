@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 20:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 21:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '갓랜드', "여기는 신의 땅"... 19세기, 지독하게 아름다운 아이슬란드 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302618</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302618</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302618">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240211202647_facdaecb27804d603303ecd500b84403.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302618">영화 '갓랜드', "여기는 신의 땅"... 19세기, 지독하게 아름다운 아이슬란드</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240211202647_facdaecb27804d603303ecd500b84403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["묫자리는 함부로 건드리면 안 되는거야!" 영화 '파묘' 메인 포스터 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302532</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302532</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302532">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210211739_c64e4aa019fd4a0b039b915664e343d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302532">"묫자리는 함부로 건드리면 안 되는거야!" 영화 '파묘' 메인 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210211739_c64e4aa019fd4a0b039b915664e343d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["우리는  BEST FRIENDS"  데드풀 3편은 울버린과 함께..  '데드풀과 울버린' 7월 개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302805</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302805</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302805">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212203531_b214820bd481a5c5f8286592ff5eafa4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302805"> "우리는  BEST FRIENDS"  데드풀 3편은 울버린과 함께..  '데드풀과 울버린' 7월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212203531_b214820bd481a5c5f8286592ff5eafa4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 살인자ㅇ난감 “난감한 살인자, 난감한 형사, 난감한 넷플릭스” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302963</link>
@@ -297,55 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210104044_1586c43e0e58416e52724d10d9454ade.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤제문-김지훈-이시아 영화 '은하수'.. "전설의 가왕 군단" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301883</guid>
-            <pubDate>Fri, 09 Feb 2024 16:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301883">	<span class="img-box ww">
+            <title><![CDATA[tvN '웨딩 임파서블' 전종서X문상민, 수상한 만남.. "어쩌면 로맨스?" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302225</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302225</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302225">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206125437_1025571faf174f2afaf818878a2123dd_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208122608_d3ad04c1b06e832cd3b69b07e2bc2bf6.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301883">윤제문-김지훈-이시아 영화 '은하수'.. "전설의 가왕 군단"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302225"> tvN '웨딩 임파서블' 전종서X문상민, 수상한 만남.. "어쩌면 로맨스?"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206125437_1025571faf174f2afaf818878a2123dd_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<로봇 드림> "어느 날 단짝 반려로봇이 생겼다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300912</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300912</guid>
-            <pubDate>Fri, 09 Feb 2024 16:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300912">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131104933_176e144563cb8b4f0d691e45852bc80b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300912"> &lt;로봇 드림&gt; "어느 날 단짝 반려로봇이 생겼다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131104933_176e144563cb8b4f0d691e45852bc80b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살인자ㅇ난감' 9일 공개..  "최우식-손석구-이희준의 반전" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302345</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302345</guid>
-            <pubDate>Fri, 09 Feb 2024 03:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302345">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209112810_13ea6340717a0166d1211d2a61891ce0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302345">'살인자ㅇ난감' 9일 공개..  "최우식-손석구-이희준의 반전"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209112810_13ea6340717a0166d1211d2a61891ce0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208122608_d3ad04c1b06e832cd3b69b07e2bc2bf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘벌거벗은세계사’  마거릿 대처의 두 얼굴  "영국병을 타파한 ‘철의 여인’.. 영웅? 마녀?" (KBS연예 ─ TVs)]]></title>
@@ -671,28 +688,29 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209080921_32240647f131767aee9df00012d9069c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘끝내주는 해결사’ 이지아, "코미디, 액션, 로맨스 다 된다" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302191</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302191</guid>
-            <pubDate>Thu, 08 Feb 2024 02:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302191">	<span class="img-box hh">
+            <title><![CDATA['멱살 한번 잡힙시다' 김하늘 티저포스터 공개.. "위풍당당 특종 전문기자" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302873</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302873</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302873">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208110028_1c2ca1f4ff39e022ec0b52939358ad00.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213085314_9461ce650db8b18937591bbea48ea2fd.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302191">‘끝내주는 해결사’ 이지아, "코미디, 액션, 로맨스 다 된다"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302873">'멱살 한번 잡힙시다' 김하늘 티저포스터 공개.. "위풍당당 특종 전문기자"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208110028_1c2ca1f4ff39e022ec0b52939358ad00.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213085314_9461ce650db8b18937591bbea48ea2fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환상연가] 해독제 대신 결혼 조건 거는 진회국 왕자 민선홍, “그럴게요” 박지훈 위해 희생하는 홍예지 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303064</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=303064</guid>
             <pubDate>Tue, 13 Feb 2024 15:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303064">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303064">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213235421_087ec434b91a52e524a705087ba8adb4_1.png" alt="대체 텍스트">
@@ -710,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303059</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=303059</guid>
             <pubDate>Tue, 13 Feb 2024 15:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303059">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303059">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213235107_daa4e5e6d488a6cedb7d799571eb5fc9_1.png" alt="대체 텍스트">
@@ -728,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303054</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=303054</guid>
             <pubDate>Tue, 13 Feb 2024 15:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303054">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303054">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213234926_8b667ca154a859e0d874838abb772958.png" alt="대체 텍스트">
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212202808_8c38d8759aa832ffa3a9e8a095950099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['멱살 한번 잡힙시다' 김하늘, ‘프로 멱살러’ 기자 변신 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302817</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302817</guid>
-            <pubDate>Mon, 12 Feb 2024 21:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302817">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212205931_dd5138acb85f1a4d582a400e7b947895.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302817"> '멱살 한번 잡힙시다' 김하늘, ‘프로 멱살러’ 기자 변신</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212205931_dd5138acb85f1a4d582a400e7b947895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
