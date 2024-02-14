@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 22:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 23:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플TV+, '발렌타인데이' 스페셜 콘텐츠...   ‘차 차 리얼 스무스’, '플라토닉', '찰리 브라운...' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303189</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303189</guid>
+            <pubDate>Wed, 14 Feb 2024 23:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303189">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215075536_7f461faeaab362a1bf09f7c6b8cffcdb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303189">애플TV+, '발렌타인데이' 스페셜 콘텐츠...   ‘차 차 리얼 스무스’, '플라토닉', '찰리 브라운...'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215075536_7f461faeaab362a1bf09f7c6b8cffcdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아름답다, 모든 것이"  영화 '오키쿠와 세계' 캐릭터 포스터 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303182</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303182</guid>
+            <pubDate>Wed, 14 Feb 2024 23:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303182">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215074244_395a065bd494be520ad584af7e8a64e7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303182">"아름답다, 모든 것이"  영화 '오키쿠와 세계' 캐릭터 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215074244_395a065bd494be520ad584af7e8a64e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["청춘의 정우성, 이정재를 본다"  김성수 감독 <비트>, <서울의 봄> 3월 재개봉 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302811</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302707">'로얄로더' 이재욱-이준영.. "밑바닥 마이너리거의 동맹"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212054753_97300774fb85e118b0839a82b84aea9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장재현 감독 오컬트 미스터리 '파묘'.. 풍수사+무속인, '대살굿' 스틸 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302388</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302388</guid>
-            <pubDate>Sun, 11 Feb 2024 20:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302388">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209192719_9b0f918ee6a8d8a64af2ec769f3f1a53.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302388">장재현 감독 오컬트 미스터리 '파묘'.. 풍수사+무속인, '대살굿' 스틸 공개 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209192719_9b0f918ee6a8d8a64af2ec769f3f1a53.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[권유리, "인생의 모멘텀, 볼링에 빠지다".. 영화 <돌핀> 3월 개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302203</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302203</guid>
-            <pubDate>Sun, 11 Feb 2024 20:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302203">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208111955_dd5e1160600562bc285199f758f580d0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302203">권유리, "인생의 모멘텀, 볼링에 빠지다".. 영화 &lt;돌핀&gt; 3월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208111955_dd5e1160600562bc285199f758f580d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC ‘원더풀 월드’ 김남주, "6년 만의 복귀작, 좋은 작품으로 보답하겠다" (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209083506_1c0ea18e0e3265dd35eafb9ec6da14c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['고려거란전쟁' ‘사극킹’ 최수종의 명대사 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303174</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303174</guid>
+            <pubDate>Wed, 14 Feb 2024 23:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303174">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215073139_f1bb94ee610d344b4587349cf31ed66f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303174">'고려거란전쟁' ‘사극킹’ 최수종의 명대사 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215073139_f1bb94ee610d344b4587349cf31ed66f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KBS 다큐 인사이트..   짜장면 랩소디 2부 "짜장이냐 짬뽕이냐" (KBS1+넷플릭스, 15일) (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303109</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=303109</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213221723_60e90aca4d8a82de20619b43a42994b0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 예비 엄마 아유미와 슬리피, 육아 고수 제이쓴에 비법 전수 받다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303034</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303034</guid>
-            <pubDate>Tue, 13 Feb 2024 14:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303034">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213221512_de277162c49a43ed14c75a917220d602.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303034">[슈퍼맨이 돌아왔다] 예비 엄마 아유미와 슬리피, 육아 고수 제이쓴에 비법 전수 받다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213221512_de277162c49a43ed14c75a917220d602.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
