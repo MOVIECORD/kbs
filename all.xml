@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 00:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['밥 말리: 원 러브' 밥 말리 가족, 브래드 피트 제작 참여 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303508</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303508</guid>
+            <pubDate>Mon, 19 Feb 2024 01:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303508">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217162313_f5b3caf92951b43b77417fb53f698503.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303508">'밥 말리: 원 러브' 밥 말리 가족, 브래드 피트 제작 참여</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217162313_f5b3caf92951b43b77417fb53f698503.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["볼 것 많은  2024 디즈니+"  콘텐츠 라인업.. ''삼식이삼촌, '조명가게, 폭군... 이정재의 애콜라이트, 테일러 스위프트!" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303720</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213091636_1a8ab0974a65bc031a8f670c44fbcccf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원작자 꼬마비, "더할 나위 없었다, 살인자ㅇ난감!" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303254</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303254</guid>
-            <pubDate>Thu, 15 Feb 2024 06:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303254">	<span class="img-box hh">
+            <title><![CDATA['텐트 밖은 유럽' 여배우들, 남프랑스를 가다.. "니스는 주차하기가 힘들다" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303758</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303758</guid>
+            <pubDate>Mon, 19 Feb 2024 01:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303758">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215140304_5b2776933cf5f7c7ac140d9511c2cf94.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219093520_cecfe7a6d209fb9420b052a94d2f26db.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303254">원작자 꼬마비, "더할 나위 없었다, 살인자ㅇ난감!"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303758">'텐트 밖은 유럽' 여배우들, 남프랑스를 가다.. "니스는 주차하기가 힘들다"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215140304_5b2776933cf5f7c7ac140d9511c2cf94.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219093520_cecfe7a6d209fb9420b052a94d2f26db.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['내 남편과 결혼해줘' 명장면... "통쾌합니다, 짜릿했습니다" (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208122608_d3ad04c1b06e832cd3b69b07e2bc2bf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘벌거벗은세계사’  마거릿 대처의 두 얼굴  "영국병을 타파한 ‘철의 여인’.. 영웅? 마녀?" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302984</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302984</guid>
-            <pubDate>Tue, 13 Feb 2024 08:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302984">	<span class="img-box hh">
+            <title><![CDATA['고려거란전쟁' 강감찬, 박진 정체 알았다 (26회 종합) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303685</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303685</guid>
+            <pubDate>Mon, 19 Feb 2024 00:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303685">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213161335_3fe700940976e9e5e530305646a37758.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219080349_b113edf736027d7bcfbeff29f05a0c84.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302984">‘벌거벗은세계사’  마거릿 대처의 두 얼굴  "영국병을 타파한 ‘철의 여인’.. 영웅? 마녀?"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303685">'고려거란전쟁' 강감찬, 박진 정체 알았다 (26회 종합)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213161335_3fe700940976e9e5e530305646a37758.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219080349_b113edf736027d7bcfbeff29f05a0c84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['멱살 한번 잡힙시다' 정웅인-윤제문, 카리스마 폭발 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303766</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303766</guid>
+            <pubDate>Mon, 19 Feb 2024 01:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303766">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219094451_da19bad1257d84c9be8d0c032c4a7196.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303766">'멱살 한번 잡힙시다' 정웅인-윤제문, 카리스마 폭발</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219094451_da19bad1257d84c9be8d0c032c4a7196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고려 거란 전쟁] 최수종, 황제 시해하려던 이재용 증거 확인...“대역 죄인” 체포 엔딩 (KBS연예 ─ KBS)]]></title>
@@ -776,24 +812,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219080841_c50adf424e6f87334f654598e8abfd1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고려거란전쟁' 강감찬, 박진 정체 알았다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303685</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303685</guid>
-            <pubDate>Mon, 19 Feb 2024 00:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303685">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219080349_b113edf736027d7bcfbeff29f05a0c84.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303685">'고려거란전쟁' 강감찬, 박진 정체 알았다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219080349_b113edf736027d7bcfbeff29f05a0c84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘효심이네 각자도생'  김규철이 아니다?.. 미궁 속에 빠진 대관령 추락 사고의 진실 (KBS연예 ─ KBS)]]></title>
@@ -1028,23 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218202125_68cc2e53e34d99b5995928f02f21192a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고려거란전쟁] '혼돈에 빠진 개경'....김훈-최질의 난 그 결과는? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303621</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303621</guid>
-            <pubDate>Sun, 18 Feb 2024 10:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303621">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218182439_f1fecf79353b509346c08782c3e56d59.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303621">[고려거란전쟁] '혼돈에 빠진 개경'....김훈-최질의 난 그 결과는?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218182439_f1fecf79353b509346c08782c3e56d59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
