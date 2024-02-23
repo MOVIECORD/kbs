@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 21:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 22:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304127</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=304127</guid>
             <pubDate>Wed, 21 Feb 2024 20:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304127">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304127">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240221105934_d77824d0ece2fa787f12aa939b199260.jpg" alt="대체 텍스트">
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215091138_b5cca07c97cfcf5859cd3a1fe982b4a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘수지맞은 우리’ 백성현 스틸 공개 ‘훈남의 정석’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304293</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304293</guid>
+            <pubDate>Fri, 23 Feb 2024 22:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304293">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223101728_9811e5c5fe8dbeeb4d693c68f92e0082.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304293">‘수지맞은 우리’ 백성현 스틸 공개 ‘훈남의 정석’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%88%98%EC%A7%80%EB%A7%9E%EC%9D%80%20%EC%9A%B0%EB%A6%AC">일일연속극 수지맞은 우리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223101728_9811e5c5fe8dbeeb4d693c68f92e0082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['고려거란전쟁' 현종, 박진 정체 알았다 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304368</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304368</guid>
+            <pubDate>Fri, 23 Feb 2024 22:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304368">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223202917_46ef992a8369f7e01a2d798c9c39a1e1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304368">'고려거란전쟁' 현종, 박진 정체 알았다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223202917_46ef992a8369f7e01a2d798c9c39a1e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[더 시즌즈-이효리의 레드카펫] 엔하이픈이 준비한 What Makes You Beautiful♪ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304423</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=304423</guid>
@@ -1009,42 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223074302_037be388872ecfa185a6a4f534a3234b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 범상치 않은 세 번째 명물인! 알고 보니 문익점 선생님의 후손?! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304261</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304261</guid>
-            <pubDate>Thu, 22 Feb 2024 16:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304261">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223002221_4b580cd0da6f6508102ab36041fa5785_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304261">[박원숙의 같이 삽시다] 범상치 않은 세 번째 명물인! 알고 보니 문익점 선생님의 후손?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223002221_4b580cd0da6f6508102ab36041fa5785_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 꿈은 이루어진다! 성냥 집과 전셋집 전원주택을 맞바꾼 자매들?! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304256</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304256</guid>
-            <pubDate>Thu, 22 Feb 2024 16:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304256">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223001905_297ea45b0362187bfa54acda6e0ae036_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304256">[박원숙의 같이 삽시다] 꿈은 이루어진다! 성냥 집과 전셋집 전원주택을 맞바꾼 자매들?! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223001905_297ea45b0362187bfa54acda6e0ae036_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
