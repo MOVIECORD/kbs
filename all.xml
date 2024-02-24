@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 15:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 16:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마더스' 3월 개봉..  앤 해서웨이 - 제시카 차스테인 연기대결 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303729</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303729</guid>
+            <pubDate>Sat, 24 Feb 2024 16:01:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303729">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219091310_a216d42f5ba112ded49b87e16096dcc7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303729"> '마더스' 3월 개봉..  앤 해서웨이 - 제시카 차스테인 연기대결</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240219091310_a216d42f5ba112ded49b87e16096dcc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 다큐 'HOPE ON THE STREET'.. 3월 28일 티빙 공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304490</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220111848_a3e35ded05de0c8d8a09150e4b565c52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 이창희 감독 "모순되는 것, 어울리지 않는 것의 조합, 그 아이러니" (넷플릭스 ‘살인자ㅇ난감’) (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303918</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303918</guid>
-            <pubDate>Tue, 20 Feb 2024 01:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303918">	<span class="img-box ww">
+            <title><![CDATA[‘야한(夜限) 사진관’ 대본리딩 현장... “주원-권나라-유인수-음문석” (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304300</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304300</guid>
+            <pubDate>Sat, 24 Feb 2024 16:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304300">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220100321_aaa71c0ed6a3ac73e9bcebe2a0906118.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223101959_aaa63727995fa37ff92c26945791da10.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303918">[인터뷰] 이창희 감독 "모순되는 것, 어울리지 않는 것의 조합, 그 아이러니" (넷플릭스 ‘살인자ㅇ난감’)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304300">‘야한(夜限) 사진관’ 대본리딩 현장... “주원-권나라-유인수-음문석”</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220100321_aaa71c0ed6a3ac73e9bcebe2a0906118.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223101959_aaa63727995fa37ff92c26945791da10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘세작, 매혹된 자들’ 조정석 품에 안긴 신세경, 로맨스 급물살 (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,58 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218134904_983d033d8c2645794b3dcc29a136b1a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[tvN  '눈물의 여왕'  김지원, "백화점의 여왕 카리스마" (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302910</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302910</guid>
-            <pubDate>Sun, 18 Feb 2024 00:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302910">	<span class="img-box hh">
+            <title><![CDATA[[효심이네 각자도생] 유이와 결혼 서두르는 하준, 윤미라에 능글+애교 안부 전화 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304583</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304583</guid>
+            <pubDate>Sat, 24 Feb 2024 16:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304583">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213101624_5abe87d0635bf4f6b426c69918f83e17.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240225004154_fce78e54b9663432393a0a914b600a3d.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302910">tvN  '눈물의 여왕'  김지원, "백화점의 여왕 카리스마"</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304583">[효심이네 각자도생] 유이와 결혼 서두르는 하준, 윤미라에 능글+애교 안부 전화</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213101624_5abe87d0635bf4f6b426c69918f83e17.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240225004154_fce78e54b9663432393a0a914b600a3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘전국노래자랑’ 강원 속초시 편... 초대가수, 강원의 딸 문희옥 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304460</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304460</guid>
+            <pubDate>Sat, 24 Feb 2024 16:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304460">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224073337_0fc65e0a29bdce71d1df454be5c8b938.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304460"> ‘전국노래자랑’ 강원 속초시 편... 초대가수, 강원의 딸 문희옥 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224073337_0fc65e0a29bdce71d1df454be5c8b938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘사장님귀는당나귀귀’ New 보스 진성.. “트로트계 BTS, 나만 갖고 싶은 애칭” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304465</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304465</guid>
+            <pubDate>Sat, 24 Feb 2024 16:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304465">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224073717_bd2a5092be08c0f6640f63ecfe7105df.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304465"> ‘사장님귀는당나귀귀’ New 보스 진성.. “트로트계 BTS, 나만 갖고 싶은 애칭”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224073717_bd2a5092be08c0f6640f63ecfe7105df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불후의 명곡] ‘락스타’로 변신한 서은광, 포레스텔라 꺾고 ‘김범수 편’ 최종우승 (KBS연예 ─ KBS)]]></title>
@@ -992,60 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223234706_26635988c863234e9307238e7ab888a1_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 밤하늘을 수놓은 별빛처럼 문별이 완성한 작품 ♪TOUCHIN&MOVIN (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304387</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304387</guid>
-            <pubDate>Fri, 23 Feb 2024 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304387">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223234348_533b068de7ba08e31cb353c20afe34bf_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304387">[뮤직뱅크] 밤하늘을 수놓은 별빛처럼 문별이 완성한 작품 ♪TOUCHIN&amp;MOVIN</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223234348_533b068de7ba08e31cb353c20afe34bf_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 쉽지 않은 길이라도 쉬운 길로 만들어버리는 르세라핌 출동 ♪EASY (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304383</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304383</guid>
-            <pubDate>Fri, 23 Feb 2024 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304383">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223234129_f348e4b8678861a9360dea85b70d35cf_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304383">[뮤직뱅크] 쉽지 않은 길이라도 쉬운 길로 만들어버리는 르세라핌 출동 ♪EASY</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223234129_f348e4b8678861a9360dea85b70d35cf_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 신예 보이그룹 TWS(투어스), 1위 곡 ★첫 만남은 계획대로 되지 않아 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304379</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304379</guid>
-            <pubDate>Fri, 23 Feb 2024 15:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304379">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223233837_2c757bb167496f86577a810e41b669c8.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304379">[뮤직뱅크] 신예 보이그룹 TWS(투어스), 1위 곡 ★첫 만남은 계획대로 되지 않아</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223233837_2c757bb167496f86577a810e41b669c8.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
