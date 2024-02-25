@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 22:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 23:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 최민식 “그럴듯하게 사기를 치는 게 나의 일” (영화 '파묘')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304706</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304706</guid>
+            <pubDate>Sun, 25 Feb 2024 23:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304706">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240226074038_bc2c21c0a3dbc7d63f6f0d0ffb441e67.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304706">[인터뷰] 최민식 “그럴듯하게 사기를 치는 게 나의 일” (영화 '파묘')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240226074038_bc2c21c0a3dbc7d63f6f0d0ffb441e67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '가여운 것들' 뜨거운 입소문.. 요르고스 란티모스 감독 최고흥행작 될까]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304628</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304038">"명화극장"  '바튼 아카데미' 오늘 개봉..  "어쩌면, 당신의 인생 영화"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240221080901_66a3e0c0f062b712411e2c67a6859d1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파묘'의 공포감..  "4DX, ScreenX로 배가"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304032</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304032</guid>
-            <pubDate>Wed, 21 Feb 2024 00:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304032">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240221080233_2afcbbe272ab2511711b4a6f9a5383c4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304032">'파묘'의 공포감..  "4DX, ScreenX로 배가"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240221080233_2afcbbe272ab2511711b4a6f9a5383c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
