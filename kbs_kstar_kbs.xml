@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 23:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 00:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고려거란전쟁'  현종, 긴박한 사투 속 전세 역전 성공]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304713</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304713</guid>
+            <pubDate>Mon, 26 Feb 2024 00:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304713">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240226080429_0e939846c1ca4efb1dcc02dc365fab6f.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304713">'고려거란전쟁'  현종, 긴박한 사투 속 전세 역전 성공</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240226080429_0e939846c1ca4efb1dcc02dc365fab6f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['환상연가' 박지훈 환궁, 황희와 정면 대립]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304613</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240225104155_edb967e5b48d91d673c9385ebfcf3dfd_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고려 거란 전쟁] 황제 시해하려던 이재용...김동준 앞에서 밝혀진 명백한 증거]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304632</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304632</guid>
-            <pubDate>Sun, 25 Feb 2024 01:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304632">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240225102121_b61a3333c801b6e9000131ce79c67048_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304632">[고려 거란 전쟁] 황제 시해하려던 이재용...김동준 앞에서 밝혀진 명백한 증거</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240225102121_b61a3333c801b6e9000131ce79c67048_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
