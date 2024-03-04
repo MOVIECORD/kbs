@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 22:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 23:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산국제영화제, '김영덕' 아시아콘텐츠&필름마켓위원장 선출]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306079</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306079</guid>
+            <pubDate>Mon, 04 Mar 2024 23:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306079">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240305074329_02d963928a6e9f6ec0bfa770492b96ab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306079">부산국제영화제, '김영덕' 아시아콘텐츠&amp;필름마켓위원장 선출</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240305074329_02d963928a6e9f6ec0bfa770492b96ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 예능..  "'신인가수 조정석'입니다" ..  신인 가수 데뷔 프로젝트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305949</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305660">엠마 스톤 '가여운 것들' 이동진 평론가 GV .. "요르고스 란티모스 영화 중에서 가장 밝고, 해피엔딩인 영화”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240302080747_e493e1d96cb748f52cab99d0bcf144ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이슨 스타뎀 액션 블록버스터 ‘비키퍼’ .. 4월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=305491</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305491</guid>
-            <pubDate>Mon, 04 Mar 2024 21:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305491">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229103907_7dfbec380f0438a6200adca6203c12f9.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305491">제이슨 스타뎀 액션 블록버스터 ‘비키퍼’ .. 4월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229103907_7dfbec380f0438a6200adca6203c12f9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
