@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 05:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 06:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨딩 임파서블' 전종서-김도완, 위장결혼 돌입.. "보수는 20억, 가짜 부부로 호흡 맞춘다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305974</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305974</guid>
+            <pubDate>Mon, 04 Mar 2024 06:53:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305974">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240304152744_be6a11a536387a70115bb821a86d3695.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305974">'웨딩 임파서블' 전종서-김도완, 위장결혼 돌입.. "보수는 20억, 가짜 부부로 호흡 맞춘다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240304152744_be6a11a536387a70115bb821a86d3695.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웨딩 임파서블' 정경호 '맞선남' 깜짝 등장 .. "시청자 분들의 기억에 남는 장면이길"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305894</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304339">‘눈물의 여왕’ 김수현-김지원..“사랑해서 결혼했는데, 결혼하면 왜 사랑을 안 하지?”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223104559_236461934f35dc8dd8a8d0b5ffd8414e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '웨딩 임파서블'  전종서, 일생일대 명연기.. "거액 계약금 받고 위장결혼 계약!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304509</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304509</guid>
-            <pubDate>Mon, 26 Feb 2024 11:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304509">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224164913_e557d9192e94fb1af6426ea5825571e8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304509"> tvN '웨딩 임파서블'  전종서, 일생일대 명연기.. "거액 계약금 받고 위장결혼 계약!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224164913_e557d9192e94fb1af6426ea5825571e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
