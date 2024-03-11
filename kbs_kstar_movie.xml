@@ -4,15 +4,32 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 22:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 23:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드림웍스 애니메이션 '와일드 로봇', 10월 개봉... 로봇 ‘로즈’의 특별한 여정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307242</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307242</guid>
+            <pubDate>Mon, 11 Mar 2024 23:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307242">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312072631_10f83176959ec1528a5825df4064e5c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307242">드림웍스 애니메이션 '와일드 로봇', 10월 개봉... 로봇 ‘로즈’의 특별한 여정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312072631_10f83176959ec1528a5825df4064e5c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["'지고이네르바이젠'을 본다" 2024 재팬무비페스티벌 '스즈키 세이준 3부작' 상영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=306597</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=306597</guid>
             <pubDate>Mon, 11 Mar 2024 21:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306597">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306597">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308123637_367a6ae17efca5dc52a5cf3ad7845635.jpg" alt="대체 텍스트">
@@ -29,7 +46,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307160</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=307160</guid>
             <pubDate>Mon, 11 Mar 2024 08:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307160">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307160">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311162901_64e44d70181f1e1c76aece3d72e1be7d.jpg" alt="대체 텍스트">
@@ -46,7 +63,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307154</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=307154</guid>
             <pubDate>Mon, 11 Mar 2024 08:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307154">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307154">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311162738_946236f1408a7e0346b8a33e5e776712_1.jpg" alt="대체 텍스트">
@@ -63,7 +80,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307148</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=307148</guid>
             <pubDate>Mon, 11 Mar 2024 08:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307148">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307148">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311162638_347ad79fcfef49ffa5574ba95b46f96d_1.jpg" alt="대체 텍스트">
@@ -80,7 +97,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307143</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=307143</guid>
             <pubDate>Mon, 11 Mar 2024 08:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307143">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307143">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311162519_694cd8cba57d333a47e7a3897e9cf319.jpg" alt="대체 텍스트">
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306548">하마구치 류스케 감독  '악은 존재하지 않는다'..."숨이 막힐 듯한 마지막 결말"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308104654_5709da4e4a4017c6fcd9e4dbb2a9633d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜린 파렐 주연 탐정시리즈 ‘슈거’ ,  애플TV+ 4월 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306841</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306841</guid>
-            <pubDate>Sat, 09 Mar 2024 01:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306841">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240309100058_faf4770b6fcaa070240deb43839b15c0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306841">콜린 파렐 주연 탐정시리즈 ‘슈거’ ,  애플TV+ 4월 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240309100058_faf4770b6fcaa070240deb43839b15c0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
