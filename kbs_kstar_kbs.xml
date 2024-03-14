@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 15:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 16:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박원숙의 같이 삽시다] 반짇고리에 담긴 한인수 부부의 역사, 반짇고리를 선물하며 프러포즈한 한인수]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307688</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307688</guid>
+            <pubDate>Thu, 14 Mar 2024 16:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307688">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315000411_1807bf87cfc813d467652d3cf75d745a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307688">[박원숙의 같이 삽시다] 반짇고리에 담긴 한인수 부부의 역사, 반짇고리를 선물하며 프러포즈한 한인수</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315000411_1807bf87cfc813d467652d3cf75d745a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박원숙의 같이 삽시다] 가장 기억에 남은 인생 작품은 ‘들장미’, 아무리 봐도 놀라운 한인수의 기억력!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307684</link>
@@ -44,7 +62,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314235454_03c718b155c7e45048129422ae4b3cff_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 60대 중 최고의 개구쟁이 문숙의 도발(?) 사선가를 찾은 원조 꽃미남 배우 한인수]]></title>
+            <title><![CDATA[[박원숙의 같이 삽시다] 60대 중 최고의 개구쟁이 문숙의 도발(?), 사선가를 찾은 원조 꽃미남 배우 한인수]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307675</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=307675</guid>
             <pubDate>Thu, 14 Mar 2024 15:01:50 GMT</pubDate>
@@ -56,7 +74,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307675">[박원숙의 같이 삽시다] 60대 중 최고의 개구쟁이 문숙의 도발(?) 사선가를 찾은 원조 꽃미남 배우 한인수</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307675">[박원숙의 같이 삽시다] 60대 중 최고의 개구쟁이 문숙의 도발(?), 사선가를 찾은 원조 꽃미남 배우 한인수</a></span>
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314233740_5597dc0d9219ab5400c7d56924424f84_1.jpg" length="0" type="image/jpg"/>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312153441_1a14f4101e0215a2d85bed42efae31c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피도 눈물도 없이] 제가 놓은 덫에 스스로 빠진 하연주, “내가 너 끝장낼 거야!” 복수 시작 알리는 이소연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307430</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307430</guid>
-            <pubDate>Tue, 12 Mar 2024 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307430">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240313010411_061d623158f9be502343cbe422349f1a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307430">[피도 눈물도 없이] 제가 놓은 덫에 스스로 빠진 하연주, “내가 너 끝장낼 거야!” 복수 시작 알리는 이소연</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240313010411_061d623158f9be502343cbe422349f1a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
