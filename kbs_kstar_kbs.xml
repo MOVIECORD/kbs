@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 14:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 15:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[효심이네 각자도생] 하준과 결혼한 유이, 2년 뒤 쌍둥이 임신 ‘꽉찬 해피엔딩’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307997</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307997</guid>
+            <pubDate>Sun, 17 Mar 2024 15:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307997">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317230458_6f7baee736a6c51a37691cbc6481afce_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307997">[효심이네 각자도생] 하준과 결혼한 유이, 2년 뒤 쌍둥이 임신 ‘꽉찬 해피엔딩’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317230458_6f7baee736a6c51a37691cbc6481afce_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[효심이네 각자도생] 유이+하준 드디어 결혼... 멀리서 축복하는 고주원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307993</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%88%98%EC%A7%80%EB%A7%9E%EC%9D%80%20%EC%9A%B0%EB%A6%AC">일일연속극 수지맞은 우리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314084417_e41194141c8d73d1149eb3711636be73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불후의 명곡' 트로트절친 최강대전’.. "트로트 선후배 21人 대거 출격"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307755</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307755</guid>
-            <pubDate>Fri, 15 Mar 2024 23:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307755">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315090933_e2c918518105d2b8e16cfe4fb47ca9b4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307755"> '불후의 명곡' 트로트절친 최강대전’.. "트로트 선후배 21人 대거 출격"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315090933_e2c918518105d2b8e16cfe4fb47ca9b4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
