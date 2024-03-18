@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 22:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 23:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['멱살 한번 잡힙시다' (1회) 김하늘, 살인 현장 연이어 목격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308193</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308193</guid>
+            <pubDate>Mon, 18 Mar 2024 23:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308193">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240319073752_fef14cb042c8aba0a2cf8b4695ba43bf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308193">'멱살 한번 잡힙시다' (1회) 김하늘, 살인 현장 연이어 목격</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240319073752_fef14cb042c8aba0a2cf8b4695ba43bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['수지맞은 우리'.. 얽히고설킨 가족 이야기, "빛나는 조연들"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307629</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318072938_89c43d3508e7c511225c631ecc1170ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수지맞은 우리' 함은정-백성현  2인 포스터.. "앙숙, 티격태격 로맨스의 시작"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307861</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307861</guid>
-            <pubDate>Sun, 17 Mar 2024 20:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307861">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316081631_b55509b20e895261a7e2ad648dab41d4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307861">'수지맞은 우리' 함은정-백성현  2인 포스터.. "앙숙, 티격태격 로맨스의 시작"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%88%98%EC%A7%80%EB%A7%9E%EC%9D%80%20%EC%9A%B0%EB%A6%AC">일일연속극 수지맞은 우리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316081631_b55509b20e895261a7e2ad648dab41d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
