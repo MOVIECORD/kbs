@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 01:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 02:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 '나만 없어, 카라' 27일 첫 공개... "카라의 첫 여행 리얼리티 예능"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308460</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308460</guid>
+            <pubDate>Wed, 20 Mar 2024 02:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308460">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320104046_2f5d4961cec5678b36e95630b4ac3370.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308460">웨이브 '나만 없어, 카라' 27일 첫 공개... "카라의 첫 여행 리얼리티 예능"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320104046_2f5d4961cec5678b36e95630b4ac3370.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '기생수: 더 그레이' 포스터 공개...  “살아남기 위해 싸워야만 한다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308443</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307952">박찬욱 감독 HBO시리즈 '동조자'.. 쿠팡플레이 4월 공개.. "호아 쉬안데, 로버트 다우니 주니어, 산드라 오 주연"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317201832_430946bd070c4a8efacbc41088dacf4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNL 코리아' 박지환.. “니 내 누군지 아니?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307940</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307940</guid>
-            <pubDate>Sun, 17 Mar 2024 00:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307940">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317080659_491c246a6bc3110d60004e6139c54829.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307940">'SNL 코리아' 박지환.. “니 내 누군지 아니?”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317080659_491c246a6bc3110d60004e6139c54829.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
