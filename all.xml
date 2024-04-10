@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 00:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 01:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈가 솔로 월드투어 영화 ‘디-데이 더 파이널'.. 오늘 극장개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311331</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311331</guid>
+            <pubDate>Wed, 10 Apr 2024 01:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311331">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410095921_c09912cfafd24360640fcfafdd23eb63.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311331">슈가 솔로 월드투어 영화 ‘디-데이 더 파이널'.. 오늘 극장개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410095921_c09912cfafd24360640fcfafdd23eb63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['코미디본당'  SNL코리아 선거출사표... "당신의 선택은?" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311301</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310865">일본 실사판  '기생수 파트1,2'.. 극장 재개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405154848_8a4738f99cdcfda50a922bdec9e0a7d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '정순' 언론시사회.. “중년 여성의 무너진 일상, 치유의 이야기!” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=310842</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310842</guid>
-            <pubDate>Fri, 05 Apr 2024 23:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310842">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405151153_21a02f559bdd7c65c6cf0731c85e57ba.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310842">영화 '정순' 언론시사회.. “중년 여성의 무너진 일상, 치유의 이야기!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405151153_21a02f559bdd7c65c6cf0731c85e57ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘비밀은 없어’ 고경표.. "울트라FM 아나운서, 제대로 일낸다!" (KBS연예 ─ TVs)]]></title>
