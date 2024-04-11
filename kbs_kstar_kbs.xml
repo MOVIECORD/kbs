@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 11:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 12:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피도 눈물도 없이] “둘이 곧 사귀겠는데?” 티키타카 브로맨스 자랑하는 오창석+서하준]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311475</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311475</guid>
+            <pubDate>Thu, 11 Apr 2024 12:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311475">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411210856_c398e47931fd8c4e7624f67f471953d1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311475">[피도 눈물도 없이] “둘이 곧 사귀겠는데?” 티키타카 브로맨스 자랑하는 오창석+서하준</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411210856_c398e47931fd8c4e7624f67f471953d1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 아이돌 데뷔 프로젝트 '메이크메이트원'.. 꿈을 향한 36명 소년들]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311459</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240409210924_3f50a873cb724970054e2779a75862d8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['수지맞은 우리' 진수지의 흑역사... 술 취해 진상 부린 함은정, 백성현은 모르쇠]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311173</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311173</guid>
-            <pubDate>Mon, 08 Apr 2024 23:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311173">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240409074904_8a5d2176df67e35084dfcf45c7e1bad6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311173">'수지맞은 우리' 진수지의 흑역사... 술 취해 진상 부린 함은정, 백성현은 모르쇠</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%88%98%EC%A7%80%EB%A7%9E%EC%9D%80%20%EC%9A%B0%EB%A6%AC">일일연속극 수지맞은 우리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240409074904_8a5d2176df67e35084dfcf45c7e1bad6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
