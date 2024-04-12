@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 12:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 13:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 투모로우바이투게더, ‘Deja Vu’로 아일릿 꺾고 1위 달성...“팬에 감사”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311723</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311723</guid>
+            <pubDate>Fri, 12 Apr 2024 13:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311723">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412212124_4fb879379006b0ae2760ca1240a9612c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311723">[뮤직뱅크] 투모로우바이투게더, ‘Deja Vu’로 아일릿 꺾고 1위 달성...“팬에 감사”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412212124_4fb879379006b0ae2760ca1240a9612c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤직뱅크] 슈퍼 루키 아일릿(ILLIT), 소녀 감성 충만한 무대 ‘Magnetic’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311719</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411012916_c15683111bc1f12c2091c891e5ca4c8a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피도 눈물도 없이] 기억 찾아가는 하연주, “회장님 아들이 저 죽이려 했어요?” 정찬에 돌직구]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311400</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311400</guid>
-            <pubDate>Wed, 10 Apr 2024 17:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311400">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411011553_e1658a3215abd63890b32518182cb21f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311400">[피도 눈물도 없이] 기억 찾아가는 하연주, “회장님 아들이 저 죽이려 했어요?” 정찬에 돌직구</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411011553_e1658a3215abd63890b32518182cb21f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
