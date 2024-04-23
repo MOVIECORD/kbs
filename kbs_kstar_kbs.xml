@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 20:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 21:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['함부로 대해줘'  대본리딩 현장...  "유교 로맨스의 첫 페이지 오픈"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=312866</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312866</guid>
+            <pubDate>Tue, 23 Apr 2024 21:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312866">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422155928_8bdf96fb3a4b18ceafe3991804faa8ed.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312866"> '함부로 대해줘'  대본리딩 현장...  "유교 로맨스의 첫 페이지 오픈"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%95%A8%EB%B6%80%EB%A1%9C%20%EB%8C%80%ED%95%B4%EC%A4%98">월화드라마 함부로 대해줘</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422155928_8bdf96fb3a4b18ceafe3991804faa8ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[멱살 한번 잡힙시다] 정웅인과 장승조가 감추고 있던 14년 전 비밀 알아낸 윤제문 “이걸 어떻게 써먹을까?”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313041</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422221409_3d97b195f4c3b2b1f5822be300bad26a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 분리불안+입질+산책 고민, 복합 문제견 스피츠 ‘찡구’에 가족사이 위협받는 보호자들]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312909</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312909</guid>
-            <pubDate>Mon, 22 Apr 2024 14:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312909">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422221203_85b45b17007deb4b8d96155e225cfe58_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312909">[개는 훌륭하다] 분리불안+입질+산책 고민, 복합 문제견 스피츠 ‘찡구’에 가족사이 위협받는 보호자들</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422221203_85b45b17007deb4b8d96155e225cfe58_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
