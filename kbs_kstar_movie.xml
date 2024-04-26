@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 23:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 00:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '종말의 바보' 공개..."그동안 본 적 없는 색다른 디스토피아"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313455</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313455</guid>
+            <pubDate>Fri, 26 Apr 2024 00:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313455">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426090833_3b7b765a3552cba5a15ae12383e86599.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313455">넷플릭스 '종말의 바보' 공개..."그동안 본 적 없는 색다른 디스토피아"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426090833_3b7b765a3552cba5a15ae12383e86599.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스텔라' 홀로코스트 실존인물.. "재즈 가수, 위조 브로커, 나치비밀요원"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313263</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312793">애니메이션 '목소리의 형태'..  "감동의 목소리" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422093524_552b5342533835c0802ef29ccf4c5251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡플레이] 박찬욱 감독 ‘동조자’ 1부 리뷰.. 오늘(22일) 2부 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312853</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312853</guid>
-            <pubDate>Mon, 22 Apr 2024 07:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312853">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422151917_12f63b8a4ad1e05d50d038540065b8ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312853">[쿠팡플레이] 박찬욱 감독 ‘동조자’ 1부 리뷰.. 오늘(22일) 2부 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422151917_12f63b8a4ad1e05d50d038540065b8ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
