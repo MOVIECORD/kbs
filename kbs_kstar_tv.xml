@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 21:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 22:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN '졸업' 연기 고수들, 대치동 집결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314354</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314354</guid>
+            <pubDate>Sun, 05 May 2024 22:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314354">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503094619_b91a88da915b8793618ae0efb0f057e0_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314354">tvN '졸업' 연기 고수들, 대치동 집결</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503094619_b91a88da915b8793618ae0efb0f057e0_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[히어로는 아닙니다만] 천우희, 장기용 철벽 허물기 작전?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=314579</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313736">'눈물의 여왕' 김수현-김지원 찬란한 인생...  tvN 드라마 역대 시청률 1위</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429081752_f673392e979d25b31a257ffa27071c3b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN 토일드라마 '졸업'..  소주연X신주협, 대치동 로맨스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313729</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313729</guid>
-            <pubDate>Mon, 29 Apr 2024 00:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313729">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429081229_8ba01563293711944a86c9615f75669b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313729">tvN 토일드라마 '졸업'..  소주연X신주협, 대치동 로맨스</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429081229_8ba01563293711944a86c9615f75669b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
