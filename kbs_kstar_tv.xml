@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 22:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 23:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['야한 사진관’ 최종회.. 주원, 권나라, 유인수의 마지막 사투]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314622</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314622</guid>
+            <pubDate>Sun, 05 May 2024 23:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314622">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240506074455_e0872afd23d1354d03a5af48046b4e51_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314622">'야한 사진관’ 최종회.. 주원, 권나라, 유인수의 마지막 사투</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240506074455_e0872afd23d1354d03a5af48046b4e51_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '졸업' 연기 고수들, 대치동 집결]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=314354</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313836">tvN '플레이어2: 꾼들의 전쟁' 6월 첫 방송... "송승헌-오연서-이시언-태원석-장규리"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240430074721_68012cf13e9883f7fdc7c1b272dca4f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['눈물의 여왕' 김수현-김지원 찬란한 인생...  tvN 드라마 역대 시청률 1위]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313736</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313736</guid>
-            <pubDate>Mon, 29 Apr 2024 00:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313736">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429081752_f673392e979d25b31a257ffa27071c3b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313736">'눈물의 여왕' 김수현-김지원 찬란한 인생...  tvN 드라마 역대 시청률 1위</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429081752_f673392e979d25b31a257ffa27071c3b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
