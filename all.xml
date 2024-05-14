@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 23:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 00:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하이재킹' 하정우, 베테랑 파일롯.. "납치된 여객기의 부기장" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=315655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315655</guid>
+            <pubDate>Tue, 14 May 2024 00:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514080836_0335c4de4c88a27a0304d99837b32368.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315655">'하이재킹' 하정우, 베테랑 파일롯.. "납치된 여객기의 부기장"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514080836_0335c4de4c88a27a0304d99837b32368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '나는 대놓고 신데렐라를 꿈꾼다'.. 달콤발칙한 로맨틱 코미디, 31일 시작 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=315460</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315059">장재현 감독 '파묘' 백상예술대상 4관왕</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240509190315_77b9cf5ce97efc0196a02912f4fb2d25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해일 감독 ‘언니 유정’, JIFF- CGV상 수상 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=315051</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315051</guid>
-            <pubDate>Thu, 09 May 2024 10:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315051">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240509185621_74c013483e1aa8193d37d5734ebba9f1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315051">정해일 감독 ‘언니 유정’, JIFF- CGV상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240509185621_74c013483e1aa8193d37d5734ebba9f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김태호PD+JTBC예능,  'My name is 가브리엘'.. 데프콘-다비치 MC 확정 (KBS연예 ─ TVs)]]></title>
