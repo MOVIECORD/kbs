@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 22:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 23:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 하이틴 스캔들 '하이라키'... 의문의 전학생, 학교의 질서가 흔들린다 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317398</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317398</guid>
+            <pubDate>Mon, 27 May 2024 23:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317398">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528074528_7678d0b3200100c9d4327fd8185b7b4c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317398">넷플릭스 하이틴 스캔들 '하이라키'... 의문의 전학생, 학교의 질서가 흔들린다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528074528_7678d0b3200100c9d4327fd8185b7b4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하드보일드 액션 '몽키 맨'이 온다...  조던 필 제작, 데브 파텔 감독주연 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317348</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316391">영화 '양치기' 손수현.. 거짓말에 무너지는 담임교사</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240518123042_c6590635ca6e8359f0a7dc0696ac1aff_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '부전시장' 촬영 시작.. "부산 부전시장 사람들의 삶과 애환을 담는다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316941</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316941</guid>
-            <pubDate>Thu, 23 May 2024 22:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316941">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240524062146_f3c3f366c1aec4b6f0156d590090a6d0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316941">영화 '부전시장' 촬영 시작.. "부산 부전시장 사람들의 삶과 애환을 담는다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240524062146_f3c3f366c1aec4b6f0156d590090a6d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC '놀아주는 여자' 엄태구-한선화-권율, 달콤살벌 3인 포스터 (KBS연예 ─ TVs)]]></title>
