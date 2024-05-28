@@ -4,9 +4,60 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 23:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 00:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["르네상스 명화극장"  라파엘로를 극장에서 만난다.. <라파엘로. 예술의 군주> 29일 개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317461</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317461</guid>
+            <pubDate>Tue, 28 May 2024 00:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317461">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528091616_72f44a35b7001e5faedbe275357362e5_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317461">"르네상스 명화극장"  라파엘로를 극장에서 만난다.. &lt;라파엘로. 예술의 군주&gt; 29일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528091616_72f44a35b7001e5faedbe275357362e5_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장동건-원빈 '태극기 휘날리며'..  4K 리마스터링 롯데시네마 단독 재개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317441</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317441</guid>
+            <pubDate>Tue, 28 May 2024 00:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317441">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528084504_e9001db71547c6538e19b7a8f1c4f815.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317441">장동건-원빈 '태극기 휘날리며'..  4K 리마스터링 롯데시네마 단독 재개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528084504_e9001db71547c6538e19b7a8f1c4f815.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박주현의 새 영화 '드라이브'.. “납치된 인기 유튜버의 목숨 건 트렁크 생방" (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317418</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317418</guid>
+            <pubDate>Tue, 28 May 2024 00:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317418">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528080643_71d866d684d29cae35ce22b8a1bd5b8d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317418">박주현의 새 영화 '드라이브'.. “납치된 인기 유튜버의 목숨 건 트렁크 생방"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528080643_71d866d684d29cae35ce22b8a1bd5b8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 하이틴 스캔들 '하이라키'... 의문의 전학생, 학교의 질서가 흔들린다 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317398</link>
@@ -297,55 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521075835_d39f72c11cfeb9a3f4d9e424c5f0ec70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["인천의 원도심" 다큐 <아주 오래된 미래도시> 6월 개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316414</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316414</guid>
-            <pubDate>Fri, 24 May 2024 23:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316414">	<span class="img-box hh">
+            <title><![CDATA['톡파원 25시'.. 먹거리, 볼거리, 즐길 거리 랜선 여행 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317430</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317430</guid>
+            <pubDate>Tue, 28 May 2024 00:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317430">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240518220349_37f6ab9237a0e730021e3f15ebc80cb4.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528082854_679de862f47c2f10bdba1627adc8da3a.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316414"> "인천의 원도심" 다큐 &lt;아주 오래된 미래도시&gt; 6월 개봉</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317430">'톡파원 25시'.. 먹거리, 볼거리, 즐길 거리 랜선 여행</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240518220349_37f6ab9237a0e730021e3f15ebc80cb4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528082854_679de862f47c2f10bdba1627adc8da3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 '나는 대놓고 신데렐라를 꿈꾼다'.. 표예진, 21세기 신(新)데렐라 '신재림' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316953</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316953</guid>
-            <pubDate>Fri, 24 May 2024 00:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316953">	<span class="img-box hh">
+            <title><![CDATA[SBS플러스 ‘리얼 연애실험실 독사과’ .. "당신의 사랑은 지금 안녕하십니까?" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317424</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317424</guid>
+            <pubDate>Tue, 28 May 2024 00:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317424">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240524085004_d225c653406ea4d2c4e291179b20dc88.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528082316_1a2bffbf075118b7e2284efae9058540.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316953">티빙 '나는 대놓고 신데렐라를 꿈꾼다'.. 표예진, 21세기 신(新)데렐라 '신재림'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317424">SBS플러스 ‘리얼 연애실험실 독사과’ .. "당신의 사랑은 지금 안녕하십니까?"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240524085004_d225c653406ea4d2c4e291179b20dc88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '양치기' 손수현.. 거짓말에 무너지는 담임교사 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316391</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316391</guid>
-            <pubDate>Thu, 23 May 2024 22:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316391">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240518123042_c6590635ca6e8359f0a7dc0696ac1aff_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316391">영화 '양치기' 손수현.. 거짓말에 무너지는 담임교사</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240518123042_c6590635ca6e8359f0a7dc0696ac1aff_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528082316_1a2bffbf075118b7e2284efae9058540.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC '놀아주는 여자' 엄태구-한선화-권율, 달콤살벌 3인 포스터 (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521063031_1f7a2da7e8b6294316abb1bf196dedba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JTBC 'My name is 가브리엘'.. 이름 하나로 운명이 바뀐다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316236</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316236</guid>
-            <pubDate>Mon, 20 May 2024 21:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316236">	<span class="img-box hh">
+            <title><![CDATA[라이징 스타 문상민, '뮤직뱅크' 새 MC 발탁.. 5월 31일 첫 진행 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317435</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317435</guid>
+            <pubDate>Tue, 28 May 2024 00:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317435">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517174142_26862694070432c2b958bad0289cee8f.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528083212_607faf9684dbdc58ce05fa2a123416ec.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316236"> JTBC 'My name is 가브리엘'.. 이름 하나로 운명이 바뀐다</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317435">라이징 스타 문상민, '뮤직뱅크' 새 MC 발탁.. 5월 31일 첫 진행</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517174142_26862694070432c2b958bad0289cee8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '플레이어2: 꾼들의 전쟁' 무적의 팀플레이.. '송승헌-오연서-이시언-태원석-장규리-하도권-이준혁' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316158</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316158</guid>
-            <pubDate>Mon, 20 May 2024 21:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316158">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517091838_44dddebd8f4e5f0daba02a500d3d4155.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316158">tvN '플레이어2: 꾼들의 전쟁' 무적의 팀플레이.. '송승헌-오연서-이시언-태원석-장규리-하도권-이준혁'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517091838_44dddebd8f4e5f0daba02a500d3d4155.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528083212_607faf9684dbdc58ce05fa2a123416ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스캔들' 한보름-최웅, 작가·배우 지망생 커플 (KBS연예 ─ KBS)]]></title>
@@ -778,7 +795,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240527225820_a4b8eff97d26d36d50b1430861468823_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[일일드라마 '스캔들' 한채영X한보름, 두 여자의 인정사정없는 대열 (KBS연예 ─ KBS)]]></title>
+            <title><![CDATA[일일드라마 '스캔들' 한채영X한보름, 두 여자의 인정사정없는 대립 예고 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317239</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=317239</guid>
             <pubDate>Sun, 26 May 2024 21:01:33 GMT</pubDate>
@@ -790,7 +807,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317239">일일드라마 '스캔들' 한채영X한보름, 두 여자의 인정사정없는 대열</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317239">일일드라마 '스캔들' 한채영X한보름, 두 여자의 인정사정없는 대립 예고</a></span>
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240526164756_1efb7e7c5f69095bb5266d2cbc244fb6.jpg" length="0" type="image/jpg"/>
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240525220035_a66453c13fc8987f599a1db5fd47f6e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미녀와 순정남] 기억 잃은 임수향 마주친 고윤, “왜 도라씨로 보이지?” 과거 알아챌까 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=317188</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317188</guid>
-            <pubDate>Sat, 25 May 2024 16:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317188">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240526004325_6f0c86c1f7ba83f520b477702c295d91_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317188">[미녀와 순정남] 기억 잃은 임수향 마주친 고윤, “왜 도라씨로 보이지?” 과거 알아챌까</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%85%80%EC%99%80%20%EC%88%9C%EC%A0%95%EB%82%A8">주말드라마 미녀와 순정남</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240526004325_6f0c86c1f7ba83f520b477702c295d91_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
