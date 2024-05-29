@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 00:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 01:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전지현-강동원, <북극성>.. 2025년 디즈니플러스 공개 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317648</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317648</guid>
+            <pubDate>Wed, 29 May 2024 01:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317648">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529093237_248089baf49124682cada0f3b7521e63.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317648">전지현-강동원, &lt;북극성&gt;.. 2025년 디즈니플러스 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529093237_248089baf49124682cada0f3b7521e63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤찬영-봉재현, "조폭인 내가 고등학생이 되었습니다".. 오늘 OTT공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317631</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317172"> '베테랑2' 칸을 달구다.. “창의적, 역동적, 매력적!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240525231808_d60260b750d2cb829453ccc14c34c5a4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍금보-고천락, 구룡성채 액션활극... '월드 인' 칸 국제영화제 공식상영 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=317165</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317165</guid>
-            <pubDate>Sat, 25 May 2024 21:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317165">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240525231158_9cd70f241b31d2595a76fce8abb328f2.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317165"> 홍금보-고천락, 구룡성채 액션활극... '월드 인' 칸 국제영화제 공식상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240525231158_9cd70f241b31d2595a76fce8abb328f2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[선재업고튀어 최종회] 변우석♥김혜윤, 시간의 벽 넘고 찬란한 해피엔딩 (KBS연예 ─ TVs)]]></title>
