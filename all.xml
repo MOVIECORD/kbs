@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 22:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 23:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '대치동 스캔들'.. “10년 전의 그 녀석이 나타났다!” (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318646</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318646</guid>
+            <pubDate>Thu, 06 Jun 2024 23:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318646">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240606065903_fb14daa20105dd359ace1b0d6aa13eef_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318646">영화 '대치동 스캔들'.. “10년 전의 그 녀석이 나타났다!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240606065903_fb14daa20105dd359ace1b0d6aa13eef_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정재 광선검 든 제다이 되다... 디즈니플러스 '애콜라이트' 공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=318778</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240603075210_0e6931cc66ab49c6c35238aa6a6dcf63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장] 영화 ‘드라이브’ 시사회... “인기 유튜버 납치, 생방송 당하다” (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318120</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318120</guid>
-            <pubDate>Sun, 02 Jun 2024 00:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318120">	<span class="img-box hh">
+            <title><![CDATA[JTBC '놀아주는 여자' 엄태구-한선화의 절친들 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318629</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318629</guid>
+            <pubDate>Thu, 06 Jun 2024 23:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318629">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240602090455_ab9373f6172bc6920c83885457101a99.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240606065158_472dffe1a9731bcf658aa2946044331b.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318120"> [현장] 영화 ‘드라이브’ 시사회... “인기 유튜버 납치, 생방송 당하다”</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318629">JTBC '놀아주는 여자' 엄태구-한선화의 절친들</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240602090455_ab9373f6172bc6920c83885457101a99.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240606065158_472dffe1a9731bcf658aa2946044331b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tvN '밥이나 한잔해'..  "이렇게 만난 것도 인연이다" (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530081142_6c3c72773536f25938241ff34291d2f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[tvN '놀라운 토요일'.. 송승헌 X 오연서 X 이시언 X 태원석 출격 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318043</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318043</guid>
-            <pubDate>Sat, 01 Jun 2024 02:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318043">	<span class="img-box hh">
+            <title><![CDATA[KBS 일일드라마 '스캔들' 6인 메인 포스터 공개 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318864</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318864</guid>
+            <pubDate>Thu, 06 Jun 2024 23:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318864">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240601112305_261bf4c81c1270e60192aaebb977b469.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607073314_1ba94d6743620ea7423c67c57d5ce6fd.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318043">tvN '놀라운 토요일'.. 송승헌 X 오연서 X 이시언 X 태원석 출격</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318864">KBS 일일드라마 '스캔들' 6인 메인 포스터 공개</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240601112305_261bf4c81c1270e60192aaebb977b469.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607073314_1ba94d6743620ea7423c67c57d5ce6fd.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[추적 60분] ‘쉬는 청년’ 70만.. "저는 낙오자인가요" ( 7일 밤 10시 KBS 1TV) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318859</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318859</guid>
+            <pubDate>Thu, 06 Jun 2024 23:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318859">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607072609_a110cb48428ac613dc446d9963f65d88.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318859">[추적 60분] ‘쉬는 청년’ 70만.. "저는 낙오자인가요" ( 7일 밤 10시 KBS 1TV)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%B6%94%EC%A0%81%2060%EB%B6%84">추적 60분</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607072609_a110cb48428ac613dc446d9963f65d88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘편스토랑’ 장민호,트로트 신사 바쁘다 바빠... “체중 4kg 빠졌다” (KBS연예 ─ KBS)]]></title>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2%EC%9E%A5%201%EC%A0%88">2장 1절</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605082703_223d7733910fd676ae4ef30167df247b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메이크 메이트 원] C 메이트 솔라, 날 선 조언..  "동네 장기자랑 보는 것 같았어요!" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318578</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318578</guid>
-            <pubDate>Wed, 05 Jun 2024 00:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318578">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605082336_2cf63aeb5b5c97c4e9b23068cfecfeba.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318578">[메이크 메이트 원] C 메이트 솔라, 날 선 조언..  "동네 장기자랑 보는 것 같았어요!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605082336_2cf63aeb5b5c97c4e9b23068cfecfeba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스캔들] 한채영X이병준, 쇼윈도 부부 열연 예고 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318537</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318537</guid>
-            <pubDate>Tue, 04 Jun 2024 23:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318537">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605070352_f3fd36dc86f1d1a03bd175f9ede15887.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318537"> [스캔들] 한채영X이병준, 쇼윈도 부부 열연 예고</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605070352_f3fd36dc86f1d1a03bd175f9ede15887.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
