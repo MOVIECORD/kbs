@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 22:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 23:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 박주현 “인플루언서, 본인 등판!” (영화 ‘드라이브’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319290</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319290</guid>
+            <pubDate>Mon, 10 Jun 2024 23:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319290">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240611075520_d79ee11ebe4d4e685831b142ae10e976.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319290">[인터뷰] 박주현 “인플루언서, 본인 등판!” (영화 ‘드라이브’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240611075520_d79ee11ebe4d4e685831b142ae10e976.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 퍼스트 슬램덩크' 오늘 디즈니+ 독점공개... "한국어 더빙도 슬램덩크~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319245</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318607">김진영(덱스), '타로'로  스크린 데뷔..  배달 킹, 저주의 타로 카드</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605222013_dbf0e9bac547b2eb8200747426cfabb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['정종연PD+넷플릭스' 예능 '미스터리 수사단'... "초자연적 미스터리 사건을 함께 해결하라!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318571</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318571</guid>
-            <pubDate>Wed, 05 Jun 2024 00:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318571">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605081126_c1aa7d0c77ebcc8882806aaf4529506d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318571">'정종연PD+넷플릭스' 예능 '미스터리 수사단'... "초자연적 미스터리 사건을 함께 해결하라!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605081126_c1aa7d0c77ebcc8882806aaf4529506d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
