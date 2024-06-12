@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 00:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 01:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 드라이브..  '공생공사 인플루언스와 구독자' (박동희 감독, 박주현 주연) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319497</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319497</guid>
+            <pubDate>Wed, 12 Jun 2024 01:53:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319497">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612102217_fc7113dc873a355a77bb6af81e0155e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319497">[리뷰] 드라이브..  '공생공사 인플루언스와 구독자' (박동희 감독, 박주현 주연)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612102217_fc7113dc873a355a77bb6af81e0155e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["스위트홈 피날레~" 시즌3, 7월 공개... “모든 진화의 끝” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319490</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318648">'캣퍼슨' 19일 개봉.. “꿈꾸던 사랑을 만났다, 끔찍하게도!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240606065957_d04bc893cafbe4a3f4e253b89bb8b3ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '대환장 기안장'... "기안84의 민박집으로 놀러오세요" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319047</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319047</guid>
-            <pubDate>Fri, 07 Jun 2024 23:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319047">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240608070430_13fa04d57ff65b24225d7e5c27dca49e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319047">넷플릭스 '대환장 기안장'... "기안84의 민박집으로 놀러오세요"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240608070430_13fa04d57ff65b24225d7e5c27dca49e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC '놀아주는 여자' 엄태구-한선화, 첫 만남부터 꼬인다...12일 첫 방송 (KBS연예 ─ TVs)]]></title>
