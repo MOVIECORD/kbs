@@ -4,9 +4,63 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 23:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 00:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘개그콘서트’ 유튜브로 보면 더 재밌다.... “구독자 50만‧누적 조회 수 8억 뷰”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321637</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321637</guid>
+            <pubDate>Thu, 27 Jun 2024 00:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321637">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081844_b407fa8c82f981c441c8f698acf0408d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321637"> ‘개그콘서트’ 유튜브로 보면 더 재밌다.... “구독자 50만‧누적 조회 수 8억 뷰”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EA%B7%B8%20%EC%BD%98%EC%84%9C%ED%8A%B8">개그 콘서트</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081844_b407fa8c82f981c441c8f698acf0408d_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['MA1' 빅뱅 대전 승리는 태양 팀.. 학년 "바로 데뷔시켜도 돼요!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321609</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321609</guid>
+            <pubDate>Thu, 27 Jun 2024 00:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321609">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081152_a9af7ca0d02d8bae6a5e1720e54839be.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321609"> 'MA1' 빅뱅 대전 승리는 태양 팀.. 학년 "바로 데뷔시켜도 돼요!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081152_a9af7ca0d02d8bae6a5e1720e54839be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘스캔들’ 흥미진진 전개.. “한채영 들통, 한보름 윤산, 최웅 기억상실”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321614</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321614</guid>
+            <pubDate>Thu, 27 Jun 2024 00:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321614">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081249_0bf9d3a0722a19a1c5c3e33f8f6522b9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321614"> ‘스캔들’ 흥미진진 전개.. “한채영 들통, 한보름 윤산, 최웅 기억상실”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081249_0bf9d3a0722a19a1c5c3e33f8f6522b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MA1] CHANGE 미션 솔로 대전 결과 발표! 그루브로 삐딱함 뚫어버린 B 그룹 우승~★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321591</link>
@@ -311,60 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625230956_5dc7bd2c905f959b8b755959d3c7bf73.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이엔드 소금쟁이] 용돈 절대 사수! 무조건 50% 저축 원하는 엄마 VS 용돈 인상 주장하는 아들]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321449</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321449</guid>
-            <pubDate>Tue, 25 Jun 2024 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321449">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625230545_7e544848188c22e93d130274fe1a5133.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321449">[하이엔드 소금쟁이] 용돈 절대 사수! 무조건 50% 저축 원하는 엄마 VS 용돈 인상 주장하는 아들</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625230545_7e544848188c22e93d130274fe1a5133.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이엔드 소금쟁이] 은퇴까지 남은 기간 7년! 체육관 개업 위해 월 119만 원 X 90개월 저축 플랜]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321444</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321444</guid>
-            <pubDate>Tue, 25 Jun 2024 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321444">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625230241_460c2001895ab9cc315c5aae9bf6f58d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321444">[하이엔드 소금쟁이] 은퇴까지 남은 기간 7년! 체육관 개업 위해 월 119만 원 X 90개월 저축 플랜</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625230241_460c2001895ab9cc315c5aae9bf6f58d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이엔드 소금쟁이] 줌바를 사랑하는 만능 체육인의 노후 인플레이션 솔루션!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321439</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321439</guid>
-            <pubDate>Tue, 25 Jun 2024 14:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321439">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625225854_ab9bc1fdaf302415aee37a1f7239ab47.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321439">[하이엔드 소금쟁이] 줌바를 사랑하는 만능 체육인의 노후 인플레이션 솔루션!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240625225854_ab9bc1fdaf302415aee37a1f7239ab47.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
