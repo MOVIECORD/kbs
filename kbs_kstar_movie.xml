@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 20:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 21:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재중 오컬트 호러 '신사: 악귀의 속삭임' BIFAN ‘매드 맥스’ 섹션 상영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321808</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321808</guid>
+            <pubDate>Fri, 28 Jun 2024 21:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321808">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628090306_38906c6fd13579cca38f159a304933b7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321808">김재중 오컬트 호러 '신사: 악귀의 속삭임' BIFAN ‘매드 맥스’ 섹션 상영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628090306_38906c6fd13579cca38f159a304933b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 포스터, 기억하나요?"  뤽 베송 '그랑 블루' 7월 재개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322067</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321707">CJ CGV, KBO와 MOU 체결.. “극장에서 즐기는 프로야구”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627084358_ac1e9af3bf9503ff52450d5c5df3989a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, ‘유로2024’ 독점 생중계...“각본 없는 드라마, 별들의 전쟁"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321689</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321689</guid>
-            <pubDate>Thu, 27 Jun 2024 00:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321689">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627083403_f4f811337837d197602a123f9976837e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321689">티빙, ‘유로2024’ 독점 생중계...“각본 없는 드라마, 별들의 전쟁"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627083403_f4f811337837d197602a123f9976837e_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
