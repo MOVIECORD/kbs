@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 00:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 안나 바리시니코프   "와일드 싱, 데이지" (러브 라이즈 블리딩) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323309</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323309</guid>
+            <pubDate>Mon, 08 Jul 2024 01:57:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323309">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708101127_e2fcc337178ced5bd5a718d11aa1c210.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323309">[인터뷰] 안나 바리시니코프   "와일드 싱, 데이지" (러브 라이즈 블리딩)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708101127_e2fcc337178ced5bd5a718d11aa1c210.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["마녀와 귀공자?!"  박훈정 감독 '폭군'  디즈니플러스 8월 공개... "차승원+김선호+김강우" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323307</link>
@@ -332,28 +349,11 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705083012_fcb6169ab847033df03549dcd41c1e4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임영웅 단편영화 ‘인 악토버’.. 쿠팡플레이 6일 공개 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322879</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322879</guid>
-            <pubDate>Fri, 05 Jul 2024 00:29:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322879">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705081512_dd1cd7563493bf90a31e615810813346.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322879">임영웅 단편영화 ‘인 악토버’.. 쿠팡플레이 6일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705081512_dd1cd7563493bf90a31e615810813346.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['푹 쉬면 다행이야' 이대호, 첫 임무는 냉장고(?) 만들기... "무인도에서 떡볶이 만들기" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323263</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=323263</guid>
             <pubDate>Sun, 07 Jul 2024 23:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323263">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323263">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708073636_da4b30b59aea45efea59fed8c57c8166.jpg" alt="대체 텍스트">
@@ -370,7 +370,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323257</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=323257</guid>
             <pubDate>Sun, 07 Jul 2024 23:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323257">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323257">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708073024_0ea2ac789be4b901f6d842b738c845bb.jpg" alt="대체 텍스트">
@@ -387,7 +387,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323049</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=323049</guid>
             <pubDate>Sun, 07 Jul 2024 22:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323049">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323049">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240706065509_217baf85362f693437975dc6c640cfa9_1.png" alt="대체 텍스트">
