@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 02:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324775</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=324775</guid>
             <pubDate>Fri, 19 Jul 2024 01:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324775">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324775">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719103848_f9d005a4f0f6c906b61d39cc1a8a6824_1.jpg" alt="대체 텍스트">
