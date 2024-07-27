@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 10:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 11:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722163735_3ef0911d014868cf456fca360261d84b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['놀라운 토요일' 조정석-이주명-한선화-신승호... 파일럿의  듣기 시험 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325592</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325592</guid>
+            <pubDate>Sat, 27 Jul 2024 11:01:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325592">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240727195850_ea4810754516c45b3e4eecde0949255c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325592">'놀라운 토요일' 조정석-이주명-한선화-신승호... 파일럿의  듣기 시험</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240727195850_ea4810754516c45b3e4eecde0949255c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC ‘가족X멜로’.. 손나은-최민호 비주얼 커플 탄생 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325200</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=325200</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324783">'My name is 가브리엘'.. '우티' 박명수, 태국 가족과 눈물의 이별</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719104644_8068a459d40dc94accac0245b098c0e7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '우연일까?' ‘케미 요정’ 김소현.. 첫사랑 로맨스 신드롬 예고 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=324712</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324712</guid>
-            <pubDate>Fri, 19 Jul 2024 01:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324712">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719075042_6da681effa0e04ee6e31aa4675720327.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324712">tvN '우연일까?' ‘케미 요정’ 김소현.. 첫사랑 로맨스 신드롬 예고</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719075042_6da681effa0e04ee6e31aa4675720327.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['완벽한 가족' 티저 공개.. 도파민 大폭발하는 파격 스토리 예고 (KBS연예 ─ KBS)]]></title>
