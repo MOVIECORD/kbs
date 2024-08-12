@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 06:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 07:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['러브 달바' ﻿시나리오 작업만 4년 반.. "경이로운 이야기, 경이로운 연기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326946</guid>
+            <pubDate>Mon, 12 Aug 2024 07:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812153455_e2c47d8e8acab63da8a06260dc5c0c0d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326946">'러브 달바' ﻿시나리오 작업만 4년 반.. "경이로운 이야기, 경이로운 연기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812153455_e2c47d8e8acab63da8a06260dc5c0c0d_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 디즈니플러스 ‘폭군’.. 무궁화꽃이 피었습니다 (박훈정 감독 차승원 김선호 김강우)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326861</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326534">이광수, 글로벌 로코 '드림즈 오브 유' 베트남에서 촬영시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240808092228_66c8d103b72218f39e6e9427e2c6c3e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영웅:라이브 인 시네마' 정성화 뮤지컬 공연, 스크린으로 본다... 21일 메가박스 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=326527</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326527</guid>
-            <pubDate>Thu, 08 Aug 2024 00:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326527">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240808091541_cc03263a9d327300e7b03948987a5e75.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326527">'영웅:라이브 인 시네마' 정성화 뮤지컬 공연, 스크린으로 본다... 21일 메가박스 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240808091541_cc03263a9d327300e7b03948987a5e75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
