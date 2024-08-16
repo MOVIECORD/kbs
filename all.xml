@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 19:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 20:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240810184458_9afe4ca69dfb29dbfbfb6be6d61dbd29_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] 효린 ‘Wait’ 컴백 무대...글로벌 차트 휩쓸며 서머퀸 활약 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=327522</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327522</guid>
+            <pubDate>Fri, 16 Aug 2024 20:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327522">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240817044454_de93dccb5a0356340910a1cdf20c0c83_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327522">[뮤직뱅크] 효린 ‘Wait’ 컴백 무대...글로벌 차트 휩쓸며 서머퀸 활약</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240817044454_de93dccb5a0356340910a1cdf20c0c83_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['더 시즌즈-지코의 아티스트' 귀호강 아티스트들  온유, 전소미, 죠지, 봉태규 출격 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=327518</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=327518</guid>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%99%84%EB%B2%BD%ED%95%9C%20%EA%B0%80%EC%A1%B1">수목드라마 완벽한 가족</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240814235209_4e1f2f2ff6639e8bceb32e6e7effc8c9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[완벽한 가족] “제가 사람을 죽였어요...” 딸의 살인으로 완벽한 가족의 분열이 시작됐다 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=327278</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327278</guid>
-            <pubDate>Wed, 14 Aug 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327278">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240814232220_78f7e077c7da99ddf5fa518d52e399f7.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327278">[완벽한 가족] “제가 사람을 죽였어요...” 딸의 살인으로 완벽한 가족의 분열이 시작됐다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%99%84%EB%B2%BD%ED%95%9C%20%EA%B0%80%EC%A1%B1">수목드라마 완벽한 가족</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240814232220_78f7e077c7da99ddf5fa518d52e399f7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
