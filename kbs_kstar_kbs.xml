@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 00:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 02:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 이상우 편셰프 출격 "요리는 반듯하게, 맛있게" .. (feat.김소연)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328117</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328117</guid>
+            <pubDate>Thu, 22 Aug 2024 02:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328117">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240822094218_2397d87bc8b6a8f81c29766162eb8fcd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328117">‘편스토랑’ 이상우 편셰프 출격 "요리는 반듯하게, 맛있게" .. (feat.김소연)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240822094218_2397d87bc8b6a8f81c29766162eb8fcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '개소리'  예수정-임채무-송옥숙.. ‘꽃청춘’ 시니어들의 바람 잘 날 없는 거제 적응기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328074</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820214830_0c686e15dd71abbcd825c254bbf80f9b_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['스모킹 건'  “범인이 감옥에 있다?” - 주부 성폭행 사건]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=327954</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327954</guid>
-            <pubDate>Tue, 20 Aug 2024 05:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327954">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820133132_e84f417256a35cb85228b92399d8c086_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327954">'스모킹 건'  “범인이 감옥에 있다?” - 주부 성폭행 사건</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820133132_e84f417256a35cb85228b92399d8c086_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
