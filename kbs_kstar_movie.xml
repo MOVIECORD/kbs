@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 22:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 23:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제21회 EBS국제다큐영화제, 대상 '영사실의 불빛']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328551</guid>
+            <pubDate>Sun, 25 Aug 2024 23:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328551">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240826075049_95602686b7e5869370765aba4d87994e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328551">제21회 EBS국제다큐영화제, 대상 '영사실의 불빛'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240826075049_95602686b7e5869370765aba4d87994e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '우씨왕후' 고구려 왕위 쟁탈전.. "전종서-김무열-정유미-이수혁-박지환 그리고 지창욱"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328473</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328063">‘한국이 싫어서’ 시사회 현장 “행복을 찾아서, 나는 여기를 떠난다” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240822080505_24fa7f5f1022fe24fa63f075c7c851df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘아무도 없는 숲속에서’ 제작발표회.. “누군가 앞에 나타났다. 삶이 망가졌다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328005</guid>
-            <pubDate>Wed, 21 Aug 2024 03:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328005">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240821114622_205a82b3ec180ad50c9ff141d9820ce3_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328005">[현장] ‘아무도 없는 숲속에서’ 제작발표회.. “누군가 앞에 나타났다. 삶이 망가졌다!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240821114622_205a82b3ec180ad50c9ff141d9820ce3_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
