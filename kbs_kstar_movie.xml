@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 00:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 02:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 손현주 배우 “명품배우, 명품연기, 명품인터뷰” (드라마 ‘유어 아너’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330154</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330154</guid>
+            <pubDate>Fri, 06 Sep 2024 02:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330154">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906102957_4d0e373e6494111591c9ff129bc23661.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330154">[인터뷰] 손현주 배우 “명품배우, 명품연기, 명품인터뷰” (드라마 ‘유어 아너’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906102957_4d0e373e6494111591c9ff129bc23661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장 뤽 고다르 '국외자들' 60주년.. 9월 극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329659</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329630">'베테랑2' 황정민-정해인 액션, IMAX로도 본다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903084825_2b9bae05e25bfae55f122b02ce224e47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '강매강' 김동욱 vs 박지환, 강력반 최고 능력자는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329619</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329619</guid>
-            <pubDate>Tue, 03 Sep 2024 00:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329619">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903083737_0612d9bfeaeb63e6e600df9615c5f542.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329619">디즈니+ '강매강' 김동욱 vs 박지환, 강력반 최고 능력자는?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903083737_0612d9bfeaeb63e6e600df9615c5f542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
