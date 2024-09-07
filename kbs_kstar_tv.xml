@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 07:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 08:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENA '내 아이의 사생활' ‘국민 베이비’ 문메이슨, “캐나다에서 전교 1등, 의대 지망생”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330134</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330134</guid>
+            <pubDate>Sat, 07 Sep 2024 08:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330134">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906082827_84e7da5bb36af3397b31b40736b6a52d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330134">ENA '내 아이의 사생활' ‘국민 베이비’ 문메이슨, “캐나다에서 전교 1등, 의대 지망생”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906082827_84e7da5bb36af3397b31b40736b6a52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무쇠소녀단'  진서연-유이-설인아-박주현, "철인 도전!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330274</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329246">ENA  '내 아이의 사생활' 장윤정X도경완, ‘도장부부’ 웃게 한 아이들의 생애 첫 도전!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830112410_6b8184d59d877d0600e92906702f0f6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나의 해리에게’ 조혜주, 당찬 MZ아나운서 ‘백혜연’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329211</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329211</guid>
-            <pubDate>Sun, 01 Sep 2024 23:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329211">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830105857_0c2c0255cd28db8e93b0d163c10c1c8d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329211">‘나의 해리에게’ 조혜주, 당찬 MZ아나운서 ‘백혜연’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830105857_0c2c0255cd28db8e93b0d163c10c1c8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
