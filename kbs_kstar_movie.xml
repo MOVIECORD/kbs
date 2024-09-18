@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 22:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 23:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘테인티드 러브’.. “당황하셨어요? 이거 로맨스 스캠이에요~”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=331362</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331362</guid>
+            <pubDate>Wed, 18 Sep 2024 23:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331362">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240917180720_84d6ef223c1b911daeaf505ae6f0286a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331362">[리뷰] ‘테인티드 러브’.. “당황하셨어요? 이거 로맨스 스캠이에요~”  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240917180720_84d6ef223c1b911daeaf505ae6f0286a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에드워드 양(양더창) 감독의 슬픈 대만, '독립시대'.. 한국 극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=331412</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330875">장 뤽 고다르 '국외자들'. 안나 카리나 포스터 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240912081727_fdc6c4e677ed0cee75b880f514dc14dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 류승완 감독 “류승완의 분노와 서도철 직업윤리의 밸런스 게임” (영화 ‘베테랑2’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=331063</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331063</guid>
-            <pubDate>Fri, 13 Sep 2024 23:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331063">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240914073525_08fd27e75e99398d43d69663c7cf0cbd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331063">[인터뷰] 류승완 감독 “류승완의 분노와 서도철 직업윤리의 밸런스 게임” (영화 ‘베테랑2’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240914073525_08fd27e75e99398d43d69663c7cf0cbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
