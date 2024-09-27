@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 10:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 11:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332678</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=332678</guid>
             <pubDate>Fri, 27 Sep 2024 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332678">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332678">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240927120823_ab38d761e3615c0ed73aacf68760f617_1.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332673</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=332673</guid>
             <pubDate>Fri, 27 Sep 2024 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332673">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332673">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240927120703_6877cab2e009f3a7dcc87d91940e8837.jpg" alt="대체 텍스트">
