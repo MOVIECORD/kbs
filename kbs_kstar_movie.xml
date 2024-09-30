@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 10:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 11:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332970</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=332970</guid>
             <pubDate>Mon, 30 Sep 2024 02:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332970">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332970">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930110703_d25b12407988a777f70ccc926a93e5fa.jpg" alt="대체 텍스트">
@@ -29,7 +29,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332941</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=332941</guid>
             <pubDate>Mon, 30 Sep 2024 02:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332941">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332941">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930095334_3ac0562ff82b2427fd557b1858c977a3.jpg" alt="대체 텍스트">
