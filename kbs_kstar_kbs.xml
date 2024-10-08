@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 00:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 02:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세차JANG' 장민호-장성규, 다시 뭉친다.. ‘한겨울 손 세차 토크쇼’ 콘셉트 12월 편성]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333872</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333872</guid>
+            <pubDate>Tue, 08 Oct 2024 02:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333872">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008084314_b638557c5f10b9681841c666e70180d5_1.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333872"> '세차JANG' 장민호-장성규, 다시 뭉친다.. ‘한겨울 손 세차 토크쇼’ 콘셉트 12월 편성</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008084314_b638557c5f10b9681841c666e70180d5_1.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['스모킹 건' 영화 ‘시민덕희’ 모티브 ‘시민 김성자’ 출연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333867</link>
@@ -345,23 +362,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241007074358_6972835e41294a816811dcadbd3ab00f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울대 야구부-우리 한 번만 이겨보자'...  "2승 2무 386패" (7일 밤 10시 10분 KBS 2TV)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333292</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333292</guid>
-            <pubDate>Sun, 06 Oct 2024 21:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333292">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002163454_8f6d1a883fd96582fe5d805d9a454fd3.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333292">'서울대 야구부-우리 한 번만 이겨보자'...  "2승 2무 386패" (7일 밤 10시 10분 KBS 2TV)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002163454_8f6d1a883fd96582fe5d805d9a454fd3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
