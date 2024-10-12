@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 13:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 14:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 故신해철 10주기 추모 특집...훌쩍 큰 아들도 한 자리에]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=334513</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334513</guid>
+            <pubDate>Sat, 12 Oct 2024 14:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334513">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012225101_f88edc8869ff2bcd47f4b5d55234e75d_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334513">[불후의 명곡] 故신해철 10주기 추모 특집...훌쩍 큰 아들도 한 자리에</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012225101_f88edc8869ff2bcd47f4b5d55234e75d_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['다리미 패밀리' 금새록-김정현, 한밤중 포장마차, 만취 후 폭탄 발언]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=334507</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241010214336_cd267b607986cbf7b9d4c83b0036d401_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] KBS, “업무추진비 관련 MBC 보도는 악의적이고 명예훼손 의도…법적 대응 검토”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=334264</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334264</guid>
-            <pubDate>Thu, 10 Oct 2024 09:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334264">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241010180630_1022cd034460ca42e451c4a9033c5a89.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334264">[공식] KBS, “업무추진비 관련 MBC 보도는 악의적이고 명예훼손 의도…법적 대응 검토”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241010180630_1022cd034460ca42e451c4a9033c5a89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
