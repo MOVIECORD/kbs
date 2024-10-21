@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 23:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 00:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBC드라마  '지금 거신 전화는'..  채수빈, 수어 통역사 '홍희주']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=335533</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335533</guid>
+            <pubDate>Mon, 21 Oct 2024 00:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335533">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021083930_705f0fdb2c15501683c477d3e690ee27.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335533">MBC드라마  '지금 거신 전화는'..  채수빈, 수어 통역사 '홍희주'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021083930_705f0fdb2c15501683c477d3e690ee27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원, '채소 파인 다이닝' 급식 도전.. "학생들이 재배한 작물로 240명 대용량 요리" (백패커2)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335448</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334455">tvN ‘정년이’ 첫 방송.. 김태리, ‘국극’과 운명적 조우</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012065543_ba2021dd0ce0926fa78dfffea03cec5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지옥에서 온 판사’ NEW 분노유발자.. 광기와 위선의 재벌, 최원중]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=334389</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334389</guid>
-            <pubDate>Thu, 17 Oct 2024 10:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334389">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241011091027_63c21e88b058bf2b24fcbde759d1c649.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334389">‘지옥에서 온 판사’ NEW 분노유발자.. 광기와 위선의 재벌, 최원중</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241011091027_63c21e88b058bf2b24fcbde759d1c649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
