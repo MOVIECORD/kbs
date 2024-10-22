@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 07:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 08:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘벌거벗은 세계사’  자유와 관용 나라, 네덜란드는 왜 학살을 저질렀나?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=335660</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335660</guid>
+            <pubDate>Tue, 22 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335660">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022170509_61f3110cd9b349fe596d9cdbbc48c4fa_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335660">‘벌거벗은 세계사’  자유와 관용 나라, 네덜란드는 왜 학살을 저질렀나?</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022170509_61f3110cd9b349fe596d9cdbbc48c4fa_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JTBC '옥씨부인전'  임지연, 도망친 노비에서 양반댁 아씨로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335619</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334725">[위대한 수업, 그레이트 마인즈]  마이클 루스 교수 ‘진화론과 종교’ (14일~18일 밤 11시 40분,EBS)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241014084731_0706ffd14f5cd1720853db5dc48a8188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EBS '다큐프라임 – 위대한 영혼, 발리'  (14일,15일,21일 밤 10시 45분, EBS1)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=334473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334473</guid>
-            <pubDate>Thu, 17 Oct 2024 10:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012071050_193b2468a51b523875dfc31feb57364a.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334473">EBS '다큐프라임 – 위대한 영혼, 발리'  (14일,15일,21일 밤 10시 45분, EBS1)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012071050_193b2468a51b523875dfc31feb57364a.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
