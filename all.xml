@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 10:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 11:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241015164614_05e7f492231ebf83d1c891857e803bbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KBS이사회,  신임 사장으로 박장범 앵커 임명 제청 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=335771</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335771</guid>
+            <pubDate>Wed, 23 Oct 2024 11:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335771">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023192222_99d9c0d32e1c0658e4bb68f41870c787.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335771">KBS이사회,  신임 사장으로 박장범 앵커 임명 제청</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023192222_99d9c0d32e1c0658e4bb68f41870c787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KBS '개소리' 임채무, 좌불안석 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335724</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=335724</guid>
@@ -944,7 +961,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335581</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=335581</guid>
             <pubDate>Mon, 21 Oct 2024 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335581">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335581">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021230737_cbacb1a2f215cb432067476e511deec3_1.png" alt="대체 텍스트">
@@ -998,7 +1015,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335566</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=335566</guid>
             <pubDate>Mon, 21 Oct 2024 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335566">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335566">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021212940_c0224ae74835fd44971cd6f14e86781e.png" alt="대체 텍스트">
@@ -1028,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021210853_1a2d36e2b683c0d5466f1718fa66641f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스캔들] 최웅이 친아들인 걸 알고 갑자기 잘해주는 한채영 “정말 멋지다 너” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335555</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335555</guid>
-            <pubDate>Mon, 21 Oct 2024 12:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335555">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021205436_6e907fcb67ba941c4e7fe5740f626341_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335555">[스캔들] 최웅이 친아들인 걸 알고 갑자기 잘해주는 한채영 “정말 멋지다 너”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021205436_6e907fcb67ba941c4e7fe5740f626341_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
