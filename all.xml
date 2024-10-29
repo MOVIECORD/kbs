@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 23:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 00:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 강동원 “戰에서도, 亂에서도 살아야 한다” (넷플릭스 ‘전,란’) (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336481</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336481</guid>
+            <pubDate>Tue, 29 Oct 2024 00:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336481">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029082854_d4b9487c989245c828885805811e9305.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336481">[인터뷰] 강동원 “戰에서도, 亂에서도 살아야 한다” (넷플릭스 ‘전,란’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029082854_d4b9487c989245c828885805811e9305.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조우진 vs. 지창욱, 액션 스타일이 다르다... 디즈니플러스 '강남 비-사이드' (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336462</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026083531_8ea6c8065900ebb4190ebcce87d3021d_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["꼭 그렇게 다 가져가야만 속이 후련했냐".. 김래원 주연 '해바라기' 11월 재개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336061</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336061</guid>
-            <pubDate>Sat, 26 Oct 2024 00:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336061">	<span class="img-box hh">
+            <title><![CDATA["곱디고운 임지연" JTBC 드라마 '옥씨부인전' (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336486</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336486</guid>
+            <pubDate>Tue, 29 Oct 2024 00:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336486">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026081255_b3d1e019a1ae7baec0bfcdaf2447523a.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029085851_c29dbae7f60c444ad7bbe70cd3bc920c_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336061">"꼭 그렇게 다 가져가야만 속이 후련했냐".. 김래원 주연 '해바라기' 11월 재개봉</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336486">"곱디고운 임지연" JTBC 드라마 '옥씨부인전'</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026081255_b3d1e019a1ae7baec0bfcdaf2447523a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029085851_c29dbae7f60c444ad7bbe70cd3bc920c_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허남준, 정신건강의학과 전문의 변신 (MBC '지금 거신 전화는') (KBS연예 ─ TVs)]]></title>
@@ -671,28 +688,65 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023082309_3441e9c82a1b2389e890d00696d0eab9.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘벌거벗은 세계사’  자유와 관용 나라, 네덜란드는 왜 학살을 저질렀나? (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335660</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335660</guid>
-            <pubDate>Tue, 22 Oct 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335660">	<span class="img-box hh">
+            <title><![CDATA[전배수 “드라마 <페이스미>는 신선하다” (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336373</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336373</guid>
+            <pubDate>Tue, 29 Oct 2024 00:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336373">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022170509_61f3110cd9b349fe596d9cdbbc48c4fa_1.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241028135725_0fd9887ae33a69fe09d79dd00bee3add.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335660">‘벌거벗은 세계사’  자유와 관용 나라, 네덜란드는 왜 학살을 저질렀나?</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336373">전배수 “드라마 &lt;페이스미&gt;는 신선하다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EB%AF%B8">수목드라마 페이스 미</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022170509_61f3110cd9b349fe596d9cdbbc48c4fa_1.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241028135725_0fd9887ae33a69fe09d79dd00bee3add.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송가인의 가요무대,  ‘동백 아가씨’→‘엄마 아리랑’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336473</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336473</guid>
+            <pubDate>Tue, 29 Oct 2024 00:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336473">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029081557_d88589015a3e62f7151fd597bb6a574b_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336473">송가인의 가요무대,  ‘동백 아가씨’→‘엄마 아리랑’ </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%80%EC%9A%94%EB%AC%B4%EB%8C%80">가요무대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029081557_d88589015a3e62f7151fd597bb6a574b_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["AI 목소리를 찾아라!"  ‘싱크로유’.. 박명수 ‘Ditto’, 조혜련 ‘까탈레나’, 그리고 김영철의 양희은 모창 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336468</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336468</guid>
+            <pubDate>Tue, 29 Oct 2024 00:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336468">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029080518_678394931006d6ea948925de23b729ad.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336468">"AI 목소리를 찾아라!"  ‘싱크로유’.. 박명수 ‘Ditto’, 조혜련 ‘까탈레나’, 그리고 김영철의 양희은 모창</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029080518_678394931006d6ea948925de23b729ad.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['개소리' 이순재X소피 그리고 ‘시니어벤져스’가 만들어낸 환상의 공조 작전 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336120</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=336120</guid>
             <pubDate>Mon, 28 Oct 2024 21:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336120">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336120">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026200909_4462d7e78b7099e998115edb93040e08.jpg" alt="대체 텍스트">
@@ -710,7 +764,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336445</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=336445</guid>
             <pubDate>Mon, 28 Oct 2024 16:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336445">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336445">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029002146_1639b24c3abb482d544c91ed16c6972e.png" alt="대체 텍스트">
@@ -728,7 +782,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336440</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=336440</guid>
             <pubDate>Mon, 28 Oct 2024 16:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336440">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336440">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029001803_00d9fe018e038000b7367fbdf2700088_1.png" alt="대체 텍스트">
@@ -992,60 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241028000504_9930dbee6a29bbe8d12cd24b946eccd8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[니꼴로, 제2의 안세영 노린다! (슈퍼맨이 돌아왔다) (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336214</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336214</guid>
-            <pubDate>Sun, 27 Oct 2024 09:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336214">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027074819_7d8c0493078c0131ef1af27b1821e178.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336214">니꼴로, 제2의 안세영 노린다! (슈퍼맨이 돌아왔다)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027074819_7d8c0493078c0131ef1af27b1821e178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금새록, 눈 수술 받고 행복 만끽 ('다리미 패밀리') (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336231</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336231</guid>
-            <pubDate>Sun, 27 Oct 2024 00:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336231">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027080614_61c26e731256a5577d390b8e8c361a7b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336231">금새록, 눈 수술 받고 행복 만끽 ('다리미 패밀리')</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027080614_61c26e731256a5577d390b8e8c361a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1박 2일'  찰나의 '가을'... 산 넘고 물 건너는 '영월-정선' 익스트림 투어 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336182</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336182</guid>
-            <pubDate>Sat, 26 Oct 2024 23:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336182">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027071024_76a921d1a0e99f5b7224fb4735565154.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336182">'1박 2일'  찰나의 '가을'... 산 넘고 물 건너는 '영월-정선' 익스트림 투어 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027071024_76a921d1a0e99f5b7224fb4735565154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
