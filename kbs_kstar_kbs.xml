@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 20:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 21:01:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[싱크로유] 이적, 에스파 ‘수퍼노바’ 커버 무대! 추리단 당황]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338694</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338694</guid>
+            <pubDate>Sun, 17 Nov 2024 21:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338694">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115201247_acfc27e675a88c50984357dcd72e7a41.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338694">[싱크로유] 이적, 에스파 ‘수퍼노바’ 커버 무대! 추리단 당황  </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115201247_acfc27e675a88c50984357dcd72e7a41.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 김정현, 금새록에 김밥 먹여주기...점점 가까워지는 두 사람]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338861</link>
@@ -347,24 +365,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338673"> ‘불후의 명곡’ 트로트 레전드들의 진검승부 예고 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115120408_4f754c143796527de39588b66b210c87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 이정현 딸, 5분 참으면 젤리 2개 실험에...인생 최대 난관 귀여운 사투]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338728</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338728</guid>
-            <pubDate>Fri, 15 Nov 2024 21:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338728">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241116054627_2392ad4c1840619ea31272c7cf7e5790_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338728">[신상출시 편스토랑] 이정현 딸, 5분 참으면 젤리 2개 실험에...인생 최대 난관 귀여운 사투</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241116054627_2392ad4c1840619ea31272c7cf7e5790_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
