@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 14:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 15:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,7 +403,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339200</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339200</guid>
             <pubDate>Thu, 21 Nov 2024 21:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339200">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339200">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122053708_28cbd6048f3f42c9301343490d2e3019_1.jpg" alt="대체 텍스트">
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241116082906_8f6fe6c08307fb59c2acc97b0ba0a82c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[다리미 패밀리] “그래 내가 올렸다” 최태준이 폭로 게시글 올렸다는 말에 당황하는 김정현 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339433</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339433</guid>
+            <pubDate>Sat, 23 Nov 2024 15:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339433">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123231640_a45daaae32df9a9cf4104c00b863fb2e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339433">[다리미 패밀리] “그래 내가 올렸다” 최태준이 폭로 게시글 올렸다는 말에 당황하는 김정현</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123231640_a45daaae32df9a9cf4104c00b863fb2e_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[다리미 패밀리] 신현준, ‘김정현 폭로 게시글 작성자=최태준’? 의심+추궁 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339429</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339429</guid>
@@ -925,7 +943,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339268</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339268</guid>
             <pubDate>Fri, 22 Nov 2024 21:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339268">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339268">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123051048_a0cdd0f8a36034c25be64c3d05cbd3b4.png" alt="대체 텍스트">
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122212612_a502b79f681fd109fde8f3778c8eb045.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] NCT DREAM, ‘When I′m With You’로 엔하이픈 꺾고 1위 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339226</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339226</guid>
-            <pubDate>Fri, 22 Nov 2024 13:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339226">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122212009_3250c464e59213cc1ecce465e0a4c1e2_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339226">[뮤직뱅크] NCT DREAM, ‘When I′m With You’로 엔하이픈 꺾고 1위 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122212009_3250c464e59213cc1ecce465e0a4c1e2_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
