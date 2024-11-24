@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 11:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 12:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339510</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339510</guid>
             <pubDate>Sun, 24 Nov 2024 07:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339510">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339510">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124151204_b968c7a5300098b354787765eb1bbc3e_1.jpg" alt="대체 텍스트">
@@ -369,7 +369,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339478</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339478</guid>
             <pubDate>Sun, 24 Nov 2024 06:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339478">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339478">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124094235_f9f9b7b7c798751ecb56afbec2f9f044.png" alt="대체 텍스트">
@@ -386,7 +386,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339326</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339326</guid>
             <pubDate>Sun, 24 Nov 2024 00:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339326">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339326">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123075954_03f9d92a24ba7335d79a3432affd9f65_1.JPG" alt="대체 텍스트">
@@ -403,7 +403,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339341</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=339341</guid>
             <pubDate>Sat, 23 Nov 2024 00:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339341">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339341">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123081558_330c94ce9982c9e02f9fce2e0b0f2b4c.jpg" alt="대체 텍스트">
@@ -686,6 +686,24 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338743">'결혼해YOU', 16일  첫 방송...  이이경·조수민의  첫 만남</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241116110505_74841fc24f58da58dd8f93bd86dffaed_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1박2일]  신혼여행 후 복귀 조세호, “어머니, 이준 어머니와 친분” 엄친친아 에피소드 투척 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339544</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339544</guid>
+            <pubDate>Sun, 24 Nov 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339544">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124205600_647e9f44697c7b168f347ffe576a7160_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339544">[1박2일]  신혼여행 후 복귀 조세호, “어머니, 이준 어머니와 친분” 엄친친아 에피소드 투척 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124205600_647e9f44697c7b168f347ffe576a7160_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["K팝과 스페인의 만남, ‘나라는 가수 인 스페인’ 포도밭에서의 특별한 공연 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339285">첨단 제조 강국의 미래를 논하다…KBS ‘미래기획 대전환’ 3부 &lt;지능 전쟁, 거대 산업의 역습&gt;</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123072305_3f58a64b87aa33dd64abf955875b7561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불후의 명곡, ‘집 나간 VS 집 지키는 아나운서 '특집 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339279</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339279</guid>
-            <pubDate>Fri, 22 Nov 2024 22:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339279">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123062759_44f0c2a828a858432f510c346a39010c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339279">불후의 명곡, ‘집 나간 VS 집 지키는 아나운서 '특집</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123062759_44f0c2a828a858432f510c346a39010c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
