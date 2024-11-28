@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 00:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 02:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,7 +348,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126092138_5a224bc96ce9040a3faf121864dca2df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이브 안유진, SBS 요대전 MC (KBS연예 ─ TVs)]]></title>
+            <title><![CDATA[아이브 안유진, SBS 가요대전 MC (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340205</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=340205</guid>
             <pubDate>Wed, 27 Nov 2024 23:01:22 GMT</pubDate>
@@ -360,7 +360,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340205">아이브 안유진, SBS 요대전 MC</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340205">아이브 안유진, SBS 가요대전 MC</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128074445_8efafa1127abb99359887ee79b47e7ab.jpg" length="0" type="image/jpg"/>
         </item>
