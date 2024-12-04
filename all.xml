@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 20:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 21:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129090856_ba52759c8521f75563c478115969f5f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘미스쓰리랑’ 특집, ‘미스트롯3’ VS ‘미스터트롯2’ 세기의 대결! (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340983</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340983</guid>
+            <pubDate>Wed, 04 Dec 2024 21:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340983">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084453_4e1810bb732dae079a4870393e27d46d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340983">‘미스쓰리랑’ 특집, ‘미스트롯3’ VS ‘미스터트롯2’ 세기의 대결!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084453_4e1810bb732dae079a4870393e27d46d_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2025년 tvN 드라마.. "트랜드, 웰메이드, 그리고 글로벌" (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341078</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=341078</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128085245_dac79109f6e3c02027cff267f7c40720_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[텐트 밖은 돌로미티...로맨틱 이탈리아.네 명의 여행자 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340298</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340298</guid>
-            <pubDate>Thu, 28 Nov 2024 09:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340298">	<span class="img-box ww">
+            <title><![CDATA[장민호X장성규, 이번엔 세차장 토크쇼..KBS2 '세차JANG' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340979</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340979</guid>
+            <pubDate>Wed, 04 Dec 2024 21:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340979">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128124456_d3c41c711a3a6a1df7262e8cec2e0362.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084540_570e4ce67e49f5af1f29d01cb72e9426.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340298">텐트 밖은 돌로미티...로맨틱 이탈리아.네 명의 여행자</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340979">장민호X장성규, 이번엔 세차장 토크쇼..KBS2 '세차JANG' </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%B0%A8JANG">세차JANG</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128124456_d3c41c711a3a6a1df7262e8cec2e0362.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084540_570e4ce67e49f5af1f29d01cb72e9426.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[페이스 미] 확신 가득한 얼굴로 이민기 차에 태운 한지현 “진범 만나러 가요” (KBS연예 ─ KBS)]]></title>
@@ -1028,24 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203234723_19137182eae78a50dd62fe65c3de9550_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시사기획창 '붉은 소나무의 비밀'.. "푸른 소나무에 붉은 단풍이?" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340909</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340909</guid>
-            <pubDate>Tue, 03 Dec 2024 07:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340909">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203154718_29b1acc189789b62b44b2d880524e9ad.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340909">시사기획창 '붉은 소나무의 비밀'.. "푸른 소나무에 붉은 단풍이?"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203154718_29b1acc189789b62b44b2d880524e9ad.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
