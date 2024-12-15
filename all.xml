@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 23:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 00:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241211063336_184d652d6bacc386f4a26035a9b97bc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한지은,  ‘별들에게 물어봐’에서 카리스마 재벌 후계자 변신 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342444</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342444</guid>
+            <pubDate>Sun, 15 Dec 2024 00:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342444">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241215081645_b247806be9ad149c0484423c383794ae.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342444">한지은,  ‘별들에게 물어봐’에서 카리스마 재벌 후계자 변신  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241215081645_b247806be9ad149c0484423c383794ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC '냉장고를 부탁해'.. 티격태격 최현석-김풍, 유쾌한 케미스트리 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342331</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=342331</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341477">'가석방 심사관' 고수, 엄마 재소자 만난다 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241207181545_a193d1180f0e7bb691e989a3ff867ec9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박보영 쌍둥이  1인2역, 박진영 로펌변호사 .. tvN  '미지의 서울' (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340985</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340985</guid>
-            <pubDate>Sun, 08 Dec 2024 22:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340985">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084352_fcb06af907641ca69ed4b61a4e12df3f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340985">박보영 쌍둥이  1인2역, 박진영 로펌변호사 .. tvN  '미지의 서울'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084352_fcb06af907641ca69ed4b61a4e12df3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KBS 본관5층 라디오 부스의 비밀..  전현무 사내연애 꿀팁 (KBS연예 ─ KBS)]]></title>
