@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 05:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 06:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342927</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=342927</guid>
             <pubDate>Thu, 19 Dec 2024 10:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342927">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342927">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219080335_071eef5122d2b33237f3279e64caf6f8.png" alt="대체 텍스트">
@@ -688,7 +688,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241213200245_90d29075b3aaa805aae0bf78a129ec33_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["알마티 아파트아파트, 타슈켄트 아리랑아리랑~"  동네한바퀴 300회 특집 (간담회) (KBS연예 ─ KBS)]]></title>
+            <title><![CDATA["그 동네에 사람이 산다"  KBS 동네한바퀴 300회  기자간담회 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343106</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=343106</guid>
             <pubDate>Fri, 20 Dec 2024 05:08:28 GMT</pubDate>
@@ -700,7 +700,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343106">"알마티 아파트아파트, 타슈켄트 아리랑아리랑~"  동네한바퀴 300회 특집 (간담회)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343106"> "그 동네에 사람이 산다"  KBS 동네한바퀴 300회  기자간담회</a></span>
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%84%A4%20%ED%95%9C%20%EB%B0%94%ED%80%B4">동네 한 바퀴</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220132338_aecaebb5d99e16d3c9f9c8a46b4e70a6.JPG" length="0" type="image/JPG"/>
