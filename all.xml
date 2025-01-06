@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 08:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 09:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227083020_5ddd08e7093f4e967e3a3c30b14307ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['톡파원 25시' 타쿠야, 도야마를 가다 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344692</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344692</guid>
+            <pubDate>Mon, 06 Jan 2025 09:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344692">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106101813_cba527662027252a82dd265e4dc77dea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344692">'톡파원 25시' 타쿠야, 도야마를 가다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106101813_cba527662027252a82dd265e4dc77dea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['별들에게 물어봐' 2회..  이민호, 커맨더 공효진과 손잡고 환상의 호흡 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344755</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=344755</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220181119_e7fd31c4a67e36320fda2e58da38e268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['텐트 밖은 할슈타트' ..  호수에서 수영하기, 현지인처럼 살아보기 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343879</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343879</guid>
-            <pubDate>Thu, 26 Dec 2024 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343879">	<span class="img-box ww">
+            <title><![CDATA['독수리 5형제를 부탁해!' 티저 공개... 엄지원의 롤코 인생 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344772</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344772</guid>
+            <pubDate>Mon, 06 Jan 2025 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344772">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226124840_25ecf3305d81f4bc9a5be3891b3f4d40.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106154451_1329da0fd51630c61d88b3f184d5f1a9.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343879">'텐트 밖은 할슈타트' ..  호수에서 수영하기, 현지인처럼 살아보기</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344772">'독수리 5형제를 부탁해!' 티저 공개... 엄지원의 롤코 인생</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226124840_25ecf3305d81f4bc9a5be3891b3f4d40.png" length="0" type="image/png"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106154451_1329da0fd51630c61d88b3f184d5f1a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['신데렐라 게임' 한그루, 제사상 뒤엎은 권도형에 분노 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344511">KBS 인공지능 버티고 기술, 일본NHK ‘홍백가합전’ 제작 참여</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103201041_c34c6abcabdb3b49b46c6d6d86cf421d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄지원X안재욱,  우연한 만남 그리고 불편한 기류 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344467</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344467</guid>
-            <pubDate>Fri, 03 Jan 2025 00:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344467">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103083624_335846159a332bb2a3fb4d968fe4ab28.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344467">엄지원X안재욱,  우연한 만남 그리고 불편한 기류</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4">주말드라마 독수리 5형제를 부탁해</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103083624_335846159a332bb2a3fb4d968fe4ab28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
