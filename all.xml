@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 07:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 08:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106103733_ced2eebabff0336b67627740ec62cb6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘핀란드 셋방살이’ 핀란드숲에서 김치찌개 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345311</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345311</guid>
+            <pubDate>Fri, 10 Jan 2025 08:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345311">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110162724_eba15bdc835533eef2175b7ddc683aa2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345311">‘핀란드 셋방살이’ 핀란드숲에서 김치찌개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110162724_eba15bdc835533eef2175b7ddc683aa2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['프로듀서' 장민호-이찬원의 '잘생긴 트롯'이 온다 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345295</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=345295</guid>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105080730_df003801e2fdf34748d31e8e1725f994.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘백종원의 레미제라블’.. 돼지고기 완전정복 미션 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344539</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344539</guid>
-            <pubDate>Sat, 04 Jan 2025 00:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344539">	<span class="img-box ww">
+            <title><![CDATA['이영지의 레인보우'  여자친구 - 송중기 - 부석순  "뮤직쇼, 토크쇼" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345329</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345329</guid>
+            <pubDate>Fri, 10 Jan 2025 08:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345329">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250104084005_46461175c333bd347c5192cbd7cc34e0_1.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110164423_10a4b130a354c7334d596fb666c317b3_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344539">‘백종원의 레미제라블’.. 돼지고기 완전정복 미션</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345329">'이영지의 레인보우'  여자친구 - 송중기 - 부석순  "뮤직쇼, 토크쇼"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88">더 시즌즈</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250104084005_46461175c333bd347c5192cbd7cc34e0_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110164423_10a4b130a354c7334d596fb666c317b3_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이정현, 홈파티 여왕의 크리스마스 요리 4종 공개 (KBS연예 ─ KBS)]]></title>
@@ -1026,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108215122_e51bca0c0d7e5f02f9d7402fbdaccd1d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 겁쟁이 최지우 위해 닭장 누비며 자급자족 솔선수범 보이는 지우 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345005</guid>
-            <pubDate>Wed, 08 Jan 2025 14:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345005">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108214214_39dff53d2c63dc331376f39bb005ca28_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345005">[슈퍼맨이 돌아왔다] 겁쟁이 최지우 위해 닭장 누비며 자급자족 솔선수범 보이는 지우 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108214214_39dff53d2c63dc331376f39bb005ca28_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
