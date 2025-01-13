@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 00:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 02:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉준호 신작 '미키17'  2월 28일 한국 개봉, 로버트 패틴슨 내한 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345574</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345574</guid>
+            <pubDate>Mon, 13 Jan 2025 02:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345574">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113094320_c1fed31262f83612089346f9165fb0ea.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345574">봉준호 신작 '미키17'  2월 28일 한국 개봉, 로버트 패틴슨 내한</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113094320_c1fed31262f83612089346f9165fb0ea.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤은경 감독 '세입자' 컬러 버전  공개 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345567</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108101918_8029fa91a2c03814346c6aa9114d836e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김남길 "소설 속 이야기가 벌어졌다!" ... 영화 '브로큰' (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344950</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344950</guid>
-            <pubDate>Wed, 08 Jan 2025 00:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344950">	<span class="img-box hh">
+            <title><![CDATA['로코퀸' 이세영, 23년 첫사랑 지강희 (모텔 캘리포니아) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345579</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345579</guid>
+            <pubDate>Mon, 13 Jan 2025 02:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345579">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108090043_c02a8f0ca056e700ecec9b7288967b1a.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113095118_f7008bdd9825e30c3639e93e18d1dd2e.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344950">김남길 "소설 속 이야기가 벌어졌다!" ... 영화 '브로큰'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345579">'로코퀸' 이세영, 23년 첫사랑 지강희 (모텔 캘리포니아)</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108090043_c02a8f0ca056e700ecec9b7288967b1a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113095118_f7008bdd9825e30c3639e93e18d1dd2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['톡파원25시' 노트르담 대성당 재개관 현장 大공개 (KBS연예 ─ TVs)]]></title>
@@ -671,21 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106124011_b7865e740cb4f50216333ee91268bc12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘원경’ 6일 첫 방송... 차주영-이현욱, 원경왕후와 이방원 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344618</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344618</guid>
-            <pubDate>Mon, 06 Jan 2025 00:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344618">	<span class="img-box hh">
+            <title><![CDATA['고양이의 보은' KBS 2TV '동물은 훌륭하다' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345584</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345584</guid>
+            <pubDate>Mon, 13 Jan 2025 02:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345584">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105094708_ccad6024bc5a54181cc727894614364f.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113095618_b29a28d62e1a9d43954866e6a06272f5.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344618"> ‘원경’ 6일 첫 방송... 차주영-이현욱, 원경왕후와 이방원</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345584">'고양이의 보은' KBS 2TV '동물은 훌륭하다'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105094708_ccad6024bc5a54181cc727894614364f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113095618_b29a28d62e1a9d43954866e6a06272f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인간극장] 목사님은 트로트를 좋아해.. ‘하나님의 뽕짝가수’ 구자억 목사 (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111230435_d9ba4f66e3415092a5a1ce54dd460e92_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다리미 패밀리] 체포된 박지영, 김정현이 다시 묻은 돈 덕분에 ‘혐의없음’으로 풀려나 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345475</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345475</guid>
-            <pubDate>Sat, 11 Jan 2025 14:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345475">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111225647_8e1a97d2790526f877a4d5d37bbe0a56_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345475">[다리미 패밀리] 체포된 박지영, 김정현이 다시 묻은 돈 덕분에 ‘혐의없음’으로 풀려나</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111225647_8e1a97d2790526f877a4d5d37bbe0a56_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
