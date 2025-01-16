@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 22:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 23:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하정우X김진황 감독, 범죄추적극 '브로큰' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345775</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345775</guid>
+            <pubDate>Thu, 16 Jan 2025 23:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345775">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250116091737_4bdbfe0af239559e8f430ea4ec48fb98.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345775">하정우X김진황 감독, 범죄추적극 '브로큰'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250116091737_4bdbfe0af239559e8f430ea4ec48fb98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 최승현 "놉!  빨주노초~, I'm a legend 타노스" (넷플릭스 ‘오징어게임2’) (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345899</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109175831_79bab6d206397dd44701a72562e90a90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['더 폴' 타셈 감독  "CG없이 인생영화 만들기" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345399</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345399</guid>
-            <pubDate>Fri, 10 Jan 2025 23:01:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345399">	<span class="img-box ww">
+            <title><![CDATA['세나개' 미용실 독불장군, 오월이 (17일 밤 10시 50분, EBS1) (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346002</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346002</guid>
+            <pubDate>Thu, 16 Jan 2025 23:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346002">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111073416_d2a7d67379c7d4f3b0d556ca48e0232f.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117080100_456d93e586d7c5dcfdeac4693eca9507.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345399">'더 폴' 타셈 감독  "CG없이 인생영화 만들기" </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346002">'세나개' 미용실 독불장군, 오월이 (17일 밤 10시 50분, EBS1)</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111073416_d2a7d67379c7d4f3b0d556ca48e0232f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117080100_456d93e586d7c5dcfdeac4693eca9507.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['공룡' 이민호, 우주급 코믹 로맨스.. "당신 밖에 안 보여" (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345964</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345964</guid>
+            <pubDate>Thu, 16 Jan 2025 23:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345964">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117072116_9b67911399bf31f1f52f6358b989667d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345964">'공룡' 이민호, 우주급 코믹 로맨스.. "당신 밖에 안 보여"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117072116_9b67911399bf31f1f52f6358b989667d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['럭키비키' 장원영-안유진, 중동고 수능응원단, 법륜스님 (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108084731_f11eca1658ddff79b8f2b3528f22f0dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘어른도감 - 전승자들’  2025년에도, 정년이가 있다 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344584</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344584</guid>
-            <pubDate>Tue, 07 Jan 2025 05:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344584">	<span class="img-box hh">
+            <title><![CDATA[‘더 딴따라’ 파이널 라운드, 90분 생방송 무대 (19일 밤 9시 20분) (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345976</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345976</guid>
+            <pubDate>Thu, 16 Jan 2025 23:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345976">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105074508_18e33c6868199ce75296ee796df8ef38_1.png" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117073521_b0af4cd1207da47589120d637a1d3648.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344584"> ‘어른도감 - 전승자들’  2025년에도, 정년이가 있다</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345976">‘더 딴따라’ 파이널 라운드, 90분 생방송 무대 (19일 밤 9시 20분)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8D%94%20%EB%94%B4%EB%94%B0%EB%9D%BC">더 딴따라</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105074508_18e33c6868199ce75296ee796df8ef38_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN ‘그놈은 흑염룡’ 대본리딩현장... 문가영-최현욱-임세미-곽시양 캐스팅 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344697</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344697</guid>
-            <pubDate>Mon, 06 Jan 2025 20:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344697">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106102415_e6e425a96eb57edd71c4a9b44bcabb2b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344697">tvN ‘그놈은 흑염룡’ 대본리딩현장... 문가영-최현욱-임세미-곽시양 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106102415_e6e425a96eb57edd71c4a9b44bcabb2b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117073521_b0af4cd1207da47589120d637a1d3648.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[수상한 그녀] 스토커 우도임 유도하는 진영, 겁에 질린 정지소에 “절대 너 다치게 안 해” (KBS연예 ─ KBS)]]></title>
@@ -1027,24 +1045,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115090841_db4237e93c482c2a6f56df88309681da.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["시추 100마리 운동회"  '동물은 훌륭하다' (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345763</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345763</guid>
-            <pubDate>Wed, 15 Jan 2025 00:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345763">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115084343_830fe368c933a95f306199fb3bc51d1e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345763">  "시추 100마리 운동회"  '동물은 훌륭하다' </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115084343_830fe368c933a95f306199fb3bc51d1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
