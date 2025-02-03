@@ -4,9 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 22:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 23:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["게임은 시작되었다!"  이준석 다큐 '준스톤 이어원' 3월 극장개봉 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348273</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348273</guid>
+            <pubDate>Mon, 03 Feb 2025 23:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348273">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204075934_2a3905b99babc997b067e9d440e37241.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348273">"게임은 시작되었다!"  이준석 다큐 '준스톤 이어원' 3월 극장개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204075934_2a3905b99babc997b067e9d440e37241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["요원의 길, 묵묵한 흥행의 길".. 권상우 '히트맨2' 200만 관객 돌파 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348267</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348267</guid>
+            <pubDate>Mon, 03 Feb 2025 23:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348267">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204075000_33e9730418de11978969c5ee3a7b28a8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348267">"요원의 길, 묵묵한 흥행의 길".. 권상우 '히트맨2' 200만 관객 돌파</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204075000_33e9730418de11978969c5ee3a7b28a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘선의의 경쟁’ 이혜리 정수빈, 두 소녀의 심리전 시작 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347790</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347752">[리뷰] ‘히트맨2’ 웹툰작가가 된 전직 국정원요원 (권상우 주연,2025)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131072400_900cd18f162182e6a544ca102f2426b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 시즌3, 6월 27일 공개..."영희와 철수,모든 것이 풀린다" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347735</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347735</guid>
-            <pubDate>Thu, 30 Jan 2025 21:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347735">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131050703_3651f184948670dec26b32a530ea115f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347735">'오징어게임' 시즌3, 6월 27일 공개..."영희와 철수,모든 것이 풀린다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131050703_3651f184948670dec26b32a530ea115f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SNL코리아’ 사단, 이번엔 광고회사 접수... '직장인들' ... "극사실주의 오피스 코미디" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346936</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346936</guid>
-            <pubDate>Thu, 30 Jan 2025 20:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346936">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124081314_83c2d5522508cd63e465792c846251d4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346936">‘SNL코리아’ 사단, 이번엔 광고회사 접수... '직장인들' ... "극사실주의 오피스 코미디"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124081314_83c2d5522508cd63e465792c846251d4_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘언더커버 하이스쿨’ 진기주,  열정 가득 선생님 (KBS연예 ─ TVs)]]></title>
@@ -688,6 +688,42 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201171544_930382081ce5ad34ee48ec1584bfb6cd_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지진희-이규형, 오피스 코미디 ‘킥킥킥킥’.. 5일 첫 방송 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348262</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348262</guid>
+            <pubDate>Mon, 03 Feb 2025 23:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348262">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073925_5bf9f4ecf2519f15af281c5826c67b46.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348262">지진희-이규형, 오피스 코미디 ‘킥킥킥킥’.. 5일 첫 방송</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073925_5bf9f4ecf2519f15af281c5826c67b46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세차JANG] 옹성우·조나단·파트리샤·에일리·엄보람과 '월요병 치료' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348257</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348257</guid>
+            <pubDate>Mon, 03 Feb 2025 23:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348257">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073256_b2ea34d21249d2182b86a965cd633285.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348257">[세차JANG] 옹성우·조나단·파트리샤·에일리·엄보람과 '월요병 치료'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%B0%A8JANG">세차JANG</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073256_b2ea34d21249d2182b86a965cd633285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[동물은 훌륭하다] 국보급 몸값 자랑하는 베트남 닭 ‘동타오’, 닭의 몸과 용의 다리를 가진 ‘드래곤 치킨’ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348251</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348251</guid>
@@ -1010,42 +1046,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250202224423_e263b8b8bea08230d4aad077b0945ef2_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['킥킥킥킥'  지진희-이규형-백지원-이민재, 찰떡 호흡 예고 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347754</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347754</guid>
-            <pubDate>Sun, 02 Feb 2025 00:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347754">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131091412_5f3bfe5508889c6f5dea55aee4efd2a9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347754">'킥킥킥킥'  지진희-이규형-백지원-이민재, 찰떡 호흡 예고</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131091412_5f3bfe5508889c6f5dea55aee4efd2a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독수리5형제를부탁해 1회]  따뜻한 가족 드라마의 시작 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348091</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348091</guid>
-            <pubDate>Sun, 02 Feb 2025 00:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348091">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250202082903_0097ba0ea71b8ed7fd4fb2a35b79acfc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348091">[독수리5형제를부탁해 1회]  따뜻한 가족 드라마의 시작</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250202082903_0097ba0ea71b8ed7fd4fb2a35b79acfc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
