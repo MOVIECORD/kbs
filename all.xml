@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 07:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 08:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['춘화연애담' 제작진이 전하는 로맨틱 청춘사극 이야기 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347347</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347347</guid>
+            <pubDate>Mon, 03 Feb 2025 08:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347347">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250127200232_13b3950107c5f3a5a50def67cf0ee8b8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347347"> '춘화연애담' 제작진이 전하는 로맨틱 청춘사극 이야기</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250127200232_13b3950107c5f3a5a50def67cf0ee8b8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 예능 대공세..  "예능신작 5편, 1년 내내 새 에피소드 공개" (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348194</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130113549_4cace60da7c9a21fb4bfd2ffa3cdc8f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 콘서트 실황영화.. CGV 단독개봉 (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347631</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347631</guid>
-            <pubDate>Wed, 29 Jan 2025 22:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347631">	<span class="img-box hh">
+            <title><![CDATA[JTBC '협상의 기술' 3월 첫방송... 이제훈-김대명-성동일-장현성-오만석-안현호-차강윤 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347507</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347507</guid>
+            <pubDate>Mon, 03 Feb 2025 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347507">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250129075552_e14f94d4798947db36d30a05159ae62d.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128184613_ae735dfd965b90c138493e72127ad436.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347631">레드벨벳 콘서트 실황영화.. CGV 단독개봉</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347507">JTBC '협상의 기술' 3월 첫방송... 이제훈-김대명-성동일-장현성-오만석-안현호-차강윤</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250129075552_e14f94d4798947db36d30a05159ae62d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128184613_ae735dfd965b90c138493e72127ad436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세계테마기행] 태국 편, 여유와 낭만이 가득한 여행 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348103</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348103</guid>
+            <pubDate>Mon, 03 Feb 2025 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348103">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250202083555_083021d59f0d03fcf74f900b3b80ac7f.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348103">[세계테마기행] 태국 편, 여유와 낭만이 가득한 여행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250202083555_083021d59f0d03fcf74f900b3b80ac7f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김대호 "푹 쉬면 다행이야".. "이젠, 전복 타임!" (KBS연예 ─ TVs)]]></title>
@@ -652,40 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347537">'보물섬',이해영 합류.. 야망과 욕망의 허일도</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128191227_669c34c9910d193ebc9ec5885928083c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘그놈은 흑염룡’ 곽시양, 사내 인기 1위, 스윗 가이 ‘김신원’ (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347518</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347518</guid>
-            <pubDate>Thu, 30 Jan 2025 20:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347518">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128185718_df974fe4ee624c292211b59c78580711_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347518"> ‘그놈은 흑염룡’ 곽시양, 사내 인기 1위, 스윗 가이 ‘김신원’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128185718_df974fe4ee624c292211b59c78580711_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콩콩밥밥' 이광수 도경수의 구내식당,  이영지 김우빈 등장 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347674</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347674</guid>
-            <pubDate>Thu, 30 Jan 2025 09:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347674">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130173546_fabc10c5ca211897916d0ad282900d52.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347674">'콩콩밥밥' 이광수 도경수의 구내식당,  이영지 김우빈 등장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130173546_fabc10c5ca211897916d0ad282900d52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사장님 귀는..] 이순실, 김병현, 정지선 .. "올해도 보스들은 바쁩니다" (KBS연예 ─ KBS)]]></title>
