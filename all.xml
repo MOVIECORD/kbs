@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 23:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 00:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["게임은 시작되었다!"  이준석 다큐 '준스톤 이어원' 3월 극장개봉 (KBS연예 ─ 영화)]]></title>
+            <title><![CDATA[정치인 이준석 다큐 '준스톤 이어원' 3월 극장개봉 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348273</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348273</guid>
             <pubDate>Mon, 03 Feb 2025 23:01:47 GMT</pubDate>
@@ -20,7 +20,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348273">"게임은 시작되었다!"  이준석 다큐 '준스톤 이어원' 3월 극장개봉</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348273">정치인 이준석 다큐 '준스톤 이어원' 3월 극장개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204075934_2a3905b99babc997b067e9d440e37241.jpg" length="0" type="image/jpg"/>
         </item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131072400_900cd18f162182e6a544ca102f2426b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["감자 무시하지 마!" 힐링 코믹 로맨스 '감자연구소'  단체 포스터 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348275</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348275</guid>
+            <pubDate>Tue, 04 Feb 2025 00:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348275">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204092203_9cc8a48da5c0cccde9e19f78cc45e37e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348275">"감자 무시하지 마!" 힐링 코믹 로맨스 '감자연구소'  단체 포스터 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204092203_9cc8a48da5c0cccde9e19f78cc45e37e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘언더커버 하이스쿨’ 진기주,  열정 가득 선생님 (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347788</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=347788</guid>
@@ -671,28 +688,11 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201172057_4e2ae7b84b514d3e50f458c8876f5f1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘모텔 캘리포니아’  이세영♥나인우, 달달한 서울 데이트 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348023</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348023</guid>
-            <pubDate>Sat, 01 Feb 2025 09:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348023">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201171544_930382081ce5ad34ee48ec1584bfb6cd_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348023">‘모텔 캘리포니아’  이세영♥나인우, 달달한 서울 데이트 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201171544_930382081ce5ad34ee48ec1584bfb6cd_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지진희-이규형, 오피스 코미디 ‘킥킥킥킥’.. 5일 첫 방송 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348262</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348262</guid>
             <pubDate>Mon, 03 Feb 2025 23:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348262">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348262">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073925_5bf9f4ecf2519f15af281c5826c67b46.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348257</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348257</guid>
             <pubDate>Mon, 03 Feb 2025 23:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348257">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348257">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204073256_b2ea34d21249d2182b86a965cd633285.jpg" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348251</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348251</guid>
             <pubDate>Mon, 03 Feb 2025 14:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348251">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348251">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250203225738_b25d6346128186234e1bf0e2906761b4_1.png" alt="대체 텍스트">
@@ -746,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348246</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348246</guid>
             <pubDate>Mon, 03 Feb 2025 14:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348246">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348246">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250203225344_409c86733c28fef28b1f6c4516846923_1.png" alt="대체 텍스트">
@@ -764,7 +764,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348241</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348241</guid>
             <pubDate>Mon, 03 Feb 2025 14:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348241">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348241">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250203224553_1157e309160ce2b279884cff980261fb.png" alt="대체 텍스트">
@@ -782,7 +782,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348236</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348236</guid>
             <pubDate>Mon, 03 Feb 2025 14:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348236">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348236">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250203224221_2e71640cc0daa3189b39e0c0b128cc8d_1.png" alt="대체 텍스트">
@@ -800,7 +800,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348231</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=348231</guid>
             <pubDate>Mon, 03 Feb 2025 13:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348231">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348231">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250203214057_0f20b4321f746bc394df6c0986cbd320.png" alt="대체 텍스트">
