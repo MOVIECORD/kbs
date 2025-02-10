@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 05:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207085821_1be32cb4a6f2c3d54abd5bf3f5d1e971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마 ‘마녀’ 박진영, 노정의의 운명 구할까...  2월 15일 채널A 첫 방송 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349101</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349101</guid>
+            <pubDate>Mon, 10 Feb 2025 06:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349101">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250209092412_fef258f8c133afae67336ba43557e23d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349101">드라마 ‘마녀’ 박진영, 노정의의 운명 구할까...  2월 15일 채널A 첫 방송  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250209092412_fef258f8c133afae67336ba43557e23d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘CJ ENM 콘텐츠 대공세’ 초격차 콘텐츠 만들겠다.. ”65편의 드라마, 예능” (KBS연예 ─ TVs)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349234</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=349234</guid>
@@ -669,23 +686,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348585">드라마 ‘보물섬’, 사이다 복수극의 새로운 변주… 2월 21일 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250206085650_4f22d5c917b85cc0b636e71d94e3c8e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘그놈은 흑염룡’ 문가영·최현욱·임세미·곽시양, 4色 캐릭터 포스터 공개… 2월 17일 첫 방송 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348305</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348305</guid>
-            <pubDate>Wed, 05 Feb 2025 21:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348305">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204152656_2ccb106fd9841eef4b1bf14608dbc666.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348305"> ‘그놈은 흑염룡’ 문가영·최현욱·임세미·곽시양, 4色 캐릭터 포스터 공개… 2월 17일 첫 방송</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204152656_2ccb106fd9841eef4b1bf14608dbc666.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['동물은 훌륭하다'.. 위풍당당 유모차 강아지, 세 발로 캣워커 고양이 (KBS연예 ─ KBS)]]></title>
