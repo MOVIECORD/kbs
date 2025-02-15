@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 23:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 00:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미키 17'  배우들.. '미키의 연인,  미키의 동료, 얼음행성의 독재자' (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350013</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350013</guid>
+            <pubDate>Sat, 15 Feb 2025 00:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350013">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215081402_74a031786a069e63dc6e77ac1bf65b48.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350013">'미키 17'  배우들.. '미키의 연인,  미키의 동료, 얼음행성의 독재자'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215081402_74a031786a069e63dc6e77ac1bf65b48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['히트맨2' 히트다 히트...  1편 넘어선 240만 관객 (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350001</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211092334_d4115a4fba8a17956fbe28440b30d656_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["미키 또 미키"  봉준호 감독 [미키 17] (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349372</guid>
-            <pubDate>Tue, 11 Feb 2025 00:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349372">	<span class="img-box ww">
+            <title><![CDATA[[전참시] 이연희, 연극 ‘꽃의 비밀’ 연습 현장 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350037</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350037</guid>
+            <pubDate>Sat, 15 Feb 2025 00:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350037">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211085858_294ed57b6b4fe611b17a262112cc6ee8.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215084737_935603403221f7152d73d3a87987e971_1.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349372">"미키 또 미키"  봉준호 감독 [미키 17]</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350037">[전참시] 이연희, 연극 ‘꽃의 비밀’ 연습 현장 </a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211085858_294ed57b6b4fe611b17a262112cc6ee8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215084737_935603403221f7152d73d3a87987e971_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 ‘마녀’ 주지훈, 윤박, 현봉식 특별출연 (KBS연예 ─ TVs)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350027</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350027</guid>
+            <pubDate>Sat, 15 Feb 2025 00:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350027">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215083619_26de6d6789016fc368e43d20c08ae2b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350027">드라마 ‘마녀’ 주지훈, 윤박, 현봉식 특별출연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215083619_26de6d6789016fc368e43d20c08ae2b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘라이딩 인생’ 조민수x정진영, '로맨스' 라이딩 (KBS연예 ─ TVs)]]></title>
@@ -654,38 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211080719_0d06b1d62c2e9cf9b4f5ceb6ba492787.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[드라마 ‘마녀’ 박진영, 노정의의 운명 구할까...  2월 15일 채널A 첫 방송 (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349101</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349101</guid>
-            <pubDate>Mon, 10 Feb 2025 06:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349101">	<span class="img-box ww">
+            <title><![CDATA[‘킥킥킥킥’ 컴퍼니 대표 지진희, "실버버튼은 내 거야~" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350042</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350042</guid>
+            <pubDate>Sat, 15 Feb 2025 00:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350042">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250209092412_fef258f8c133afae67336ba43557e23d.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215085615_c76d9b56752a6d07c5a10159f5fc604e.png" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349101">드라마 ‘마녀’ 박진영, 노정의의 운명 구할까...  2월 15일 채널A 첫 방송  </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350042">‘킥킥킥킥’ 컴퍼니 대표 지진희, "실버버튼은 내 거야~"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250209092412_fef258f8c133afae67336ba43557e23d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘CJ ENM 콘텐츠 대공세’ 초격차 콘텐츠 만들겠다.. ”65편의 드라마, 예능” (KBS연예 ─ TVs)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349234</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349234</guid>
-            <pubDate>Mon, 10 Feb 2025 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349234">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210115112_99569dba79b9f6303551e04e70038ba4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349234">‘CJ ENM 콘텐츠 대공세’ 초격차 콘텐츠 만들겠다.. ”65편의 드라마, 예능”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210115112_99569dba79b9f6303551e04e70038ba4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215085615_c76d9b56752a6d07c5a10159f5fc604e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[뮤직뱅크] 블링원의 화사한 매력 '버블검' (KBS연예 ─ KBS)]]></title>
@@ -1026,24 +1044,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213234515_addb70b88ed44068bdecaab072974e10_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[킥킥킥킥] 전혜연 위험 빠뜨린 연쇄살인범에 맞서는 킥킥킥킥 어셈블! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349841</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349841</guid>
-            <pubDate>Thu, 13 Feb 2025 15:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349841">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213233442_17f691c4d2de2556711623e2a5422354_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349841">[킥킥킥킥] 전혜연 위험 빠뜨린 연쇄살인범에 맞서는 킥킥킥킥 어셈블!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213233442_17f691c4d2de2556711623e2a5422354_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
