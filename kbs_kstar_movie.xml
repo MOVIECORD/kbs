@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 05:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 06:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,7 +114,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350644</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=350644</guid>
             <pubDate>Thu, 20 Feb 2025 07:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350644">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350644">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220154522_09bbbb86eed2f1296b8433cf2141736b.jpg" alt="대체 텍스트">
@@ -199,7 +199,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350594</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=350594</guid>
             <pubDate>Thu, 20 Feb 2025 04:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350594">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350594">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220084240_4141245577e624f4f415d3d3b025397c_1.jpg" alt="대체 텍스트">
