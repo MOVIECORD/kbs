@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 14:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 15:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['톡파원 25시' 르완다 커피, ‘자동차의 왕’ 헨리 포드]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352332</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352332</guid>
+            <pubDate>Sun, 02 Mar 2025 15:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352332">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301214023_6adfb3fbccf23c9467209fc5de45f3d8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352332">'톡파원 25시' 르완다 커피, ‘자동차의 왕’ 헨리 포드</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301214023_6adfb3fbccf23c9467209fc5de45f3d8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘보물섬’ 박형식의 부활.. “성현은 누구지?”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352379</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350613">드라마 '이혼보험'.. "이혼에도 대비가 필요합니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220084947_21289a178e2000fb435afb41ffdde71c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[벌거벗은 세계사] "누가 킹인가" 도널드 트럼프와 일론 머스크]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351614</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351614</guid>
-            <pubDate>Tue, 25 Feb 2025 07:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351614">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225153331_96fa990ed16de3060c57c1c6bdd09ab5_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351614">[벌거벗은 세계사] "누가 킹인가" 도널드 트럼프와 일론 머스크</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225153331_96fa990ed16de3060c57c1c6bdd09ab5_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
