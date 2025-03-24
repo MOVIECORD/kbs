@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 23:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 00:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[건축탐구 집] 당신에겐 고물, 나에겐 보물 집]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355993</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355993</guid>
+            <pubDate>Mon, 24 Mar 2025 00:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355993">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250324081123_954422ce2cf7d1eff24582bd8710ae79.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355993"> [건축탐구 집] 당신에겐 고물, 나에겐 보물 집</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250324081123_954422ce2cf7d1eff24582bd8710ae79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 쑤저우 - 이탈리아 무솔리니 다크 투어 (톡파원 25시)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355777</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355258">‘언니네 산지직송2’..  임지연-이재욱 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319081914_a83e67a1225966ac12f04ac1c515c20e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트박서 김건호, 닥터 정경원, 그리고 '폭싹' 배우 문소리-이향란 (유 퀴즈 온더 블럭)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355314</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355314</guid>
-            <pubDate>Wed, 19 Mar 2025 02:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355314">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319111604_d438b01986d8307b52f9a7ebc6a93a77.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355314">비트박서 김건호, 닥터 정경원, 그리고 '폭싹' 배우 문소리-이향란 (유 퀴즈 온더 블럭)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319111604_d438b01986d8307b52f9a7ebc6a93a77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
