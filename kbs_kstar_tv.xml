@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 22:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 23:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보물섬' 허준호와 도지원의 만남...  도지원-차우민, 파워게임]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356473</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356473</guid>
+            <pubDate>Wed, 26 Mar 2025 23:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356473">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250327080029_d71f744e25577e4cac56e9fefa38caee_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356473">'보물섬' 허준호와 도지원의 만남...  도지원-차우민, 파워게임</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250327080029_d71f744e25577e4cac56e9fefa38caee_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['바니와 오빠들'..  김현진, 스타 조각가 조아랑]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355870</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355575">'천국보다 아름다운' 김혜자, 천국에서 방출 위기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321091536_f85ac9b1573ab0b8570915fbbdc84455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈, 산인의 주가를 방어하라... 김창완 특별출연 (협상의 기술)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355782</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355782</guid>
-            <pubDate>Sat, 22 Mar 2025 00:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355782">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322085000_3ef8750ba9eb887f0b9623ecff839de9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355782">이제훈, 산인의 주가를 방어하라... 김창완 특별출연 (협상의 기술)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322085000_3ef8750ba9eb887f0b9623ecff839de9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
