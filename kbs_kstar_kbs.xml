@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 14:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 15:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박2일] 문세윤-이준, 무소유->풀소유...주꾸미숯불구이 ‘비공개 입찰’ 성공]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357679</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357679</guid>
+            <pubDate>Sun, 06 Apr 2025 15:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357679">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250406233250_6d7150c91f21c39cd10eef3f3606340e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357679">[1박2일] 문세윤-이준, 무소유-&gt;풀소유...주꾸미숯불구이 ‘비공개 입찰’ 성공</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250406233250_6d7150c91f21c39cd10eef3f3606340e_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1박2일] 레크레이션과 과대 출신 문세윤의 위엄...제기차기 25개 한 번에 성공]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357675</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405193126_6024547ce6b63de0e2b7534b538d70de.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['KBS 뽈룬티어' 이찬원 특별 코너.. "신들린 적중률 비결은..."]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=357515</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357515</guid>
-            <pubDate>Sat, 05 Apr 2025 03:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357515">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405113447_300147cab60bcaa47390661b7a71fa73.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357515">'KBS 뽈룬티어' 이찬원 특별 코너.. "신들린 적중률 비결은..."</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%BD%88%EB%A3%AC%ED%8B%B0%EC%96%B4">뽈룬티어</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405113447_300147cab60bcaa47390661b7a71fa73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
